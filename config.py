@@ -6,7 +6,7 @@ import os
 # API配置
 # 需要向上海图书馆申请API密钥
 # 会首先检查环境变量中是否设置了API密钥，如果没有设置，则可以在第二个参数中自定义输入
-API_KEY = os.getenv('SHANGHAI_LIBRARY_API_KEY', "eca15f528602adb9480d04f286183d133f03f860")
+API_KEY = os.getenv('SHANGHAI_LIBRARY_API_KEY', "")
 
 # 输出配置
 OUTPUT_DIR = "api_results"
