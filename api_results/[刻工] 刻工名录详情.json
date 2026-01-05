@@ -1,0 +1,44 @@
+{
+  "success": true,
+  "data": {
+    "result": [
+      {
+        "chsAgent": "郑大化",
+        "uri": "http://data.library.sh.cn/entity/person/azxszcygtdotqxxh",
+        "roles": [
+          "刻工"
+        ],
+        "annoList": [
+          {
+            "chsTitle": "大般若波罗蜜多经四十卷",
+            "identifier": "522",
+            "role": "刻工",
+            "contributor": "玄奘(译)",
+            "huagong": "",
+            "classification": "明刻本",
+            "kegong": "李潮,陶梦祯,黄梦祯,端师禹,端师尧,潘沔,芮一鹗,洪以忠,陶文汜,吴文辉,王正源,许一科,刘文元,罗仕显,万志,王正渭,彭仕湘,陈应武,郑大化,李应章,尚炉",
+            "xiegong": "徐普",
+            "uri": "http://data.library.sh.cn/gj/resource/annotation/rqpoavtwly1gr6tb",
+            "hasBody": "大般若波罗蜜多经四十卷，唐玄奘译，明万历三十六年戊申径山寂照庵刊本。刻工：上元许一科、庐陵黄梦祯、上元李潮、溧水端师尧、端师禹、溧水陈应武、上元李应章、上元吴文辉、溧水芮一鹗、进贤洪以忠、上元彭仕湘、江宁罗仕显、溧水王正源、王正渭、句容潘沔、真州刘文元、上元陶梦祯、上元陶文汜、龙江卫郑大化、南昌万志、江宁尚炉，写工：长洲徐普。"
+          }
+        ]
+      }
+    ],
+    "pager": {
+      "startIndex": 0,
+      "pageSize": 10,
+      "sort": "",
+      "dir": "1",
+      "pageth": 1,
+      "pageths": [
+        1
+      ],
+      "pageCount": 1,
+      "rowCount": 1,
+      "took": 0
+    }
+  },
+  "errCode": null,
+  "errMsg": null,
+  "result": "0"
+}

@@ -1,0 +1,548 @@
+{
+  "result": "0",
+  "data": [
+    {
+      "notes": "",
+      "year": "1939",
+      "seresponse": "",
+      "ilabel": "yknfoebu0mz351hg.jpg",
+      "hor": "",
+      "title": "反正前后",
+      "uri": "http://data.library.sh.cn/gmwx/resource/instance/wld4frve01d4ub13",
+      "shelfs": "&MG377847",
+      "firstImgPath": "https://img.library.sh.cn/gmwx/firstimg/yknfoebu0mz351hg.jpg!500x500",
+      "terms": "",
+      "response": "郭沫若",
+      "provision": "上海 : 立社出版部, 民国廿八年三月[1939.3] : 中国图书什志公司经售 : 余一君发行",
+      "series": "当代作家创作文库",
+      "personInfos": "http://data.library.sh.cn/entity/person/rre963914j6whck4~著",
+      "ids": "",
+      "page": "167页",
+      "workUri": "http://data.library.sh.cn/gmwx/resource/work/8l4breok4fk6cvmu",
+      "seuri": "http://data.library.sh.cn/resource/work/aq8f1jrtjashvpyu",
+      "dimensions": "19×13cm",
+      "personInfoList": [
+        {
+          "personName": "郭沫若",
+          "personRole": "著",
+          "personUri": "http://data.library.sh.cn/entity/person/rre963914j6whck4"
+        }
+      ]
+    },
+    {
+      "notes": "",
+      "year": "1937",
+      "seresponse": "",
+      "ilabel": "xyma7qmv2dnthtce.jpg",
+      "hor": "",
+      "title": "闸北孤军记",
+      "uri": "http://data.library.sh.cn/gmwx/resource/instance/crvqf0qpbtmvqylu",
+      "shelfs": "GMWX1022854",
+      "firstImgPath": "https://img.library.sh.cn/gmwx/firstimg/xyma7qmv2dnthtce.jpg!500x500",
+      "terms": "八分",
+      "response": "郭沫若,徐迟等著;叶兆洲",
+      "provision": "[出版地不详] : 战时读物编译社, 民国二十六年十一月六日[1937.11.6] : 五洲书报社代售 : 孙敏刚发行",
+      "series": "",
+      "personInfos": "http://data.library.sh.cn/entity/person/5o2bkrxa8sg7ppyp~编;http://data.library.sh.cn/entity/person/czfyxlgappgy85gs~著;http://data.library.sh.cn/entity/person/rre963914j6whck4~著",
+      "ids": "",
+      "page": "59页",
+      "workUri": "http://data.library.sh.cn/gmwx/resource/work/le5xbp0x5i8n4spf",
+      "seuri": "",
+      "dimensions": "18×13cm",
+      "personInfoList": [
+        {
+          "personName": "叶兆洲",
+          "personRole": "编",
+          "personUri": "http://data.library.sh.cn/entity/person/5o2bkrxa8sg7ppyp"
+        },
+        {
+          "personName": "徐迟",
+          "personRole": "著",
+          "personUri": "http://data.library.sh.cn/entity/person/czfyxlgappgy85gs"
+        },
+        {
+          "personName": "郭沫若",
+          "personRole": "著",
+          "personUri": "http://data.library.sh.cn/entity/person/rre963914j6whck4"
+        }
+      ]
+    },
+    {
+      "notes": "1927年7月1日初版[版本与书目沿革附注]; 冠像[其他形态细节]; 四幕喜剧",
+      "year": "1929",
+      "seresponse": "",
+      "ilabel": "xfxclk4fkz14160t.jpg",
+      "hor": "",
+      "title": "法网",
+      "uri": "http://data.library.sh.cn/gmwx/resource/instance/25azul7atf3537x5",
+      "shelfs": "GMWX1024874",
+      "firstImgPath": "https://img.library.sh.cn/gmwx/firstimg/xfxclk4fkz14160t.jpg!500x500",
+      "terms": "四角五分",
+      "response": "(英)高尔斯华绥作;郭沫若",
+      "provision": "上海 : 联合书店, 1929.9.1",
+      "series": "世界名著选",
+      "personInfos": "http://data.library.sh.cn/entity/person/ezmpuaq8ixqagiq7~作;http://data.library.sh.cn/entity/person/ixmxndvlwhibge0s~作;http://data.library.sh.cn/entity/person/rre963914j6whck4~译",
+      "ids": "",
+      "page": "138页",
+      "workUri": "http://data.library.sh.cn/gmwx/resource/work/ef3h62vnwxtpeexv",
+      "seuri": "http://data.library.sh.cn/resource/work/neuk8n7fol62b1ao",
+      "dimensions": "20×14cm",
+      "personInfoList": [
+        {
+          "personName": "高尔斯华绥",
+          "personRole": "作",
+          "personUri": "http://data.library.sh.cn/entity/person/ezmpuaq8ixqagiq7"
+        },
+        {
+          "personName": "约翰·高尔斯华绥",
+          "personRole": "作",
+          "personUri": "http://data.library.sh.cn/entity/person/ixmxndvlwhibge0s"
+        },
+        {
+          "personName": "郭沫若",
+          "personRole": "译",
+          "personUri": "http://data.library.sh.cn/entity/person/rre963914j6whck4"
+        }
+      ]
+    },
+    {
+      "notes": "",
+      "year": "1938",
+      "seresponse": "",
+      "ilabel": "xa3e1setjvds6b2l.jpg",
+      "hor": "",
+      "title": "中国为甚么抗战",
+      "uri": "http://data.library.sh.cn/gmwx/resource/instance/jxbqtb3rgov15eev",
+      "shelfs": "GMWX1021688",
+      "firstImgPath": "https://img.library.sh.cn/gmwx/firstimg/xa3e1setjvds6b2l.jpg!500x500",
+      "terms": "一角五分",
+      "response": "郭沫若",
+      "provision": "上海 : 一心书店, 民国二十七年一月[1938.1]发行(民国二十六年十二月[1937.12]付印)",
+      "series": "抗战丛刊",
+      "personInfos": "http://data.library.sh.cn/entity/person/rre963914j6whck4~著",
+      "ids": "",
+      "page": "83页",
+      "workUri": "http://data.library.sh.cn/gmwx/resource/work/c0zn3ux306givunq",
+      "seuri": "http://data.library.sh.cn/resource/work/l320szylopp6c8vd",
+      "dimensions": "17×12cm",
+      "personInfoList": [
+        {
+          "personName": "郭沫若",
+          "personRole": "著",
+          "personUri": "http://data.library.sh.cn/entity/person/rre963914j6whck4"
+        }
+      ]
+    },
+    {
+      "notes": "",
+      "year": "1945",
+      "seresponse": "",
+      "ilabel": "wwjnultk66kt3625.jpg",
+      "hor": "",
+      "title": "甲申三百年祭 : 明末亡国史实",
+      "uri": "http://data.library.sh.cn/gmwx/resource/instance/4mxwubzm17cc26bg",
+      "shelfs": "&MG371198",
+      "firstImgPath": "https://img.library.sh.cn/gmwx/firstimg/wwjnultk66kt3625.jpg!500x500",
+      "terms": "40",
+      "response": "郭沫若",
+      "provision": "[上海] : 野草出版社, 民国卅四年十月[1945.10]",
+      "series": "",
+      "personInfos": "http://data.library.sh.cn/entity/person/rre963914j6whck4~著",
+      "ids": "",
+      "page": "34,10页",
+      "workUri": "http://data.library.sh.cn/gmwx/resource/work/tgkxkwa2eqoz61cg",
+      "seuri": "",
+      "dimensions": "19×13cm",
+      "personInfoList": [
+        {
+          "personName": "郭沫若",
+          "personRole": "著",
+          "personUri": "http://data.library.sh.cn/entity/person/rre963914j6whck4"
+        }
+      ]
+    },
+    {
+      "notes": "1928年6月10日初版，1929年3月10日再版[版本与书目沿革附注]",
+      "year": "1929",
+      "seresponse": "",
+      "ilabel": "w2zkk60wa4txd667.jpg",
+      "hor": "",
+      "title": "沫若诗集",
+      "uri": "http://data.library.sh.cn/gmwx/resource/instance/qts7bibb0aagofj7",
+      "shelfs": "GMWX1024872",
+      "firstImgPath": "https://img.library.sh.cn/gmwx/firstimg/w2zkk60wa4txd667.jpg!500x500",
+      "terms": "大洋八角",
+      "response": "郭沫若",
+      "provision": "上海 : 现代书局, 1929.12.10发行",
+      "series": "",
+      "personInfos": "http://data.library.sh.cn/entity/person/rre963914j6whck4~著",
+      "ids": "",
+      "page": "301页",
+      "workUri": "http://data.library.sh.cn/gmwx/resource/work/8vvpauutasw5is7t",
+      "seuri": "",
+      "dimensions": "20×14cm",
+      "personInfoList": [
+        {
+          "personName": "郭沫若",
+          "personRole": "著",
+          "personUri": "http://data.library.sh.cn/entity/person/rre963914j6whck4"
+        }
+      ]
+    },
+    {
+      "notes": "书前有译者序，作于一九四七年二月",
+      "year": "1947",
+      "seresponse": "",
+      "ilabel": "v0x1q3hkl0fk3zcv.jpg",
+      "hor": "",
+      "title": "政治经济学批判",
+      "uri": "http://data.library.sh.cn/gmwx/resource/instance/hl1t0rjl2dhu5auy",
+      "shelfs": "GMWX1020049",
+      "firstImgPath": "https://img.library.sh.cn/gmwx/firstimg/v0x1q3hkl0fk3zcv.jpg!500x500",
+      "terms": "",
+      "response": "(德)卡尔·马克思著;郭沫若",
+      "provision": "上海 : 群益出版社, [民国]三十六年三月[1947.3]刊行",
+      "series": "沫若译文集",
+      "personInfos": "http://data.library.sh.cn/entity/person/rre963914j6whck4~译;http://data.library.sh.cn/entity/person/xuymydn3p28s7y3f~著",
+      "ids": "",
+      "page": "294页",
+      "workUri": "http://data.library.sh.cn/gmwx/resource/work/p3uu1e5zqujb3023",
+      "seuri": "http://data.library.sh.cn/resource/work/1f0n4orxdnmm8map",
+      "dimensions": "19×13cm",
+      "personInfoList": [
+        {
+          "personName": "郭沫若",
+          "personRole": "译",
+          "personUri": "http://data.library.sh.cn/entity/person/rre963914j6whck4"
+        },
+        {
+          "personName": "马克思",
+          "personRole": "著",
+          "personUri": "http://data.library.sh.cn/entity/person/xuymydn3p28s7y3f"
+        }
+      ]
+    },
+    {
+      "notes": "",
+      "year": "1925",
+      "seresponse": "",
+      "ilabel": "uvpglbrzp2vnril1.jpg",
+      "hor": "",
+      "title": "新时代",
+      "uri": "http://data.library.sh.cn/gmwx/resource/instance/jnkmyacyb8tr34sp",
+      "shelfs": "&MG213308(下)",
+      "firstImgPath": "https://img.library.sh.cn/gmwx/firstimg/uvpglbrzp2vnril1.jpg!500x500",
+      "terms": "大洋壹元贰角",
+      "response": "(俄)Turgenieff原著;郭沫若译",
+      "provision": "上海 : 商务印书馆, 民国十四年六月[1925.6]印行",
+      "series": "",
+      "personInfos": "http://data.library.sh.cn/entity/person/i4jci5fbjkliczgl~原著;http://data.library.sh.cn/entity/person/oi38gdi1o2xca814~原著;http://data.library.sh.cn/entity/person/rre963914j6whck4~译述",
+      "ids": "",
+      "page": "上下册(560页)",
+      "workUri": "http://data.library.sh.cn/gmwx/resource/work/b4dwk647xi238dx6",
+      "seuri": "",
+      "dimensions": "19×13cm",
+      "personInfoList": [
+        {
+          "personName": "Turgenieff",
+          "personRole": "原著",
+          "personUri": "http://data.library.sh.cn/entity/person/i4jci5fbjkliczgl"
+        },
+        {
+          "personName": "屠格涅夫",
+          "personRole": "原著",
+          "personUri": "http://data.library.sh.cn/entity/person/oi38gdi1o2xca814"
+        },
+        {
+          "personName": "郭沫若",
+          "personRole": "译述",
+          "personUri": "http://data.library.sh.cn/entity/person/rre963914j6whck4"
+        }
+      ]
+    },
+    {
+      "notes": "",
+      "year": "1938",
+      "seresponse": "",
+      "ilabel": "up0cdx0srdbg0phm.jpg",
+      "hor": "",
+      "title": "抗战诗选",
+      "uri": "http://data.library.sh.cn/gmwx/resource/instance/luw868ic2xh5cp5f",
+      "shelfs": "&MG353599",
+      "firstImgPath": "https://img.library.sh.cn/gmwx/firstimg/up0cdx0srdbg0phm.jpg!500x500",
+      "terms": "国币三角",
+      "response": "金重子编;郭沫若等执",
+      "provision": "汉口 : 战时文化出版社, 民国二十七年二月[1938.2]发行 : 扫荡报工务课印刷",
+      "series": "战时文化丛书",
+      "personInfos": "http://data.library.sh.cn/entity/person/1f3qo61md856wglh~执笔;http://data.library.sh.cn/entity/person/3hqp9b1biv2wq5iw~执笔;http://data.library.sh.cn/entity/person/3rjrryk4lrhkj84o~执笔;http://data.library.sh.cn/entity/person/4mzgh43go8j167ss~执笔;http://data.library.sh.cn/entity/person/4n0psqzhwhgfordx~执笔;http://data.library.sh.cn/entity/person/4tvoi220r620ghgz~执笔;http://data.library.sh.cn/entity/person/5jrltkpyx6e425y8~执笔;http://data.library.sh.cn/entity/person/5xgk9xm8mggirkyz~执笔;http://data.library.sh.cn/entity/person/64bjzew6linfdox4~执笔;http://data.library.sh.cn/entity/person/6pnc6xdap3cfkcup~执笔;http://data.library.sh.cn/entity/person/7cnd2wr2scvgsbu8~执笔;http://data.library.sh.cn/entity/person/7di2bv0rddou3z26~执笔;http://data.library.sh.cn/entity/person/7u5k03278lgyjrlc~执笔;http://data.library.sh.cn/entity/person/b3gogq0656usjdqx~执笔;http://data.library.sh.cn/entity/person/bvbxom1v6dcz8wzw~执笔;http://data.library.sh.cn/entity/person/cjwty3hjvbtkbauo~执笔;http://data.library.sh.cn/entity/person/eaw3o5seprypy4tl~执笔;http://data.library.sh.cn/entity/person/ekg6lkszhdzzj99f~执笔;http://data.library.sh.cn/entity/person/h7w6z7hyz0fh0o3y~执笔;http://data.library.sh.cn/entity/person/huyzsh1xq6n22y24~执笔;http://data.library.sh.cn/entity/person/j9n7seyjy2hcbue4~执笔;http://data.library.sh.cn/entity/person/kymzylkvjaapmivd~执笔;http://data.library.sh.cn/entity/person/l150yjjdqlj3nour~执笔;http://data.library.sh.cn/entity/person/nxpjrpm3gtp4th60~执笔;http://data.library.sh.cn/entity/person/nzz3qlmjh3rgpvab~执笔;http://data.library.sh.cn/entity/person/ogtwj1sag74mqq95~执笔;http://data.library.sh.cn/entity/person/oqj4hcu4e3w7x28t~执笔;http://data.library.sh.cn/entity/person/ouk7n2bztpvhjpgk~执笔;http://data.library.sh.cn/entity/person/p1j6lxa5abpaa0xt~执笔;http://data.library.sh.cn/entity/person/q8vvkp8qlm5eor5o~执笔;http://data.library.sh.cn/entity/person/rre963914j6whck4~执笔;http://data.library.sh.cn/entity/person/sc3hv7suyijb4w55~执笔;http://data.library.sh.cn/entity/person/tiaut19pxik9gec6~执笔;http://data.library.sh.cn/entity/person/ttquee1vvndgxu03~执笔;http://data.library.sh.cn/entity/person/ul0fcdie3wl5l7m4~执笔;http://data.library.sh.cn/entity/person/vpkxbxn81xp5ltbz~执笔;http://data.library.sh.cn/entity/person/vqtb1g7tion7i5xz~执笔;http://data.library.sh.cn/entity/person/w76re7dbhapnrsq1~执笔;http://data.library.sh.cn/entity/person/wbu3kwosy5jso5kh~编;http://data.library.sh.cn/entity/person/wuzpqbpa6d4j4qd5~执笔;http://data.library.sh.cn/entity/person/wwscksyhpfd06nt2~执笔;http://data.library.sh.cn/entity/person/wxhoovitmi1deatl~执笔;http://data.library.sh.cn/entity/person/xu5xlkghedbo4lo2~执笔",
+      "ids": "",
+      "page": "110页",
+      "workUri": "http://data.library.sh.cn/gmwx/resource/work/kc8j1hn2xgvsenfa",
+      "seuri": "http://data.library.sh.cn/resource/work/wky0shav2qcub8se",
+      "dimensions": "18×13cm",
+      "personInfoList": [
+        {
+          "personName": "彭毓斌",
+          "personRole": "执笔",
+          "personUri": "http://data.library.sh.cn/entity/person/1f3qo61md856wglh"
+        },
+        {
+          "personName": "安娥",
+          "personRole": "执笔",
+          "personUri": "http://data.library.sh.cn/entity/person/3hqp9b1biv2wq5iw"
+        },
+        {
+          "personName": "靳以",
+          "personRole": "执笔",
+          "personUri": "http://data.library.sh.cn/entity/person/3rjrryk4lrhkj84o"
+        },
+        {
+          "personName": "罗家伦",
+          "personRole": "执笔",
+          "personUri": "http://data.library.sh.cn/entity/person/4mzgh43go8j167ss"
+        },
+        {
+          "personName": "曹弃疾",
+          "personRole": "执笔",
+          "personUri": "http://data.library.sh.cn/entity/person/4n0psqzhwhgfordx"
+        },
+        {
+          "personName": "程晓华",
+          "personRole": "执笔",
+          "personUri": "http://data.library.sh.cn/entity/person/4tvoi220r620ghgz"
+        },
+        {
+          "personName": "杨骚",
+          "personRole": "执笔",
+          "personUri": "http://data.library.sh.cn/entity/person/5jrltkpyx6e425y8"
+        },
+        {
+          "personName": "冯玉祥",
+          "personRole": "执笔",
+          "personUri": "http://data.library.sh.cn/entity/person/5xgk9xm8mggirkyz"
+        },
+        {
+          "personName": "易君左",
+          "personRole": "执笔",
+          "personUri": "http://data.library.sh.cn/entity/person/64bjzew6linfdox4"
+        },
+        {
+          "personName": "巴金",
+          "personRole": "执笔",
+          "personUri": "http://data.library.sh.cn/entity/person/6pnc6xdap3cfkcup"
+        },
+        {
+          "personName": "胡怀琛",
+          "personRole": "执笔",
+          "personUri": "http://data.library.sh.cn/entity/person/7cnd2wr2scvgsbu8"
+        },
+        {
+          "personName": "傅东华",
+          "personRole": "执笔",
+          "personUri": "http://data.library.sh.cn/entity/person/7di2bv0rddou3z26"
+        },
+        {
+          "personName": "林庚白",
+          "personRole": "执笔",
+          "personUri": "http://data.library.sh.cn/entity/person/7u5k03278lgyjrlc"
+        },
+        {
+          "personName": "杜贯",
+          "personRole": "执笔",
+          "personUri": "http://data.library.sh.cn/entity/person/b3gogq0656usjdqx"
+        },
+        {
+          "personName": "王统照",
+          "personRole": "执笔",
+          "personUri": "http://data.library.sh.cn/entity/person/bvbxom1v6dcz8wzw"
+        },
+        {
+          "personName": "何香凝",
+          "personRole": "执笔",
+          "personUri": "http://data.library.sh.cn/entity/person/cjwty3hjvbtkbauo"
+        },
+        {
+          "personName": "柳亚子",
+          "personRole": "执笔",
+          "personUri": "http://data.library.sh.cn/entity/person/eaw3o5seprypy4tl"
+        },
+        {
+          "personName": "穆木天",
+          "personRole": "执笔",
+          "personUri": "http://data.library.sh.cn/entity/person/ekg6lkszhdzzj99f"
+        },
+        {
+          "personName": "陈慕平",
+          "personRole": "执笔",
+          "personUri": "http://data.library.sh.cn/entity/person/h7w6z7hyz0fh0o3y"
+        },
+        {
+          "personName": "卢冀野",
+          "personRole": "执笔",
+          "personUri": "http://data.library.sh.cn/entity/person/huyzsh1xq6n22y24"
+        },
+        {
+          "personName": "蔡若虹",
+          "personRole": "执笔",
+          "personUri": "http://data.library.sh.cn/entity/person/j9n7seyjy2hcbue4"
+        },
+        {
+          "personName": "张一麟",
+          "personRole": "执笔",
+          "personUri": "http://data.library.sh.cn/entity/person/kymzylkvjaapmivd"
+        },
+        {
+          "personName": "李金发",
+          "personRole": "执笔",
+          "personUri": "http://data.library.sh.cn/entity/person/l150yjjdqlj3nour"
+        },
+        {
+          "personName": "罗卓英",
+          "personRole": "执笔",
+          "personUri": "http://data.library.sh.cn/entity/person/nxpjrpm3gtp4th60"
+        },
+        {
+          "personName": "田汉",
+          "personRole": "执笔",
+          "personUri": "http://data.library.sh.cn/entity/person/nzz3qlmjh3rgpvab"
+        },
+        {
+          "personName": "胡风",
+          "personRole": "执笔",
+          "personUri": "http://data.library.sh.cn/entity/person/ogtwj1sag74mqq95"
+        },
+        {
+          "personName": "臧克家",
+          "personRole": "执笔",
+          "personUri": "http://data.library.sh.cn/entity/person/oqj4hcu4e3w7x28t"
+        },
+        {
+          "personName": "任启珊",
+          "personRole": "执笔",
+          "personUri": "http://data.library.sh.cn/entity/person/ouk7n2bztpvhjpgk"
+        },
+        {
+          "personName": "孙俍工",
+          "personRole": "执笔",
+          "personUri": "http://data.library.sh.cn/entity/person/p1j6lxa5abpaa0xt"
+        },
+        {
+          "personName": "周又赉",
+          "personRole": "执笔",
+          "personUri": "http://data.library.sh.cn/entity/person/q8vvkp8qlm5eor5o"
+        },
+        {
+          "personName": "郭沫若",
+          "personRole": "执笔",
+          "personUri": "http://data.library.sh.cn/entity/person/rre963914j6whck4"
+        },
+        {
+          "personName": "胡庶华",
+          "personRole": "执笔",
+          "personUri": "http://data.library.sh.cn/entity/person/sc3hv7suyijb4w55"
+        },
+        {
+          "personName": "老舍",
+          "personRole": "执笔",
+          "personUri": "http://data.library.sh.cn/entity/person/tiaut19pxik9gec6"
+        },
+        {
+          "personName": "西华",
+          "personRole": "执笔",
+          "personUri": "http://data.library.sh.cn/entity/person/ttquee1vvndgxu03"
+        },
+        {
+          "personName": "艾芜",
+          "personRole": "执笔",
+          "personUri": "http://data.library.sh.cn/entity/person/ul0fcdie3wl5l7m4"
+        },
+        {
+          "personName": "马君武",
+          "personRole": "执笔",
+          "personUri": "http://data.library.sh.cn/entity/person/vpkxbxn81xp5ltbz"
+        },
+        {
+          "personName": "任钧",
+          "personRole": "执笔",
+          "personUri": "http://data.library.sh.cn/entity/person/vqtb1g7tion7i5xz"
+        },
+        {
+          "personName": "陈左枝",
+          "personRole": "执笔",
+          "personUri": "http://data.library.sh.cn/entity/person/w76re7dbhapnrsq1"
+        },
+        {
+          "personName": "金重子",
+          "personRole": "编",
+          "personUri": "http://data.library.sh.cn/entity/person/wbu3kwosy5jso5kh"
+        },
+        {
+          "personName": "胡适",
+          "personRole": "执笔",
+          "personUri": "http://data.library.sh.cn/entity/person/wuzpqbpa6d4j4qd5"
+        },
+        {
+          "personName": "钟期森",
+          "personRole": "执笔",
+          "personUri": "http://data.library.sh.cn/entity/person/wwscksyhpfd06nt2"
+        },
+        {
+          "personName": "亚丁",
+          "personRole": "执笔",
+          "personUri": "http://data.library.sh.cn/entity/person/wxhoovitmi1deatl"
+        },
+        {
+          "personName": "唐学咏",
+          "personRole": "执笔",
+          "personUri": "http://data.library.sh.cn/entity/person/xu5xlkghedbo4lo2"
+        }
+      ]
+    },
+    {
+      "notes": "一九三○年十月初版[版本与书目沿革附注]",
+      "year": "1931",
+      "seresponse": "",
+      "ilabel": "ucxijrv4u2v3vb8w.jpg",
+      "hor": "",
+      "title": "漂流三部曲",
+      "uri": "http://data.library.sh.cn/gmwx/resource/instance/114vi2qc0xkq373g",
+      "shelfs": "&MG282700",
+      "firstImgPath": "https://img.library.sh.cn/gmwx/firstimg/ucxijrv4u2v3vb8w.jpg!500x500",
+      "terms": "大洋四角半",
+      "response": "郭沫若",
+      "provision": "上海 : 光华书局, 1931.3印行",
+      "series": "沫若小说戏曲集",
+      "personInfos": "http://data.library.sh.cn/entity/person/rre963914j6whck4~著",
+      "ids": "",
+      "page": "21,64,97页",
+      "workUri": "http://data.library.sh.cn/gmwx/resource/work/ukullr85nw1wv8j1",
+      "seuri": "http://data.library.sh.cn/resource/work/2iia72dd56yz15im",
+      "dimensions": "20×14cm",
+      "personInfoList": [
+        {
+          "personName": "郭沫若",
+          "personRole": "著",
+          "personUri": "http://data.library.sh.cn/entity/person/rre963914j6whck4"
+        }
+      ]
+    }
+  ],
+  "pager": {
+    "iflimit": "",
+    "startIndex": 0,
+    "pageSize": 10,
+    "sort": "insertTime",
+    "dir": "desc",
+    "pageth": 1,
+    "pageths": [
+      1,
+      2,
+      3,
+      4,
+      5,
+      6
+    ],
+    "pageCount": 6,
+    "rowCount": 59
+  }
+}

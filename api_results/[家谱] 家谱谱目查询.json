@@ -1,0 +1,424 @@
+{
+  "@graph": [
+    {
+      "@id": "http://data.library.sh.cn/entity/person/uyr3lm4jxlpnnx30",
+      "relatedWork": "http://data.library.sh.cn/jp/resource/work/74zhob3x2ph144es"
+    },
+    {
+      "@id": "http://data.library.sh.cn/jp/entity/person/3mwr37cne1evkl72",
+      "relatedWork": "http://data.library.sh.cn/jp/resource/work/kqlipgffst2kqjcb"
+    },
+    {
+      "@id": "http://data.library.sh.cn/jp/entity/person/azmmh61poqhefmgu",
+      "relatedWork": "http://data.library.sh.cn/jp/resource/work/74zhob3x2ph144es"
+    },
+    {
+      "@id": "http://data.library.sh.cn/jp/entity/person/bfzdd1woec6h5afw",
+      "relatedWork": "http://data.library.sh.cn/jp/resource/work/kqlipgffst2kqjcb"
+    },
+    {
+      "@id": "http://data.library.sh.cn/jp/entity/person/ey43sj9jb75edze1",
+      "relatedWork": "http://data.library.sh.cn/jp/resource/work/zklmd94df6n98io9"
+    },
+    {
+      "@id": "http://data.library.sh.cn/jp/entity/person/nhluxeh2migw23kf",
+      "relatedWork": "http://data.library.sh.cn/jp/resource/work/zklmd94df6n98io9"
+    },
+    {
+      "@id": "http://data.library.sh.cn/jp/entity/person/u61advsxnd7ap2pg",
+      "relatedWork": "http://data.library.sh.cn/jp/resource/work/bumo82o127zuwoj1"
+    },
+    {
+      "@id": "http://data.library.sh.cn/jp/resource/instance/dsur7nkm2kqlprsl",
+      "@type": "http://bibframe.org/vocab/Instance",
+      "category": "http://data.library.sh.cn/vocab/binding/xian-zhuang",
+      "edition": "http://data.library.sh.cn/vocab/edition/chao-ben",
+      "extent": "1冊",
+      "instanceOf": "http://data.library.sh.cn/jp/resource/work/kqlipgffst2kqjcb",
+      "note": "_:b2",
+      "temporal": "http://data.library.sh.cn/authority/temporal/7sl8ulx4ouipdbg2",
+      "temporal:Value": "民國"
+    },
+    {
+      "@id": "http://data.library.sh.cn/jp/resource/instance/jddzx3ggjyvcnw3f",
+      "@type": "http://bibframe.org/vocab/Instance",
+      "category": "http://data.library.sh.cn/vocab/binding/u-pan",
+      "edition": "http://data.library.sh.cn/vocab/edition/pai-yin-ben",
+      "extent": "2册",
+      "instanceOf": "http://data.library.sh.cn/jp/resource/work/bumo82o127zuwoj1",
+      "note": "_:b0",
+      "temporal": "http://data.library.sh.cn/authority/temporal/j6mijtwmcfzq3t8b",
+      "temporal:Value": [
+        2022,
+        "2022"
+      ]
+    },
+    {
+      "@id": "http://data.library.sh.cn/jp/resource/instance/n7p2y5ggx5sbfjbn",
+      "@type": "http://bibframe.org/vocab/Instance",
+      "category": "http://data.library.sh.cn/vocab/binding/u-pan",
+      "edition": "http://data.library.sh.cn/vocab/edition/pai-yin-ben",
+      "extent": "1册",
+      "instanceOf": "http://data.library.sh.cn/jp/resource/work/zklmd94df6n98io9",
+      "note": "_:b1",
+      "temporal": "http://data.library.sh.cn/authority/temporal/j6mijtwmcfzq3t8b",
+      "temporal:Value": [
+        2017,
+        "2017（2017）"
+      ]
+    },
+    {
+      "@id": "http://data.library.sh.cn/jp/resource/instance/rcp8zsrduu3txekv",
+      "@type": "http://bibframe.org/vocab/Instance",
+      "category": "http://data.library.sh.cn/vocab/binding/xian-zhuang",
+      "edition": "http://data.library.sh.cn/vocab/edition/qian-yin-ben",
+      "extent": "二册",
+      "instanceOf": "http://data.library.sh.cn/jp/resource/work/74zhob3x2ph144es",
+      "temporal": "http://data.library.sh.cn/authority/temporal/j6mijtwmcfzq3t8b",
+      "temporal:Value": [
+        "1992年",
+        1992
+      ]
+    },
+    {
+      "@id": "http://data.library.sh.cn/jp/resource/instance/z2cvyslx6msgjdxn",
+      "@type": "http://bibframe.org/vocab/Instance",
+      "edition": "http://data.library.sh.cn/vocab/edition/ying-yin-ben",
+      "extent": "2冊",
+      "instanceOf": "http://data.library.sh.cn/jp/resource/work/6x45l5lgw7vk8qvq",
+      "place": "http://data.library.sh.cn/entity/place/ahbl9ik9gtljvokz",
+      "temporal": "http://data.library.sh.cn/authority/temporal/7ase6ple2nud826q",
+      "temporal:Value": [
+        1911,
+        "據宣統3年(1911)木活字本"
+      ]
+    },
+    {
+      "@id": "http://data.library.sh.cn/jp/resource/instance/zkbwur5pf7p9nyuj",
+      "@type": "http://bibframe.org/vocab/Instance",
+      "category": "http://data.library.sh.cn/vocab/binding/xian-zhuang",
+      "edition": "http://data.library.sh.cn/vocab/edition/qian-yin-ben",
+      "extent": "一册",
+      "instanceOf": "http://data.library.sh.cn/jp/resource/work/qe2sno7v6zk5mrrp",
+      "engravedBy": "南山祖祠",
+      "temporal": "http://data.library.sh.cn/authority/temporal/7sl8ulx4ouipdbg2",
+      "temporal:Value": [
+        "1935年",
+        1935
+      ]
+    },
+    {
+      "@id": "http://data.library.sh.cn/jp/resource/item/1x2y8m7z1mx3lsxj",
+      "@type": "http://bibframe.org/vocab/Item",
+      "heldBy": "http://data.library.sh.cn/entity/organization/uoqz22aqnemd3idn",
+      "itemOf": "http://data.library.sh.cn/jp/resource/instance/zkbwur5pf7p9nyuj"
+    },
+    {
+      "@id": "http://data.library.sh.cn/jp/resource/item/44t0d721lkgt46ku",
+      "@type": "http://bibframe.org/vocab/Item",
+      "heldBy": "http://data.library.sh.cn/entity/organization/brvqlrg8y55v1b5q",
+      "itemOf": "http://data.library.sh.cn/jp/resource/instance/z2cvyslx6msgjdxn",
+      "shelfMark": "XP5034-5035"
+    },
+    {
+      "@id": "http://data.library.sh.cn/jp/resource/item/aoxskmkb24ucziar",
+      "@type": "http://bibframe.org/vocab/Item",
+      "heldBy": "http://data.library.sh.cn/entity/organization/brvqlrg8y55v1b5q",
+      "itemOf": "http://data.library.sh.cn/jp/resource/instance/dsur7nkm2kqlprsl",
+      "shelfMark": "JP897",
+      "DOI": "STJP011281",
+      "accessLevel": "0",
+      "description": "STJP011281：存中卷之上、中、下",
+      "hasFullImg": "true"
+    },
+    {
+      "@id": "http://data.library.sh.cn/jp/resource/item/ftvqvkmsfscwfmr8",
+      "@type": "http://bibframe.org/vocab/Item",
+      "carrierCategory": "http://data.library.sh.cn/vocab/carrierCategory/sao-miao-ying-xiang",
+      "extent": "1",
+      "heldBy": "http://data.library.sh.cn/entity/organization/du42st3n8w3u2jse",
+      "itemOf": "http://data.library.sh.cn/jp/resource/instance/n7p2y5ggx5sbfjbn",
+      "shelfMark": "SG3015001900"
+    },
+    {
+      "@id": "http://data.library.sh.cn/jp/resource/item/ic2tyq5ul22e1w4i",
+      "@type": "http://bibframe.org/vocab/Item",
+      "carrierCategory": "http://data.library.sh.cn/vocab/carrierCategory/sao-miao-ying-xiang",
+      "extent": "2",
+      "heldBy": "http://data.library.sh.cn/entity/organization/du42st3n8w3u2jse",
+      "itemOf": "http://data.library.sh.cn/jp/resource/instance/jddzx3ggjyvcnw3f",
+      "shelfMark": "SG3014994797"
+    },
+    {
+      "@id": "http://data.library.sh.cn/jp/resource/item/oipxeixuo4kurh6x",
+      "@type": "http://bibframe.org/vocab/Item",
+      "heldBy": "http://data.library.sh.cn/entity/organization/innj6xbfpmyjtenh",
+      "itemOf": "http://data.library.sh.cn/jp/resource/instance/zkbwur5pf7p9nyuj"
+    },
+    {
+      "@id": "http://data.library.sh.cn/jp/resource/item/p7i5nqhhlpf41ue5",
+      "@type": "http://bibframe.org/vocab/Item",
+      "heldBy": "http://data.library.sh.cn/entity/organization/go875ymf953nhxr2",
+      "itemOf": "http://data.library.sh.cn/jp/resource/instance/rcp8zsrduu3txekv",
+      "description": "信宜图"
+    },
+    {
+      "@id": "http://data.library.sh.cn/jp/resource/item/sw4mycu3okjzo8sp",
+      "@type": "http://bibframe.org/vocab/Item",
+      "heldBy": "http://data.library.sh.cn/entity/organization/1fe1lavusp95tlni",
+      "itemOf": "http://data.library.sh.cn/jp/resource/instance/zkbwur5pf7p9nyuj"
+    },
+    {
+      "@id": "http://data.library.sh.cn/jp/resource/item/t7m3zkbjrf72fyu8",
+      "@type": "http://bibframe.org/vocab/Item",
+      "heldBy": "http://data.library.sh.cn/entity/organization/5qzx8b14hn3zmu8u",
+      "itemOf": "http://data.library.sh.cn/jp/resource/instance/zkbwur5pf7p9nyuj"
+    },
+    {
+      "@id": "http://data.library.sh.cn/jp/resource/work/6x45l5lgw7vk8qvq",
+      "@type": "http://bibframe.org/vocab/Work",
+      "creator": "http://data.library.sh.cn/jp/entity/person/6kwlcnmrnt1yxac3",
+      "http://bibframe.org/vocab/edition": "影印本",
+      "subject": "http://data.library.sh.cn/authority/familyname/rvmgzfsec8os93mv",
+      "http://bibframe.org/vocab/title": {
+        "@id": "http://data.library.sh.cn/jp/authority/title/gi0iaitrlr78sqjk"
+      },
+      "title": [
+        {
+          "@language": "chs",
+          "@value": "绩溪上川明经胡氏宗谱三卷首一卷(安徽绩溪)"
+        },
+        {
+          "@language": "cht",
+          "@value": "績溪上川明經胡氏宗譜三卷首一卷(安徽績溪)"
+        }
+      ],
+      "description": "始祖昌翼，據稱系唐昭宗子，鞠養於婺源考川胡氏，遂姓胡。登後唐同光三年明經第，故稱明經胡氏。其子延政遷績溪胡里。上川始遷一世祖七二，昌翼二十世孫，南宋人。",
+      "place": "http://data.library.sh.cn/entity/place/ahbl9ik9gtljvokz"
+    },
+    {
+      "@id": "http://data.library.sh.cn/jp/resource/work/74zhob3x2ph144es",
+      "@type": "http://bibframe.org/vocab/Work",
+      "creator": "http://data.library.sh.cn/jp/entity/person/w4jdxh9dx6g5lkzu",
+      "identifiedBy": "4160300",
+      "subject": "http://data.library.sh.cn/authority/familyname/wgzu1bpase5ukl24",
+      "http://bibframe.org/vocab/title": [
+        {
+          "@id": "http://data.library.sh.cn/jp/authority/title/im7hb4kag1gfeal2"
+        },
+        {
+          "@id": "http://data.library.sh.cn/jp/authority/title/vhleg1xtvokrh6kg"
+        },
+        {
+          "@id": "http://data.library.sh.cn/jp/authority/title/7e182vnuobcbyo3p"
+        }
+      ],
+      "title": [
+        {
+          "@language": "cht",
+          "@value": "信宜北界上川曾氏族譜四卷（廣東省茂名市信宜市）"
+        },
+        {
+          "@language": "chs",
+          "@value": "信宜北界上川曾氏族谱四卷（广东省茂名市信宜市）"
+        }
+      ],
+      "description": "始祖諫，字方華，號熹学，宋代人。始迁祖球，清代人。书名據书名页题。",
+      "place": "http://data.library.sh.cn/entity/place/g6z651dfqrwz2w5u"
+    },
+    {
+      "@id": "http://data.library.sh.cn/jp/resource/work/bumo82o127zuwoj1",
+      "@type": "http://bibframe.org/vocab/Work",
+      "creator": "http://data.library.sh.cn/jp/entity/person/dajl3xtb8dvepfsn",
+      "identifiedBy": "78289",
+      "subject": [
+        "http://data.library.sh.cn/authority/familyname/i1lhdu8orkj8tock",
+        "http://data.library.sh.cn/jp/authority/titleofancestraltemple/fa6kxrdfgakhw9v1"
+      ],
+      "http://bibframe.org/vocab/title": {
+        "@id": "http://data.library.sh.cn/jp/authority/title/33ddmkmwlaaej1lk"
+      },
+      "http://purl.org/dc/elements/1.1/creator": [
+        {
+          "@language": "chs",
+          "@value": "黄超荣"
+        },
+        {
+          "@language": "cht",
+          "@value": "黃超榮"
+        }
+      ],
+      "http://purl.org/dc/elements/1.1/subject": "黄",
+      "title": [
+        {
+          "@language": "chs",
+          "@value": "上川黄氏族谱（广东省/深圳市/宝安区）"
+        },
+        {
+          "@language": "cht",
+          "@value": "上川黃氏族譜（廣東省/深圳市/寶安區）"
+        }
+      ],
+      "description": "始迁祖黄观组（讳锦，字聿成，又名绍基），明朝初期，从广东省深圳市福田区梅林街道上梅林村迁到南头上川（今广东省深圳市宝安区新安街道上合）。  上卷序、前言、谱例、先祖篇、源流篇、先祖世系篇、人物篇、孝德篇、上川篇、上川文化、附录，卷下世系篇。",
+      "place": "http://data.library.sh.cn/entity/place/x3on1qxfpnmzesr9",
+      "placeValue": "广东省/深圳市/宝安区"
+    },
+    {
+      "@id": "http://data.library.sh.cn/jp/resource/work/kqlipgffst2kqjcb",
+      "@type": "http://bibframe.org/vocab/Work",
+      "creator": "http://data.library.sh.cn/jp/entity/person/ceik5e34tg3v72sw",
+      "identifiedBy": "2210390",
+      "subject": "http://data.library.sh.cn/authority/familyname/rvmgzfsec8os93mv",
+      "http://bibframe.org/vocab/title": {
+        "@id": "http://data.library.sh.cn/jp/authority/title/obtixa1es7li8w8c"
+      },
+      "http://purl.org/dc/elements/1.1/creator": [
+        {
+          "@language": "chs",
+          "@value": "胡祥木"
+        },
+        {
+          "@language": "cht",
+          "@value": "胡祥木"
+        }
+      ],
+      "title": [
+        {
+          "@language": "chs",
+          "@value": "上川明经胡氏宗谱（安徽省宣城市绩溪县）"
+        },
+        {
+          "@language": "cht",
+          "@value": "上川明经胡氏宗谱（安徽省宣城市績溪縣）"
+        }
+      ],
+      "description": "始祖昌翼，子延政，宋代自婺迁績溪胡里。始迁祖七二，昌翼二十世孫，迁上庄。胡適出於是族。存卷为世系表。存中卷之上、中、下。书名据卷端题。",
+      "place": "http://data.library.sh.cn/entity/place/ahbl9ik9gtljvokz"
+    },
+    {
+      "@id": "http://data.library.sh.cn/jp/resource/work/qe2sno7v6zk5mrrp",
+      "@type": "http://bibframe.org/vocab/Work",
+      "creator": "http://data.library.sh.cn/jp/entity/person/7sfqja8jmko7z8pr",
+      "identifiedBy": "0440083",
+      "subject": "http://data.library.sh.cn/authority/familyname/4wai4wvjqgely1ht",
+      "http://bibframe.org/vocab/title": [
+        {
+          "@id": "http://data.library.sh.cn/jp/authority/title/3kdmu2wmpgxhn61c"
+        },
+        {
+          "@id": "http://data.library.sh.cn/jp/authority/title/zrgscuu41zan2wtr"
+        }
+      ],
+      "title": [
+        {
+          "@language": "chs",
+          "@value": "广东台山上川房甘氏族谱一卷（广东省江门市台山市）"
+        },
+        {
+          "@language": "cht",
+          "@value": "廣東台山上川房甘氏族譜一卷（廣東省江門市臺山市）"
+        }
+      ],
+      "description": "南雄始祖有霖，行一，南宋時遷居廣東南雄。始遷祖十一世福壽，號南山，明代移居台山上川。書名據書衣題。",
+      "place": "http://data.library.sh.cn/entity/place/hdilv9tsfeqifk8v"
+    },
+    {
+      "@id": "http://data.library.sh.cn/jp/resource/work/zklmd94df6n98io9",
+      "@type": "http://bibframe.org/vocab/Work",
+      "creator": "http://data.library.sh.cn/jp/entity/person/kajekqf5boqn9ka7",
+      "identifiedBy": "81383",
+      "subject": "http://data.library.sh.cn/authority/familyname/5osg8jkj7dhgqhzo",
+      "http://bibframe.org/vocab/title": {
+        "@id": "http://data.library.sh.cn/jp/authority/title/pcnabii8lj6usfek"
+      },
+      "http://purl.org/dc/elements/1.1/creator": [
+        {
+          "@language": "chs",
+          "@value": "杨官坪"
+        },
+        {
+          "@language": "cht",
+          "@value": "楊官坪"
+        }
+      ],
+      "http://purl.org/dc/elements/1.1/subject": "杨",
+      "title": [
+        {
+          "@language": "cht",
+          "@value": "楊氏家譜.湖廣上川.長寧縣雷公灘支系（四川省/宜賓市/長寧縣）"
+        },
+        {
+          "@language": "chs",
+          "@value": "杨氏家谱.湖广上川.长宁县雷公滩支系（四川省/宜宾市/长宁县）"
+        }
+      ],
+      "description": "始祖杨杼，原籍山西省，后裔始迁祖杨天正，明末清初，由湖北省孝感市，迁到四川省宜宾市长宁县雷公滩。  谱载谱序、源流、谱录、家训家规、入川考证、大事记、老谱遗存、先祖画像、先祖坟墓、族人文作、编后。",
+      "place": "http://data.library.sh.cn/entity/place/hiwy5pleusxjydb8",
+      "placeValue": "四川省/宜宾市/长宁县"
+    }
+  ],
+  "@context": {
+    "relatedWork": {
+      "@id": "http://www.library.sh.cn/ontology/relatedWork",
+      "@type": "@id"
+    },
+    "note": {
+      "@id": "http://bibframe.org/vocab/note",
+      "@type": "@id"
+    },
+    "temporalValue": {
+      "@id": "http://www.library.sh.cn/ontology/temporalValue",
+      "@type": "http://www.w3.org/2001/XMLSchema#integer"
+    },
+    "temporal": {
+      "@id": "http://www.library.sh.cn/ontology/temporal",
+      "@type": "@id"
+    },
+    "edition": {
+      "@id": "http://bibframe.org/vocab/edition",
+      "@type": "@id"
+    },
+    "category": {
+      "@id": "http://bibframe.org/vocab/category",
+      "@type": "@id"
+    },
+    "extent": "http://bibframe.org/vocab/extent",
+    "instanceOf": {
+      "@id": "http://bibframe.org/vocab/instanceOf",
+      "@type": "@id"
+    },
+    "place": {
+      "@id": "http://www.library.sh.cn/ontology/place",
+      "@type": "@id"
+    },
+    "heldBy": {
+      "@id": "http://bibframe.org/vocab/heldBy",
+      "@type": "@id"
+    },
+    "description": "http://www.library.sh.cn/ontology/description",
+    "itemOf": {
+      "@id": "http://bibframe.org/vocab/itemOf",
+      "@type": "@id"
+    },
+    "title": "http://purl.org/dc/elements/1.1/title",
+    "subject": {
+      "@id": "http://bibframe.org/vocab/subject",
+      "@type": "@id"
+    },
+    "creator": {
+      "@id": "http://bibframe.org/vocab/creator",
+      "@type": "@id"
+    },
+    "identifiedBy": "http://bibframe.org/vocab/identifiedBy",
+    "carrierCategory": {
+      "@id": "http://bibframe.org/vocab/carrierCategory",
+      "@type": "@id"
+    },
+    "shelfMark": "http://bibframe.org/vocab/shelfMark",
+    "DOI": "http://www.library.sh.cn/ontology/DOI",
+    "accessLevel": "http://www.library.sh.cn/ontology/accessLevel",
+    "hasFullImg": "http://www.library.sh.cn/ontology/hasFullImg",
+    "placeValue": "http://www.library.sh.cn/ontology/placeValue",
+    "engravedBy": "http://www.library.sh.cn/ontology/engravedBy"
+  }
+}

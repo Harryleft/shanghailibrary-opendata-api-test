@@ -1,0 +1,152 @@
+{
+  "_:045d4ef84352d829fcf053d8a8a197bc": {
+    "http://www.w3.org/1999/02/22-rdf-syntax-ns#type": [
+      {
+        "type": "uri",
+        "value": "http://www.library.sh.cn/ontology/Location"
+      }
+    ],
+    "http://www.w3.org/2003/01/geo/wgs84_pos#lat": [
+      {
+        "type": "literal",
+        "value": "31.214266"
+      }
+    ],
+    "http://www.w3.org/2003/01/geo/wgs84_pos#long": [
+      {
+        "type": "literal",
+        "value": "121.446494"
+      }
+    ]
+  },
+  "_:216a43e506ab6454e6591f92e6d95eab": {
+    "http://www.w3.org/1999/02/22-rdf-syntax-ns#type": [
+      {
+        "type": "uri",
+        "value": "http://www.library.sh.cn/ontology/Event"
+      }
+    ],
+    "http://www.library.sh.cn/ontology/description": [
+      {
+        "type": "literal",
+        "value": "建于二十世纪二十年代晚期。"
+      }
+    ]
+  },
+  "_:301bbcc853faa75abf580b38bbc335b1": {
+    "http://www.w3.org/ns/prov#endedAtTime": [
+      {
+        "type": "literal",
+        "value": "1952"
+      }
+    ],
+    "http://www.w3.org/ns/prov#startedAtTime": [
+      {
+        "type": "literal",
+        "value": "1950"
+      }
+    ],
+    "http://www.w3.org/1999/02/22-rdf-syntax-ns#type": [
+      {
+        "type": "uri",
+        "value": "http://www.library.sh.cn/ontology/Event"
+      }
+    ],
+    "http://www.library.sh.cn/ontology/description": [
+      {
+        "type": "literal",
+        "value": "1950至1952年，抗日名将、原全国政协常委郑洞国曾居住于此。"
+      }
+    ]
+  },
+  "_:f03e24cbc74fad4bd3a85d099470371c": {
+    "http://www.w3.org/1999/02/22-rdf-syntax-ns#type": [
+      {
+        "type": "uri",
+        "value": "http://www.library.sh.cn/ontology/Event"
+      }
+    ],
+    "http://www.library.sh.cn/ontology/description": [
+      {
+        "type": "literal",
+        "value": "现为多户居民合用。"
+      }
+    ]
+  },
+  "http://data.library.sh.cn/entity/architecture/yyknd1unz1xonxp7": {
+    "http://www.library.sh.cn/ontology/architectureStructure": [
+      {
+        "type": "literal",
+        "value": "L型分布，立砖饰带压檐，砖混结构"
+      }
+    ],
+    "http://www.library.sh.cn/ontology/houseNumber": [
+      {
+        "type": "literal",
+        "value": "274号"
+      }
+    ],
+    "http://purl.org/dc/terms/relation": [
+      {
+        "type": "uri",
+        "value": "http://data.library.sh.cn/entity/person/hzbe6jakr7f8b4of"
+      }
+    ],
+    "http://www.library.sh.cn/ontology/architecturalStyle": [
+      {
+        "type": "literal",
+        "value": "装饰艺术派与现代式"
+      }
+    ],
+    "http://www.w3.org/1999/02/22-rdf-syntax-ns#type": [
+      {
+        "type": "uri",
+        "value": "http://www.library.sh.cn/ontology/Architecture"
+      }
+    ],
+    "http://www.library.sh.cn/ontology/address": [
+      {
+        "type": "literal",
+        "value": "武康路274号（原280弄4号）"
+      }
+    ],
+    "http://www.library.sh.cn/ontology/road": [
+      {
+        "type": "uri",
+        "value": "http://data.library.sh.cn/entity/road/24v4webnqbccmflv"
+      }
+    ],
+    "http://www.library.sh.cn/ontology/description": [
+      {
+        "type": "literal",
+        "value": "武康路274号据推测应该建于1930年代晚期或者20世纪40年代初期，这个门牌号原是武康路286弄4号，后来因为世界小学的校舍建设将进出通道堵住，才在1965年的时候添加了这个地址。现在，它是以“郑洞国旧居”的名义为世人所知晓。该建筑面积约1300平方米，主体建筑占地315平方面，呈L型分布，为二层砖混结构的现代风格建筑，局部有线脚装饰。建筑南立面二层中部有钢筋混凝土悬挑的大阳台，浅黄色水泥拉毛墙面以赤陶面砖饰带收口，加上红砖勒脚。目前结构稳定，十一户居民合用，露天阳台已封窗加顶为房。北侧内院中间设有花坛，四周环绕分布着原来的汽车间和辅助用房等。"
+      }
+    ],
+    "http://xmlns.com/foaf/0.1/name": [
+      {
+        "type": "literal",
+        "value": "郑洞国旧居"
+      }
+    ],
+    "http://www.library.sh.cn/ontology/location": [
+      {
+        "type": "bnode",
+        "value": "_:045d4ef84352d829fcf053d8a8a197bc"
+      }
+    ],
+    "http://www.library.sh.cn/ontology/event": [
+      {
+        "type": "bnode",
+        "value": "_:216a43e506ab6454e6591f92e6d95eab"
+      },
+      {
+        "type": "bnode",
+        "value": "_:f03e24cbc74fad4bd3a85d099470371c"
+      },
+      {
+        "type": "bnode",
+        "value": "_:301bbcc853faa75abf580b38bbc335b1"
+      }
+    ]
+  }
+}

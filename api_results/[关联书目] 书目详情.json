@@ -1,0 +1,35 @@
+{
+  "result": "0",
+  "contributions": [
+    {
+      "role": "编著",
+      "name": "吴兴惠",
+      "uri": "http://data.library.sh.cn/entity/person/y5vn4xb2lf2dvrus"
+    },
+    {
+      "role": "编著",
+      "name": "王彩君",
+      "uri": "http://data.library.sh.cn/entity/person/s268iaop00qbcs03"
+    }
+  ],
+  "works": [],
+  "uri": "http://bib.library.sh.cn/resource/instance/002bxotbf2dvsmxe",
+  "info": {
+    "uri": "http://bib.library.sh.cn/resource/instance/002bxotbf2dvsmxe",
+    "title": "传感器与信号处理",
+    "dimension": "26cm",
+    "extent": "561页",
+    "year": "1998",
+    "edition": "",
+    "terms": "CNY50.00",
+    "hor": "729372",
+    "agent": "http://data.library.sh.cn/entity/organization/vgjwcmo6wmimnc38",
+    "publisher": "电子工业出版社",
+    "placeUri": "http://data.library.sh.cn/entity/place/d5cnwa3r6tdwtk2n",
+    "series": "",
+    "place": "北京",
+    "ids": "(A310000SHL)0199079676[http://bib.library.sh.cn/ontology/OSCN]; 7-5053-4261-4[http://id.loc.gov/ontologies/bibframe/Isbn]; UCS01000112399[http://bib.library.sh.cn/ontology/SICC]; UCS01000893373[http://bib.library.sh.cn/ontology/OLCC]",
+    "shelfs": "TP212/6895-1",
+    "notes": "图表[其他形态细节]; 附: 参考文献"
+  }
+}

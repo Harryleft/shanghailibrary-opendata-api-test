@@ -1,0 +1,21 @@
+{
+  "result": "0",
+  "data": [
+    {
+      "contributor": "周璇",
+      "person": [
+        {
+          "name": [
+            "周璇",
+            "周璇"
+          ],
+          "pUri": "http://data.library.sh.cn/entity/person/emfzhg6fzke4tzs9"
+        }
+      ],
+      "format": "wmv",
+      "title": "周璇在《红楼梦》中饰林黛玉",
+      "type": "有声；黑白",
+      "uri": "http://data.library.sh.cn/dy/resource/video/qzwpdwkeany4pp5r"
+    }
+  ]
+}

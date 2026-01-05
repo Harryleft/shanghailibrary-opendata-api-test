@@ -1,0 +1,24 @@
+{
+  "pager": {
+    "iflimit": "",
+    "startIndex": 0,
+    "pageSize": 10,
+    "sort": "insertTime",
+    "dir": "desc",
+    "pageth": 1,
+    "pageths": [
+      1
+    ],
+    "pageCount": 1,
+    "rowCount": 1
+  },
+  "detail": [
+    {
+      "shorts": "上图",
+      "full": "上海图书馆",
+      "addr": "上海市 徐汇区 淮海中路1555号",
+      "en": "Shanghai library",
+      "uri": "http://data.library.sh.cn/entity/organization/brvqlrg8y55v1b5q"
+    }
+  ]
+}

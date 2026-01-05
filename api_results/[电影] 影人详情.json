@@ -1,0 +1,832 @@
+{
+  "result": "0",
+  "personDetail": [
+    {
+      "birthday": "1920.8.1",
+      "identifier": "B000099",
+      "img": "//img.library.sh.cn/person/emfzhg6fzke4tzs9.jpg",
+      "ethnicity": "汉族",
+      "cht_name": "周璇",
+      "deathday": "1957.9.22",
+      "uri": "http://data.library.sh.cn/entity/person/emfzhg6fzke4tzs9",
+      "relation": [
+        "http://data.library.sh.cn/entity/architecture/p8lpy1b17cgrkse4",
+        "http://data.library.sh.cn/dy/resource/movie/3b8jar3otulr2ouw",
+        "http://data.library.sh.cn/dy/resource/movie/3jk31hryo6ljbt5c",
+        "http://data.library.sh.cn/dy/resource/movie/3qcatqx2c13lpmjq",
+        "http://data.library.sh.cn/dy/resource/movie/6tumg8lcz0bsx8ze",
+        "http://data.library.sh.cn/dy/resource/movie/enptvxkfgygcmsrd",
+        "http://data.library.sh.cn/dy/resource/movie/hsv55c4crl1xij66",
+        "http://data.library.sh.cn/dy/resource/movie/mjke76sq7082e50s",
+        "http://data.library.sh.cn/dy/resource/movie/na1mby7ajjnrfdom",
+        "http://data.library.sh.cn/dy/resource/movie/nzlpq684abql4nc4",
+        "http://data.library.sh.cn/dy/resource/movie/onkffgetwj02aggs",
+        "http://data.library.sh.cn/dy/resource/movie/qxjjz0nrnlt8gngq",
+        "http://data.library.sh.cn/dy/resource/movie/rzid1giffiaxyknn",
+        "http://data.library.sh.cn/dy/resource/movie/vwzgw8sdds0j44hu",
+        "http://data.library.sh.cn/dy/resource/movie/x3vtqjm5pg6ufwp5",
+        "http://data.library.sh.cn/dy/resource/music/uqtiotc5pz2jwvd1",
+        "http://data.library.sh.cn/dy/resource/music/z6wg0lrvdgfmi2ho"
+      ],
+      "speciality": "电影演员,歌唱家",
+      "nationality": "中国",
+      "createdWork": [
+        "上海日报",
+        "夜上海",
+        "野玫瑰",
+        "保卫卢沟桥",
+        "忆江南",
+        "清宫秘史",
+        "风云儿女",
+        "马路天使",
+        "和平鸽",
+        "夜店",
+        "长相思",
+        "天涯歌女",
+        "民族之光",
+        "四季歌"
+      ],
+      "noteOfSource": [
+        "国图规范档",
+        "上海年华",
+        "电影知识库",
+        "中国近现代人物名号大辞典",
+        "中国近现代人名大辞典",
+        "中国近现代名人辞典"
+      ],
+      "name": [
+        {
+          "nameType": "曾用名",
+          "label": "王小红",
+          "uri": "http://data.library.sh.cn/authority/name/bxa7mrtfciiplqsb",
+          "noteOfSource": "上海年华"
+        },
+        {
+          "nameType": "别名",
+          "label": "璇璇",
+          "uri": "http://data.library.sh.cn/authority/name/u25cylu3h2ht2gce",
+          "noteOfSource": "上海年华"
+        },
+        {
+          "nameType": "别名",
+          "label": "金嗓子",
+          "uri": "http://data.library.sh.cn/authority/name/ugjbh07u3m07s4l3",
+          "noteOfSource": "上海年华"
+        },
+        {
+          "nameType": "原名",
+          "label": "苏璞",
+          "uri": "http://data.library.sh.cn/authority/name/w0ivkldxhmriacv4",
+          "noteOfSource": "上海年华"
+        },
+        {
+          "nameType": "别名",
+          "uri": "http://data.library.sh.cn/authority/name/0gbadnqcmfltuhg0",
+          "label": "周小红"
+        },
+        {
+          "nameType": "原名",
+          "uri": "http://data.library.sh.cn/authority/name/b7pekpqcw407uote",
+          "label": "周璇"
+        },
+        {
+          "nameType": "别名",
+          "uri": "http://data.library.sh.cn/authority/name/uq86twmnwyv3z6mn",
+          "label": "义官"
+        },
+        {
+          "nameType": "原名",
+          "label": "周璞",
+          "uri": "http://data.library.sh.cn/authority/name/14x8vu0tq0jxe7hr",
+          "noteOfSource": "中国近现代人物名号大辞典"
+        },
+        {
+          "nameType": "乳名",
+          "label": "小红",
+          "uri": "http://data.library.sh.cn/authority/name/zlesswh3fc4szskr",
+          "noteOfSource": "中国近现代名人辞典"
+        },
+        {
+          "nameType": "人称",
+          "label": "金嗓子",
+          "uri": "http://data.library.sh.cn/authority/name/vsfohnhli7zu2pko",
+          "noteOfSource": "中国近现代人物名号大辞典"
+        },
+        {
+          "nameType": "原名",
+          "uri": "http://data.library.sh.cn/authority/name/qldcfdanab2d26ah",
+          "label": "小红"
+        },
+        {
+          "nameType": "又名",
+          "uri": "http://data.library.sh.cn/authority/name/ouecn2wxv77xhmia",
+          "label": "啸红"
+        },
+        {
+          "nameType": "艺名",
+          "uri": "http://data.library.sh.cn/authority/name/exwyffhuadgs6u2z",
+          "label": "周旋"
+        },
+        {
+          "nameType": "绰号",
+          "description": "早年因长于歌唱,故有此誉",
+          "label": "金嗓子",
+          "uri": "http://data.library.sh.cn/authority/name/iher4ja36cdrsbzk"
+        }
+      ],
+      "en_name": "zhouxuan",
+      "relatedOrganization": [
+        "明月歌舞团",
+        "上海艺华影业公司"
+      ],
+      "nativePlace": "常熟",
+      "chs_name": "周璇",
+      "briefBiography": [
+        "周璇（1920年8月1日-1957年9月22日），出生于江苏常州，中国电影演员、歌手。1920年，周璇出生于常州一户姓苏的人家，原名苏璞，兄弟姐妹八人中排行老二，故乳名为义官。1923年，周璇被抽大烟的舅舅顾仕佳偷偷拐骗到了金坛县的王家，改名为王小红，王家夫妇离异后，又被送给了上海的一家周姓人家，更名为周小红。1931年，周璇加入明月歌舞团，因演唱歌曲《民族之光》而受到关注。同年，她还参演了救国进步歌剧《野玫瑰》的演出，正式改名为周璇。1934年在上海各电台联合举办的歌星比赛中名列第二，并由此获得了“金嗓子”的称号。1935年，周璇受聘于上海艺华影业公司，拍摄了个人首部电影《风云儿女》。1937年，她与赵丹共同主演《马路天使》，并演唱了影片的两首插曲《天涯歌女》以及《四季歌》。《马路天使》上映后不仅成为周璇的代表作，亦获得第12届菲格拉达福兹国际电影节评委奖以及中国电影世纪奖优秀影片奖。1941年《上海日报》举办“电影皇后”评选，周璇在当选后婉拒了“电影皇后”的荣誉。1947年主演爱情片《长相思》，由她演唱的影片插曲《夜上海》成为华语歌坛的代表作品之一。1950年从香港返回上海。1951年因突发精神病而被送入医院治疗。1957年9月22日，在上海病逝。1995年获得中国电影世纪奖女演员奖。"
+      ],
+      "event": [
+        {
+          "startedAtTime": "1920",
+          "description": "1920年，周璇出生于常州一户姓苏的人家，原名是苏璞。",
+          "place": {
+            "label": "常州",
+            "uri": "http://data.library.sh.cn/entity/place/mgaepced6jbe6wa4"
+          }
+        },
+        {
+          "startedAtTime": "1923",
+          "description": "1923年，被抽大烟的舅舅顾仕佳偷偷拐骗到了金坛县的王家，并且改名为王小红。王家夫妇离异后，周璇又被送给了上海的一家周姓人家，并更名为周小红。",
+          "place": {
+            "label": "上海",
+            "uri": "http://data.library.sh.cn/entity/place/hda1dkcayas4fs98"
+          }
+        },
+        {
+          "startedAtTime": "1931",
+          "description": "1931年，参加黎锦晖创办的明月歌舞团。"
+        },
+        {
+          "startedAtTime": "1932",
+          "description": "1932年，在歌舞剧《特别快车》中担任主演而崭露头角，在黎锦晖提议下改名为周璇。"
+        },
+        {
+          "startedAtTime": "1934",
+          "description": "1934年，在上海各电台联合举办的歌星比赛中名列歌星白虹之后，获得第二名，成为十大歌星之一，“金嗓子”声名鹊起。",
+          "place": {
+            "label": "上海",
+            "uri": "http://data.library.sh.cn/entity/place/hda1dkcayas4fs98"
+          }
+        },
+        {
+          "startedAtTime": "1935",
+          "description": "1935年，周璇开始从影。"
+        },
+        {
+          "startedAtTime": "1936",
+          "description": "1936年，进入艺华影业公司，主演电影《化身姑娘》，这也是她拍摄的唯一一部无声黑白故事片。"
+        },
+        {
+          "startedAtTime": "1937",
+          "description": "1937年，与赵丹共同主演反映社会底层小人物命运的电影《马路天使》，饰演在旧社会受尽侮辱和损害的歌女小红，并演唱了影片的两首插曲《天涯歌女》和《四季歌》。《马路天使》上映后广受好评，成为周璇的代表作。亦获得第12届菲格拉达福兹国际电影节评委奖以及中国电影世纪奖优秀影片奖，而上海百代唱片公司也特约周璇将《四季歌》和《天涯歌女》灌制成唱片出版发行。"
+        },
+        {
+          "startedAtTime": "1938",
+          "description": "1938年，与严华结婚，婚后住在姚主教路茂龄新村（今天平路120弄）。参加上海“爵士合唱团”，签约上海国华影业公司。"
+        },
+        {
+          "startedAtTime": "1941",
+          "description": "1941年，与严华离婚。同年《上海日报》电影专刊开展了一场“电影皇后”评选，周璇被推选为“电影皇后”"
+        },
+        {
+          "description": "但周璇认为荣誉过高并不是好事，因此她婉拒了“电影皇后”的头衔。"
+        },
+        {
+          "startedAtTime": "1942",
+          "description": "1942年，正值敌伪时期，周璇对外宣称退休，暂时退出演艺圈。"
+        },
+        {
+          "startedAtTime": "1943",
+          "description": "1943年，与养母搬入武康路391弄1号。与此同时，加入中华电影联合股份有限公司，复出影坛，主演电影《渔家女》。该片在大光明电影院连续放映时受到观众的欢迎。"
+        },
+        {
+          "startedAtTime": "1944",
+          "description": "1944年，周璇主演的歌舞片《鸾凤和鸣》上映，她主唱了《红歌女》、《讨厌的早晨》等7首电影插曲。6月，她与袁美云、王丹凤、欧阳莎菲共同主演古装电影《红楼梦》，周璇在影片里扮演多愁善感的林黛玉，影片的插曲《葬花词》和《悲秋》均由周璇演唱，该片在上海上映后不仅受到欢迎，还成为第一部被介绍到日本的中国电影。"
+        },
+        {
+          "startedAtTime": "1945",
+          "description": "1945年，在上海金都大戏院举行了三场独唱音乐会，票价高达三千元仍被抢购一空。"
+        },
+        {
+          "startedAtTime": "1946",
+          "description": "1946年，应香港大中华影业公司老板蒋伯英的邀请，搭乘飞机抵达香港拍片。",
+          "place": {
+            "label": "香港",
+            "uri": "http://data.library.sh.cn/entity/place/nph51mdp01yntdso"
+          }
+        },
+        {
+          "startedAtTime": "1947",
+          "description": "1947年，周璇首次在香港银幕上出现，她和舒适、白沉等合作主演了黑白故事片《长相思》，饰演歌女顾湘梅，并且演唱了《花样的年华》、《夜上海》等电影插曲，其中《夜上海》在推出后在华人社会流传，成为周璇的代表作品之一。"
+        },
+        {
+          "startedAtTime": "1948",
+          "description": "1948年，与舒适共同主演古装故事片《清宫秘史》，饰演命运多舛的珍妃，这部影片不仅是周璇的电影代表作之一，还为她在国际上赢得了注目。"
+        },
+        {
+          "startedAtTime": "1949",
+          "description": "1949年，她主演了喜剧故事片《彩虹曲》，这部电影也是周璇拍摄的第一部彩色故事片。"
+        },
+        {
+          "startedAtTime": "1950",
+          "description": "1950年，周璇从香港返回上海。",
+          "place": {
+            "label": "上海",
+            "uri": "http://data.library.sh.cn/entity/place/hda1dkcayas4fs98"
+          }
+        },
+        {
+          "startedAtTime": "1951",
+          "description": "1951年，应大光明影业公司的邀请担任了电影《和平鸽》的女主角，但是影片拍摄期间她因突发精神病而被送入上海虹桥疗养院。"
+        },
+        {
+          "startedAtTime": "1952-05",
+          "description": "1952年5月，周璇正准备与唐棣结婚，唐棣却被指控为“诈骗罪和诱奸罪”判刑三年，一年后，法院撤销原判，唐棣释放回家。"
+        },
+        {
+          "startedAtTime": "1957-09-22",
+          "description": "1957年7月，突然急性脑炎入院治疗 ，9月22日，在上海去世。",
+          "place": {
+            "label": "上海",
+            "uri": "http://data.library.sh.cn/entity/place/hda1dkcayas4fs98"
+          }
+        }
+      ],
+      "spouseOf": [
+        {
+          "relationType": "丈夫",
+          "name": "严华",
+          "uri": "http://data.library.sh.cn/entity/person/fo4mdc8g4nkncp0g"
+        }
+      ],
+      "temporal": "民国"
+    }
+  ],
+  "photoOfPerson": [
+    {
+      "date": "1939-06-07",
+      "photoUri": "http://data.library.sh.cn/dy/resource/photo/1m62teoqxrfllzpe",
+      "imagePath": "https://img.library.sh.cn/dy/img/38nqcgnnqr0sucxj.jpg",
+      "description": "自左至右：白燕、周曼华、周璇",
+      "type": "生活照"
+    },
+    {
+      "date": "1987-08-01",
+      "photoUri": "http://data.library.sh.cn/dy/resource/photo/2heuc7d1sf5x2rhl",
+      "imagePath": "https://img.library.sh.cn/dy/img/yw63m0omnnkbe83r.jpg",
+      "description": "影片《莫负青春》剧照",
+      "type": "剧照"
+    },
+    {
+      "date": "1987-08-01",
+      "photoUri": "http://data.library.sh.cn/dy/resource/photo/3gb1dsaxeexu1buh",
+      "imagePath": "https://img.library.sh.cn/dy/img/q5i3oogmpa4hassg.jpg",
+      "description": "影片《孟丽君》剧照",
+      "type": "剧照"
+    },
+    {
+      "date": "1939-07-20",
+      "photoUri": "http://data.library.sh.cn/dy/resource/photo/3lv8vr6z6rf7ceer",
+      "imagePath": "https://img.library.sh.cn/dy/img/uz545t836ebh73s2.jpg",
+      "description": "《新地狱》剧组合影",
+      "type": "剧照"
+    },
+    {
+      "date": "1941-07-25",
+      "photoUri": "http://data.library.sh.cn/dy/resource/photo/4fwms508b5yekwma",
+      "imagePath": "https://img.library.sh.cn/dy/img/kxpocf0t7i3a28nn.jpg",
+      "description": "周璇在影片《夜深沉》中的扮相",
+      "type": "剧照"
+    },
+    {
+      "date": "1937-04-01",
+      "photoUri": "http://data.library.sh.cn/dy/resource/photo/52tbmro1efwwgfts",
+      "imagePath": "https://img.library.sh.cn/dy/img/w0zfi2pg01hj1j8r.jpg",
+      "description": "赵丹、周璇在影片《马路天使》饰演小陈和小红",
+      "type": "剧照"
+    },
+    {
+      "date": "1936-09-01",
+      "photoUri": "http://data.library.sh.cn/dy/resource/photo/5hrgnfwtwlgpvqvk",
+      "imagePath": "https://img.library.sh.cn/dy/img/la14ym8rtfdo5q0y.jpg",
+      "description": "周璇（右）录音时留影",
+      "type": "生活照"
+    },
+    {
+      "date": "1939-06-15",
+      "photoUri": "http://data.library.sh.cn/dy/resource/photo/6mo4bi5l3e3x4dwo",
+      "imagePath": "https://img.library.sh.cn/dy/img/xjuq6qlt5tq3zdrn.jpg",
+      "description": "《新地狱》全体男女明星合影（前排自左向右周曼华、洪逗、周璇，后排自左向右徐风、白云、舒适、龚稼农）",
+      "type": "剧照"
+    },
+    {
+      "date": "1946-08-03",
+      "photoUri": "http://data.library.sh.cn/dy/resource/photo/8e7jme7fsgtfrwum",
+      "imagePath": "https://img.library.sh.cn/dy/img/qhjjjnf5w2uhpud4.jpg",
+      "description": "周璇和石挥合影",
+      "type": "生活照"
+    },
+    {
+      "date": "1940-04-20",
+      "photoUri": "http://data.library.sh.cn/dy/resource/photo/gzpso6s0jyz28tv5",
+      "imagePath": "https://img.library.sh.cn/dy/img/c3r6mcan8lbrci4k.jpg",
+      "description": "周璇在影片《苏三艳史》中",
+      "type": "剧照"
+    },
+    {
+      "date": "1937-05-01",
+      "photoUri": "http://data.library.sh.cn/dy/resource/photo/jghnd3duwlkigk0r",
+      "imagePath": "https://img.library.sh.cn/dy/img/43113s2llavqjxbz.jpg",
+      "description": "《马路天使》两主角",
+      "type": "生活照"
+    },
+    {
+      "date": "1939-07-20",
+      "photoUri": "http://data.library.sh.cn/dy/resource/photo/jgl02254xj2zrbr8",
+      "imagePath": "https://img.library.sh.cn/dy/img/qrtc1zefpghz1ub8.jpg",
+      "description": "影片《新地狱》剧照",
+      "type": "剧照"
+    },
+    {
+      "date": "1946-06-20",
+      "photoUri": "http://data.library.sh.cn/dy/resource/photo/ji5vl50d2moxml76",
+      "imagePath": "https://img.library.sh.cn/dy/img/hanelbbtoqwfrr6k.jpg",
+      "description": "周璇在香港",
+      "type": "艺术照"
+    },
+    {
+      "date": "1987-08-01",
+      "photoUri": "http://data.library.sh.cn/dy/resource/photo/klo1epbjuq65nftv",
+      "imagePath": "https://img.library.sh.cn/dy/img/ik27yoyhc71g63kd.jpg",
+      "description": "周璇在影片《忆江南》中饰演黄玫瑰",
+      "type": "剧照"
+    },
+    {
+      "date": "1941-09-01",
+      "photoUri": "http://data.library.sh.cn/dy/resource/photo/lz0kr8awefrnaiez",
+      "imagePath": "https://img.library.sh.cn/dy/img/lvk0ctrcdcbpjwfg.jpg",
+      "description": "周璇与严华合影",
+      "type": "生活照"
+    },
+    {
+      "date": "1938-12-14",
+      "photoUri": "http://data.library.sh.cn/dy/resource/photo/oskz4i8idkwaf8gd",
+      "imagePath": "https://img.library.sh.cn/dy/img/3h8taaizgoql3k5r.jpg",
+      "description": "周璇和赵丹在影片《马路天使》里的接吻戏",
+      "type": "剧照"
+    },
+    {
+      "date": "1987-08-01",
+      "photoUri": "http://data.library.sh.cn/dy/resource/photo/pioaflz3p0g67to3",
+      "imagePath": "https://img.library.sh.cn/dy/img/gmdtyegpyk0dpvzo.jpg",
+      "description": "影片《夜店》剧照",
+      "type": "剧照"
+    },
+    {
+      "date": "1987-08-01",
+      "photoUri": "http://data.library.sh.cn/dy/resource/photo/te8jnmicxot1j4k7",
+      "imagePath": "https://img.library.sh.cn/dy/img/waieuxv5vzraueof.jpg",
+      "description": "影片《三笑》剧照",
+      "type": "剧照"
+    },
+    {
+      "date": "1937-04-01",
+      "photoUri": "http://data.library.sh.cn/dy/resource/photo/upblpk5jfmp0xtpq",
+      "imagePath": "https://img.library.sh.cn/dy/img/r6ebvcslsx4dblxv.jpg",
+      "description": "赵丹、周璇、魏鹤龄、赵慧深在影片《马路天使》中的一幕",
+      "type": "剧照"
+    },
+    {
+      "date": "1987-08-01",
+      "photoUri": "http://data.library.sh.cn/dy/resource/photo/wc4xrd8mrcoe7ihk",
+      "imagePath": "https://img.library.sh.cn/dy/img/tg7q0r3w66bfglhv.jpg",
+      "description": "电影《喜临门》剧照",
+      "type": "剧照"
+    },
+    {
+      "date": "1939-06-07",
+      "photoUri": "http://data.library.sh.cn/dy/resource/photo/wqkuegkxp6mxs4pn",
+      "imagePath": "https://img.library.sh.cn/dy/img/h1dvnq50qxdb7pf0.jpg",
+      "description": "周璇与龚稼农合影",
+      "type": "生活照"
+    },
+    {
+      "date": "1936-09-01",
+      "photoUri": "http://data.library.sh.cn/dy/resource/photo/wwer0n4dcokdudi7",
+      "imagePath": "https://img.library.sh.cn/dy/img/tdb5ey25f2yvu1vg.jpg",
+      "description": "周璇与黎锦光及百代公司灌音部主任傅祥巽合影",
+      "type": "生活照"
+    },
+    {
+      "date": "1947-10-01",
+      "photoUri": "http://data.library.sh.cn/dy/resource/photo/ywogil85n0ef5pw8",
+      "imagePath": "https://img.library.sh.cn/dy/img/5i2puwzr7hxammpg.jpg",
+      "description": "周璇与她的母亲",
+      "type": "生活照"
+    },
+    {
+      "date": "1939-06-07",
+      "photoUri": "http://data.library.sh.cn/dy/resource/photo/zazoxyknn3aehbmy",
+      "imagePath": "https://img.library.sh.cn/dy/img/mmvhimhcrptylyob.jpg",
+      "description": "严凤凰与周璇合影",
+      "type": "生活照"
+    },
+    {
+      "date": "1937-07-01",
+      "photoUri": "http://data.library.sh.cn/dy/resource/photo/2phaeyxbhq1qp6s4",
+      "imagePath": "https://img.library.sh.cn/dy/img/g6nfr318c3fpbwpx.jpg",
+      "description": "",
+      "type": "生活照"
+    },
+    {
+      "date": "1936-12-25",
+      "photoUri": "http://data.library.sh.cn/dy/resource/photo/65dmmztosgibpee2",
+      "imagePath": "https://img.library.sh.cn/dy/img/8d6nqtn6c8olvjj5.jpg",
+      "description": "",
+      "type": "生活照"
+    },
+    {
+      "date": "1987-08-01",
+      "photoUri": "http://data.library.sh.cn/dy/resource/photo/66qvp5irsydnete4",
+      "imagePath": "https://img.library.sh.cn/dy/img/8oe7t0dgrn16c2ep.jpg",
+      "description": "",
+      "type": "艺术照"
+    },
+    {
+      "date": "1941-07-25",
+      "photoUri": "http://data.library.sh.cn/dy/resource/photo/6c3w47en2uil3z1l",
+      "imagePath": "https://img.library.sh.cn/dy/img/3rfpkgvdcsoxp7tg.jpg",
+      "description": "",
+      "type": "生活照"
+    },
+    {
+      "date": "1936-05-01",
+      "photoUri": "http://data.library.sh.cn/dy/resource/photo/7ckwnx14coeinjey",
+      "imagePath": "https://img.library.sh.cn/dy/img/iibskzglzbbrlv25.jpg",
+      "description": "",
+      "type": "生活照"
+    },
+    {
+      "date": "1947-10-01",
+      "photoUri": "http://data.library.sh.cn/dy/resource/photo/b7jnmarj0ospnp38",
+      "imagePath": "https://img.library.sh.cn/dy/img/qrv1i3uyxv7jfxf0.jpg",
+      "description": "",
+      "type": "生活照"
+    },
+    {
+      "date": "1939-06-30",
+      "photoUri": "http://data.library.sh.cn/dy/resource/photo/fhswqtnjrw5yw3fd",
+      "imagePath": "https://img.library.sh.cn/dy/img/c0roavr6a6wr5ngc.jpg",
+      "description": "",
+      "type": "艺术照"
+    },
+    {
+      "date": "1987-08-01",
+      "photoUri": "http://data.library.sh.cn/dy/resource/photo/fw2ez33nujesgnof",
+      "imagePath": "https://img.library.sh.cn/dy/img/o5d0es7fepo8oa2i.jpg",
+      "description": "",
+      "type": "艺术照"
+    },
+    {
+      "date": "1987-08-01",
+      "photoUri": "http://data.library.sh.cn/dy/resource/photo/hillj8fu8nr372im",
+      "imagePath": "https://img.library.sh.cn/dy/img/8lm4g4aylajvymzn.jpg",
+      "description": "",
+      "type": "艺术照"
+    },
+    {
+      "date": "1948-12-01",
+      "photoUri": "http://data.library.sh.cn/dy/resource/photo/i3ry4iunb0h3dwn6",
+      "imagePath": "https://img.library.sh.cn/dy/img/yx1x1vlccf5iyudz.jpg",
+      "description": "",
+      "type": "生活照"
+    },
+    {
+      "date": "1935-11-15",
+      "photoUri": "http://data.library.sh.cn/dy/resource/photo/jqxwhj2tlf7vbda6",
+      "imagePath": "https://img.library.sh.cn/dy/img/4so0x33m0anznf7d.jpg",
+      "description": "",
+      "type": "生活照"
+    },
+    {
+      "date": "1939-08-01",
+      "photoUri": "http://data.library.sh.cn/dy/resource/photo/lvyhrbeoiu6cirap",
+      "imagePath": "https://img.library.sh.cn/dy/img/3dgp4jhaqrdyug4z.jpg",
+      "description": "",
+      "type": "艺术照"
+    },
+    {
+      "date": "1935-07-07",
+      "photoUri": "http://data.library.sh.cn/dy/resource/photo/m4g035efkld3bjyr",
+      "imagePath": "https://img.library.sh.cn/dy/img/fuh2xkc8pebyjskf.jpg",
+      "description": "",
+      "type": "生活照"
+    },
+    {
+      "date": "1937-07-01",
+      "photoUri": "http://data.library.sh.cn/dy/resource/photo/nic8gjgsm3mzadii",
+      "imagePath": "https://img.library.sh.cn/dy/img/ni14802lfibh5la5.jpg",
+      "description": "",
+      "type": "生活照"
+    },
+    {
+      "date": "1987-08-01",
+      "photoUri": "http://data.library.sh.cn/dy/resource/photo/o85zvjqxiy5yklrz",
+      "imagePath": "https://img.library.sh.cn/dy/img/iub5a2zeusyr6ymb.jpg",
+      "description": "",
+      "type": "艺术照"
+    },
+    {
+      "date": "1938-11-30",
+      "photoUri": "http://data.library.sh.cn/dy/resource/photo/ptd2mwz36ygajbko",
+      "imagePath": "https://img.library.sh.cn/dy/img/ajqwhck5v22lmulr.jpg",
+      "description": "",
+      "type": "生活照"
+    },
+    {
+      "date": "1987-08-01",
+      "photoUri": "http://data.library.sh.cn/dy/resource/photo/qr1j2r4baompivh0",
+      "imagePath": "https://img.library.sh.cn/dy/img/ds7fxiwfxiumg7p6.jpg",
+      "description": "",
+      "type": "艺术照"
+    },
+    {
+      "date": "1940-01-01",
+      "photoUri": "http://data.library.sh.cn/dy/resource/photo/qv8c3jzjvwfms4xm",
+      "imagePath": "https://img.library.sh.cn/dy/img/qpzhku2pcqte4iu0.jpg",
+      "description": "",
+      "type": "艺术照"
+    },
+    {
+      "date": "1939-06-30",
+      "photoUri": "http://data.library.sh.cn/dy/resource/photo/snzegc81yadksnjs",
+      "imagePath": "https://img.library.sh.cn/dy/img/37m6piv1vshctt34.jpg",
+      "description": "",
+      "type": "艺术照"
+    },
+    {
+      "date": "1937-01-01",
+      "photoUri": "http://data.library.sh.cn/dy/resource/photo/tjsvzy4od8362s0b",
+      "imagePath": "https://img.library.sh.cn/dy/img/5auzncr0b21o4mf4.jpg",
+      "description": "",
+      "type": "艺术照"
+    },
+    {
+      "date": "1935-11-01",
+      "photoUri": "http://data.library.sh.cn/dy/resource/photo/ueq075223r1pf06f",
+      "imagePath": "https://img.library.sh.cn/dy/img/pm6c5qgqu0m1jsv6.jpg",
+      "description": "",
+      "type": "生活照"
+    },
+    {
+      "date": "1937-07-01",
+      "photoUri": "http://data.library.sh.cn/dy/resource/photo/vmh7ze7prc2ah662",
+      "imagePath": "https://img.library.sh.cn/dy/img/o0kevxz5u7rqz1or.jpg",
+      "description": "",
+      "type": "生活照"
+    },
+    {
+      "date": "1938-11-09",
+      "photoUri": "http://data.library.sh.cn/dy/resource/photo/zvg6o0qyxx7abu5w",
+      "imagePath": "https://img.library.sh.cn/dy/img/bz654wbrovacpvvs.jpg",
+      "description": "",
+      "type": "艺术照"
+    },
+    {
+      "date": "",
+      "photoUri": "http://data.library.sh.cn/dy/resource/photo/kdier0jmv66mxdx6",
+      "imagePath": "https://img.library.sh.cn/dy/img/5pf4x3cp5l0yx6mi.jpg",
+      "description": "《狂欢之夜》剧照，周璇饰曼丽，金山饰纨绔少年",
+      "type": "剧照"
+    },
+    {
+      "date": "",
+      "photoUri": "http://data.library.sh.cn/dy/resource/photo/hcpyzp8arzlwyw0y",
+      "imagePath": "https://img.library.sh.cn/dy/img/gguml0w8p5vwcuax.jpg",
+      "description": "",
+      "type": "生活照"
+    }
+  ],
+  "movieOfPerson": [
+    {
+      "date": "1936",
+      "movieUri": "http://data.library.sh.cn/dy/resource/movie/3b8jar3otulr2ouw",
+      "type": "有声；黑白",
+      "movieName": "喜临门"
+    },
+    {
+      "date": "1947",
+      "movieUri": "http://data.library.sh.cn/dy/resource/movie/3jk31hryo6ljbt5c",
+      "type": "有声；黑白",
+      "movieName": "莫负青春"
+    },
+    {
+      "date": "1939",
+      "movieUri": "http://data.library.sh.cn/dy/resource/movie/3qcatqx2c13lpmjq",
+      "type": "有声；黑白",
+      "movieName": "新地狱"
+    },
+    {
+      "date": "1940",
+      "movieUri": "http://data.library.sh.cn/dy/resource/movie/6tumg8lcz0bsx8ze",
+      "type": "有声；黑白",
+      "movieName": "三笑"
+    },
+    {
+      "date": "1941",
+      "movieUri": "http://data.library.sh.cn/dy/resource/movie/enptvxkfgygcmsrd",
+      "type": "有声；黑白",
+      "movieName": "夜深沉"
+    },
+    {
+      "date": "1937",
+      "movieUri": "http://data.library.sh.cn/dy/resource/movie/hsv55c4crl1xij66",
+      "type": "有声；黑白",
+      "movieName": "马路天使"
+    },
+    {
+      "date": "1940",
+      "movieUri": "http://data.library.sh.cn/dy/resource/movie/onkffgetwj02aggs",
+      "type": "有声；黑白",
+      "movieName": "孟丽君"
+    },
+    {
+      "date": "1947",
+      "movieUri": "http://data.library.sh.cn/dy/resource/movie/qxjjz0nrnlt8gngq",
+      "type": "有声；黑白",
+      "movieName": "夜店"
+    },
+    {
+      "date": "1947",
+      "movieUri": "http://data.library.sh.cn/dy/resource/movie/rzid1giffiaxyknn",
+      "type": "有声；黑白",
+      "movieName": "忆江南"
+    },
+    {
+      "date": "1940",
+      "movieUri": "http://data.library.sh.cn/dy/resource/movie/vwzgw8sdds0j44hu",
+      "type": "有声；黑白",
+      "movieName": "苏三艳史"
+    },
+    {
+      "date": "1944",
+      "movieUri": "http://data.library.sh.cn/dy/resource/movie/mjke76sq7082e50s",
+      "type": "有声；黑白",
+      "movieName": "红楼梦"
+    },
+    {
+      "date": "1948",
+      "movieUri": "http://data.library.sh.cn/dy/resource/movie/na1mby7ajjnrfdom",
+      "type": "有声；黑白",
+      "movieName": "清宫秘史"
+    },
+    {
+      "date": "1946",
+      "movieUri": "http://data.library.sh.cn/dy/resource/movie/nzlpq684abql4nc4",
+      "type": "有声；黑白",
+      "movieName": "长相思"
+    },
+    {
+      "date": "1943",
+      "movieUri": "http://data.library.sh.cn/dy/resource/movie/x3vtqjm5pg6ufwp5",
+      "type": "有声；黑白",
+      "movieName": "渔家女"
+    }
+  ],
+  "articaleOfPerson": [
+    {
+      "image": "",
+      "textUri": "http://data.library.sh.cn/dy/resource/text/h32rwyfa2swkj456",
+      "articalUri": "http://data.library.sh.cn/dy/resource/article/0mno7ohankq02p1h",
+      "source": "《明星特写》1937,(2期)",
+      "title": "周璇小史",
+      "personUri": "http://data.library.sh.cn/entity/person/emfzhg6fzke4tzs9",
+      "content": "<div style=\"font-size:120%\" align=\"center\"><b>周璇小史</b></div><br/><div align=\"center\">林三</div>&nbsp;&nbsp;&nbsp;&nbsp;<a href=\"/SHNH/redirect.jsp?type=40&value=周璇\" style=\"color:#6a3e03\">周璇</a>小姐，是播音界上挺有名的，除了<a href=\"/SHNH/redirect.jsp?type=40&value=白虹\" style=\"color:#6a3e03\">白虹</a>之外，便要轮到周璇小姐了，她以前的名字叫啸红，曾在宁波同乡会附设的一个小学校内读过书，她十二岁的时候，就加入黎锦晖支持的明月歌舞团中学习歌舞，后来加入严华创办的新华歌剧社，同时担任电台的播音工作，虽则很忙，每个月的收入，却有限得很，那时候的周璇和她的妈妈住在城内一个亭子间里，她为欲维持母女俩的生活，非常节省，出去的时候，连黄包车也不大雇坐，说起来倒是一个孝顺的姑娘。<br/>&nbsp;&nbsp;&nbsp;&nbsp;前年由人介绍进新华影片公司当演员，月薪是四十元，每年有增加，（现在已加到七十元）本来要担任岳枫导演的《博士夫人》要角，后来因为沈天荫的反对摄制该片，所以没有实行。她露过脸的影片，有《<a href=\"/SHNH/redirect.jsp?type=53&value=花烛之夜\" style=\"color:#6a3e03\">花烛之夜</a>》《<a href=\"/SHNH/redirect.jsp?type=53&value=化身姑娘\" style=\"color:#6a3e03\">化身姑娘</a>》《<a href=\"/SHNH/redirect.jsp?type=53&value=狂欢之夜\" style=\"color:#6a3e03\">狂欢之夜</a>》《喜临<a href=\"/SHNH/redirect.jsp?type=53&value=门\" style=\"color:#6a3e03\">门</a>》等，她予人<a href=\"/SHNH/redirect.jsp?type=2&value=印象\" style=\"color:#6a3e03\">印象</a>最深的，是乡下姑娘，因为她个性是适合饰天真无邪，乡下姑娘一类的角色，如果教她扮演贵族式的小姐，或是<a href=\"/SHNH/redirect.jsp?type=53&value=风\" style=\"color:#6a3e03\">风</a>骚的少妇，那便显得勉强而矫揉了，最近<a href=\"/SHNH/redirect.jsp?type=2&value=明星\" style=\"color:#6a3e03\">明星</a>公司的《<a href=\"/SHNH/redirect.jsp?type=53&value=马路天使\" style=\"color:#6a3e03\">马路天使</a>》借她去饰演一角，<a href=\"/SHNH/redirect.jsp?type=2&value=艺华\" style=\"color:#6a3e03\">艺华</a>公司新片《<a href=\"/SHNH/redirect.jsp?type=53&value=女财神\" style=\"color:#6a3e03\">女财神</a>》和《<a href=\"/SHNH/redirect.jsp?type=53&value=三星伴月\" style=\"color:#6a3e03\">三星伴月</a>》中，也有她的<a href=\"/SHNH/redirect.jsp?type=2&value=戏\" style=\"color:#6a3e03\">戏</a>。<br/>&nbsp;&nbsp;&nbsp;&nbsp;周璇是被称为最有<a href=\"/SHNH/redirect.jsp?type=53&value=前程\" style=\"color:#6a3e03\">前程</a>的一个，艺华公司是很重视她，预备把她捧同<a href=\"/SHNH/redirect.jsp?type=40&value=袁美云\" style=\"color:#6a3e03\">袁美云</a>一样的红，可是周璇却溺于恋爱，对于自己的事业，并不十分<a href=\"/SHNH/redirect.jsp?type=53&value=努力\" style=\"color:#6a3e03\">努力</a>，于是艺华公司对她深深地不满，大大地灰心了。<br/>&nbsp;&nbsp;&nbsp;&nbsp;她的<a href=\"/SHNH/redirect.jsp?type=53&value=爱人\" style=\"color:#6a3e03\">爱人</a>是有“桃花太子”艳名的严华，在明月歌舞团中认识的，和她很热烈的样子，时常可以看见她俩携手在霞飞路上散步，一黑一白，远远地便可以认识。<br/>&nbsp;&nbsp;&nbsp;&nbsp;她俩经过相当时期的恋爱，乘老画师丁悚先生的太夫人寿辰那天的机会，公开的举行了订婚手续。<br/>&nbsp;&nbsp;&nbsp;&nbsp;一个月之前，严华与陈大悲合办了一个新华乐剧社，应杭州<a href=\"/SHNH/redirect.jsp?type=2&value=联华\" style=\"color:#6a3e03\">联华</a>大戏院的聘请，女演员虽则有严华的妹子严斐，以及刘心珠等，前新华剧社的社员，可是总似乎觉得声势不壮，没有多大的号召力，于是严华便要求周璇参加演出，周璇因为关系爱人的事业，自然是义不容辞的一口答应下来，向艺华公司请假到杭州去演戏，可是那时艺华公司的《三星伴月》还没有拍好，正在急急地要把这张片子早日结束，所以对周璇请假的要求，不能允许，而周璇为了严华便不顾准许不准许，坚决的随同新华乐剧社出发到杭州去了，因此宾主感情破裂，后来双方直接发生冲突，在艺华尚有一年多的合同，便就撕去，解除关系了，听说，周璇离开艺华公司后，已决定加入新华，双方合同也签好了，待遇比艺华优厚。<br/>&nbsp;&nbsp;&nbsp;&nbsp;她本来面貌，并不十分漂亮，皮肤很黑，身材很矮，可是在<a href=\"/SHNH/redirect.jsp?type=2&value=银幕\" style=\"color:#6a3e03\">银幕</a>上却是怪可爱的一副腔调，她平日的服装，十分俭朴，学生打扮，蓝布旗袍，年纪轻轻，只十八岁呢，如果她肯努力她的事业，她的前途，一定是非常光明灿烂的。<br/>&nbsp;&nbsp;&nbsp;&nbsp;最近她和严华在愚园路愚谷村四十二号合租一幢房子，分居上下，外间不明真相，还道她俩已经同居呢。<br/><div align=\"right\"  style=\"padding-right:60\">《<a href=\"/SHNH/redirect.jsp?type=2&value=明星特写\" style=\"color:#6a3e03\">明星特写</a>》第二期1937年6月1日</div>&nbsp;&nbsp;&nbsp;&nbsp;"
+    },
+    {
+      "image": "",
+      "textUri": "http://data.library.sh.cn/dy/resource/text/8k2diy3te30zfjqz",
+      "articalUri": "http://data.library.sh.cn/dy/resource/article/8jkpz4lf3k3cjdgo",
+      "source": "《艺声》1936,2卷(2期)",
+      "title": "寫給藝聲的短簡",
+      "personUri": "http://data.library.sh.cn/entity/person/emfzhg6fzke4tzs9",
+      "content": "<div style=\"font-size:120%\" align=\"center\"><b>写给艺声的短简</b></div><br/><div align=\"left\"><b><a href=\"/SHNH/redirect.jsp?type=2&value=艺华\" style=\"color:#6a3e03\">艺华</a>演员<a href=\"/SHNH/redirect.jsp?type=40&value=周璇\" style=\"color:#6a3e03\">周璇</a></b></div><div align=\"left\">先生：</div>&nbsp;&nbsp;&nbsp;&nbsp;<a href=\"/SHNH/redirect.jsp?type=97&value=我\" style=\"color:#6a3e03\">我</a>真是惭愧，向来不会说话，根本自己也没有才学所以我不会写，请先生们不要见笑我这不懂事的孩子。<br/>&nbsp;&nbsp;&nbsp;&nbsp;在我小小的脑海中没有什么感觉得到，就是知道一个人的才学是顶要紧，起码自己的字要写得好，不然我觉得随便你怎样大好老总要给人<a href=\"/SHNH/redirect.jsp?type=53&value=家\" style=\"color:#6a3e03\">家</a>笑话的。<br/>&nbsp;&nbsp;&nbsp;&nbsp;我恨自己为什么很早就离开了，那可爱的学校，到现在把念的书，都忘了，想想真是后悔。<br/>&nbsp;&nbsp;&nbsp;&nbsp;譬如朋友们拿签名册要我写几句话，那不是要我的命了，真是写来写去只会写“<a href=\"/SHNH/redirect.jsp?type=53&value=奋斗\" style=\"color:#6a3e03\">奋斗</a>”“<a href=\"/SHNH/redirect.jsp?type=53&value=努力\" style=\"color:#6a3e03\">努力</a>”真是笑死人，（自己也好笑）这就是没有才学的笑话，所以一个人（就是大<a href=\"/SHNH/redirect.jsp?type=2&value=明星\" style=\"color:#6a3e03\">明星</a>）的才学，总究比什么还重要，先生们你们以为对吗？<br/>&nbsp;&nbsp;&nbsp;&nbsp;我希望自己能有机会去念书，一方面努力于工作。<br/>&nbsp;&nbsp;&nbsp;&nbsp;这是我感到的一点，所以我写上几句，不好的地方请先生们指正为要。<br/><div align=\"right\"  style=\"padding-right:60\">小孩子周璇写十二，三。</div><br/><div align=\"right\"  style=\"padding-right:60\">《<a href=\"/SHNH/redirect.jsp?type=2&value=艺声\" style=\"color:#6a3e03\">艺声</a>》第二卷第二期1936年[4]月</div>&nbsp;&nbsp;&nbsp;&nbsp;"
+    },
+    {
+      "image": "",
+      "textUri": "http://data.library.sh.cn/dy/resource/text/fwvkie754ag4bd7i",
+      "articalUri": "http://data.library.sh.cn/dy/resource/article/d7zaht2p1g7sh3r3",
+      "source": "《中国影讯》1941,1卷(43期)",
+      "title": "周璇的影后辭職書",
+      "personUri": "http://data.library.sh.cn/entity/person/emfzhg6fzke4tzs9",
+      "content": "<div style=\"font-size:120%\" align=\"center\"><b>周璇的影后辞职书</b></div><br/>&nbsp;&nbsp;&nbsp;&nbsp;在<a href=\"/SHNH/redirect.jsp?type=97&value=我\" style=\"color:#6a3e03\">我</a>们的<a href=\"/SHNH/redirect.jsp?type=2&value=银国\" style=\"color:#6a3e03\">银国</a>里，曾经产生过两个“影后”，第一个是<a href=\"/SHNH/redirect.jsp?type=40&value=胡蝶\" style=\"color:#6a3e03\">胡蝶</a>，由当时大晶报主人冯梦熊，和小型报名编辑陈蝶衣主办，在静安寺路“大沪舞厅”，举行影后<a href=\"/SHNH/redirect.jsp?type=97&value=胡蝶\" style=\"color:#6a3e03\">胡蝶</a>加冕典礼，却是展开了一个富丽的场面，记得在游艺节日里，有<a href=\"/SHNH/redirect.jsp?type=40&value=郑小秋\" style=\"color:#6a3e03\">郑小秋</a><a href=\"/SHNH/redirect.jsp?type=40&value=顾梅君\" style=\"color:#6a3e03\">顾梅君</a>的小放牛，更有<a href=\"/SHNH/redirect.jsp?type=40&value=徐来\" style=\"color:#6a3e03\">徐来</a>的歌唱，那时徐来还没有踏进银国，“标准美人”的头衔，也就在这一次的广告里，开始出现，那天的胡蝶，穿了一件玄色的旗袍，现出了她大方而美丽的态度，还亲自演说了一番，来宾中有闻人，有影星，有歌星，有舞星，更有多量男女影迷，总算在一个热烈的镜头中产生了一位“中国影后”，而且还发行了一本资料充实的“影后特刊”，来作纪念。第二个影后，是<a href=\"/SHNH/redirect.jsp?type=40&value=陈玉梅\" style=\"color:#6a3e03\">陈玉梅</a>，不过这位影后的产生，就没有胡蝶那样的轰动，所以很有许多人加以幽默的批评，说是陈玉梅的影后，“有些自说自话的性质”呢。自从陈玉梅由他的丈夫邵醉翁老板化了一种力量而曾一度加上影后两字头衔之后，直到如今，在我们银国里，并没有产生过第三个影后。因为在几个第一流女<a href=\"/SHNH/redirect.jsp?type=2&value=明星\" style=\"color:#6a3e03\">明星</a>的心理中，都感不到竞选的兴趣，同时更觉得戴上这顶宝冕的空虚，也许因此还会引起多方面的麻烦。<br/>&nbsp;&nbsp;&nbsp;&nbsp;这一次的<a href=\"/SHNH/redirect.jsp?type=2&value=上海\" style=\"color:#6a3e03\">上海</a>日报，忽发雅兴，在他的<a href=\"/SHNH/redirect.jsp?type=2&value=电影\" style=\"color:#6a3e03\">电影</a>附刊里，就发起了一九四一年电影皇后的选择，结果是由<a href=\"/SHNH/redirect.jsp?type=40&value=周璇\" style=\"color:#6a3e03\">周璇</a>当选，那知在上海的日报正式发表这项竞选结果的翌日，周璇却就发表一则启事，说是“顷阅报纸，见某报主办之一九四一年电影皇后选举揭晓广告内，附列贱名，顾璇性情淡泊，不尚荣利，平日除为公司摄片外，业余唯以读者消遣，对于外界情形，极少接触，自问学识技能，均极有限，对于影后名称，绝难接受，并祈勿将影后二字，涉及贱名，则不胜感荷，敬希亮鉴，此启”。从这段启事看来，周璇小姐是决计不愿意加上一顶影后的宝冕，未免使上海日报非常扫兴，不过我们把那则启事分析起来，既不是“自我宣传”，也不是“言不由衷”，她说性情淡泊，的确她在女明星中，是一个好静的红星，我们在交际场中，很不容易发现她的踪跡，再说“不尚荣利”，我们虽不敢下一种断语，但是在她平日素朴的服装上看来，也许可以相信对于虚荣的观念，是相当浅薄，至于说到“学识技能，均极有限”，诚然是一句客气话，然而学无止境，<a href=\"/SHNH/redirect.jsp?type=2&value=艺术\" style=\"color:#6a3e03\">艺术</a>更无止境，金嗓子姑娘其勉之哉！<br/>&nbsp;&nbsp;&nbsp;&nbsp;最后，我以为“影后”这个名称，虽然无非是表示崇高的意思，但是总觉得封建的色彩太浓，也许会有人说：“如今孤岛的银坛上，正在大量产生着‘封建色彩的故事片’，在此时此地，还举一个电影皇后，也算不得‘开倒车’，正合着她们在<a href=\"/SHNH/redirect.jsp?type=2&value=银幕\" style=\"color:#6a3e03\">银幕</a>上的演出”；然而我们站在欣赏和批评的地位，也得尽一些力量来加以正确的推动，所以我以为若要付以一种赞美和崇高的评价，不妨想一个“<a href=\"/SHNH/redirect.jsp?type=2&value=时代\" style=\"color:#6a3e03\">时代</a>性的新名词”去鼓励她们。现在一九四一年的电影皇后，既然由周璇提出了“辞职书”，那么不妨，就把这顶宝冕，收藏了起来，永远使它成为历史上的一件纪念品了罢，好在上海日报的发起选举影后，也无非是偶然的高兴，想把一个崇高的名称，来赞扬一个大众拥护的女艺人而已。<br/><div align=\"right\"  style=\"padding-right:60\">《中国<a href=\"/SHNH/redirect.jsp?type=2&value=影讯\" style=\"color:#6a3e03\">影讯</a>》第一卷第四十三期1941年1月10日</div>&nbsp;&nbsp;&nbsp;&nbsp;"
+    },
+    {
+      "image": "",
+      "textUri": "http://data.library.sh.cn/dy/resource/text/67qg3n74cztmfzsv",
+      "articalUri": "http://data.library.sh.cn/dy/resource/article/e0bp4nuhw2ztozhj",
+      "source": "《金城月刊》1939,(7期)",
+      "title": "周旋論",
+      "personUri": "http://data.library.sh.cn/entity/person/emfzhg6fzke4tzs9",
+      "content": "<div style=\"font-size:120%\" align=\"center\"><b>周璇论</b></div><br/><div align=\"center\">叶公</div>&nbsp;&nbsp;&nbsp;&nbsp;一<br/>&nbsp;&nbsp;&nbsp;&nbsp;过去几年前，歌唱在无线电的空气中，是曾经拥有最多量的群众的，而在全部歌唱播音者群中，合乎音调与口齿的条件而获得群众们的，却只有<a href=\"/SHNH/redirect.jsp?type=40&value=周璇\" style=\"color:#6a3e03\">周璇</a>一人而已。<br/>&nbsp;&nbsp;&nbsp;&nbsp;二<br/>&nbsp;&nbsp;&nbsp;&nbsp;当然，在播音从业员的女性群中，它们都被一些恶劣的环境包围着，有的是堕入了虚荣的死牢，有的被物质引诱了去，可是周璇却凭着清脆的音调，坚强的口齿，<a href=\"/SHNH/redirect.jsp?type=2&value=艺术\" style=\"color:#6a3e03\">艺术</a>的天才，克服了任何的包围，而成为杰出的一员。<br/>&nbsp;&nbsp;&nbsp;&nbsp;三<br/>&nbsp;&nbsp;&nbsp;&nbsp;在影圈极需新人的机会里，周璇毅然放弃了歌坛而开始为<a href=\"/SHNH/redirect.jsp?type=2&value=第八艺术\" style=\"color:#6a3e03\">第八艺术</a>效劳，并且，怀着一颗虚心和谦逊的态度，来增加自己的经验和磨练自己的演技。<br/>&nbsp;&nbsp;&nbsp;&nbsp;于是她的最初作品公映，是被视为一位<a href=\"/SHNH/redirect.jsp?type=2&value=电影\" style=\"color:#6a3e03\">电影</a>演员中最有光芒的新人，而获得一致的好评。<br/>&nbsp;&nbsp;&nbsp;&nbsp;四<br/>&nbsp;&nbsp;&nbsp;&nbsp;由<a href=\"/SHNH/redirect.jsp?type=2&value=艺华\" style=\"color:#6a3e03\">艺华</a>，新华，而<a href=\"/SHNH/redirect.jsp?type=2&value=明星\" style=\"color:#6a3e03\">明星</a>，在舞台艺人<a href=\"/SHNH/redirect.jsp?type=40&value=袁牧之\" style=\"color:#6a3e03\">袁牧之</a>编导的《<a href=\"/SHNH/redirect.jsp?type=53&value=马路天使\" style=\"color:#6a3e03\">马路天使</a>》里，她扮一个孤苦伶仃受尽<a href=\"/SHNH/redirect.jsp?type=53&value=压迫\" style=\"color:#6a3e03\">压迫</a>的卖唱姑娘，凭了她优秀的演技，把这天真无邪的个性，被遗弃在社会最下层的煤渣，代表着呻吟于死亡线边上的千千万万的女性的缩影，灵<a href=\"/SHNH/redirect.jsp?type=53&value=魂\" style=\"color:#6a3e03\">魂</a>且实感的活跃在<a href=\"/SHNH/redirect.jsp?type=2&value=银幕\" style=\"color:#6a3e03\">银幕</a>上，予<a href=\"/SHNH/redirect.jsp?type=2&value=观众\" style=\"color:#6a3e03\">观众</a>以刺心的情绪，而使整个中国<a href=\"/SHNH/redirect.jsp?type=2&value=影坛\" style=\"color:#6a3e03\">影坛</a>上得到一个深切的收获。<br/>&nbsp;&nbsp;&nbsp;&nbsp;五<br/>&nbsp;&nbsp;&nbsp;&nbsp;沪战后，在这里许许多多的从业员离开了<a href=\"/SHNH/redirect.jsp?type=2&value=上海\" style=\"color:#6a3e03\">上海</a>，但是留在“此时此地”的演员群中，仍作不断的<a href=\"/SHNH/redirect.jsp?type=53&value=努力\" style=\"color:#6a3e03\">努力</a>，以埋头于她的艺术事业，最著的仅是这位优异的女星周璇。<br/>&nbsp;&nbsp;&nbsp;&nbsp;六<br/>&nbsp;&nbsp;&nbsp;&nbsp;本年<a href=\"/SHNH/redirect.jsp?type=53&value=春\" style=\"color:#6a3e03\">春</a>天《<a href=\"/SHNH/redirect.jsp?type=53&value=孟姜女\" style=\"color:#6a3e03\">孟姜女</a>》的上映，观众的推崇是充分地表现了她那进步的演技。<br/>&nbsp;&nbsp;&nbsp;&nbsp;七<br/>&nbsp;&nbsp;&nbsp;&nbsp;她的明朗的口齿，清脆的发音，优美的轮廓，是她的特异处，她的艺术的天才，实际的本能，是她的基础点，她的完美的演技，俭约的德性，是使她得到现在的地位。<br/>&nbsp;&nbsp;&nbsp;&nbsp;因此，周璇的光芒于中国的银坛，并非是一般影星所能同论的。<br/><div align=\"right\"  style=\"padding-right:60\">《<a href=\"/SHNH/redirect.jsp?type=2&value=金城月刊\" style=\"color:#6a3e03\">金城月刊</a>》 第七期 1939年6月15日</div>&nbsp;&nbsp;&nbsp;&nbsp;"
+    },
+    {
+      "image": "",
+      "textUri": "http://data.library.sh.cn/dy/resource/text/7t4kvu80soo6bjd8",
+      "articalUri": "http://data.library.sh.cn/dy/resource/article/h22patv0raq6d5wq",
+      "source": "《大众影讯》1943,3卷(47期)",
+      "title": "我愛歌唱",
+      "personUri": "http://data.library.sh.cn/entity/person/emfzhg6fzke4tzs9",
+      "content": "<div style=\"font-size:120%\" align=\"center\"><b>我爱歌唱</b></div><br/><div align=\"center\"><a href=\"/SHNH/redirect.jsp?type=40&value=周璇\" style=\"color:#6a3e03\">周璇</a></div>&nbsp;&nbsp;&nbsp;&nbsp;沉长的岁月，仿佛在<a href=\"/SHNH/redirect.jsp?type=97&value=我\" style=\"color:#6a3e03\">我</a>头顶上掠过，每当早晨，我面对着这架亲爱的“披爱农”试炼我的歌喉时，太阳，飞鸟，流云，他们都飞跃在我眼帘前，叫我看了这大自然的景物，每天会增加无穷的乐趣。<br/>&nbsp;&nbsp;&nbsp;&nbsp;出神了，我有时不自觉的把手放下，鹦鹉跳跃着，嘹亮地一声，鼓励了我歌唱的心弦……<br/>&nbsp;&nbsp;&nbsp;&nbsp;我爱唱歌，比自己的生命更甚，每天，无论在<a href=\"/SHNH/redirect.jsp?type=53&value=家\" style=\"color:#6a3e03\">家</a>里，在摄影场上，甚至化装完毕之后，站在“<a href=\"/SHNH/redirect.jsp?type=2&value=开麦拉\" style=\"color:#6a3e03\">开麦拉</a>”的前面，我也不自禁的哼着，歌着。<br/>&nbsp;&nbsp;&nbsp;&nbsp;十余年的薰陶，我没有一天离开了歌，放弃了我的歌唱生活，我曾经向我的妈说：“我的一生是为唱歌而活的”，妈不大了解我这句话。时常谴责我的怪脾气。<br/>&nbsp;&nbsp;&nbsp;&nbsp;前几年，歌剧像雨后<a href=\"/SHNH/redirect.jsp?type=53&value=春\" style=\"color:#6a3e03\">春</a>笋般的，广大地流行着，投身在歌唱队里，天南地北的到处表演着。我到过斐列滨，欣赏那热带的景色。也到过山海关的边缘，经历西北<a href=\"/SHNH/redirect.jsp?type=53&value=风\" style=\"color:#6a3e03\">风</a>的滋味，然而我是快乐的，我的歌唱在这时候打下基础。<br/>&nbsp;&nbsp;&nbsp;&nbsp;歌喉一半是天赋，另一半是需要磨练。贺綠汀先生说我的嗓音近乎B调，所以让我唱些抒情的歌曲，《<a href=\"/SHNH/redirect.jsp?type=53&value=何日君再来\" style=\"color:#6a3e03\">何日君再来</a>》的所以会受广大的听众的欢迎，也是会了这个缘故。<br/>&nbsp;&nbsp;&nbsp;&nbsp;除此之外，我还唱过许多民间山歌似的小曲，这是<a href=\"/SHNH/redirect.jsp?type=40&value=袁牧之\" style=\"color:#6a3e03\">袁牧之</a>先生给我的启示，《<a href=\"/SHNH/redirect.jsp?type=53&value=马路天使\" style=\"color:#6a3e03\">马路天使</a>》插曲，——《<a href=\"/SHNH/redirect.jsp?type=53&value=天涯歌女\" style=\"color:#6a3e03\">天涯歌女</a>》和《四季歌》，都是从最流行的民间歌曲中采摘出来的。田汉先生给我配上了动人的词儿，唱的时候，自有一种情感在我的心房里爬动着。<br/>&nbsp;&nbsp;&nbsp;&nbsp;情感的流露帮助我的歌唱有不少的益处，我又得到了许多宝贵的经验，知道歌唱和情感，应该让它俩平衡发展。<br/>&nbsp;&nbsp;&nbsp;&nbsp;很多<a href=\"/SHNH/redirect.jsp?type=2&value=观众\" style=\"color:#6a3e03\">观众</a>与歌迷来问我唱歌的经验与秘诀。这教我如何回答呢？歌唱根本没有秘诀，也没有<a href=\"/SHNH/redirect.jsp?type=53&value=门\" style=\"color:#6a3e03\">门</a>径。所主要的，不外和其他各个部门的<a href=\"/SHNH/redirect.jsp?type=2&value=艺术\" style=\"color:#6a3e03\">艺术</a>修养一样，只是不断地学习，长时的锻炼吧了！<br/>&nbsp;&nbsp;&nbsp;&nbsp;“歌唱是我的灵<a href=\"/SHNH/redirect.jsp?type=53&value=魂\" style=\"color:#6a3e03\">魂</a>，我把整个的生活献给它。”这是我的誓言，我牢牢地实践着，永远地，永远的…………<br/><div align=\"right\"  style=\"padding-right:60\">《<a href=\"/SHNH/redirect.jsp?type=2&value=大众影讯\" style=\"color:#6a3e03\">大众影讯</a>》第三卷第四十七期1943年6月12日</div>&nbsp;&nbsp;&nbsp;&nbsp;"
+    },
+    {
+      "image": "",
+      "textUri": "http://data.library.sh.cn/dy/resource/text/z5hf3a58hrowaows",
+      "articalUri": "http://data.library.sh.cn/dy/resource/article/htp3kcai0a6a4tzl",
+      "source": "《大上海周刊》1943,(6期)",
+      "title": "三年",
+      "personUri": "http://data.library.sh.cn/entity/person/emfzhg6fzke4tzs9",
+      "content": "<div style=\"font-size:120%\" align=\"center\"><b>三年</b></div><br/><div align=\"center\"><a href=\"/SHNH/redirect.jsp?type=40&value=周璇\" style=\"color:#6a3e03\">周璇</a></div>&nbsp;&nbsp;&nbsp;&nbsp;只要你是关心中国的<a href=\"/SHNH/redirect.jsp?type=2&value=电影\" style=\"color:#6a3e03\">电影</a><a href=\"/SHNH/redirect.jsp?type=2&value=艺术\" style=\"color:#6a3e03\">艺术</a>的，那末；<a href=\"/SHNH/redirect.jsp?type=97&value=我\" style=\"color:#6a3e03\">我</a>相信你是一定不会陌生“周璇”的一个名字吧。的确：周璇非但是在<a href=\"/SHNH/redirect.jsp?type=2&value=银幕\" style=\"color:#6a3e03\">银幕</a>上具有一个久远的历史。那是在歌坛上，也该算是一位著名的健将，不是吗？早期的“明月社”和前《大晚报》所选举的全国三大歌星中，都有周璇的名字吗！<br/>&nbsp;&nbsp;&nbsp;&nbsp;这次：趁周璇重返银坛之际，记者请她为本刊选述自白一则，想来必定读者所欢迎的。（慕容小明）<br/>&nbsp;&nbsp;&nbsp;&nbsp;一<br/>&nbsp;&nbsp;&nbsp;&nbsp;时光在流波里很快的消失，不竟已过了<a href=\"/SHNH/redirect.jsp?type=53&value=三年\" style=\"color:#6a3e03\">三年</a>了。<br/>&nbsp;&nbsp;&nbsp;&nbsp;啊：<a href=\"/SHNH/redirect.jsp?type=97&value=三年\" style=\"color:#6a3e03\">三年</a>，一个长远的过去——<br/>&nbsp;&nbsp;&nbsp;&nbsp;二<br/>&nbsp;&nbsp;&nbsp;&nbsp;三年前，我是渺小的。<br/>&nbsp;&nbsp;&nbsp;&nbsp;三年后，我还是一样的。<br/>&nbsp;&nbsp;&nbsp;&nbsp;三<br/>&nbsp;&nbsp;&nbsp;&nbsp;回忆三年前的一天，我离开了<a href=\"/SHNH/redirect.jsp?type=53&value=家\" style=\"color:#6a3e03\">家</a>庭——不那个牢笼。离开了丈夫的桎梏，走向了<a href=\"/SHNH/redirect.jsp?type=53&value=自由天地\" style=\"color:#6a3e03\">自由天地</a>。——大约你总还记得吧，我和严华先生的婚变（那条置我于死地的警告启事）。<br/>&nbsp;&nbsp;&nbsp;&nbsp;当我离开了家庭以后，我便同了<a href=\"/SHNH/redirect.jsp?type=53&value=母亲\" style=\"color:#6a3e03\">母亲</a>居住在柳中浩先生的家里。柳先生对我是慈爱的。关心的。<br/>&nbsp;&nbsp;&nbsp;&nbsp;四<br/>&nbsp;&nbsp;&nbsp;&nbsp;当婚变发生以后，我一直这么想：“我今后是不是仍旧道上银幕那？”<br/>&nbsp;&nbsp;&nbsp;&nbsp;在最初，也许是为了我的理智约束不住奔放的情感，因此：我是万念俱灰了，我觉得自己的一生是完了，所以：我决心以后放弃银幕生涯了。<br/>&nbsp;&nbsp;&nbsp;&nbsp;但是：日子一久，理智渐渐地恢复了回过来。它很明白的告诉我说；“为了自己的艺术前途，还是应该要躺上摄影场的”。<br/>&nbsp;&nbsp;&nbsp;&nbsp;所以；我便遵着它做了，我曾经摄过了《<a href=\"/SHNH/redirect.jsp?type=53&value=梦断关山\" style=\"color:#6a3e03\">梦断关山</a>》，《恼人<a href=\"/SHNH/redirect.jsp?type=53&value=春\" style=\"color:#6a3e03\">春</a>色》二部影片。<br/>&nbsp;&nbsp;&nbsp;&nbsp;五<br/>&nbsp;&nbsp;&nbsp;&nbsp;当中华电影联合股份有限公司开幕的时候，经了许多友人的拉拢，我也很想趁机加入，但是倒霉的事情却跟着发生了，原来为了自己乘自由车的不慎，竟会跌弯了腿骨，没法，只得在床上度过了半年的宝贵的岁月。<br/>&nbsp;&nbsp;&nbsp;&nbsp;六<br/>&nbsp;&nbsp;&nbsp;&nbsp;今年三月，病好了，于是；我便毅然的参加了“华影”。开摄《<a href=\"/SHNH/redirect.jsp?type=53&value=渔家女\" style=\"color:#6a3e03\">渔家女</a>》。<br/>&nbsp;&nbsp;&nbsp;&nbsp;七<br/>&nbsp;&nbsp;&nbsp;&nbsp;自从婚变发生以来，我已经听见过许多人这么传说了：“周旋和严华已经破镜重圆了！”<br/>&nbsp;&nbsp;&nbsp;&nbsp;其实，破镜岂可重圆呢？<br/>&nbsp;&nbsp;&nbsp;&nbsp;虽然：在这长长的三年的岁月里，我是曾经见过一二次严华的面，但是谁也没有说话，仅是互相的看上一眼，我也不知道自己的心情中究竟想讲些什么？<br/>&nbsp;&nbsp;&nbsp;&nbsp;大约是我欲无言吧。<br/>&nbsp;&nbsp;&nbsp;&nbsp;现在呢？我早已搬出了柳家，和母亲一同居住在霞飞路上。是一幢优雅的小洋房，假如你不善寻觅的话，那你一定是找不到我的寓所的，因为它是深藏在条荫深处。<br/>&nbsp;&nbsp;&nbsp;&nbsp;八<br/>&nbsp;&nbsp;&nbsp;&nbsp;我的房间的正面对着霞飞路，窗前便是碧绿洋梧桐，右面窗前垂着细长的柳丝，左面是住着一对法国夫妇，男的是音乐家，时常，他还拉着那支声音幽远的提琴。所以我就在这里置放了那架黑色的钢琴。<br/>&nbsp;&nbsp;&nbsp;&nbsp;——寂寞时，它便是我唯一的伴侣了。<br/>&nbsp;&nbsp;&nbsp;&nbsp;往常，我总请母亲坐在钢琴附近的一张沙发上，我静静地弹出了许多不同的乐曲。<br/>&nbsp;&nbsp;&nbsp;&nbsp;除此拍<a href=\"/SHNH/redirect.jsp?type=2&value=戏\" style=\"color:#6a3e03\">戏</a>以外，我是很难有机会出<a href=\"/SHNH/redirect.jsp?type=53&value=门\" style=\"color:#6a3e03\">门</a>的。自然是为熟人太多的缘故。<br/>&nbsp;&nbsp;&nbsp;&nbsp;九<br/>&nbsp;&nbsp;&nbsp;&nbsp;至于在这次《渔家女》中，我饰的是一个渔家的孩子，很吻合我的个性。可惜的是我辍影的时间太长了，难免有些生疏。<br/>&nbsp;&nbsp;&nbsp;&nbsp;今后：也许我会拍《<a href=\"/SHNH/redirect.jsp?type=53&value=红楼梦\" style=\"color:#6a3e03\">红楼梦</a>》。饰林黛玉一角的。<br/>&nbsp;&nbsp;&nbsp;&nbsp;不过，这是“也许”，因为至今还没有接到公司当局正式的通知。<br/>&nbsp;&nbsp;&nbsp;&nbsp;关于这；是多蒙公司当局的青睐。如冯节先生，张善琨先生等，他们对我全是相当厚爱的。<br/>&nbsp;&nbsp;&nbsp;&nbsp;当然，我以后更应凭终生献身艺术的心情，为自己获得更进一步的基础。<br/>&nbsp;&nbsp;&nbsp;&nbsp;十<br/>&nbsp;&nbsp;&nbsp;&nbsp;三年后的今日，虽然我仍是渺小的，但是……但是；我能刻苦的磨练接受严肃的批判。<br/><div align=\"right\"  style=\"padding-right:60\">《大<a href=\"/SHNH/redirect.jsp?type=2&value=上海\" style=\"color:#6a3e03\">上海</a>周刊》第六期1943年9月19日</div><br/>&nbsp;&nbsp;&nbsp;&nbsp;"
+    },
+    {
+      "image": "",
+      "textUri": "http://data.library.sh.cn/dy/resource/text/48s7ceq5rf2ju4fi",
+      "articalUri": "http://data.library.sh.cn/dy/resource/article/jy8574gd6dsn3e80",
+      "source": "《上海影坛》1943,1卷(1期)",
+      "title": "周璇塑像",
+      "personUri": "http://data.library.sh.cn/entity/person/emfzhg6fzke4tzs9",
+      "content": "<div style=\"font-size:120%\" align=\"center\"><b>周璇塑像</b></div><br/><div align=\"center\">文熊</div>&nbsp;&nbsp;&nbsp;&nbsp;未访问<a href=\"/SHNH/redirect.jsp?type=40&value=周璇\" style=\"color:#6a3e03\">周璇</a>之前，<a href=\"/SHNH/redirect.jsp?type=97&value=我\" style=\"color:#6a3e03\">我</a>准备对她的演技先来一个检讨。<br/>&nbsp;&nbsp;&nbsp;&nbsp;周璇有着丰富的演<a href=\"/SHNH/redirect.jsp?type=2&value=戏\" style=\"color:#6a3e03\">戏</a>天才，她擅于演戏，是谁都应该承认的。如果她没有演戏天才，也不会被<a href=\"/SHNH/redirect.jsp?type=40&value=袁牧之\" style=\"color:#6a3e03\">袁牧之</a>发崛。如果她不擅于演戏，《<a href=\"/SHNH/redirect.jsp?type=53&value=马路天使\" style=\"color:#6a3e03\">马路天使</a>》中便不能使她一举成名。是的，她最适宜扮演的角色便是那种天真未泯的小姑娘。假使你看过《马路天使》，一定会记得她在唱《四季相思》的那种逗人的神情是多么美妙，你也还记得她受到了冤曲后的那种伤心的表情是何等的深刻。你对于她的<a href=\"/SHNH/redirect.jsp?type=2&value=印象\" style=\"color:#6a3e03\">印象</a>，该是何等的好呢！<br/>&nbsp;&nbsp;&nbsp;&nbsp;古装片盛行的当儿，她披上了古典的衣饰，更显露了她东方美的特有气质。《<a href=\"/SHNH/redirect.jsp?type=53&value=孟姜女\" style=\"color:#6a3e03\">孟姜女</a>》，《<a href=\"/SHNH/redirect.jsp?type=53&value=李三娘\" style=\"color:#6a3e03\">李三娘</a>》，《<a href=\"/SHNH/redirect.jsp?type=53&value=董小宛\" style=\"color:#6a3e03\">董小宛</a>》各片中的演技，赚得了多少人的同情之泪呢？她那楚楚可怜的姿态，又有多少对她怜惜？谁的印象在我们的脑海中比她更深刻？<br/>&nbsp;&nbsp;&nbsp;&nbsp;也许，你更深切的记得她在《<a href=\"/SHNH/redirect.jsp?type=53&value=新地狱\" style=\"color:#6a3e03\">新地狱</a>》和《<a href=\"/SHNH/redirect.jsp?type=53&value=西厢记\" style=\"color:#6a3e03\">西厢记</a>》中的那种玩皮的表情。运用一双灵活的眸子做戏，中国<a href=\"/SHNH/redirect.jsp?type=2&value=电影\" style=\"color:#6a3e03\">电影</a>界中还能找出第二人吗？谁说她不能演喜剧？这不是明白地表现了她的喜剧天才吗？我敢保证：如果她能演一部十足喜剧的片子，演技一定不会弱于她表现悲剧的成就的。<br/>&nbsp;&nbsp;&nbsp;&nbsp;现在，你应该相信她的演戏天才是丰富的，她的演戏路子是广阔的。可是，我们却未曾看到她演过一部令人十足满意的片子，这未始不是椿遗憾。虽说她的天才是丰富的，戏路是广阔的，而且她还是那么虚心和<a href=\"/SHNH/redirect.jsp?type=53&value=努力\" style=\"color:#6a3e03\">努力</a>的工作着，用心的在演技上求进着。但是，没有适宜的剧本，没有运用她的技能的好导演，结果她是被那些庸俗的导演的抹杀了。人们只认为她只能哼哼的唱歌者而已，谁知她却是个最优秀的演员？<br/>&nbsp;&nbsp;&nbsp;&nbsp;未访周璇之前，让我来说一说她的歌唱。<br/>&nbsp;&nbsp;&nbsp;&nbsp;周璇的歌唱，那是谁都知道的。有几许的歌迷是迷恋于她的歌唱中，一曲《<a href=\"/SHNH/redirect.jsp?type=53&value=何日君再来\" style=\"color:#6a3e03\">何日君再来</a>》，几乎每一个<a href=\"/SHNH/redirect.jsp?type=2&value=上海\" style=\"color:#6a3e03\">上海</a>的居民都能哼上那么一两声，这魔力是多么伟大啊！<br/>&nbsp;&nbsp;&nbsp;&nbsp;周璇的嗓音是清脆的，是甜蜜的，但音调不够高，却是她的一大缺点，以致影响到她不能唱高音歌曲，这反是椿遗憾。<br/>&nbsp;&nbsp;&nbsp;&nbsp;歌喉一半是天赋，一半也由于磨炼才成。但是，周璇的歌喉，天赋的功绩却占多数。如果你翻问她的历史，便可知道她不曾受过高深的训练的。虽然，她在黎锦晖，严华的教导下，也曾算是受过训练。然而黎，严的对于音乐造诣又有多少程度？他们只是个歌舞商人，难道他们有真实的本领能将周璇训练成为最优秀的歌唱<a href=\"/SHNH/redirect.jsp?type=53&value=家\" style=\"color:#6a3e03\">家</a>吗？他们只是利用周璇的歌喉和色相，来饱满他们的赚钱欲而已。因此，周璇之不能成为个正统的歌唱家，也是理所当然的事了。虽然她在歌舞班中和播音台上，磨炼她自己的歌喉也有很多的年数，但她专唱《毛毛雨》之类的小曲，自然是无甚进境的。到现在为止，她的歌唱只能称之为小曲，是有着这个理由存在的。不过，她虽然唱的是小曲，而音调的优美和悦耳，还是无人能及得上她的。她之所以会有成千万的歌迷拥护，自有她的吸引能力存在。<br/>&nbsp;&nbsp;&nbsp;&nbsp;未访周璇之前，让我再来说一说她的私生活以及为人。<br/>&nbsp;&nbsp;&nbsp;&nbsp;周璇在幼小时候的生活是相当清苦的。十余岁时即为生活的鞭策而跨进了歌舞班，所以她对于节俭是相当知道的。她很朴素，不爱浮华，这是每个与她亲近的人都知道。<br/>&nbsp;&nbsp;&nbsp;&nbsp;无论在她婚变之前或后，她的私生活，一向是很严肃的。你可曾看见她独个儿在交际场所或游乐场中出现？除非有应酬，她总是难得外出的，这也是她值得为人称道的一点。<br/>&nbsp;&nbsp;&nbsp;&nbsp;她的与严华<a href=\"/SHNH/redirect.jsp?type=53&value=离婚\" style=\"color:#6a3e03\">离婚</a>，固然是受了别人从中挑拨所致。但她与严华的不能相偕到老，也是无法否认的事实。她的离婚是值得为人同情的，而且也是必然会发生的事实。<br/>&nbsp;&nbsp;&nbsp;&nbsp;有人说：“她的意志不坚强，所以才会有离婚惨剧的酿成。”这话我可不敢赞同。相反地，她的意志是挺坚强的。她毅然的与严华离婚，正是她意志坚强的表示。而现在她脱离柳家，加入“华影”，也正是其意志坚强的另一证明。如果她的意志不坚强，她还能飞出柳家的牢笼吗？<br/>&nbsp;&nbsp;&nbsp;&nbsp;未访周璇之前，我还得阐述一下她这次重返影界的动机和意义。<br/>&nbsp;&nbsp;&nbsp;&nbsp;退休一年余的周璇，成日的躲在家里，没有工作，只是游荡，实是对于一个年青有为的人不很适宜。周璇年纪还轻，她有她的前途，如果长此以往，她的<a href=\"/SHNH/redirect.jsp?type=53&value=前程\" style=\"color:#6a3e03\">前程</a>是断送了。<br/>&nbsp;&nbsp;&nbsp;&nbsp;一年多的退休，她的名字已渐渐地被人忘怀，在人们的记忆里模糊，她不再被人提及了，她觉得如果不再力图振作，她将被<a href=\"/SHNH/redirect.jsp?type=2&value=观众\" style=\"color:#6a3e03\">观众</a>遗弃。观众是没有怜悯心的，他们不会同情周璇。因此，周璇的东山再起，是必然的事实。她还年青，她有她的事业和前途，如果，再不返银坛，她的一生事业完了，她下半世的生活又将有何依靠呢？所以，她决定重作冯妇，再度渡她的<a href=\"/SHNH/redirect.jsp?type=2&value=水银灯\" style=\"color:#6a3e03\">水银灯</a>生涯。<br/>&nbsp;&nbsp;&nbsp;&nbsp;有人说：她为什么不演舞台剧？舞台剧不也是一条很好的<a href=\"/SHNH/redirect.jsp?type=53&value=出路\" style=\"color:#6a3e03\">出路</a>吗？如何不干一下？重新创造一种事业，较旧的更有价值。<br/>&nbsp;&nbsp;&nbsp;&nbsp;然而，她得顾虑到自己的条件，她的体格矮小，使她不能演话剧；她的嗓音不高，也不演歌剧。而且，她对于舞台上的经验是很缺乏的，她需得再受训练，更何况她的从事演舞台剧，是否可以获得在<a href=\"/SHNH/redirect.jsp?type=2&value=银幕\" style=\"color:#6a3e03\">银幕</a>上一样的成就？这是个最大的问题。<br/>&nbsp;&nbsp;&nbsp;&nbsp;在种种的条件和屡次考虑下，她决定重返<a href=\"/SHNH/redirect.jsp?type=2&value=影城\" style=\"color:#6a3e03\">影城</a>。<a href=\"/SHNH/redirect.jsp?type=2&value=银国\" style=\"color:#6a3e03\">银国</a>是需要她的，她便投入了“华影”的怀抱。<br/>&nbsp;&nbsp;&nbsp;&nbsp;在周璇的香闺中，我晤见她了。她的<a href=\"/SHNH/redirect.jsp?type=53&value=风\" style=\"color:#6a3e03\">风</a>姿依旧，皮色似乎黑了一点，这大概是拍外景时被太阳晒黑的吧！她很静娴，和蔼和温文，待人是那样可亲地。<br/>&nbsp;&nbsp;&nbsp;&nbsp;笔者：周小姐这次重返银坛是使我们感到异常的欣喜，不知周小姐自己有何感觉？<br/>&nbsp;&nbsp;&nbsp;&nbsp;周璇：在家休息了一年多，这次重返到<a href=\"/SHNH/redirect.jsp?type=97&value=水银灯下\" style=\"color:#6a3e03\">水银灯下</a>来工作，是倍形的感到亲切，对于摄影场的一切，似乎重遇故知那样的亲热。同时，我能够得到卜万苍先生的指导，使我感到万分的快乐与兴奋。外界的关切和慰问，我是非常感激的。我希望能好好的拍几部戏，而我自己也更应当努力工作。务使对我爱护的诸位不失望，这才是达到我理想的目标。不过，我恐怕自己的能力不够，有负众望，才是我最感焦急的事。<br/>&nbsp;&nbsp;&nbsp;&nbsp;笔者：这次拍摄《<a href=\"/SHNH/redirect.jsp?type=53&value=渔家女\" style=\"color:#6a3e03\">渔家女</a>》，您对于卜万苍先生的印象怎样？<br/>&nbsp;&nbsp;&nbsp;&nbsp;周璇：卜先生可以说是我的老师，过去我在初进影界的时候，他就时常的指导我，使我对于摄影场的知识能得充足起来。可在后来，我们却未能合作过。这次我能得他的指导，真是非常欣幸的。卜先生做事很认真，对于后学者的指导，又是不嫌其烦的。假使《渔家女》的戏还可一看，卜先生的功绩占大半。<br/>&nbsp;&nbsp;&nbsp;&nbsp;笔者：《渔家女》拍外景时的工作情形可以告诉我吗？<br/>&nbsp;&nbsp;&nbsp;&nbsp;周璇：这一次我们到无锡和苏州两处去拍外景，工作是相当困苦的。第一次因为是黄霉天，所以白跑了一趟。第二次却正是在炎暑的当儿，天气最热，在烈日之下工作，皮肤也晒得灼痛了。我们每天五时起身，晚上七时才回到旅舍休息。一天十四小时是在烈日下工作，有时候因为拍一外景的地点离城稍远，连饭都不吃。虽挥汗如雨，还得静心地演戏，真是太吃力的。这次拍外景的时间虽只三个星期，而工作的吃力较在一影棚里连拍一年还甚呢。不过，同去的工作人员的精神，倒是始终挺饱满的。<br/>&nbsp;&nbsp;&nbsp;&nbsp;笔者：以后您的新作已决定了吗？<br/>&nbsp;&nbsp;&nbsp;&nbsp;周璇：现在还未定夺。也许我要拍摄一部古装片。<br/>&nbsp;&nbsp;&nbsp;&nbsp;写完了访问记，让我来对她下一个总结。<br/>&nbsp;&nbsp;&nbsp;&nbsp;周璇的演戏路线，应该有更形开拓扩大的必要。她必定得改变她以往的风格，让观众对她有新印象，这是需要公司当局给予协助，如果没有好的戏本和优秀的导演，是难能收效的。<br/>&nbsp;&nbsp;&nbsp;&nbsp;对于歌唱，公司当局也应该给予改善。过去周璇是每片必歌的，今后，希望她能减少歌唱的次数。当然我是赞成她的歌喉的，如果公司当局能有优良的作曲让她演唱，也是非常需要的。她的未来的归宿，也是个极重要的，虽然她是个离过婚的妇女，而在又二十世纪的<a href=\"/SHNH/redirect.jsp?type=2&value=时代\" style=\"color:#6a3e03\">时代</a>里，这种封建的思想是必需消除的。而她与柳和铿之恋，双方确能真心的相恋而能白首偕老，这结合是我们所赞同的。但她必须要仔细考虑，以免重蹈以往的覆辙。在人材缺乏的中国<a href=\"/SHNH/redirect.jsp?type=2&value=电影界\" style=\"color:#6a3e03\">电影界</a>，周璇的再起是值得可喜的现象，我<a href=\"/SHNH/redirect.jsp?type=53&value=祝福\" style=\"color:#6a3e03\">祝福</a>她获得成功。<br/><div align=\"right\"  style=\"padding-right:60\">《<a href=\"/SHNH/redirect.jsp?type=2&value=上海影坛\" style=\"color:#6a3e03\">上海影坛</a>》 第一卷第一期 1943年10月10日</div>&nbsp;&nbsp;&nbsp;&nbsp;"
+    },
+    {
+      "image": "",
+      "textUri": "http://data.library.sh.cn/dy/resource/text/f4qk5tm5lwlppwoy",
+      "articalUri": "http://data.library.sh.cn/dy/resource/article/mrkky5upm7zw3yzq",
+      "source": "《上海影剧》1944,(2期)",
+      "title": "我的日常生活",
+      "personUri": "http://data.library.sh.cn/entity/person/emfzhg6fzke4tzs9",
+      "content": "<div style=\"font-size:120%\" align=\"center\"><b>我的日常生活</b></div><br/><div align=\"center\"><a href=\"/SHNH/redirect.jsp?type=40&value=周璇\" style=\"color:#6a3e03\">周璇</a></div>&nbsp;&nbsp;&nbsp;&nbsp;<a href=\"/SHNH/redirect.jsp?type=53&value=人生\" style=\"color:#6a3e03\">人生</a>的过程大都是相差没有多少的，<a href=\"/SHNH/redirect.jsp?type=2&value=电影\" style=\"color:#6a3e03\">电影</a><a href=\"/SHNH/redirect.jsp?type=2&value=明星\" style=\"color:#6a3e03\">明星</a>何常有两样？最近时常有人问起<a href=\"/SHNH/redirect.jsp?type=97&value=我\" style=\"color:#6a3e03\">我</a>日常生活的状况，这种问题，实在使我没有什么话好回答，我自己想，我也是一个普通的人，生活当然与一般人不会有任何区别的。<br/>&nbsp;&nbsp;&nbsp;&nbsp;天气冷，早晨枝头上没有唧唧喳喳的小鸟，在这样清静中有时从远处传来一些过往的车轮声之外，还有壁上自鸣钟的走动声，当它嘡嘡的敲了八下，我应得起床了，梳洗之后，最要紧的便是翻阅几张大小报纸，半点钟之后进早点，否则“空城计”便要上台了。接着弹了一会钢琴，因为弹钢琴是我日常的功课，并且从没有间断过。十二点钟，这是吃午饭的时候了，饭后稍事休息，我最爱看小说，尽属一些长篇小说，这些长篇小说最使我感到兴趣的，当推巴金先生的创作，不过其他几位文坛名宿的巨著当然亦为我所欢喜的，对于这些当今著名文学<a href=\"/SHNH/redirect.jsp?type=53&value=家\" style=\"color:#6a3e03\">家</a>的创作，我亦随时地在留意是否有新的书出版。<br/>&nbsp;&nbsp;&nbsp;&nbsp;下午，三四点钟之后，除了我几个小姐妹谈天之外，有时候或者去看话剧，因为看话剧于无形中亦会启发你演<a href=\"/SHNH/redirect.jsp?type=2&value=戏\" style=\"color:#6a3e03\">戏</a>的知识的。<br/>&nbsp;&nbsp;&nbsp;&nbsp;从前我亦欢喜骑脚踏车，我觉得这是出外最便利的代步工具，但自从腿骨跌坏后，我就有点厌恶它，现在我更不欢喜这断命的脚踏车了！<br/>&nbsp;&nbsp;&nbsp;&nbsp;晚餐后，更无所事事，在这无聊中如没有朋友来访，那末我床畔的无线电收音机是我唯一的良伴了，京戏、滑稽、唱歌等节目我均欢喜听，尤其唱歌，有时听到自己所灌的唱片我是最留意的，歌词中是否有破绽。大约到十一时左右就要睡眠的，我一天的生活就这样的结束。<br/>&nbsp;&nbsp;&nbsp;&nbsp;不过上述的日常生活，但也有例外的时候，假使一遇到公司里拍戏或别的事情，对于时间上的分配当然要两样，而且拍戏工作是没有一定的时间，拍一整天，或拍一个通宵，更甚至于当天的早晨拍起一直继续拍到第二天的早晨都说不定，这些是拍戏常有的事。<br/><div align=\"right\"  style=\"padding-right:60\">《<a href=\"/SHNH/redirect.jsp?type=2&value=上海\" style=\"color:#6a3e03\">上海</a><a href=\"/SHNH/redirect.jsp?type=2&value=影剧\" style=\"color:#6a3e03\">影剧</a>》第二期1944年3月25日</div>&nbsp;&nbsp;&nbsp;&nbsp;"
+    },
+    {
+      "image": "",
+      "textUri": "http://data.library.sh.cn/dy/resource/text/rkw7hgsoqcamgork",
+      "articalUri": "http://data.library.sh.cn/dy/resource/article/sjjwkf0wdmbsgn8a",
+      "source": "《电影话剧》1948,(2期)",
+      "title": "影星百詠——周璇",
+      "personUri": "http://data.library.sh.cn/entity/person/emfzhg6fzke4tzs9",
+      "content": "<div style=\"font-size:120%\" align=\"center\"><b>影星百咏——周璇</b></div><br/><div align=\"center\">王冷厂</div><center>玲珑娇俏似尹邢，楚楚灯前窈窕身，睫睫明波无若秀，玉肌雪腕比花神。</center><center>倩姿消瘦不禁<a href=\"/SHNH/redirect.jsp?type=53&value=风\" style=\"color:#6a3e03\">风</a>。淡淡双腮未嫣红，小口传香芳欲滴，置身仿佛月明中。</center><center>珠喉婉转誉称金，花底旈莺逊慧音，一曲清歌赋别调，绕梁三日有余声。</center><center>名歌早使迷众醉，饱悦甜声已十<a href=\"/SHNH/redirect.jsp?type=53&value=春\" style=\"color:#6a3e03\">春</a>，记得当初名月社，摇篮造就此人红。</center><center>好运由来时亦来，新华纵步上银台，镜前初试曾心怯，那晓伊人是美材。</center><center>慧人毕竟慧心灵，稍学规模已得形，最是有名渔<a href=\"/SHNH/redirect.jsp?type=53&value=家\" style=\"color:#6a3e03\">家</a>女，至今犹忆作良型。</center><center>结识严郎人未久，悄然北去结丝箩，只因少却前生缘，一刹时光又起波。</center><center>饱经心酸几沧桑，七载孤帷影里傍，绮梦无情匆兮去，不如乘此觅相当。</center><center>相说伊人与石恋，传来非语早详端，个中是否双怀意，只待名春证实看。</center><center>年来影事真蓬蓬，南港北滨相样同，饱载美誉旋里转，声名益见更娇红。</center>&nbsp;&nbsp;&nbsp;&nbsp;金嗓子<a href=\"/SHNH/redirect.jsp?type=40&value=周璇\" style=\"color:#6a3e03\">周璇</a>，在今日<a href=\"/SHNH/redirect.jsp?type=2&value=影坛\" style=\"color:#6a3e03\">影坛</a>歌星<a href=\"/SHNH/redirect.jsp?type=2&value=明星\" style=\"color:#6a3e03\">明星</a>中坐第一把交椅，她的清丽，婉转，甜润的歌声，数年来传播了中外的每一角落，备受无数影迷歌迷的爱戴，她给影坛上，争着不少的光辉。<br/>&nbsp;&nbsp;&nbsp;&nbsp;她的成就，当然不是侥幸的，完全由于她自己艰苦的<a href=\"/SHNH/redirect.jsp?type=53&value=奋斗\" style=\"color:#6a3e03\">奋斗</a>才得有今天光芒的代价，所以<a href=\"/SHNH/redirect.jsp?type=97&value=我\" style=\"color:#6a3e03\">我</a>们对多艺的周璇，她的始末，值得向读者一下。<br/>&nbsp;&nbsp;&nbsp;&nbsp;她是<a href=\"/SHNH/redirect.jsp?type=2&value=上海\" style=\"color:#6a3e03\">上海</a>人，小时候曾在宁波求学，十三岁时由张琬介绍进明月社习唱歌，这时候便认识严华，但不久明月社解散，严华自组新华社，招伊加入，在“金城大<a href=\"/SHNH/redirect.jsp?type=2&value=戏\" style=\"color:#6a3e03\">戏</a>院”演出《<a href=\"/SHNH/redirect.jsp?type=53&value=秋\" style=\"color:#6a3e03\">秋</a>风落燕》剧，曾轰动一时，周璇之名，亦渐渐开始走红起来。<br/>&nbsp;&nbsp;&nbsp;&nbsp;不久，由画家丁悚的介绍，进<a href=\"/SHNH/redirect.jsp?type=2&value=艺华\" style=\"color:#6a3e03\">艺华</a><a href=\"/SHNH/redirect.jsp?type=2&value=电影\" style=\"color:#6a3e03\">电影</a>公司，扬身<a href=\"/SHNH/redirect.jsp?type=2&value=银幕\" style=\"color:#6a3e03\">银幕</a>，第一次在岳枫导演的《<a href=\"/SHNH/redirect.jsp?type=53&value=花烛之夜\" style=\"color:#6a3e03\">花烛之夜</a>》中演出，即有很好的成绩，从此她便获得很多拍戏的机会，走上了电影红星的道路。<br/>&nbsp;&nbsp;&nbsp;&nbsp;<a href=\"/SHNH/redirect.jsp?type=53&value=青春\" style=\"color:#6a3e03\">青春</a>的火焰，抑不了两性的热情，当她在十九岁的时候，与严华炙手可热。情达沸点，总于双双北上结婚，但结婚后不到数年，双方的情感却又恶化，甚至无法挽回，总于宣告仳离了。<br/>&nbsp;&nbsp;&nbsp;&nbsp;时光荏苒，岁月催人，她自从脱离严华后，至尽已整整七年了，回忆在过去漫长的七年岁月中，她凭着自己的<a href=\"/SHNH/redirect.jsp?type=2&value=艺术\" style=\"color:#6a3e03\">艺术</a>，来维护弱小的生命，所谓“自食其力”，这的确是值得令人钦佩的一件事。<br/>&nbsp;&nbsp;&nbsp;&nbsp;关于她未来的归宿，是颇为引人的注意，虽然是传说与<a href=\"/SHNH/redirect.jsp?type=40&value=石挥\" style=\"color:#6a3e03\">石挥</a>热恋，但至今仍未有喜讯的传出，毕竟好梦是否能圆，现在尚不能断定，只待日后她俩热情进展来证实吧。<br/>&nbsp;&nbsp;&nbsp;&nbsp;年来影事的蓬勃，叩动了她淘金的心弦，不久前她在香港，居住了好久，曾替“大中华”“永华”等，拍摄了数片，现都陆续与<a href=\"/SHNH/redirect.jsp?type=2&value=观众\" style=\"color:#6a3e03\">观众</a>见面了，但是她天真的姿态，甜润的歌声，并没有因青春的暮迟，而损失了美丽的憧憬，依然还是那么的动人，不信，请瞧吧。<br/><div align=\"right\"  style=\"padding-right:60\">《<a href=\"/SHNH/redirect.jsp?type=2&value=电影话剧\" style=\"color:#6a3e03\">电影话剧</a>》第二十期1948年12月16日</div>&nbsp;&nbsp;&nbsp;&nbsp;"
+    },
+    {
+      "image": "",
+      "textUri": "http://data.library.sh.cn/dy/resource/text/a2mclgrneo3w3w5e",
+      "articalUri": "http://data.library.sh.cn/dy/resource/article/tmn5dvvr7yzgmfwr",
+      "source": "《电影杂志》1948,(29期)",
+      "title": "周璇答讀者問",
+      "personUri": "http://data.library.sh.cn/entity/person/emfzhg6fzke4tzs9",
+      "content": "<div style=\"font-size:120%\" align=\"center\"><b>周璇答读者问</b></div><br/><div align=\"center\"><a href=\"/SHNH/redirect.jsp?type=40&value=周璇\" style=\"color:#6a3e03\">周璇</a></div>&nbsp;&nbsp;&nbsp;&nbsp;问：你灌过多少唱片？那张是你最喜欢的？<a href=\"/SHNH/redirect.jsp?type=97&value=我\" style=\"color:#6a3e03\">我</a>希望完全学会它。<br/>&nbsp;&nbsp;&nbsp;&nbsp;答：记不得了，比较自己喜欢的，还是初期的一张《难民歌》。<br/>&nbsp;&nbsp;&nbsp;&nbsp;问：你的歌喉是天生抑或是苦炼而成的？怎样保护？以你自己的意见“金嗓子”还能保持多久的日子？<br/>&nbsp;&nbsp;&nbsp;&nbsp;答：既非天生，也非苦炼，我也不懂怎样去保护。“金嗓子”愧不敢当；反正能唱一天，就多唱一天。<br/>&nbsp;&nbsp;&nbsp;&nbsp;问：近来少见你有新的唱片为什么？是否拍有歌唱的片较为合你意？以后多灌些唱片能否？<br/>&nbsp;&nbsp;&nbsp;&nbsp;答：近来比较少一些，也许是时间不容许的关系。歌唱片，我对它较有好感，可能的话，当多灌几张。<br/>&nbsp;&nbsp;&nbsp;&nbsp;问：你与<a href=\"/SHNH/redirect.jsp?type=40&value=白杨\" style=\"color:#6a3e03\">白杨</a>在国产片中为我们学生中最爱好的演员？你的意见怎样？能否送给我们一帖相片作为纪念？<br/>&nbsp;&nbsp;&nbsp;&nbsp;答：我也羡慕你们这群<a href=\"/SHNH/redirect.jsp?type=2&value=时代\" style=\"color:#6a3e03\">时代</a>的骄子——学生生活，因为我是失学的人。照片，将来补送罢！多谢你的关怀！<br/>&nbsp;&nbsp;&nbsp;&nbsp;问：喜欢来我们这南方的广州作一较长时间的欣赏吗？我们欢迎你如此。（以上穗中华北路清泉街梅英梅问）<br/>&nbsp;&nbsp;&nbsp;&nbsp;答：很愿意旅行一次广州。将来也许可能事实。<br/>&nbsp;&nbsp;&nbsp;&nbsp;问：人<a href=\"/SHNH/redirect.jsp?type=53&value=家\" style=\"color:#6a3e03\">家</a>称你为“金嗓子”，当你在唱歌的时候，你认为有什么特殊的地方，请你坦白地说，是否“名符其实”？<br/>&nbsp;&nbsp;&nbsp;&nbsp;答：只有惭愧！唱时没有什么特殊的地方，不过在我未唱之前，总是先体会一下歌词的意义。“名符其实”，还不是你们的故意谬奖！<br/>&nbsp;&nbsp;&nbsp;&nbsp;问：当你接到许多影迷质询你的信，会不会感到讨厌，麻烦？答覆时是否还得要向人家请教或有私人秘书——你的“他”？<br/>&nbsp;&nbsp;&nbsp;&nbsp;答：绝对不讨厌，很欢迎。自己答覆时多，因为我尚未聘有秘书啊！<br/>&nbsp;&nbsp;&nbsp;&nbsp;问：你在<a href=\"/SHNH/redirect.jsp?type=2&value=影坛\" style=\"color:#6a3e03\">影坛</a>生活过程中有没有受到意外刺激，假如曾经受到，你又将以什么来解决你的痛苦？<br/>&nbsp;&nbsp;&nbsp;&nbsp;答：背一句对联作为答覆罢：“不如意事常八九，可对人言无二三！”<br/>&nbsp;&nbsp;&nbsp;&nbsp;问：你在未上影坛之前有为着什么的思想吗？献身<a href=\"/SHNH/redirect.jsp?type=2&value=银幕\" style=\"color:#6a3e03\">银幕</a>后，又有什么感觉？<br/>&nbsp;&nbsp;&nbsp;&nbsp;答：未上影坛之前，我尚在童年，根本说不上有什么思想；献身银幕之后，感觉到越演越害怕，因为凡事不进则退！<br/>&nbsp;&nbsp;&nbsp;&nbsp;问：你自从上银幕生活后，感到有什么特殊的进步（除唱歌外）？（以上南昌渡头镇胡？成问）<br/>&nbsp;&nbsp;&nbsp;&nbsp;答：没有！<br/>&nbsp;&nbsp;&nbsp;&nbsp;问：你的<a href=\"/SHNH/redirect.jsp?type=53&value=人生\" style=\"color:#6a3e03\">人生</a>观如何？<br/>&nbsp;&nbsp;&nbsp;&nbsp;答：做人本不是一件容易的事，所以要好好的做像一个人。<br/>&nbsp;&nbsp;&nbsp;&nbsp;问：你每天看小报吗？如果有人在报纸上说你所不喜欢听的话，你是不是要生气？<br/>&nbsp;&nbsp;&nbsp;&nbsp;答：小报不常看。假使有像你所说的事，我绝对不生气。心地坦白，何畏人言，对吗？<br/>&nbsp;&nbsp;&nbsp;&nbsp;问：你从影以来喜欢和那位男<a href=\"/SHNH/redirect.jsp?type=2&value=明星\" style=\"color:#6a3e03\">明星</a>合演？<br/>&nbsp;&nbsp;&nbsp;&nbsp;答：演员以服从为天职，怎容私见呢？<br/>&nbsp;&nbsp;&nbsp;&nbsp;问：你对于<a href=\"/SHNH/redirect.jsp?type=2&value=好莱坞\" style=\"color:#6a3e03\">好莱坞</a>所出品的影片有怎样的一种概念？<br/>&nbsp;&nbsp;&nbsp;&nbsp;答：并非“月亮也是美国的好”，好莱坞的出品，好在片片认真，这是我浅见。<br/>&nbsp;&nbsp;&nbsp;&nbsp;问：你的签名照片可否送我一张？只是我最希望的？（以上汉口江汉路仁寿里王凤子问）<br/>&nbsp;&nbsp;&nbsp;&nbsp;答：暂时无以报命。<br/>&nbsp;&nbsp;&nbsp;&nbsp;问：你现在住在那里？芳龄多少？几月几日是你的生日！（以上鼓浪屿小影迷荘慧敏问）<br/>&nbsp;&nbsp;&nbsp;&nbsp;答：我现在住在<a href=\"/SHNH/redirect.jsp?type=2&value=上海\" style=\"color:#6a3e03\">上海</a>，虚度二十以上，三十以下。生日在阳历九月间，不知你问此何用？<br/>&nbsp;&nbsp;&nbsp;&nbsp;问：你对于外国明星中最喜欢谁？<br/>&nbsp;&nbsp;&nbsp;&nbsp;答：叶凤黛卡洛（Yvonne De Carlo）<br/>&nbsp;&nbsp;&nbsp;&nbsp;问：你献身影界已很久了，曾感到一个<a href=\"/SHNH/redirect.jsp?type=2&value=电影\" style=\"color:#6a3e03\">电影</a>演员对国家民族的责任是什么吗？（以上北平南池子丁尚仁问）<br/>&nbsp;&nbsp;&nbsp;&nbsp;答：请多多指示！我在这里向你立正致敬！<br/>&nbsp;&nbsp;&nbsp;&nbsp;问：请问小姐为何要与严华<a href=\"/SHNH/redirect.jsp?type=53&value=离婚\" style=\"color:#6a3e03\">离婚</a>？离婚有多久了？（汉口小夹街两仪里单琴问）<br/>&nbsp;&nbsp;&nbsp;&nbsp;答：请你原谅！免谈往事，好吗？<br/>&nbsp;&nbsp;&nbsp;&nbsp;问：你平时喜欢和什么人接近；你讨厌那一些人？<br/>&nbsp;&nbsp;&nbsp;&nbsp;答：人人为我，我为人人，说不上喜欢和讨厌。<br/>&nbsp;&nbsp;&nbsp;&nbsp;问：你喜欢那一类的歌：爵士音乐，古典音乐？（苏州孙孝敬问）<br/>&nbsp;&nbsp;&nbsp;&nbsp;答：两者都喜欢，但较爱后者。<br/>&nbsp;&nbsp;&nbsp;&nbsp;问：你同<a href=\"/SHNH/redirect.jsp?type=40&value=李丽华\" style=\"color:#6a3e03\">李丽华</a>、徐琼玉是义结三姐妹吗？<br/>&nbsp;&nbsp;&nbsp;&nbsp;答：你听谁说的？<br/>&nbsp;&nbsp;&nbsp;&nbsp;问：穿衣服要费去多少时间？（以上汉口四民街李萍问）<br/>&nbsp;&nbsp;&nbsp;&nbsp;答：这可不一定吧？因为衣服有单有棉，费时也就不能一律了。<br/>&nbsp;&nbsp;&nbsp;&nbsp;问：你怎样学唱新歌？我想照你方法学习。（汉口铭新街鼎丰里罗忆碧问）<br/>&nbsp;&nbsp;&nbsp;&nbsp;答：“曲不离口”而已！<br/>&nbsp;&nbsp;&nbsp;&nbsp;问：你有何种嗜好，或无？（南京中山路何怀珍问）<br/>&nbsp;&nbsp;&nbsp;&nbsp;答：我爱小动物，无论猫、狗、鱼、鸟。<br/>&nbsp;&nbsp;&nbsp;&nbsp;问：小姐本名为周小红吗？周璇艺名为何人所取？<br/>&nbsp;&nbsp;&nbsp;&nbsp;答：叫周小绿也未尝不可，璇乃自己所取。<br/>&nbsp;&nbsp;&nbsp;&nbsp;问：你对<a href=\"/SHNH/redirect.jsp?type=40&value=石挥\" style=\"color:#6a3e03\">石挥</a>的<a href=\"/SHNH/redirect.jsp?type=2&value=印象\" style=\"color:#6a3e03\">印象</a>怎样？（以上四川成都下同仁路袁珠凌问）<br/>&nbsp;&nbsp;&nbsp;&nbsp;答：和普通朋友一样。<br/>&nbsp;&nbsp;&nbsp;&nbsp;问：能不能告诉我关于你的身世，籍贯，年龄及通讯处？（厦<a href=\"/SHNH/redirect.jsp?type=53&value=门\" style=\"color:#6a3e03\">门</a>鹤韵问）<br/>&nbsp;&nbsp;&nbsp;&nbsp;答：早年失怙，萱堂健在。原籍广东，年近三旬，现住上海。<br/>&nbsp;&nbsp;&nbsp;&nbsp;问：大部份的影星对于婚姻不太慎重，其用心是否藉以扬名？（武昌乾福巷李崇仁问）<br/>&nbsp;&nbsp;&nbsp;&nbsp;答：仁者见仁，智者见智，似是而非。<br/>&nbsp;&nbsp;&nbsp;&nbsp;问：你相信命运么？（南京牌楼巷苏静问）<br/>&nbsp;&nbsp;&nbsp;&nbsp;答：可信而可不信，不可全信，不可不信。<br/>&nbsp;&nbsp;&nbsp;&nbsp;问：严华的结婚你有些什么感想？（无锡电信局沈以谷问）<br/>&nbsp;&nbsp;&nbsp;&nbsp;答：社会上多一美满家庭，如此而已！<br/>&nbsp;&nbsp;&nbsp;&nbsp;问：我的女儿燕玉今年十四岁，他有与你一样的“金嗓子”，可是他很想踏入影界，请问有什么办法没有？你能介绍吗？（南昌市下水巷白菊问）<br/>&nbsp;&nbsp;&nbsp;&nbsp;答：请注意各公司招考演员的消息，不妨前往一试，有志者事竟成，预祝令嫒前途无量！<br/>&nbsp;&nbsp;&nbsp;&nbsp;问：抗战八年中你主演过些什么片子，（昆明云南大学王兆民问）<br/>&nbsp;&nbsp;&nbsp;&nbsp;答：一时无从统计，好在各杂志报章的报导消息，足可供你参考。<br/>&nbsp;&nbsp;&nbsp;&nbsp;问：你在《<a href=\"/SHNH/redirect.jsp?type=53&value=忆江南\" style=\"color:#6a3e03\">忆江南</a>》片中一人兼饰姊妹二角色，摄影时候是怎么样拍的呢？（广州长提火火炎问）<br/>&nbsp;&nbsp;&nbsp;&nbsp;答：这是剪接的手法。<br/>&nbsp;&nbsp;&nbsp;&nbsp;问：做一个明星在<a href=\"/SHNH/redirect.jsp?type=2&value=艺术\" style=\"color:#6a3e03\">艺术</a>上的成就是否受年龄的限制？<br/>&nbsp;&nbsp;&nbsp;&nbsp;答：不一定这末说，我认为一个对事对人认真的人，是无可限制的。<br/>&nbsp;&nbsp;&nbsp;&nbsp;问：做一个优秀而前进的演员他应具备什么基本条件？（兰州贡元巷曾繁英问）<br/>&nbsp;&nbsp;&nbsp;&nbsp;答：认真！万事认真！尊意云何？<br/>&nbsp;&nbsp;&nbsp;&nbsp;附启：<br/>&nbsp;&nbsp;&nbsp;&nbsp;承蒙读者关爱，以时间和才力的限制，漏答的地方很多！请多多原谅！<br/>&nbsp;&nbsp;&nbsp;&nbsp;近来我对文言文，很有兴趣，容我再多研究些时，以后有机会，很愿答复来信，以就教于，诸君之前！祝<br/>&nbsp;&nbsp;&nbsp;&nbsp;诸位健康！<br/>&nbsp;&nbsp;&nbsp;&nbsp;                             <div align=\"right\"  style=\"padding-right:60\">《<a href=\"/SHNH/redirect.jsp?type=2&value=电影杂志\" style=\"color:#6a3e03\">电影杂志</a>》 第二十九期 1948年 12月1日</div>&nbsp;&nbsp;&nbsp;&nbsp;"
+    },
+    {
+      "image": "",
+      "textUri": "http://data.library.sh.cn/dy/resource/text/3pf5t0r3vo0bho7w",
+      "articalUri": "http://data.library.sh.cn/dy/resource/article/u5a3pamm548j60sg",
+      "source": "《电影杂志》1947,(1期)",
+      "title": "問周璇",
+      "personUri": "http://data.library.sh.cn/entity/person/emfzhg6fzke4tzs9",
+      "content": "<div style=\"font-size:120%\" align=\"center\"><b>问周璇</b></div><br/>&nbsp;&nbsp;&nbsp;&nbsp;在华山路一座巍峨的大楼——枕流公寓，金嗓子<a href=\"/SHNH/redirect.jsp?type=40&value=周璇\" style=\"color:#6a3e03\">周璇</a>的香闺，<a href=\"/SHNH/redirect.jsp?type=97&value=我\" style=\"color:#6a3e03\">我</a>找到了发问的机会，那时，她妆扮得这般的美丽，禁不住打趣着说：<br/>&nbsp;&nbsp;&nbsp;&nbsp;△你妆扮得这样齐整，是打算外出吗？<br/>&nbsp;&nbsp;&nbsp;&nbsp;——不，我天天这样的，今天没事，尽可谈谈。（她用一块雪白的小手帕，轻轻的按了下猩红的小嘴唇，微笑着。）<br/>&nbsp;&nbsp;&nbsp;&nbsp;△当你拍过<a href=\"/SHNH/redirect.jsp?type=2&value=戏\" style=\"color:#6a3e03\">戏</a>，正在休息的时候，不讨厌我来打扰吗？<br/>&nbsp;&nbsp;&nbsp;&nbsp;——那里？提起拍戏，也不过忙的时候，整日整夜的忙，可是忙过了，也就闲了。<br/>&nbsp;&nbsp;&nbsp;&nbsp;△我很想知道你对过去所演的影片，觉得那部最满意？<br/>&nbsp;&nbsp;&nbsp;&nbsp;——我都觉得不满意，不过……《<a href=\"/SHNH/redirect.jsp?type=53&value=马路天使\" style=\"color:#6a3e03\">马路天使</a>》最让我怀念。因为许多朋友们，都喜欢它，其次是《<a href=\"/SHNH/redirect.jsp?type=53&value=各有千秋\" style=\"color:#6a3e03\">各有千秋</a>》了。<br/>&nbsp;&nbsp;&nbsp;&nbsp;△你最爱那一类的角色呢？<br/>&nbsp;&nbsp;&nbsp;&nbsp;——照理说呢，作为演员，应该认定一个固定型的角色去<a href=\"/SHNH/redirect.jsp?type=53&value=努力\" style=\"color:#6a3e03\">努力</a>，但我总想演多方面的，这样才不会被拘禁一隅。惟其如此，也就怕失之太滥，难有心得，你说是不？<br/>&nbsp;&nbsp;&nbsp;&nbsp;△很对！但不知你生平所演，认为那一幕戏最难做？<br/>&nbsp;&nbsp;&nbsp;&nbsp;——这个……（她凝神昂首）哦！最怕剧情太繁杂！例如本来有悲伤而哭，这是可以连贯演下去的，可是马上由哭而变成笑，那不是一件容易的事呐！<br/>&nbsp;&nbsp;&nbsp;&nbsp;△你对于摄影场工作中，最恨的是什么？<br/>&nbsp;&nbsp;&nbsp;&nbsp;——我最恨夏天拍戏！假使正遇到要用冬天的服装去演的话，那更使我害怕了！<br/>&nbsp;&nbsp;&nbsp;&nbsp;△你对于中国女星的<a href=\"/SHNH/redirect.jsp?type=2&value=艺术\" style=\"color:#6a3e03\">艺术</a>，觉的谁最优秀？<br/>&nbsp;&nbsp;&nbsp;&nbsp;——全比我好，全够优秀。（她呷了一口茶，又微睇着一笑，显得她不肯实说。）<br/>&nbsp;&nbsp;&nbsp;&nbsp;△你常看外国影片吗？有何感想？<br/>&nbsp;&nbsp;&nbsp;&nbsp;——是呀！不过最近因为时间的关系，很少看！<br/>&nbsp;&nbsp;&nbsp;&nbsp;△你爱看那一种外国影片？<br/>&nbsp;&nbsp;&nbsp;&nbsp;——我爱看外国文艺片，每看完一片，后来老是想上半天，这种呆事，我是常做的。<br/>&nbsp;&nbsp;&nbsp;&nbsp;△愿听你将来的计划？<br/>&nbsp;&nbsp;&nbsp;&nbsp;——我希望摄几部有社会意义的片子。<br/>&nbsp;&nbsp;&nbsp;&nbsp;我燃上一枝烟，慢慢的吸着，觉得老是谈<a href=\"/SHNH/redirect.jsp?type=2&value=电影\" style=\"color:#6a3e03\">电影</a>，也许要感到沉闷，于是我在日常生活中，拣题发问：<br/>&nbsp;&nbsp;&nbsp;&nbsp;△你最喜欢穿什么颜色和式样的衣服？<br/>&nbsp;&nbsp;&nbsp;&nbsp;——衣服吗？（她显得比方才更兴奋了）以前最喜欢灰色的和蓝色的，现在倒喜欢黄色的，至于式样，我是力主简单大方的。<br/>&nbsp;&nbsp;&nbsp;&nbsp;△当你空闲时，你怎样消遣呢？<br/>&nbsp;&nbsp;&nbsp;&nbsp;看电影，读小说。<br/>&nbsp;&nbsp;&nbsp;&nbsp;△哪一类的小说？<br/>&nbsp;&nbsp;&nbsp;&nbsp;——<a href=\"/SHNH/redirect.jsp?type=2&value=电影杂志\" style=\"color:#6a3e03\">电影杂志</a>，短篇的哀情小说。<br/>&nbsp;&nbsp;&nbsp;&nbsp;△你常用什么牌子的化妆品？<br/>&nbsp;&nbsp;&nbsp;&nbsp;——密丝佛杜。<br/>&nbsp;&nbsp;&nbsp;&nbsp;△什么颜色的唇胶？<br/>&nbsp;&nbsp;&nbsp;&nbsp;——淡红的。<br/>&nbsp;&nbsp;&nbsp;&nbsp;△现在时行“道士头”，你说好看吗？<br/>&nbsp;&nbsp;&nbsp;&nbsp;——这也是配合脸盘子，有的梳了道士头益发增加了妩媚，有的竟会灭损原有的美丽。<br/>&nbsp;&nbsp;&nbsp;&nbsp;△你爱<a href=\"/SHNH/redirect.jsp?type=53&value=家\" style=\"color:#6a3e03\">家</a>畜飞禽吗？<br/>&nbsp;&nbsp;&nbsp;&nbsp;——我啊！（她高兴得站了起来，手舞足蹈的样子）我最爱小猫小狗，以前我住在霞飞路汝林路时，我就养了好几对呢，不过住在楼上总觉得不方便。鸟雀也喜欢，但是不懂养法，兴趣因之减少了！<br/>&nbsp;&nbsp;&nbsp;&nbsp;△你最喜欢吃什么小菜？<br/>&nbsp;&nbsp;&nbsp;&nbsp;——小菜吗？！我最喜欢吃鸡！要红烧的鸡，青菜也爱吃呢！（天真无邪地）<br/>&nbsp;&nbsp;&nbsp;&nbsp;△你最喜欢的运动是什么呢？<br/>&nbsp;&nbsp;&nbsp;&nbsp;——说出来，你可别笑！我对各项运动，虽都喜欢，可是都不成，你看我不是从来没有拍过一帖游泳照吗…但我却会一种小儿孩子的顽意——羽毛球呢。（她一字一点头的笑起来了）记得我在香港时，一位朱小姐常陪我打。（她双手托住下颚，也许这位久别的朱小姐，突然映上她的脑海了）<br/>&nbsp;&nbsp;&nbsp;&nbsp;△朱小姐是谁呀？<br/>&nbsp;&nbsp;&nbsp;&nbsp;——她吗？她叫慧英，她还教我念过英文呢。（友怀的情绪，笼罩在她的眉目间）<br/>&nbsp;&nbsp;&nbsp;&nbsp;△那末你在香港期中，九龙一定到过了？<br/>&nbsp;&nbsp;&nbsp;&nbsp;——是呀；九龙真好玩，我一辈子也忘不了，马路宽大行人稀少，环境优美极了，那里像<a href=\"/SHNH/redirect.jsp?type=2&value=上海\" style=\"color:#6a3e03\">上海</a>这样，走路像逃难！<br/>&nbsp;&nbsp;&nbsp;&nbsp;△你到过的地方也不少了吧？<br/>&nbsp;&nbsp;&nbsp;&nbsp;——我啊，到过北平，天津，杭州，青岛，和菲律滨……（她板着指头默数着）当我又燃上一枝烟时，我早就打算把话题引到<a href=\"/SHNH/redirect.jsp?type=40&value=石挥\" style=\"color:#6a3e03\">石挥</a>方面去，不过我不得转弯抹角绕圈子，于是我假作不经意的问道：<br/>&nbsp;&nbsp;&nbsp;&nbsp;△假使你有了汽车洋房，你觉得是否满意？<br/>&nbsp;&nbsp;&nbsp;&nbsp;——我不想，也没做过这黄金梦。<br/>&nbsp;&nbsp;&nbsp;&nbsp;△你以为男性的面貌清秀的好呢还是粗壮好<br/>&nbsp;&nbsp;&nbsp;&nbsp;——太清秀也不好，太粗壮也不，失之过当，总不相宜吧？<br/>&nbsp;&nbsp;&nbsp;&nbsp;△男性穿中装好看呢？还是穿西服好看？<br/>&nbsp;&nbsp;&nbsp;&nbsp;——这也得看所谓那个男性的身量而定，据一般的看法，肩膀阔大而胸脯突高的人，是适宜于穿西服的，反之，还是穿中装来得自然大方。<br/>&nbsp;&nbsp;&nbsp;&nbsp;△你最知己的男朋友是谁？<br/>&nbsp;&nbsp;&nbsp;&nbsp;——哎！（我假作作不经的问，她倒受了一惊！但她很俏皮的答复）我告诉你，男朋友很多很多！<br/>&nbsp;&nbsp;&nbsp;&nbsp;△周小姐，直说不妨！<br/>&nbsp;&nbsp;&nbsp;&nbsp;——我问你：（他的外交手段完全使了出来）像你今天和我谈的话，我不敢要求你不发表，那末就直写我的男友很多很多，这不完了！（说过后她哈哈大笑，那边正房里的她的<a href=\"/SHNH/redirect.jsp?type=53&value=母亲\" style=\"color:#6a3e03\">母亲</a>和女傭跟着笑起来了）<br/>&nbsp;&nbsp;&nbsp;&nbsp;△那末你预备在什么时候和石先生结婚？<br/>&nbsp;&nbsp;&nbsp;&nbsp;——我不否认，也不承认。结婚不结婚，那还得听命运和环境的支配，不过一时的友谊，还好。（她这样时非常镇静）<br/>&nbsp;&nbsp;&nbsp;&nbsp;△以友谊的立场，你看石先生有何优点？有何弱点？<br/>&nbsp;&nbsp;&nbsp;&nbsp;——他吗？（脸红了一下，接着很快的改口道）石先生的优弱点，我一时还批评不出和见不到什么特殊的显著之处，不过我觉得他（这里的他，她没改正为石先生）虽不温柔，也不粗暴，给他（又是个他）四个字吧：“沉默寡言”！<br/>&nbsp;&nbsp;&nbsp;&nbsp;△你理想的结婚生活要怎样才觉得美满？<br/>&nbsp;&nbsp;&nbsp;&nbsp;——但求生活能够安定而已。<br/>&nbsp;&nbsp;&nbsp;&nbsp;△假使你有了孩子你预备给他（或她）题什么名字呢，<br/>&nbsp;&nbsp;&nbsp;&nbsp;——哈哈……（她羞人答答的笑）这个问题太早了吧等到那时，我们（喔！好容易等到她说“我们”两字）应该请你们弄笔头的先生们代题。<br/>&nbsp;&nbsp;&nbsp;&nbsp;△你最恨人家造你什么谣言？<br/>&nbsp;&nbsp;&nbsp;&nbsp;——造谣？这是人家的事！（娥眉紧皱，喜气全消）人家爱造谣，有什么法子想呢（她又转怒为喜了）咳！有一时期，我因为人家造得我太委曲，我曾痛哭过好几回，那时我的确沉不住气的怨尤起来，可是现在想开了，根本不值一笑！总而言之，谣言是谣言，事实是事实。<br/>&nbsp;&nbsp;&nbsp;&nbsp;我想借机结束座谭了，似乎应该把她从<a href=\"/SHNH/redirect.jsp?type=53&value=不堪回首\" style=\"color:#6a3e03\">不堪回首</a>的烦恼中，解脱到愉快的氛围中来。<br/>&nbsp;&nbsp;&nbsp;&nbsp;△我想起来了，你有什么绰号吗？<br/>&nbsp;&nbsp;&nbsp;&nbsp;——你看！问得多有趣？！告诉你也没关系，以前人家叫我“小老头子”呢！<br/>&nbsp;&nbsp;&nbsp;&nbsp;△啊！谁题的？为什么这样题法呢？<br/>&nbsp;&nbsp;&nbsp;&nbsp;——还不是那两个小鬼，那讨厌的叶红叶英，哦，你大概不会认识她的。为什么题呢，因为我以前反串很多老头子玩呢。<br/>&nbsp;&nbsp;&nbsp;&nbsp;△周小姐，我想洗耳恭听你一曲钢琴再走，可以吗？<br/>&nbsp;&nbsp;&nbsp;&nbsp;——好的，不过我也弹不好，她起身嫣然一笑，姗姗的走向琴傍。<br/>&nbsp;&nbsp;&nbsp;&nbsp;铿锵的琴声，悠扬的响了起来，整个的会客室里，有初<a href=\"/SHNH/redirect.jsp?type=53&value=秋\" style=\"color:#6a3e03\">秋</a>的凉<a href=\"/SHNH/redirect.jsp?type=53&value=风\" style=\"color:#6a3e03\">风</a>吹拂着，周老太太从房里出来，在她的简短谈话里，得知周璇的<a href=\"/SHNH/redirect.jsp?type=97&value=父亲\" style=\"color:#6a3e03\">父亲</a>——周文鼎，是应云卫的至友，她们是广东人，但周璇却生长在上海的，老太太今年已五<a href=\"/SHNH/redirect.jsp?type=53&value=十七岁\" style=\"color:#6a3e03\">十七岁</a>了，生平不打牌，不念佛，就是喜欢一杯老酒，所以年纪高了，时常闹起小病。周璇的生日是八月中秋日，今年她的生日，大概要到杭州去，因为那时或许要去拍外景。<br/><div align=\"right\"  style=\"padding-right:60\">《电影杂志》第一期 1947年10月1日</div>&nbsp;&nbsp;&nbsp;&nbsp;"
+    }
+  ],
+  "videoOfPerson": [
+    {
+      "videoUri": "http://data.library.sh.cn/dy/resource/video/pfp2brdskn6a80y5",
+      "videoPath": "https://img.library.sh.cn/dy/video/pfp2brdskn6a80y5/movie.m3u8",
+      "title": "周璇在《马路天使》中饰小红"
+    },
+    {
+      "videoUri": "http://data.library.sh.cn/dy/resource/video/qzwpdwkeany4pp5r",
+      "videoPath": "https://img.library.sh.cn/dy/video/qzwpdwkeany4pp5r/movie.m3u8",
+      "title": "周璇在《红楼梦》中饰林黛玉"
+    }
+  ],
+  "audioOfPerson": [
+    {
+      "musicUri": "http://data.library.sh.cn/dy/resource/music/z6wg0lrvdgfmi2ho",
+      "title": "天涯歌女",
+      "audioUri": "http://data.library.sh.cn/dy/resource/audio/6w0tzgh7c2eewfmu",
+      "audioPath": "https://img.library.sh.cn/dy/audio/6w0tzgh7c2eewfmu/audio.m3u8"
+    },
+    {
+      "musicUri": "http://data.library.sh.cn/dy/resource/music/uqtiotc5pz2jwvd1",
+      "title": "四季歌",
+      "audioUri": "http://data.library.sh.cn/dy/resource/audio/7z3wk7r0kjdkds5h",
+      "audioPath": "https://img.library.sh.cn/dy/audio/7z3wk7r0kjdkds5h/audio.m3u8"
+    }
+  ]
+}

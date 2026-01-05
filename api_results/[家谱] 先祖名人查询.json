@@ -1,0 +1,359 @@
+{
+  "@graph": [
+    {
+      "@id": "http://data.library.sh.cn/jp/entity/person/2mzgcpwh3n3i3woc",
+      "@type": "http://www.library.sh.cn/ontology/Person",
+      "label": [
+        {
+          "@language": "chs",
+          "@value": "胡昌翼"
+        },
+        {
+          "@language": "cht",
+          "@value": "胡昌翼"
+        }
+      ],
+      "relatedWork": "http://data.library.sh.cn/jp/resource/work/0y2t7betllxm4h6f",
+      "roleOfFamily": "http://data.library.sh.cn/jp/vocab/ancestor/shi-zu",
+      "familyName": "http://data.library.sh.cn/authority/familyname/rvmgzfsec8os93mv"
+    },
+    {
+      "@id": "http://data.library.sh.cn/jp/entity/person/3f689tbm8lluf19a",
+      "@type": "http://www.library.sh.cn/ontology/Person",
+      "label": [
+        {
+          "@language": "cht",
+          "@value": "胡昌翼"
+        },
+        {
+          "@language": "chs",
+          "@value": "胡昌翼"
+        }
+      ],
+      "relatedWork": "http://data.library.sh.cn/jp/resource/work/fvhqr5xsnbsdiglt",
+      "roleOfFamily": "http://data.library.sh.cn/jp/vocab/ancestor/xian-zu",
+      "temporal": "http://data.library.sh.cn/authority/temporal/icdquglj1cgbekqk",
+      "temporalValue": "唐",
+      "familyName": "http://data.library.sh.cn/authority/familyname/rvmgzfsec8os93mv"
+    },
+    {
+      "@id": "http://data.library.sh.cn/jp/entity/person/3my2hirfztbmasrb",
+      "@type": "http://www.library.sh.cn/ontology/Person",
+      "label": [
+        {
+          "@language": "cht",
+          "@value": "胡昌翼"
+        },
+        {
+          "@language": "chs",
+          "@value": "胡昌翼"
+        }
+      ],
+      "relatedWork": "http://data.library.sh.cn/jp/resource/work/d355ddk4lit4ngi4",
+      "roleOfFamily": "http://data.library.sh.cn/jp/vocab/ancestor/shi-zu",
+      "temporal": "http://data.library.sh.cn/authority/temporal/yex4deivsad41p9q",
+      "temporalValue": "明",
+      "familyName": "http://data.library.sh.cn/authority/familyname/rvmgzfsec8os93mv"
+    },
+    {
+      "@id": "http://data.library.sh.cn/jp/entity/person/3yjivsnthj44zfi7",
+      "@type": "http://www.library.sh.cn/ontology/Person",
+      "label": [
+        {
+          "@language": "chs",
+          "@value": "胡昌翼"
+        },
+        {
+          "@language": "cht",
+          "@value": "胡昌翼"
+        }
+      ],
+      "relatedWork": "http://data.library.sh.cn/jp/resource/work/x6ab1vzvjj12hl54",
+      "roleOfFamily": "http://data.library.sh.cn/jp/vocab/ancestor/shi-qian-zu",
+      "temporal": "http://data.library.sh.cn/authority/temporal/icdquglj1cgbekqk",
+      "temporalValue": "唐",
+      "familyName": "http://data.library.sh.cn/authority/familyname/rvmgzfsec8os93mv"
+    },
+    {
+      "@id": "http://data.library.sh.cn/jp/entity/person/aos2f9fi1xvv47dt",
+      "@type": "http://www.library.sh.cn/ontology/Person",
+      "label": [
+        {
+          "@language": "cht",
+          "@value": "胡昌翼"
+        },
+        {
+          "@language": "chs",
+          "@value": "胡昌翼"
+        }
+      ],
+      "relatedWork": "http://data.library.sh.cn/jp/resource/work/rjb8w8vooiq6hyoe",
+      "roleOfFamily": "http://data.library.sh.cn/jp/vocab/ancestor/shi-qian-zu",
+      "http://www.library.sh.cn/ontology/serialNo": 1,
+      "temporal": "http://data.library.sh.cn/authority/temporal/icdquglj1cgbekqk",
+      "temporalValue": "唐",
+      "familyName": "http://data.library.sh.cn/authority/familyname/rvmgzfsec8os93mv"
+    },
+    {
+      "@id": "http://data.library.sh.cn/jp/entity/person/czqrmnfiby4oz9gy",
+      "@type": "http://www.library.sh.cn/ontology/Person",
+      "label": [
+        {
+          "@language": "cht",
+          "@value": "胡昌翼"
+        },
+        {
+          "@language": "chs",
+          "@value": "胡昌翼"
+        }
+      ],
+      "relatedWork": "http://data.library.sh.cn/jp/resource/work/awj15d5qo51u5ssm",
+      "roleOfFamily": "http://data.library.sh.cn/jp/vocab/ancestor/shi-zu",
+      "temporal": "http://data.library.sh.cn/authority/temporal/pizh5ypd5d17u795",
+      "temporalValue": "宋代",
+      "familyName": "http://data.library.sh.cn/authority/familyname/rvmgzfsec8os93mv"
+    },
+    {
+      "@id": "http://data.library.sh.cn/jp/entity/person/f9dc9ngnk19ch5ub",
+      "@type": "http://www.library.sh.cn/ontology/Person",
+      "label": [
+        {
+          "@language": "cht",
+          "@value": "胡昌翼"
+        },
+        {
+          "@language": "chs",
+          "@value": "胡昌翼"
+        }
+      ],
+      "relatedWork": "http://data.library.sh.cn/jp/resource/work/d355ddk4lit4ngi4",
+      "roleOfFamily": "http://data.library.sh.cn/jp/vocab/ancestor/xian-zu",
+      "familyName": "http://data.library.sh.cn/authority/familyname/rvmgzfsec8os93mv"
+    },
+    {
+      "@id": "http://data.library.sh.cn/jp/entity/person/h48qepl8k5yt63pp",
+      "@type": "http://www.library.sh.cn/ontology/Person",
+      "label": [
+        {
+          "@language": "chs",
+          "@value": "胡昌翼"
+        },
+        {
+          "@language": "cht",
+          "@value": "胡昌翼"
+        }
+      ],
+      "relatedWork": "http://data.library.sh.cn/jp/resource/work/apeg27xkveh6evwh",
+      "roleOfFamily": "http://data.library.sh.cn/jp/vocab/ancestor/shi-qian-zu",
+      "http://www.library.sh.cn/ontology/serialNo": 1,
+      "temporal": "http://data.library.sh.cn/authority/temporal/1muluhi3chuyhtw1",
+      "temporalValue": "北宋",
+      "familyName": "http://data.library.sh.cn/authority/familyname/rvmgzfsec8os93mv"
+    },
+    {
+      "@id": "http://data.library.sh.cn/jp/entity/person/iumekssi3oj5heqs",
+      "@type": "http://www.library.sh.cn/ontology/Person",
+      "label": [
+        {
+          "@language": "chs",
+          "@value": "胡昌翼"
+        },
+        {
+          "@language": "cht",
+          "@value": "胡昌翼"
+        }
+      ],
+      "relatedWork": "http://data.library.sh.cn/jp/resource/work/2yv9hfmuo7dziipk",
+      "roleOfFamily": "http://data.library.sh.cn/jp/vocab/ancestor/shi-zu",
+      "familyName": "http://data.library.sh.cn/authority/familyname/rvmgzfsec8os93mv"
+    },
+    {
+      "@id": "http://data.library.sh.cn/jp/entity/person/lzc4v1mdmfl97i7o",
+      "@type": "http://www.library.sh.cn/ontology/Person",
+      "label": [
+        {
+          "@language": "cht",
+          "@value": "胡昌翼"
+        },
+        {
+          "@language": "chs",
+          "@value": "胡昌翼"
+        }
+      ],
+      "courtesyName": "宏遠",
+      "orderOfSeniority": "十七",
+      "relatedWork": "http://data.library.sh.cn/jp/resource/work/nyeyti5iuc5fh5hc",
+      "roleOfFamily": "http://data.library.sh.cn/jp/vocab/ancestor/shi-zu",
+      "temporal": "http://data.library.sh.cn/authority/temporal/icdquglj1cgbekqk",
+      "temporalValue": "五代後唐",
+      "familyName": "http://data.library.sh.cn/authority/familyname/rvmgzfsec8os93mv"
+    },
+    {
+      "@id": "http://data.library.sh.cn/jp/entity/person/ofp327ur6dz7p6f7",
+      "@type": "http://www.library.sh.cn/ontology/Person",
+      "label": [
+        {
+          "@language": "cht",
+          "@value": "胡昌翼"
+        },
+        {
+          "@language": "chs",
+          "@value": "胡昌翼"
+        }
+      ],
+      "relatedWork": [
+        "http://data.library.sh.cn/jp/resource/work/wbtajje5irhd2i2b",
+        "http://data.library.sh.cn/jp/resource/work/wjs4tmyodh7zsexl"
+      ],
+      "roleOfFamily": "http://data.library.sh.cn/jp/vocab/ancestor/shi-zu",
+      "temporal": "http://data.library.sh.cn/authority/temporal/icdquglj1cgbekqk",
+      "temporalValue": "唐",
+      "familyName": "http://data.library.sh.cn/authority/familyname/rvmgzfsec8os93mv"
+    },
+    {
+      "@id": "http://data.library.sh.cn/jp/entity/person/qjv7c3e5z9xwkvy9",
+      "@type": "http://www.library.sh.cn/ontology/Person",
+      "label": [
+        {
+          "@language": "chs",
+          "@value": "胡昌翼"
+        },
+        {
+          "@language": "cht",
+          "@value": "胡昌翼"
+        }
+      ],
+      "relatedWork": "http://data.library.sh.cn/jp/resource/work/x6ab1vzvjj12hl54",
+      "roleOfFamily": "http://data.library.sh.cn/jp/vocab/ancestor/shi-zu",
+      "temporal": "http://data.library.sh.cn/authority/temporal/qafeg12mhoqfidor",
+      "temporalValue": "天祐元年",
+      "familyName": "http://data.library.sh.cn/authority/familyname/rvmgzfsec8os93mv"
+    },
+    {
+      "@id": "http://data.library.sh.cn/jp/entity/person/s7f28htz6ld7h4yw",
+      "@type": "http://www.library.sh.cn/ontology/Person",
+      "label": [
+        {
+          "@language": "cht",
+          "@value": "胡昌翼"
+        },
+        {
+          "@language": "chs",
+          "@value": "胡昌翼"
+        }
+      ],
+      "relatedWork": "http://data.library.sh.cn/jp/resource/work/hc12rj4og7jb6qex",
+      "roleOfFamily": "http://data.library.sh.cn/jp/vocab/ancestor/shi-zu",
+      "familyName": "http://data.library.sh.cn/authority/familyname/rvmgzfsec8os93mv"
+    },
+    {
+      "@id": "http://data.library.sh.cn/jp/entity/person/skqwshhsloh3uh7j",
+      "@type": "http://www.library.sh.cn/ontology/Person",
+      "label": [
+        {
+          "@language": "chs",
+          "@value": "胡昌翼"
+        },
+        {
+          "@language": "cht",
+          "@value": "胡昌翼"
+        }
+      ],
+      "relatedWork": "http://data.library.sh.cn/jp/resource/work/1v5q6kemudpk44wl",
+      "roleOfFamily": "http://data.library.sh.cn/jp/vocab/ancestor/xian-zu",
+      "familyName": "http://data.library.sh.cn/authority/familyname/rvmgzfsec8os93mv"
+    },
+    {
+      "@id": "http://data.library.sh.cn/jp/entity/person/svvbsazerlkzltzw",
+      "@type": "http://www.library.sh.cn/ontology/Person",
+      "label": [
+        {
+          "@language": "cht",
+          "@value": "胡昌翼"
+        },
+        {
+          "@language": "chs",
+          "@value": "胡昌翼"
+        }
+      ],
+      "courtesyName": "宏遠",
+      "relatedWork": "http://data.library.sh.cn/jp/resource/work/dy8zgwi5iad7jv4i",
+      "roleOfFamily": "http://data.library.sh.cn/jp/vocab/ancestor/shi-zu",
+      "familyName": "http://data.library.sh.cn/authority/familyname/rvmgzfsec8os93mv"
+    },
+    {
+      "@id": "http://data.library.sh.cn/jp/entity/person/vyri3day3xgzxcl7",
+      "@type": "http://www.library.sh.cn/ontology/Person",
+      "label": [
+        {
+          "@language": "chs",
+          "@value": "胡昌翼"
+        },
+        {
+          "@language": "cht",
+          "@value": "胡昌翼"
+        }
+      ],
+      "relatedWork": [
+        "http://data.library.sh.cn/jp/resource/work/2qnzpzkvl2bf6axu",
+        "http://data.library.sh.cn/jp/resource/work/i3wo2wa7sowzkrvt",
+        "http://data.library.sh.cn/jp/resource/work/4gjzzbnts3xs7wsw"
+      ],
+      "roleOfFamily": "http://data.library.sh.cn/jp/vocab/ancestor/shi-zu",
+      "temporal": "http://data.library.sh.cn/authority/temporal/mcwzpg3bobv41ks9",
+      "temporalValue": "五代",
+      "familyName": "http://data.library.sh.cn/authority/familyname/rvmgzfsec8os93mv"
+    },
+    {
+      "@id": "http://data.library.sh.cn/jp/entity/person/xrpqajzt8nimuplz",
+      "@type": "http://www.library.sh.cn/ontology/Person",
+      "label": [
+        {
+          "@language": "chs",
+          "@value": "胡昌翼"
+        },
+        {
+          "@language": "cht",
+          "@value": "胡昌翼"
+        }
+      ],
+      "relatedWork": [
+        "http://data.library.sh.cn/jp/resource/work/5ec7tj89s8qtpo6x",
+        "http://data.library.sh.cn/jp/resource/work/8xlhz7jsq3vs3dsm",
+        "http://data.library.sh.cn/jp/resource/work/a3fr98bu5h1d5q4f",
+        "http://data.library.sh.cn/jp/resource/work/8zss1lu63uj61nws",
+        "http://data.library.sh.cn/jp/resource/work/x6ab1vzvjj12hl54"
+      ],
+      "roleOfFamily": "http://data.library.sh.cn/jp/vocab/ancestor/shi-qian-zu",
+      "temporal": "http://data.library.sh.cn/authority/temporal/icdquglj1cgbekqk",
+      "temporalValue": "唐",
+      "familyName": "http://data.library.sh.cn/authority/familyname/rvmgzfsec8os93mv"
+    }
+  ],
+  "@context": {
+    "label": "http://bibframe.org/vocab/label",
+    "temporalValue": "http://www.library.sh.cn/ontology/temporalValue",
+    "orderOfSeniority": "http://www.library.sh.cn/ontology/orderOfSeniority",
+    "courtesyName": "http://www.library.sh.cn/ontology/courtesyName",
+    "roleOfFamily": {
+      "@id": "http://www.library.sh.cn/ontology/roleOfFamily",
+      "@type": "@id"
+    },
+    "familyName": {
+      "@id": "http://xmlns.com/foaf/0.1/familyName",
+      "@type": "@id"
+    },
+    "relatedWork": {
+      "@id": "http://www.library.sh.cn/ontology/relatedWork",
+      "@type": "@id"
+    },
+    "temporal": {
+      "@id": "http://www.library.sh.cn/ontology/temporal",
+      "@type": "@id"
+    },
+    "serialNo": {
+      "@id": "http://www.library.sh.cn/ontology/serialNo",
+      "@type": "http://www.w3.org/2001/XMLSchema#integer"
+    }
+  }
+}

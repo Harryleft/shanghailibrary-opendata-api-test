@@ -1,0 +1,192 @@
+{
+  "data": {
+    "address": "武康路99号",
+    "created": "1928",
+    "houseNumber": "99号",
+    "description": "武康路99号，始建于1928年，沪上英国乡村别墅设计风格的代表性住宅之一，山墙和外墙上有半露木构架，红砖勒脚，屋顶高大而且坡度比较陡，用红瓦铺屋顶，黄色或白色粉刷墙面，墙角有的用红砖镶嵌，庭院开阔，草木丰富。宅子最初是英商正广和契税公司大班麦格雷戈建造，后在抗战期间被原上海江海关监督唐海安占据。抗战胜利后，又迎来了著名的犹太富商哈同的儿子乔奇?哈同和他的妻子，“面粉大王”、“棉纱大王”荣宗敬的女儿荣桌如。1949年荣氏夫妇去香港之后，成为市委招待所。1951年，刘逸云在此修养，刘少奇曾来探望。潘汉年、魏文伯也在此居住过。1957年，拨给文化局，直到1965年，上海声乐研究所一直在这里办公。20世纪70年代，成为空军体检机构。“文革”后，刘靖基搬入此处。",
+    "designer": [
+      {
+        "label": "思久生洋行",
+        "uri": "http://data.library.sh.cn/entity/organization/1xus5gv346f86tqn"
+      }
+    ],
+    "uri": "http://data.library.sh.cn/entity/architecture/4i58zbd2c3ribkcd",
+    "architecturalStyle": "英国乡村别墅式",
+    "relation": [
+      {
+        "name": "荣卓如",
+        "uri": "http://data.library.sh.cn/entity/person/wnl65023grmfzr5f"
+      },
+      {
+        "name": "潘汉年",
+        "uri": "http://data.library.sh.cn/entity/person/b6hvpk0072rrtmau"
+      },
+      {
+        "name": "马玉涛",
+        "uri": "http://data.library.sh.cn/entity/person/k3xnvqsr7amuyxvf"
+      },
+      {
+        "name": "张依",
+        "uri": "http://data.library.sh.cn/entity/person/iu0plr2cnsvavpcc"
+      },
+      {
+        "name": "夏衍",
+        "uri": "http://data.library.sh.cn/entity/person/8zdvu83fe43b2ffv"
+      },
+      {
+        "name": "周而复",
+        "uri": "http://data.library.sh.cn/entity/person/17gd5s28u5vz5gac"
+      },
+      {
+        "name": "张云逸",
+        "uri": "http://data.library.sh.cn/entity/person/5wgaf1jmk42hftpr"
+      },
+      {
+        "name": "郭颂",
+        "uri": "http://data.library.sh.cn/entity/person/q10jtilxccrq7hv0"
+      },
+      {
+        "name": "王震",
+        "uri": "http://data.library.sh.cn/entity/person/4vkl0xwgoqdhosal"
+      },
+      {
+        "name": "于伶",
+        "uri": "http://data.library.sh.cn/entity/person/917ikus1h7zn16mv"
+      },
+      {
+        "name": "魏文伯",
+        "uri": "http://data.library.sh.cn/entity/person/v4dnga4gwgibrdzw"
+      },
+      {
+        "name": "罗荣钜",
+        "uri": "http://data.library.sh.cn/entity/person/0opmgahxiagty8bl"
+      },
+      {
+        "name": "梅达君",
+        "uri": "http://data.library.sh.cn/entity/person/02y5vww05skomrk7"
+      },
+      {
+        "name": "董振厚",
+        "uri": "http://data.library.sh.cn/entity/person/305djze6mhwfa1jt"
+      },
+      {
+        "name": "麦格雷戈（N.C.Macgregor）",
+        "uri": "http://data.library.sh.cn/entity/person/3cqhofrc0tb7g3ew"
+      },
+      {
+        "name": "钟振发",
+        "uri": "http://data.library.sh.cn/entity/person/52mpwt3x58qta7cy"
+      },
+      {
+        "name": "杨云华",
+        "uri": "http://data.library.sh.cn/entity/person/amoy8iximsruedyk"
+      },
+      {
+        "name": "张映哲",
+        "uri": "http://data.library.sh.cn/entity/person/aype5aobxr0a4ogp"
+      },
+      {
+        "name": "顾瑞英",
+        "uri": "http://data.library.sh.cn/entity/person/owcr524i0ooxsxp6"
+      },
+      {
+        "name": "大卫·乔治·哈同",
+        "uri": "http://data.library.sh.cn/entity/person/q58pap1aaqqam6ru"
+      },
+      {
+        "name": "唐海安",
+        "uri": "http://data.library.sh.cn/entity/person/umfbc3k1ni7fgzgk"
+      },
+      {
+        "name": "曾渭贤",
+        "uri": "http://data.library.sh.cn/entity/person/x3v5500euk5k53ab"
+      },
+      {
+        "name": "戚长伟王昆",
+        "uri": "http://data.library.sh.cn/entity/person/z6ibp11304o0e27l"
+      },
+      {
+        "name": "荣宗敬",
+        "uri": "http://data.library.sh.cn/entity/person/2nxb2bwieu4stg3m"
+      },
+      {
+        "name": "蒋燕 ",
+        "uri": "http://data.library.sh.cn/entity/person/cldg8r0ppokdspwo"
+      },
+      {
+        "name": "盛康年",
+        "uri": "http://data.library.sh.cn/entity/person/qzhzp307y4xjzua5"
+      },
+      {
+        "name": "刘靖基",
+        "uri": "http://data.library.sh.cn/entity/person/r40oxpw5apqpdyk2"
+      },
+      {
+        "name": "哈同",
+        "uri": "http://data.library.sh.cn/entity/person/tr5tmg12cc8oazp8"
+      },
+      {
+        "name": "林俊卿",
+        "uri": "http://data.library.sh.cn/entity/person/w8pdvzftpglaxtve"
+      },
+      {
+        "name": "胡松华",
+        "uri": "http://data.library.sh.cn/entity/person/zi8ddqcxs51gjwae"
+      }
+    ],
+    "hasFile": "1",
+    "road": [
+      {
+        "name": "武康路",
+        "uri": "http://data.library.sh.cn/entity/road/24v4webnqbccmflv"
+      }
+    ],
+    "name": "正广和老屋",
+    "architectureStructure": "3层砖木结构，占地3900平方米",
+    "yname": [
+      {
+        "label": "刘靖基旧居",
+        "uri": "http://data.library.sh.cn/authority/name/2b2er7rvwqd0as3u"
+      },
+      {
+        "label": "那门别墅",
+        "uri": "http://data.library.sh.cn/authority/name/mchid5dib1xyaqpn"
+      }
+    ],
+    "location": [
+      {
+        "lat": "31.21749",
+        "long": "121.44771"
+      }
+    ],
+    "event": [
+      {
+        "startedAtTime": "1928",
+        "description": "1928年，英商正广和汽水公司大班麦格雷戈初建。"
+      },
+      {
+        "startedAtTime": "1947",
+        "description": "1947年，乔奇•哈同和他的妻子，“面粉大王”、“棉纱大王”荣宗敬的女儿荣桌如夫妻买下房子并在此居住。"
+      },
+      {
+        "startedAtTime": "1949",
+        "endedAtTime": "1957",
+        "description": "1949年-1957年归房管所所有，成为市委招待所。"
+      },
+      {
+        "startedAtTime": "1957",
+        "endedAtTime": "1965",
+        "description": "1957年-1965年拨给文化局，成为上海声乐研究所办公地。"
+      },
+      {
+        "description": "抗战期间，上海江海关监督唐海安占据房子。"
+      },
+      {
+        "description": "20世纪70年代，空军体检机构。"
+      },
+      {
+        "description": "“文革”后为刘靖基宅邸。"
+      }
+    ]
+  }
+}

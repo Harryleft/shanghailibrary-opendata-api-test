@@ -1,0 +1,29 @@
+{
+  "result": "0",
+  "data": [
+    {
+      "nameE": "zhuzhai",
+      "address": "南昌路212、244弄",
+      "placeUri": "http://data.library.sh.cn/entity/place/r4tibjuyc0ta5p75",
+      "houseNumber": "",
+      "firstImg": "",
+      "source": "上海市第五批优秀历史建筑",
+      "type": "上海市优秀历史建筑",
+      "uri": "http://data.library.sh.cn/entity/architecture/06w7n6cjlkuypjsx",
+      "long": "121.46869",
+      "nameT": "住宅",
+      "nameS": "住宅",
+      "des": "",
+      "road": "南昌路",
+      "roadUri": "http://data.library.sh.cn/entity/road/6c14oyljkwgk73zq",
+      "lat": "31.229605",
+      "eventList": [],
+      "imageList": [],
+      "personList": [],
+      "workList": [],
+      "otherNameList": [],
+      "descriptionList": [],
+      "placeValue": "黄浦"
+    }
+  ]
+}

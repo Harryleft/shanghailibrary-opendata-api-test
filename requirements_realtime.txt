@@ -1,0 +1,14 @@
+# Requirements for Real-time API Monitoring Dashboard
+# Install with: pip install -r requirements_realtime.txt
+
+# Web framework
+flask>=3.0.0
+flask-sock>=0.7.0
+
+# HTTP requests
+requests>=2.28.0
+
+# Optional: For screenshot capture
+# playwright>=1.40.0
+# selenium>=4.15.0
+# weasyprint>=60.0

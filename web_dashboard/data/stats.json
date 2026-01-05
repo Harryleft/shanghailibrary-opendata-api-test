@@ -1,0 +1,1278 @@
+{
+  "stats": {
+    "totalApis": 91,
+    "successCount": 86,
+    "errorCount": 13,
+    "successRate": 94.5,
+    "categoryCount": 20,
+    "totalSize": "1.43 MB",
+    "fileCount": 86,
+    "lastUpdate": "2026-01-05T10:16:10.986422"
+  },
+  "categories": {
+    "PDF": {
+      "count": 3,
+      "totalSize": 130595
+    },
+    "事件": {
+      "count": 2,
+      "totalSize": 27355
+    },
+    "关联书目": {
+      "count": 4,
+      "totalSize": 14245
+    },
+    "刻工": {
+      "count": 2,
+      "totalSize": 16387
+    },
+    "印章": {
+      "count": 4,
+      "totalSize": 100599
+    },
+    "古籍": {
+      "count": 10,
+      "totalSize": 20058
+    },
+    "地名志": {
+      "count": 3,
+      "totalSize": 3055
+    },
+    "基础": {
+      "count": 4,
+      "totalSize": 8584
+    },
+    "宋庆龄": {
+      "count": 1,
+      "totalSize": 28432
+    },
+    "家谱": {
+      "count": 3,
+      "totalSize": 32386
+    },
+    "年华机构": {
+      "count": 2,
+      "totalSize": 738
+    },
+    "手迹": {
+      "count": 2,
+      "totalSize": 1446
+    },
+    "武康路": {
+      "count": 7,
+      "totalSize": 153667
+    },
+    "电影": {
+      "count": 21,
+      "totalSize": 218931
+    },
+    "碑帖": {
+      "count": 14,
+      "totalSize": 41094
+    },
+    "红色旅游": {
+      "count": 2,
+      "totalSize": 19427
+    },
+    "通用": {
+      "count": 2,
+      "totalSize": 7001
+    },
+    "革命文献": {
+      "count": 5,
+      "totalSize": 28532
+    },
+    "韬奋": {
+      "count": 4,
+      "totalSize": 647169
+    },
+    "舆图": {
+      "count": 4,
+      "totalSize": 0
+    }
+  },
+  "apis": [
+    {
+      "name": " 获取PDF资源 (文件流)",
+      "originalName": "[PDF] 获取PDF资源 (文件流).pdf",
+      "category": "PDF",
+      "size": "127.00 KB",
+      "sizeBytes": 130048,
+      "status": "success",
+      "url": "api_results\\[PDF] 获取PDF资源 (文件流).pdf",
+      "extension": ".pdf",
+      "preview": "二进制文件: [PDF] 获取PDF资源 (文件流).pdf"
+    },
+    {
+      "name": " 获取PDF资源目录信息",
+      "originalName": "[PDF] 获取PDF资源目录信息.json",
+      "category": "PDF",
+      "size": "288.00 B",
+      "sizeBytes": 288,
+      "status": "success",
+      "url": "api_results\\[PDF] 获取PDF资源目录信息.json",
+      "extension": ".json",
+      "preview": "{\n  \"state\": 0,\n  \"msg\": null,\n  \"data\": {\n    \"isDownload\": 0,\n    \"dbname\": \"mgts\",\n    \"innerflag\": null,\n    \"items\": [\n      {\n        \"value\": \"24950\",\n        \"name\": \"复本1\",\n        \"pageCount\": 184,\n        \"catalogue\": []\n      }\n    ]\n  },\n  \"total\": null\n}"
+    },
+    {
+      "name": " 获取开放下载书目列表",
+      "originalName": "[PDF] 获取开放下载书目列表.json",
+      "category": "PDF",
+      "size": "259.00 B",
+      "sizeBytes": 259,
+      "status": "success",
+      "url": "api_results\\[PDF] 获取开放下载书目列表.json",
+      "extension": ".json",
+      "preview": "{\n  \"state\": 0,\n  \"msg\": null,\n  \"data\": [\n    {\n      \"id\": 303,\n      \"title\": \"爱的教育\",\n      \"dbname\": \"mgts\",\n      \"items\": [\n        {\n          \"id\": 96,\n          \"value\": \"00240247\"\n        }\n      ]\n    }\n  ],\n  \"total\": 25\n}"
+    },
+    {
+      "name": " 事件知识库列表",
+      "originalName": "[事件] 事件知识库列表.json",
+      "category": "事件",
+      "size": "22.13 KB",
+      "sizeBytes": 22658,
+      "status": "success",
+      "url": "api_results\\[事件] 事件知识库列表.json",
+      "extension": ".json",
+      "preview": "{\n  \"result\": \"0\",\n  \"data\": [\n    {\n      \"dateLabel\": \"1936年5月16日晚，\",\n      \"eventImage\": \"\",\n      \"orgLabel\": \"\",\n      \"description\": \"中国画会在福州路会宾楼举行全体会员聚餐会。《中国画会会员联欢△明晚在四马路会宾楼》：“中国画会为全国书画界之总组织，会员遍全国，自成立以来，已经四载。平时对于宣扬本国固有艺术不遗余力，去岁举办美术讲座及展览会，并出版《国画月刊》，尤能风行全国。兹值第三届执、监委员任期届满，经改选，黄宾虹、王一亭、经亨颐、陈树人、谢公展、吴湖凡、商笙伯等七人马监察委员，贺天健、孙雪泥、张聿光、郑午昌、钱瘦铁、陆丹林、汪亚尘、张大干、王师子、马企周、陈小蝶、张善孖、马公愚、丁念先等为执行委员，并互推张聿光、陆丹林、汪亚尘三人为常务委员，丁念先为主任干事，孙雪泥为会计干事。定明日下午六时（星期六）假四马路会宾楼举行全体委员聚餐会，以资联欢。”（1936年5月15日申报）\",\n      \"end\": \"1936-05-16\",\n      \"title\": \"中国画会在福州路会宾楼举行全体会员聚餐会\",\n      \"uri\": \"http://data.library.sh.cn/authority/event/42bkit2fbccqdzq5\",\n      \"begin\": \"1936-05-16\",\n      \"nodeId\": \"79313\",\n      \"resCount\": \"0\"\n    },\n    {\n      \"dateLabel\": \"1932年8月1日\",\n      \"eventImage\": \"\",\n      \"orgLabel\": \"\",\n      \"description\": \"中华学艺社新楼落成，举行庆典，并征集书画名家作品举办美术展览会，黄宾虹出所藏古代书画、金石、玺印参加展览。“中华学艺社新所落成纪念美术展览”报道：“金神父路中华学艺社新所落成，美术展览会于8月1日上午九时起公开展览，计分国画、书法、金石、篆刻、西画、雕塑、摄影诸部。国画又分古画、今画数室。古画陈列宋、元、明、清名画真迹，今画则征集现代名家如黄宾虹、王一亭、张善孖、马孟容、陈小蝶、贺天健、钱瘦铁、郑午昌、张大干、楼辛壶、谢公展四十余人珍品，都系精心结构之作。书法、金石、篆刻有三代匋器、六朝云冈造像、北周造像、历朝金玉古印、六朝唐人写经、三代古玉，宋、元、明、清古瓷，宋元明清墨迹等珍品，为黄宾虹诸氏  I-}珍藏。西?则有刘海粟、王济速、倪特、潘玉良、板良、王逮勃、张弦、庞熏琹、张辰伯杰作余幅，新颖特创，一开我国粹画之新面目。雕塑部有张辰伯、江小鹣、口德军、陈仲书、王玙等近作木石、雕刻及石膏塑像。摄影部由《申报》馆特设专馆，陈列东北惨案及淞沪惨实地摄影百余件，商务印书馆寄列被毁照相六十件。又有上海各团体救国联合会及刘家氏所摄沪案照片百余件，实足引起国人爱国之观念。开会时间至8月7日止。”\",\n      \"end\": \"1932-08-01\",\n      \"title\": \"中华学艺社新楼落成，举行庆典\",\n      \"uri\": \"http://data.library.sh.cn/authority/event/3djde8thiw4m6cl1\",\n      \"begin\": \"1932-08-01\",\n      \"nodeId\": \"77981\",\n      \"resCount\": \"0\"\n    },\n    {\n      \"dateLabel\": \"1932年6月22日，\",\n      \"eventImage\": \"\",\n      \"orgLabel\": \"\",\n      \"description\": \"经亨颐与海上画友重组寒之友社，黄宾虹征集古代梅花图在社所展览，王一亭与俞寄凡、张善孖、经亨颐、黄宾虹在画展上合影。《寒之友社展览寒花》：“中委经亨颐氏与海上画友，假法租界康悌路光裕坊＼号重组寒之友社，以书画自娱。明日为旧历夏至节，闻已托社友黄宾虹氏征集古画寒花精品三十余件，在该社公开展览一天，借古画参赏，有炎凉之深意，亦可谓艺林韵事也。”（1932年6月21日申报）\",\n      \"end\": \"1932-06-22\",\n      \"title\": \"经亨颐与海上画友重组寒之友社\",\n      \"uri\": \"http://data.library.sh.cn/authority/event/5bpfvvtv8fnu4o42\",\n      \"begin\": \"1932-06-22\",\n      \"nodeId\": \"792\n... (truncated)"
+    },
+    {
+      "name": " 事件知识库详情",
+      "originalName": "[事件] 事件知识库详情.json",
+      "category": "事件",
+      "size": "4.59 KB",
+      "sizeBytes": 4697,
+      "status": "success",
+      "url": "api_results\\[事件] 事件知识库详情.json",
+      "extension": ".json",
+      "preview": "{\n  \"result\": \"0\",\n  \"data\": [\n    {\n      \"dateLabel\": \"1934年6月14日\",\n      \"description\": \"联华影业公司摄制的《渔光曲》在金城大戏院上映，该片为蔡楚生导演的代表作，亦是30年代左翼影片代表作品之一。上映时，虽正值上海60年末有之盛暑，观众却依然端坐在没有空调设备的金城大戏院中静静观看，影片连映84天之久，破《姊妹花》连映60天的纪录。据说有位家境富裕的青年观众，看过此片后说服父亲自费在《新闻报》上刊登了一幅特大广告，“渔光曲”三个字占据了两个版面，每个字尺寸足有一部电话机那般大，就是为了要让《渔光曲》家喻户晓。影片讲述王人美、韩兰根饰演的渔民小猫、小猴家庭破产，流浪街头，儿时玩伴、渔业公司少爷何子英试图帮助他们，却面临家庭变故，改良梦想破灭的故事，通过贫苦渔民的悲惨遭遇，以凄婉的笔调描写了当时人民的苦难生活，显示了导演艺术技巧的成熟。同时，由安娥作词、任光作曲的主题歌《渔光曲》，贯穿全剧，凄婉动人，一时间风靡全国，而小猫的扮演者王人美也凭借此剧达到了自己的表演高峰。《渔光曲》显示了蔡楚生导演艺术技巧的成熟和他艺术风格的进一步形成。在故事性和抒情性的结合上，画面造型的美感追求上以及对待意境界的营造上，都有成功的探索和创新。影片表现手法质朴，却又有很大的艺术感染力；开头和结尾尤为动人，前后对应地配以清新真挚的主题歌，达到声情并茂的艺术效果。《渔光曲》向人们展示了一种真实的人生，而这种真实的人生，得益于编导对生活的真切感受。蔡楚生从小生长的海边，对渔民的生活比较熟悉，从小就对渔民的悲惨遭遇寄于同情。拍摄期间，为了表现出影片的真实人生，蔡楚生亲率摄制组去浙东象山县一个渔村石浦体验生活、拍摄外景。当时的石浦，环境十分恶劣，海盗时常出没，生活条件极差，天热、水土不服，许多演职员病倒了。但蔡楚生知难而进，带病坚持拍摄，为了影片的真实，一直拍完全部拍摄计划。这种精益求精的精神，正是蔡楚生艺术创作取得成功的保证。1935年3月，《渔光曲》在100余部各国影片参加的莫斯科国际电影展览会上被授予“荣誉奖”（在获奖名单中位列第九），成为中国第一部获国际奖的故事片。\",\n      \"end\": \"1934-06-14\",\n      \"title\": \"联华影业公司摄制的《渔光曲》在金城大戏院上映\",\n      \"uri\": \"http://data.library.sh.cn/authority/event/0ukxgwxbuasfnf6p\",\n      \"begin\": \"1934-06-14\",\n      \"nodeId\": \"67748\",\n      \"imageList\": [\n        {\n          \"eventImage\": \"http://data.library.sh.cn/shmemory/resource/img/6ihqs3q64uo7jqpc\",\n          \"des\": \"《渔光曲》剧照\",\n          \"format\": \"jpg\",\n          \"eventImagePath\": \"https://img.library.sh.cn/whzk/img/6ihqs3q64uo7jqpc.jpg\"\n        },\n        {\n          \"eventImage\": \"http://data.library.sh.cn/shmemory/resource/img/k0xb1pfc581fg2im\",\n          \"des\": \"《渔光曲》剧组在外景地合影\",\n          \"format\": \"jpg\",\n          \"eventImagePath\": \"https://img.library.sh.cn/whzk/img/k0xb1pfc581fg2im.jpg\"\n        }\n      ],\n      \"personList\": [\n        {\n          \"label\": \"韩兰根\",\n          \"uri\": \"http://data.library.sh.cn/entity/person/e6hjst7ys2gztl51\"\n        },\n        {\n          \"label\": \"蔡楚生\",\n          \"uri\": \"http://data.library.sh.cn/entity/person/njcgij46znvhcduf\"\n        },\n        {\n          \"label\": \"王人美\",\n          \"uri\": \"http\n... (truncated)"
+    },
+    {
+      "name": " 书目列表",
+      "originalName": "[关联书目] 书目列表.json",
+      "category": "关联书目",
+      "size": "8.16 KB",
+      "sizeBytes": 8356,
+      "status": "success",
+      "url": "api_results\\[关联书目] 书目列表.json",
+      "extension": ".json",
+      "preview": "{\n  \"result\": \"0\",\n  \"pager\": {\n    \"startIndex\": 0,\n    \"pageSize\": 10,\n    \"sort\": \"insertTime\",\n    \"dir\": \"desc\",\n    \"pageth\": 1,\n    \"pageths\": [\n      1,\n      2,\n      3,\n      4,\n      5,\n      6,\n      10\n    ],\n    \"pageCount\": 10,\n    \"rowCount\": 100\n  },\n  \"resultList\": [\n    {\n      \"notes\": \"图表[其他形态细节]; 附: 参考文献\",\n      \"year\": \"1998\",\n      \"seresponse\": \"\",\n      \"hor\": \"729372\",\n      \"title\": \"传感器与信号处理\",\n      \"uri\": \"http://bib.library.sh.cn/resource/instance/002bxotbf2dvsmxe\",\n      \"shelfs\": \"TP212/6895-1\",\n      \"terms\": \"CNY50.00\",\n      \"response\": \"吴兴惠, 王彩君编\",\n      \"provision\": \"北京 : 电子工业出版社, 1998\",\n      \"series\": \"\",\n      \"ids\": \"(A310000SHL)0199079676[http://bib.library.sh.cn/ontology/OSCN]; 7-5053-4261-4[http://id.loc.gov/ontologies/bibframe/Isbn]; UCS01000112399[http://bib.library.sh.cn/ontology/SICC]; UCS01000893373[http://bib.library.sh.cn/ontology/OLCC]\",\n      \"page\": \"561页\",\n      \"seuri\": \"\",\n      \"dimensions\": \"26cm\"\n    },\n    {\n      \"notes\": \"\",\n      \"year\": \"1995\",\n      \"seresponse\": \"\",\n      \"hor\": \"1437173\",\n      \"title\": \"素食与健康\",\n      \"uri\": \"http://bib.library.sh.cn/resource/instance/002h7jfevr22uaws\",\n      \"shelfs\": \"R247.1/4948\",\n      \"terms\": \"CNY4.50\",\n      \"response\": \"林克智\",\n      \"provision\": \"上海 : 上海书店出版社, 1995(1997重印)\",\n      \"series\": \"闲暇丛书\",\n      \"ids\": \"(A100000NLC)000939925[http://bib.library.sh.cn/ontology/OSCN]; (A310000SHL)012002032306[http://bib.library.sh.cn/ontology/OSCN]; 7-80569-987-9[http://id.loc.gov/ontologies/bibframe/Isbn]; UCS01000287690[http://bib.library.sh.cn/ontology/SICC]; UCS01000939446[http://bib.library.sh.cn/ontology/OLCC]\",\n      \"page\": \"115页\",\n      \"seuri\": \"\",\n      \"dimensions\": \"19cm\"\n    },\n    {\n      \"notes\": \"\",\n      \"year\": \"2002\",\n      \"seresponse\": \"\",\n      \"hor\": \"1528623\",\n      \"title\": \"灵魂 素质 使命 : 云南省中等职业学校德育工作理论与实践\",\n      \"uri\": \"http://bib.library.sh.cn/resource/instance/002hm1vnjunax8bt\",\n      \"shelfs\": \"G711/1440\",\n      \"terms\": \"CNY19.00\",\n      \"\n... (truncated)"
+    },
+    {
+      "name": " 书目详情",
+      "originalName": "[关联书目] 书目详情.json",
+      "category": "关联书目",
+      "size": "1.25 KB",
+      "sizeBytes": 1279,
+      "status": "success",
+      "url": "api_results\\[关联书目] 书目详情.json",
+      "extension": ".json",
+      "preview": "{\n  \"result\": \"0\",\n  \"contributions\": [\n    {\n      \"role\": \"编著\",\n      \"name\": \"吴兴惠\",\n      \"uri\": \"http://data.library.sh.cn/entity/person/y5vn4xb2lf2dvrus\"\n    },\n    {\n      \"role\": \"编著\",\n      \"name\": \"王彩君\",\n      \"uri\": \"http://data.library.sh.cn/entity/person/s268iaop00qbcs03\"\n    }\n  ],\n  \"works\": [],\n  \"uri\": \"http://bib.library.sh.cn/resource/instance/002bxotbf2dvsmxe\",\n  \"info\": {\n    \"uri\": \"http://bib.library.sh.cn/resource/instance/002bxotbf2dvsmxe\",\n    \"title\": \"传感器与信号处理\",\n    \"dimension\": \"26cm\",\n    \"extent\": \"561页\",\n    \"year\": \"1998\",\n    \"edition\": \"\",\n    \"terms\": \"CNY50.00\",\n    \"hor\": \"729372\",\n    \"agent\": \"http://data.library.sh.cn/entity/organization/vgjwcmo6wmimnc38\",\n    \"publisher\": \"电子工业出版社\",\n    \"placeUri\": \"http://data.library.sh.cn/entity/place/d5cnwa3r6tdwtk2n\",\n    \"series\": \"\",\n    \"place\": \"北京\",\n    \"ids\": \"(A310000SHL)0199079676[http://bib.library.sh.cn/ontology/OSCN]; 7-5053-4261-4[http://id.loc.gov/ontologies/bibframe/Isbn]; UCS01000112399[http://bib.library.sh.cn/ontology/SICC]; UCS01000893373[http://bib.library.sh.cn/ontology/OLCC]\",\n    \"shelfs\": \"TP212/6895-1\",\n    \"notes\": \"图表[其他形态细节]; 附: 参考文献\"\n  }\n}"
+    },
+    {
+      "name": " 作品列表",
+      "originalName": "[关联书目] 作品列表.json",
+      "category": "关联书目",
+      "size": "3.88 KB",
+      "sizeBytes": 3975,
+      "status": "success",
+      "url": "api_results\\[关联书目] 作品列表.json",
+      "extension": ".json",
+      "preview": "{\n  \"result\": \"0\",\n  \"pager\": {\n    \"startIndex\": 0,\n    \"pageSize\": 10,\n    \"sort\": \"insertTime\",\n    \"dir\": \"desc\",\n    \"pageth\": 1,\n    \"pageths\": [\n      1,\n      2,\n      3,\n      4,\n      5,\n      6,\n      10\n    ],\n    \"pageCount\": 10,\n    \"rowCount\": 100\n  },\n  \"resultList\": [\n    {\n      \"note\": \"\",\n      \"creator\": \"\",\n      \"hor\": \"2208018\",\n      \"label\": \"建筑生命的课堂\",\n      \"uri\": \"http://bib.library.sh.cn/resource/work/71bxlzocw1q563ov\"\n    },\n    {\n      \"note\": \"本书内容包括：常用装修材料与工具设备、装修施工技艺、裱糊常用的材料与工具、裱糊施工操作技艺等。\",\n      \"creator\": \"\",\n      \"hor\": \"2143147\",\n      \"label\": \"建筑物装修裱糊技艺\",\n      \"uri\": \"http://bib.library.sh.cn/resource/work/76bezi3c2ga6hpop\"\n    },\n    {\n      \"note\": \"本书详细讲解了使用Photoshop CS2软件进行建筑表现的操作方法。书中不但介绍了各种工具的应用技巧，还对园林规划图、户型图、立面图的绘制方法作了详细介绍。\",\n      \"creator\": \"\",\n      \"hor\": \"2369250\",\n      \"label\": \"Photoshop CS2建筑表现技法\",\n      \"uri\": \"http://bib.library.sh.cn/resource/work/83t52twhvk37t83k\"\n    },\n    {\n      \"note\": \"\",\n      \"creator\": \"\",\n      \"hor\": \"2333444\",\n      \"label\": \"di·2004-2005年度中国民用建筑设计市场年鉴\",\n      \"uri\": \"http://bib.library.sh.cn/resource/work/83xa4qwnh36kmxlk\"\n    },\n    {\n      \"note\": \"本书介绍了3ds max建模、材质编辑、添加灯光和摄影机、渲染和使用Photoshop进行后期处理的操作知识和应用技巧。\",\n      \"creator\": \"\",\n      \"hor\": \"2313545\",\n      \"label\": \"中文版3ds max 7建筑设计完全征服教程\",\n      \"uri\": \"http://bib.library.sh.cn/resource/work/845hzvgc38kx7r3a\"\n    },\n    {\n      \"note\": \"本书其内容为建筑智能化系统设备安装工程与长距离输送管道工程。对清单中项目的名称、项目特征、工程量计算规则、工程内容均做了全方位解释，有利于清单的应用。\",\n      \"creator\": \"\",\n      \"hor\": \"\",\n      \"label\": \"建筑智能化系统设备安装工程与长距离输送管道工程工程量清单计价应用手册\",\n      \"uri\": \"http://bib.library.sh.cn/resource/work/85ja1ubg173kafqe\"\n    },\n    {\n      \"note\": \"本书将精心选择的100个实例划分为八大部分，分别是建筑符号及大样、住宅建筑平面图、商业建筑平面图、建筑立面图和剖面图、建筑构造详图、建筑总体规划图等。\",\n      \"creator\": \"\",\n      \"hor\": \"2182225\",\n      \"label\": \"AutoCAD 2005中文版建筑制图新概念百例\",\n      \"uri\": \"http://bib.library.sh.cn/resource/work/86tv8lyus5xz5fhy\"\n    },\n    {\n      \"note\": \"本书共9章，主要内容包括建筑电工职业道德及安全生产、电工基础知识、常用电工工具和常用电器、电动机与变压器、电子识图等。\"\n... (truncated)"
+    },
+    {
+      "name": " 作品详情",
+      "originalName": "[关联书目] 作品详情.json",
+      "category": "关联书目",
+      "size": "635.00 B",
+      "sizeBytes": 635,
+      "status": "success",
+      "url": "api_results\\[关联书目] 作品详情.json",
+      "extension": ".json",
+      "preview": "{\n  \"result\": \"0\",\n  \"info\": {\n    \"title\": \"改善记忆\",\n    \"creator\": \"\",\n    \"note\": \"本书由美国记忆大师、美国世界记忆冠军戴维·托马斯编写，介绍了理解记忆法、发展记忆潜力的途径、训练记忆力的途径、运用记忆法等新颖有效的改善记忆力的方法。\",\n    \"subject\": \"\",\n    \"transuri\": \"\",\n    \"translation\": \"\",\n    \"language\": \"汉语\",\n    \"classification\": \"B842.3\",\n    \"contributions\": \"http://data.library.sh.cn/entity/person/6gxmizlsba8283hy[nodeID://b20982601]; http://data.library.sh.cn/entity/person/8f51supb5upte2ny[nodeID://b20982603]\"\n  }\n}"
+    },
+    {
+      "name": " 刻工名录列表",
+      "originalName": "[刻工] 刻工名录列表.json",
+      "category": "刻工",
+      "size": "14.34 KB",
+      "sizeBytes": 14684,
+      "status": "success",
+      "url": "api_results\\[刻工] 刻工名录列表.json",
+      "extension": ".json",
+      "preview": "{\n  \"success\": true,\n  \"data\": {\n    \"result\": [\n      {\n        \"chsAgent\": \"陈立\",\n        \"uri\": \"http://data.library.sh.cn/entity/person/g4xa61t2lo06f7jo\",\n        \"roles\": [\n          \"刻工\"\n        ],\n        \"annoList\": [\n          {\n            \"chsTitle\": \"陈书三十六卷\",\n            \"identifier\": \"147\",\n            \"role\": \"刻工\",\n            \"contributor\": \"姚思廉(撰)\",\n            \"huagong\": \"\",\n            \"classification\": \"唐五代及宋元刻本\",\n            \"kegong\": \"王玩,朱言,王廷,陈立,张禹\",\n            \"xiegong\": \"\",\n            \"uri\": \"http://data.library.sh.cn/gj/resource/annotation/fswrenk8l582clfq\",\n            \"hasBody\": \"陈书三十六卷，唐姚思廉撰，宋刊宋元递修本。刻工：王廷、王玩、朱言、张禹、陈立。\"\n          }\n        ]\n      },\n      {\n        \"chsAgent\": \"北陈\",\n        \"uri\": \"http://data.library.sh.cn/entity/person/5vgyw76ib4z43izo\",\n        \"roles\": [\n          \"刻工\"\n        ],\n        \"annoList\": [\n          {\n            \"chsTitle\": \"陈书三十六卷\",\n            \"identifier\": \"149\",\n            \"role\": \"刻工\",\n            \"contributor\": \"姚思廉(撰)\",\n            \"huagong\": \"\",\n            \"classification\": \"唐五代及宋元刻本\",\n            \"kegong\": \"关宗,沈茂,王全,何庆,滕庆,郑春,陈文玉,项仁,叶禾,王圭,陶春,孙赋,葛幸,童遇,徐浚,胡昶,杨十三,周鼎,芦升三,詹德润,丁松年,北陈,胡庆,陈仁举,杨采,毛文,单侣,金祖,王化龙,熊道琼,楚庆一,何建,毛端\",\n            \"xiegong\": \"\",\n            \"uri\": \"http://data.library.sh.cn/gj/resource/annotation/kmpwn7avv7krv1wt\",\n            \"hasBody\": \"陈书三十六卷，唐姚思廉撰，宋刊本，南宋补刻部分。补刻刻工：丁松年、毛文（或为元人）、王全（或为元人同姓名）、毛端、王圭、何建、何庆、沈茂、胡昶、王化龙，以上或为元人。北陈、关宗、周明、周鼎、金祖、胡庆、孙赋、徐浚、陈仁举、陈文玉、陶春、单侣、童遇、项仁、杨十三、杨采、楚庆一、叶禾、葛幸、詹德润、熊道琼、滕庆、郑春、芦升三。浙中名刻工。\"\n          }\n        ]\n      },\n      {\n        \"chsAgent\": \"陈文玉\",\n        \"uri\": \"http://data.library.sh.cn/entity/person/5x65mh48fhap6mqd\",\n        \"roles\": [\n          \"刻工\"\n        ],\n        \"annoList\": [\n          {\n            \"chsTitle\": \"陈书三十六卷\",\n            \"identifier\": \"149\",\n            \"role\": \"刻工\",\n            \"contributor\": \"姚思廉(撰)\",\n            \"huagong\": \"\",\n            \"classification\": \"唐五代及宋元刻本\",\n            \"kegong\": \"关宗,沈茂,王全,何庆,滕庆,郑春,陈文玉,项仁,叶禾,王圭,陶春,孙赋,葛幸,童遇\n... (truncated)"
+    },
+    {
+      "name": " 刻工名录详情",
+      "originalName": "[刻工] 刻工名录详情.json",
+      "category": "刻工",
+      "size": "1.66 KB",
+      "sizeBytes": 1703,
+      "status": "success",
+      "url": "api_results\\[刻工] 刻工名录详情.json",
+      "extension": ".json",
+      "preview": "{\n  \"success\": true,\n  \"data\": {\n    \"result\": [\n      {\n        \"chsAgent\": \"郑大化\",\n        \"uri\": \"http://data.library.sh.cn/entity/person/azxszcygtdotqxxh\",\n        \"roles\": [\n          \"刻工\"\n        ],\n        \"annoList\": [\n          {\n            \"chsTitle\": \"大般若波罗蜜多经四十卷\",\n            \"identifier\": \"522\",\n            \"role\": \"刻工\",\n            \"contributor\": \"玄奘(译)\",\n            \"huagong\": \"\",\n            \"classification\": \"明刻本\",\n            \"kegong\": \"李潮,陶梦祯,黄梦祯,端师禹,端师尧,潘沔,芮一鹗,洪以忠,陶文汜,吴文辉,王正源,许一科,刘文元,罗仕显,万志,王正渭,彭仕湘,陈应武,郑大化,李应章,尚炉\",\n            \"xiegong\": \"徐普\",\n            \"uri\": \"http://data.library.sh.cn/gj/resource/annotation/rqpoavtwly1gr6tb\",\n            \"hasBody\": \"大般若波罗蜜多经四十卷，唐玄奘译，明万历三十六年戊申径山寂照庵刊本。刻工：上元许一科、庐陵黄梦祯、上元李潮、溧水端师尧、端师禹、溧水陈应武、上元李应章、上元吴文辉、溧水芮一鹗、进贤洪以忠、上元彭仕湘、江宁罗仕显、溧水王正源、王正渭、句容潘沔、真州刘文元、上元陶梦祯、上元陶文汜、龙江卫郑大化、南昌万志、江宁尚炉，写工：长洲徐普。\"\n          }\n        ]\n      }\n    ],\n    \"pager\": {\n      \"startIndex\": 0,\n      \"pageSize\": 10,\n      \"sort\": \"\",\n      \"dir\": \"1\",\n      \"pageth\": 1,\n      \"pageths\": [\n        1\n      ],\n      \"pageCount\": 1,\n      \"rowCount\": 1,\n      \"took\": 0\n    }\n  },\n  \"errCode\": null,\n  \"errMsg\": null,\n  \"result\": \"0\"\n}"
+    },
+    {
+      "name": " 印章列表",
+      "originalName": "[印章] 印章列表.json",
+      "category": "印章",
+      "size": "41.39 KB",
+      "sizeBytes": 42388,
+      "status": "success",
+      "url": "api_results\\[印章] 印章列表.json",
+      "extension": ".json",
+      "preview": "{\n  \"result\": \"0\",\n  \"data\": [\n    {\n      \"owner\": [\n        {\n          \"name\": \"季振宜\",\n          \"uri\": \"http://data.library.sh.cn/entity/person/q378lhrmgojw0err\"\n        }\n      ],\n      \"ownerOfSeal\": [\n        \"季振宜\"\n      ],\n      \"img\": [\n        {\n          \"imgUri\": \"//img.library.sh.cn/gj/seal/m2u5d58sexvtqlsj.jpg\",\n          \"source\": \"林申清编著《中国藏书家印鉴》（上海书店出版社，1997.11）\",\n          \"imgAbout\": \"http://data.library.sh.cn/gj/entity/seal/ontzoyydcq3a3c5m\"\n        },\n        {\n          \"imgUri\": \"//img.library.sh.cn/gj/seal/qpme581sjvhzbsrj.jpg\",\n          \"source\": \"林申清编著《中国藏书家印鉴》（上海书店出版社，1997.11）\",\n          \"imgAbout\": \"http://data.library.sh.cn/gj/entity/seal/ontzoyydcq3a3c5m\"\n        }\n      ],\n      \"sealCharactersCht\": \"宋本\",\n      \"label\": [\n        \"宋本@chs\",\n        \"宋本@cht\"\n      ],\n      \"sealCharactersChs\": \"宋本\",\n      \"sealCharacters\": [\n        \"宋本@chs\",\n        \"宋本@cht\"\n      ],\n      \"labelCht\": \"宋本\",\n      \"uri\": \"http://data.library.sh.cn/gj/entity/seal/ontzoyydcq3a3c5m\",\n      \"labelChs\": \"宋本\"\n    },\n    {\n      \"owner\": [\n        {\n          \"name\": \"吴骞\",\n          \"uri\": \"http://data.library.sh.cn/entity/person/ty5reoa5vy6mm37x\"\n        }\n      ],\n      \"ownerOfSeal\": [\n        \"吴骞\"\n      ],\n      \"img\": [\n        {\n          \"imgUri\": \"//img.library.sh.cn/gj/seal/imubt1vawcfduozn.jpg\",\n          \"description\": \"宋本\",\n          \"source\": \"明清藏书家藏书印\",\n          \"imgAbout\": \"http://data.library.sh.cn/gj/entity/seal/iha7ytesp7ztvxdv\"\n        },\n        {\n          \"imgUri\": \"//img.library.sh.cn/gj/seal/tg1sobhf25g0nbp7.jpg\",\n          \"source\": \"林申清编著《中国藏书家印鉴》（上海书店出版社，1997.11）\",\n          \"imgAbout\": \"http://data.library.sh.cn/gj/entity/seal/pwytpkppfh3hah3z\"\n        }\n      ],\n      \"sealCharactersCht\": \"宋本\",\n      \"libliotheca\": [\n        {\n          \"name\": \"拜經樓\",\n          \"description\": \"清乾嘉期間，蘇州黃丕烈以「百宋一廛」稱名於世，當時可與其匹敵的惟浙江海寧的「千元十駕」。《東湖叢記》：「黃蕘圃主政『百宋一廛』，吳兔牀明經以『千元十駕』相敵。故老風流，猶令聞者色飛眉舞。」「百宋」、「千元」爲書林留下了無數佳話。\\n吳騫（1733—1813）字槎客，號兔牀，清海寧人，諸生。家有拜經樓，據《海昌備志\n... (truncated)"
+    },
+    {
+      "name": " 印章详情",
+      "originalName": "[印章] 印章详情.json",
+      "category": "印章",
+      "size": "543.00 B",
+      "sizeBytes": 543,
+      "status": "success",
+      "url": "api_results\\[印章] 印章详情.json",
+      "extension": ".json",
+      "preview": "{\n  \"result\": \"0\",\n  \"data\": {\n    \"ownerOfSeal\": [\n      \"吴骞\"\n    ],\n    \"sealCharactersCht\": \"吳氏兔牀書畫印\",\n    \"label\": [\n      \"吳氏兔牀書畫印@cht\",\n      \"吴氏兔牀书画印@chs\"\n    ],\n    \"sealCharactersChs\": \"吴氏兔牀书画印\",\n    \"sealCharacters\": [\n      \"吳氏兔牀書畫印@cht\",\n      \"吴氏兔牀书画印@chs\"\n    ],\n    \"labelCht\": \"吳氏兔牀書畫印\",\n    \"uri\": \"http://data.library.sh.cn/gj/entity/seal/00f0jhi3m4ualmqf\",\n    \"labelChs\": \"吴氏兔牀书画印\"\n  }\n}"
+    },
+    {
+      "name": " 藏书家列表",
+      "originalName": "[印章] 藏书家列表.json",
+      "category": "印章",
+      "size": "26.13 KB",
+      "sizeBytes": 26753,
+      "status": "success",
+      "url": "api_results\\[印章] 藏书家列表.json",
+      "extension": ".json",
+      "preview": "{\n  \"result\": \"0\",\n  \"data\": [\n    {\n      \"birthday\": \"1733\",\n      \"name\": \"吳騫\",\n      \"description\": \"吴騫（1733—1813）字槎客，號兔牀，清海寧人，諸生。家有拜經樓，據《海昌備志》：吴騫「篤嗜典籍，遇善本傾囊購之弗惜。所得不下五萬卷，築拜經樓藏之。晨夕坐樓中，展誦摩挲，非同志不得登也」。吴騫《愚谷文存·桐陰日省編》則自述藏書曰：「吾家先世頗乏藏書，余生平酷嗜典籍，幾寢饋以之。自束髮迄乎衰老，置得書萬本，性復喜厚帙，計不下四五萬卷（分歸大、二兩房者不在此數）。皆節衣縮食，竭平生之精力而致之者也。非特裝潢端整，且多以善本校勘，丹黄精審，非世俗藏書可比。至於宋元本精鈔，往往經名人學士賞鑒題跋，如杭堇浦、盧抱經、錢辛楣、周松靄諸先生，鮑渌飲、周耕崖、朱巢欽、張芑堂、錢緑窗、陳簡莊、黄蕘圃諸良友，均有題識，猶足寳貴。」\\n「拜經」之名，取當時學者臧庸之例。臧庸字在東，武進人，家有拜經堂，故又自號拜經。乾隆四十五年（1780），拜經樓建成後，恰鮑廷博游新安，購得明代畫家所繪《拜經圖》，遂持以贈吴騫。吴騫曾有絶句曰：「學古名樓事偶符，故人携贈出天都；祇緣箇里詩書氣，不共雲煙化緑蕪。」吴騫又與黄丕烈交好。黄氏以藏書多宋本，乃以「百宋一廛」自誇，吴騫聞知後，羡慕之餘，遂題其居曰「千元十駕」，意思是千部元版，完全抵得上百部宋版，好比駑馬十駕，勝過麒麟一躍。更絶的是，吴騫不僅在藏書樓名上，連孩子的字號上也充滿了「詩書氣」。吴騫次子吴壽暘出生那天，正好吴騫得到一部宋刻本《周禮纂圖互注重言重意》，即爲兒子取字爲「周官」。吴騫又曾訪得宋槧本百家注《東坡先生集》，因以「蘇閣」名其樓，其子壽暘成年後，吴騫舉以爲贈，壽暘大喜，遂自號蘇閣，壽暘曾取家藏拜經樓書中有題跋者彙録成册，名爲《拜經樓藏書題跋記》。\\n吴騫一生並没有顯赫的功名，學歷也僅「明經」而已，但學問上却頗有些名氣。陳鱣序吴騫《愚谷文存》時説：「吴槎客先生品甚高、誼甚古、而學甚富，著作等身，故不屑爲流俗之文，夙共當世賢大夫相往還，與之上下議論。晚年益深造自得，遠近學者宗之。」黄丕烈亦敬重吴騫的這種執著的精神，遂以詩贈吴騫：「千元百宋競相誇，引得吴人道是娃。我爲嗜奇荒産業，君因勤學耗年華。良朋隔世亡雙璧，異地同心有幾家？真個蘇杭聞見廣，藝林佳話遍天涯。」\\n吴騫故世後，其子孫克承遺志，故拜經樓藏書整整保存了一百多年。吴騫曾撰有《拜經樓書目》二卷和《兔牀山人藏書目録》一卷。今存世的還有一部吴之澄撰《拜經樓書目》一册，是爲吴騫之孫吴之澄的藏書目録，與吴騫的藏書目録内容迥異。吴氏拜經樓大約毁於太平天國之時，道光二十五年（1845）管庭芬再至海昌訪書，拜經樓已是「遺書塵封，問奇無自」了。（来源：《明清著名藏书家藏书印》）\",\n      \"deathday\": \"1813\",\n      \"uri\": \"http://data.library.sh.cn/entity/person/ty5reoa5vy6mm37x\"\n    },\n    {\n      \"birthday\": \"1787\",\n      \"name\": \"楊以增\",\n      \"description\": \"楊以增（1787—1856）字益之，又字至堂，號冬樵，山東聊城人。道光二年（1822）進士，官至江南河道總督。以增平生無他嗜，一專於書。任官期間，正值社會動亂，各家藏書多有散出，其中相當部分爲以增所得，由此奠定了海源閣藏書的基礎。楊以增藏書主要得自汪士鐘藝芸書舍。咸豐辛亥（1851）壬子（1852）間，吴門汪氏藝芸書舍書散出，時以增官江南河道總督，所得甚多。汪氏藝芸書舍，源自黄丕烈百宋一廛及袁氏五硯樓諸家舊藏，宋元佳刻極多，故倍受書林關注，除以增所得外，餘歸常熟瞿氏鐵琴銅劍樓、上海郁氏宜稼堂。此後，以增又多方搜羅，諸如鮑氏知不足齋、秦氏石研齋、方氏碧琳琅館以及海寧陳仲魚、陽湖孫淵如、大興朱竹君等名家舊物，均可在海源閣找到踪影，是爲海源閣藏書一大特色。以增收藏既富，乃别辟「宋存書室」貯天水舊籍，而以元本、校本、影宋鈔本附之，復以收得宋本《毛詩》、《周禮》、《儀禮》、《禮記》和《史記》、兩《漢書》、《三國志》，顔其室爲「四經四史之齋」。\\n海源閣藏書散出於第四代傳人楊敬夫之時，原因凡四：一是咸豐十一年，捻軍自皖入魯，抵楊氏别業陶南山館，與清兵激戰，楊氏别業遂陷兵燹，所藏秘籍損失殆半；二是一九二九年土匪王金發陷聊城，司令部即設於楊宅内，海源閣珍藏慘遭糟蹋，乃至以閣書炊火；三是一九三〇年土匪王冠軍陷聊城，盡攫善本秘籍、碑帖字畫，囊括而北；四是一九三〇年「九·一八」事變後楊敬夫因生計，自售於一九二七年移藏於天津的珍本九十二種。時傅沅叔\n... (truncated)"
+    },
+    {
+      "name": " 藏书楼列表",
+      "originalName": "[印章] 藏书楼列表.json",
+      "category": "印章",
+      "size": "30.19 KB",
+      "sizeBytes": 30915,
+      "status": "success",
+      "url": "api_results\\[印章] 藏书楼列表.json",
+      "extension": ".json",
+      "preview": "{\n  \"result\": \"0\",\n  \"data\": [\n    {\n      \"name\": \"鐵琴銅劍樓\",\n      \"description\": \"清代常熟藏書，自錢謙益絳雲樓、錢曾述古堂而後，首推瞿氏鐵琴銅劍樓。鐵琴銅劍樓爲清末四大藏書樓之一，後陸氏皕宋樓與丁氏八千卷樓先後散出，僅剩常熟瞿氏與聊城楊氏並峙，人稱南瞿北楊。中國私家藏書史上，世代相傳，歷史悠久者，除寧波天一閣外，當屬鐵琴銅劍樓。\\n鐵琴銅劍樓坐落於常熟賓湯門外十里之南塘古里村，初名「恬裕齋」，「恬裕」二字，取古書「引養引恬，垂裕後昆」之義，意即讓子孫後代也能享受這份恬靜安逸的生活，由瞿紹基所創立。紹基（1772—1836）字厚培，別字蔭棠。瞿氏祖上因經商致富，及紹基父進思好讀書，曾授「州同知」銜。紹基自幼力學工文，然屢試不第，僅以明經當了幾天陽湖縣訓導，旋即歸隱古里村，廣購四部之書，旁及金石。嘉慶道光間，恰值常熟城中陳氏稽瑞樓和張氏愛日精廬書先後散出，紹基又遴選其宋元善本爲世珍者，增置插架，由此奠定了瞿氏藏書的基礎。\\n紹基之子瞿鏞（1794—1846）字子雍，克承父志，搜奇羅異，不懈益勤。瞿鏞好金石文字，旁及鼎彝古印書畫，嘗得鐵琴一張、銅劍一把，因別稱其樓爲「鐵琴銅劍樓」。咸豐年間，長洲汪氏藝蕓書舍藏書散出，藝蕓書舍之藏源於黃丕烈士禮居，多宋元舊槧，其中精品多爲瞿鏞所得，餘歸楊氏海源閣。此處值得一辨的是，許多藏書史資料均言及恬裕齋因避清光緒載恬之諱而於同治末年（1874）改稱敦裕堂，而後又改名鐵琴銅劍樓，似有誤。瞿鏞另稱其樓爲鐵琴銅劍樓，有其詩集名《鐵琴銅劍樓詩草》和詞集名《鐵琴銅劍樓詞草》爲證，至於同治末年改名事，距瞿鏞謝世已近三十年，當與瞿鏞無關。\\n聚書難，守書亦不易。鐵琴銅劍樓傳至第三代主人瞿秉淵、瞿秉清手中時，正是太平天國崛起，社會動蕩時期，江南各藏書家多遭兵燹，甚至連范氏天一閣也未能幸免。戰火燒近常熟時，秉淵、秉清兄弟攜書遷徙，輾轉流離，歷盡艱辛，前後凡四年，而鐵琴銅劍樓之書始無恙。遷徙途中，兄弟倆聞有各家散出之異書，必不惜重價以充實庫藏。待亂後安然歸來，乃請江陰畫家吳灌英繪《虹月歸來圖》以志慶幸，張瑛爲之記，葉昌熾、翁同龢等名賢分別爲之題跋，可謂一時之盛事。\\n及至瞿啟甲，是爲第四代傳人。啟甲秉承父兄遺願，一如既往，謹守勿替。抗日戰爭時期，爲免日寇掠奪，啟甲早作防範，把全部善本運往上海，妥善安置，遂使日人無從下手，這和皕宋樓全部藏書賣給日本靜嘉堂再次形成鮮明對比。啟甲又將先人苦心經營數十年的《鐵琴銅劍樓藏書目録》悉加釐定，於光緒二十四年（1898）刊版行世；一九二二年，又取家藏宋金元刻本，擇其較爲罕見者一二頁，仿楊氏《留真譜》之意，影印爲《鐵琴銅劍樓宋金元本書影》。最難能可貴的是，啟甲一反舊時藏書家概不借閲的陋習，對踵門求閲者總是盡力提供種種方便，甚至還爲遠道而來的讀者提供膳食，遂使鐵琴銅劍樓名聲益廣。\\n歷經戰火洗劫，瞿氏舊住齋已燬，而藏書樓巍然獨存。樓爲四進相連的建築。其中第一、二兩進爲門屋、花廳，燬於抗日戰爭；第三、四進樓上爲藏書之所，三進樓下爲讀書之處，四進樓下收藏古物、石刻等。兩樓之書因瞿啓甲及時移藏滬寓，未遭劫火，今多歸北京圖書館。\",\n      \"uri\": \"http://data.library.sh.cn/gj/entity/libliotheca/clsaz00zc5ukuk83\"\n    },\n    {\n      \"name\": \"小山堂\",\n      \"description\": \"祁氏澹生堂之藏散出後，部分書歸杭州趙氏小山堂，説起小山堂，其實與祁氏還有相當的血緣關係。《藏書紀事詩》：「回首東書舊草堂，深閨流涕對琳瑯。」説的就是這段與藏書有關的佳話。\\n小山堂爲趙氏「二林」兄弟藏書樓名。兄趙昱（1689—1747）字功千，號谷林；弟趙信（1701—？）字辰垣，號意林。時人稱「二林」，兄弟皆好藏書，其母朱氏則是山陰澹生堂祁彪佳的外孫女，祁承?的曾外孫女。當年「二林」之父趙汝旭完婚於山陰，婚禮就在祁氏東書堂中進行。時澹生堂藏書尚未散，趙汝旭心裏頗欲得祁氏之藏，朱夫人泫然流涕曰：「亦何忍爲此言乎？」趙汝旭默然而止。蹉跎四十年後，趙昱過訪外家，已是亭圮園荒，只有當年東書堂的「曠亭」二字匾額尚棄存屋角，乃攜以歸，欲於園中構亭，仍題是額，以志景仰，惜因財力不足而未能建成。兄弟倆敬母之道亦頗染書香之氣，每得佳刻，即送母親處共賞，輪番遞進，以爲嬉笑。連全祖望也感嘆道：「是天倫之樂所稀也。」在他們母親故世後，二林又將所得澹生堂之書，別貯而弆之，以示不忘母親的遺愛。\\n趙氏兄弟爬梳書庫，繼以三十年之力，聲名遠揚，四方書賈接踵而至，故所得之書不乏宋元舊槧。其間又與寧波范氏天一閣、揚州馬氏小玲瓏山館互相傳抄，尤其得到同郡\n... (truncated)"
+    },
+    {
+      "name": " 古籍作品列表",
+      "originalName": "[古籍] 古籍作品列表.json",
+      "category": "古籍",
+      "size": "1.58 KB",
+      "sizeBytes": 1623,
+      "status": "success",
+      "url": "api_results\\[古籍] 古籍作品列表.json",
+      "extension": ".json",
+      "preview": "{\n  \"result\": \"0\",\n  \"data\": [\n    {\n      \"dtitle\": \"三國\",\n      \"uri\": \"http://data.library.sh.cn/gj/resource/work/depu8p6nwfzazd02\"\n    },\n    {\n      \"dtitle\": \"三國事迹\",\n      \"uri\": \"http://data.library.sh.cn/gj/resource/work/oqrzzbb3f2oeeiwb\"\n    },\n    {\n      \"dtitle\": \"三國五更\",\n      \"uri\": \"http://data.library.sh.cn/gj/resource/work/00n4ohci7xi24bol\"\n    },\n    {\n      \"dtitle\": \"三國五更一套\",\n      \"uri\": \"http://data.library.sh.cn/gj/resource/work/km3rscsk0oufql75\"\n    },\n    {\n      \"dtitle\": \"三國人物論\",\n      \"uri\": \"http://data.library.sh.cn/gj/resource/work/au7npbufsqychqel\"\n    },\n    {\n      \"dtitle\": \"三國佛敎畧史\",\n      \"uri\": \"http://data.library.sh.cn/gj/resource/work/l4dq10ungvmpbugj\"\n    },\n    {\n      \"dtitle\": \"三國佛法傳緣起\",\n      \"uri\": \"http://data.library.sh.cn/gj/resource/work/yq8rkp82gji3sf7k\"\n    },\n    {\n      \"dtitle\": \"三國全戲三折\",\n      \"uri\": \"http://data.library.sh.cn/gj/resource/work/wtosha5szh4u02gb\"\n    },\n    {\n      \"dtitle\": \"三國兩晉南北朝文選\",\n      \"uri\": \"http://data.library.sh.cn/gj/resource/work/7hucgq2acd025s5p\"\n    },\n    {\n      \"dtitle\": \"三國六朝五代紀年總辨\",\n      \"uri\": \"http://data.library.sh.cn/gj/resource/work/cr42ns5z6sioqbor\"\n    }\n  ],\n  \"pager\": {\n    \"iflimit\": \"\",\n    \"pageCount\": 10,\n    \"startIndex\": 0,\n    \"pageth\": 1,\n    \"pageSize\": 10,\n    \"pageths\": [\n      1,\n      2,\n      3,\n      4,\n      5,\n      6,\n      10\n    ],\n    \"rowCount\": 100,\n    \"sort\": \"insertTime\",\n    \"dir\": \"desc\"\n  }\n}"
+    },
+    {
+      "name": " 古籍作品详情",
+      "originalName": "[古籍] 古籍作品详情.json",
+      "category": "古籍",
+      "size": "190.00 B",
+      "sizeBytes": 190,
+      "status": "success",
+      "url": "api_results\\[古籍] 古籍作品详情.json",
+      "extension": ".json",
+      "preview": "{\n  \"result\": \"0\",\n  \"data\": {\n    \"hasClassification\": [],\n    \"hasAnnotation\": [],\n    \"creator\": [],\n    \"uri\": \"http://data.library.sh.cn/gj/resource/work/qy7i08368s4oae81\"\n  }\n}"
+    },
+    {
+      "name": " 古籍作品责任者列表",
+      "originalName": "[古籍] 古籍作品责任者列表.json",
+      "category": "古籍",
+      "size": "36.00 B",
+      "sizeBytes": 36,
+      "status": "success",
+      "url": "api_results\\[古籍] 古籍作品责任者列表.json",
+      "extension": ".json",
+      "preview": "{\n  \"result\": \"1\",\n  \"data\": []\n}"
+    },
+    {
+      "name": " 古籍分类列表",
+      "originalName": "[古籍] 古籍分类列表.json",
+      "category": "古籍",
+      "size": "614.00 B",
+      "sizeBytes": 614,
+      "status": "success",
+      "url": "api_results\\[古籍] 古籍分类列表.json",
+      "extension": ".json",
+      "preview": "{\n  \"result\": \"0\",\n  \"data\": [\n    {\n      \"label\": \"經\",\n      \"uri\": \"http://data.library.sh.cn/gj/classification/7h1xmsw66x73y3e7\"\n    },\n    {\n      \"label\": \"史\",\n      \"uri\": \"http://data.library.sh.cn/gj/classification/mo2ofdjmiqx0c4ki\"\n    },\n    {\n      \"label\": \"子\",\n      \"uri\": \"http://data.library.sh.cn/gj/classification/kkmxnxdzjzp3a4br\"\n    },\n    {\n      \"label\": \"集\",\n      \"uri\": \"http://data.library.sh.cn/gj/classification/5qb6iqhiqpo33w80\"\n    },\n    {\n      \"label\": \"叢\",\n      \"uri\": \"http://data.library.sh.cn/gj/classification/jjn6m5g8e2jixmyf\"\n    }\n  ]\n}"
+    },
+    {
+      "name": " 古籍实例列表",
+      "originalName": "[古籍] 古籍实例列表.json",
+      "category": "古籍",
+      "size": "6.92 KB",
+      "sizeBytes": 7085,
+      "status": "success",
+      "url": "api_results\\[古籍] 古籍实例列表.json",
+      "extension": ".json",
+      "preview": "{\n  \"result\": \"0\",\n  \"data\": [\n    {\n      \"creator\": [\n        {\n          \"temporalValue\": \"晉\",\n          \"uri\": \"http://data.library.sh.cn/entity/person/1x7xg5qx64m4baqp\",\n          \"label\": \"陳壽\"\n        },\n        {\n          \"temporalValue\": \"南北朝宋\",\n          \"uri\": \"http://data.library.sh.cn/entity/person/8twhzro5ecysaqrc\",\n          \"label\": \"裴松之\"\n        }\n      ],\n      \"contributor\": [],\n      \"temporalValue\": \"清同治九年(1870)\",\n      \"seals\": \"\",\n      \"edition\": \"刻本\",\n      \"label\": \"清同治九年（1870）金陵書局刻本\",\n      \"dtitle\": \"三国志六十五卷\",\n      \"uri\": \"http://data.library.sh.cn/gj/resource/instance/02sy2py0g8k25bh2\"\n    },\n    {\n      \"creator\": [\n        {\n          \"temporalValue\": \"晉\",\n          \"uri\": \"http://data.library.sh.cn/entity/person/1x7xg5qx64m4baqp\",\n          \"label\": \"陳壽\"\n        },\n        {\n          \"temporalValue\": \"南北朝宋\",\n          \"uri\": \"http://data.library.sh.cn/entity/person/8twhzro5ecysaqrc\",\n          \"label\": \"裴松之\"\n        }\n      ],\n      \"contributor\": [\n        {\n          \"role\": \"題跋\",\n          \"uri\": \"http://data.library.sh.cn/entity/person/1hwjjz8ky2grvsch\"\n        }\n      ],\n      \"temporalValue\": \"淸同治9年[1870]\",\n      \"seals\": \"\",\n      \"edition\": \"刻本\",\n      \"label\": \"刻本\",\n      \"dtitle\": \"三國志六十五卷\",\n      \"uri\": \"http://data.library.sh.cn/gj/resource/instance/06p8f520sh7jchz7\"\n    },\n    {\n      \"creator\": [\n        {\n          \"temporalValue\": \"晉\",\n          \"uri\": \"http://data.library.sh.cn/entity/person/1x7xg5qx64m4baqp\",\n          \"label\": \"陳壽\"\n        },\n        {\n          \"temporalValue\": \"南北朝宋\",\n          \"uri\": \"http://data.library.sh.cn/entity/person/8twhzro5ecysaqrc\",\n          \"label\": \"裴松之\"\n        }\n      ],\n      \"contributor\": [],\n      \"temporalValue\": \"清末\",\n      \"seals\": \"\",\n      \"edition\": \"刻本\",\n      \"label\": \"清末刻本\",\n      \"dtitle\": \"三国志六十五卷\",\n      \"uri\": \"http://data.library.sh.cn/gj/resource/instance/0s0y8xfvsjzibl2s\"\n    },\n    {\n      \"creator\": [\n        {\n          \"temporalValue\": \"晉\",\n          \"uri\"\n... (truncated)"
+    },
+    {
+      "name": " 古籍实例详情",
+      "originalName": "[古籍] 古籍实例详情.json",
+      "category": "古籍",
+      "size": "2.98 KB",
+      "sizeBytes": 3048,
+      "status": "success",
+      "url": "api_results\\[古籍] 古籍实例详情.json",
+      "extension": ".json",
+      "preview": "{\n  \"result\": \"0\",\n  \"data\": {\n    \"extent\": \"四冊\",\n    \"identifier\": \"179\",\n    \"creator\": [\n      {\n        \"temporalValue\": \"淸\",\n        \"uri\": \"http://data.library.sh.cn/entity/person/ftpjnxnbkilex71a\",\n        \"label\": \"齊翀\"\n      }\n    ],\n    \"fullClassName\": \"史部\",\n    \"description\": \"清齊翀修纂，清乾隆四十八年（1783）刻本，四冊。匡高19.5厘米，廣13.7厘米。半葉九行，行二十三字，左右雙邊，白口，單魚尾。卷端題“婺源齊翀編”。首乾隆四十八年招成萬、齊翀序。***齊翀，婺源人，進士，乾隆四十七年任粤閩南澳海防同知。***南澳爲漳潮之門户，粤閩之屏藩，自開闢以來，世爲荒服，明萬曆間始入版圖，然屢遭寇熖，或墟其地，或徙其民，廢興因革之故紛如。清順治元年，南澳副總兵鄭芝龍從唐王於福州，封侯加太師，既而密謀歸款，芝龍降，其子成功遁入南澳，收芝龍散卒，附者日衆。康熙三年冬十一月，徙澳民於内地。康熙二十四年，詔設南澳總兵。雍正十年，詔設粤閩南澳海防同知。南澳舊志十卷，明萬曆間副總兵黃岡所脩，書目見於《漳州府志》，其書已無傳。此志乾隆四十八年刊刻，爲見存第一志，分星野、疆域、山川、關阨、建置、城池、公署、職官、宦績、田賦、戶口、積貯、學校、廟祀、海防、風信、潮汐、盜賊、人物、列女、物産、氣候、風俗、歲時、藝文、雜記二十六門，而於建置、海防特加詳覈。***此本卷十至十二係抄配。鈐有“淮安藏書樓舊存通俗教育館接管之書”朱文方印。\",\n    \"edition\": \"刻本\",\n    \"taboos\": [],\n    \"elephantNose\": \"白口\",\n    \"dclabel\": \"清齊翀修纂\",\n    \"label\": \"清乾隆四十八年（1783）刻本\",\n    \"source\": \"柏克萊加州大學東亞圖書館漢文古籍目錄\",\n    \"classification\": \"http://data.library.sh.cn/gj/classification/7orftzdsy28r33pq\",\n    \"fishTail\": \"單魚尾\",\n    \"title\": \"[乾隆]南澳志十二卷\",\n    \"instanceOf\": \"http://data.library.sh.cn/gj/resource/work/pff6683750lva4kp\",\n    \"contribution\": [\n      {\n        \"role\": \"序\",\n        \"label\": \"齊翀\",\n        \"temporalValue\": \"淸\",\n        \"uri\": \"http://data.library.sh.cn/entity/person/ftpjnxnbkilex71a\"\n      },\n      {\n        \"uri\": \"http://data.library.sh.cn/entity/person/7riuzotq4boumuax\",\n        \"role\": \"序\"\n      },\n      {\n        \"role\": \"修纂\",\n        \"label\": \"齊翀\",\n        \"temporalValue\": \"淸\",\n        \"uri\": \"http://data.library.sh.cn/entity/person/ftpjnxnbkilex71a\"\n      }\n    ],\n    \"charsNumberPerLine\": \"半葉九行，行二十三字\",\n    \"temporalValue\": \"清乾隆48年\",\n    \"plateFrame\": \"左右雙邊\",\n    \"prefaceAndPostscript\": \"首乾隆四十八年招成萬、齊翀序\",\n    \"temporal\": \"http://data.library.sh.cn/authority/temporal/7ase6ple2nud826q\",\n    \"dimensions\": \"匡高19.5厘米，廣13.7厘米\"\n  }\n}"
+    },
+    {
+      "name": " 古籍源流列表",
+      "originalName": "[古籍] 古籍源流列表.json",
+      "category": "古籍",
+      "size": "900.00 B",
+      "sizeBytes": 900,
+      "status": "success",
+      "url": "api_results\\[古籍] 古籍源流列表.json",
+      "extension": ".json",
+      "preview": "{\n  \"result\": \"0\",\n  \"data\": [\n    {\n      \"hasWork\": {\n        \"creator\": [\n          {\n            \"uri\": \"http://data.library.sh.cn/entity/person/hybyl6u2mq8qy3lr\",\n            \"label\": \"徐眾\"\n          }\n        ],\n        \"title\": \"三國評\",\n        \"uri\": \"http://data.library.sh.cn/gj/resource/work/gtuh0p6e313xqz4s\"\n      },\n      \"identifier\": \"776\",\n      \"source\": {\n        \"title\": \"舊唐書經籍志\",\n        \"uri\": \"http://data.library.sh.cn/gj/resource/work/cy8pv1o4jyrdsrbp\"\n      },\n      \"uri\": \"http://data.library.sh.cn/gj/resource/annotation/iwc62q1sb6ch3q8w\",\n      \"hasBody\": \"《三国评》三卷 徐众撰。\"\n    }\n  ],\n  \"pager\": {\n    \"iflimit\": \"\",\n    \"pageCount\": 1,\n    \"startIndex\": 0,\n    \"pageth\": 1,\n    \"pageSize\": 10,\n    \"pageths\": [\n      1\n    ],\n    \"rowCount\": 1,\n    \"sort\": \"insertTime\",\n    \"dir\": \"desc\"\n  }\n}"
+    },
+    {
+      "name": " 古籍馆藏信息",
+      "originalName": "[古籍] 古籍馆藏信息.json",
+      "category": "古籍",
+      "size": "664.00 B",
+      "sizeBytes": 664,
+      "status": "success",
+      "url": "api_results\\[古籍] 古籍馆藏信息.json",
+      "extension": ".json",
+      "preview": "{\n  \"result\": \"0\",\n  \"data\": [\n    {\n      \"original\": \"http://data.library.sh.cn/gj/resource/item/rwjbvqg466bvs8pl\",\n      \"accessLevel\": \"1\",\n      \"uri\": \"http://data.library.sh.cn/gj/resource/item/wv5tlv4zj0erf4jz\",\n      \"itemOf\": \"http://data.library.sh.cn/gj/resource/instance/cs5colfieikc3kqe\",\n      \"heldBy\": [\n        {\n          \"address\": \"寧夏回族自治區 銀川市 金鳳區 人民廣場東街6號\",\n          \"abbreviateName\": \"寧夏回族自治區博物館\",\n          \"label\": \"寧夏回族自治區博物館\",\n          \"uri\": \"http://data.library.sh.cn/entity/organization/j7xq7hsmizkiraq6\"\n        }\n      ]\n    }\n  ]\n}"
+    },
+    {
+      "name": " 根据作品获取相关实例",
+      "originalName": "[古籍] 根据作品获取相关实例.json",
+      "category": "古籍",
+      "size": "36.00 B",
+      "sizeBytes": 36,
+      "status": "success",
+      "url": "api_results\\[古籍] 根据作品获取相关实例.json",
+      "extension": ".json",
+      "preview": "{\n  \"result\": \"1\",\n  \"data\": []\n}"
+    },
+    {
+      "name": " 获取相关作者合作实例",
+      "originalName": "[古籍] 获取相关作者合作实例.json",
+      "category": "古籍",
+      "size": "5.72 KB",
+      "sizeBytes": 5862,
+      "status": "success",
+      "url": "api_results\\[古籍] 获取相关作者合作实例.json",
+      "extension": ".json",
+      "preview": "{\n  \"result\": \"0\",\n  \"data\": [\n    {\n      \"classUri\": \"http://data.library.sh.cn/gj/classification/xwoqbki1nqgydwmv\",\n      \"creator\": [\n        {\n          \"temporalValue\": \"晉\",\n          \"uri\": \"http://data.library.sh.cn/entity/person/1x7xg5qx64m4baqp\",\n          \"label\": \"陳壽\"\n        }\n      ],\n      \"fullClassName\": \"史部--紀傳類--類\",\n      \"temporalValue\": \"明萬曆\",\n      \"seals\": \"\",\n      \"edition\": \"刻本\",\n      \"dtitle\": \"San Guo Zhi Liu Shi Wu Juan\",\n      \"uri\": \"http://data.library.sh.cn/gj/resource/instance/0fwt5hcuoqudl7t3\"\n    },\n    {\n      \"classUri\": \"http://data.library.sh.cn/gj/classification/xwoqbki1nqgydwmv\",\n      \"creator\": [\n        {\n          \"temporalValue\": \"晉\",\n          \"uri\": \"http://data.library.sh.cn/entity/person/1x7xg5qx64m4baqp\",\n          \"label\": \"陳壽\"\n        }\n      ],\n      \"fullClassName\": \"史部--紀傳類--類\",\n      \"temporalValue\": \"宋\",\n      \"seals\": \"\",\n      \"edition\": \"刻本\",\n      \"dtitle\": \"三国志六十五卷\",\n      \"uri\": \"http://data.library.sh.cn/gj/resource/instance/3nurgvorwgzeo1qy\"\n    },\n    {\n      \"classUri\": \"http://data.library.sh.cn/gj/classification/xwoqbki1nqgydwmv\",\n      \"creator\": [\n        {\n          \"temporalValue\": \"晉\",\n          \"uri\": \"http://data.library.sh.cn/entity/person/1x7xg5qx64m4baqp\",\n          \"label\": \"陳壽\"\n        }\n      ],\n      \"fullClassName\": \"史部--紀傳類--類\",\n      \"temporalValue\": \"明崇禎17年\",\n      \"seals\": \"\",\n      \"edition\": \"刻本\",\n      \"dtitle\": \"三國志六十五卷\",\n      \"uri\": \"http://data.library.sh.cn/gj/resource/instance/3pbb0sq0uanrnuwc\"\n    },\n    {\n      \"classUri\": \"http://data.library.sh.cn/gj/classification/xwoqbki1nqgydwmv\",\n      \"creator\": [\n        {\n          \"temporalValue\": \"晉\",\n          \"uri\": \"http://data.library.sh.cn/entity/person/1x7xg5qx64m4baqp\",\n          \"label\": \"陳壽\"\n        }\n      ],\n      \"fullClassName\": \"史部--紀傳類--類\",\n      \"temporalValue\": \"明萬曆24年\",\n      \"seals\": \"\",\n      \"edition\": \"刻本\",\n      \"dtitle\": \"三國志六十五卷\",\n      \"uri\": \"http://data.library.sh.cn/gj/resource/instance/3z6r0t\n... (truncated)"
+    },
+    {
+      "name": " 上海地名志列表",
+      "originalName": "[地名志] 上海地名志列表.json",
+      "category": "地名志",
+      "size": "1.45 KB",
+      "sizeBytes": 1486,
+      "status": "success",
+      "url": "api_results\\[地名志] 上海地名志列表.json",
+      "extension": ".json",
+      "preview": "{\n  \"result\": \"0\",\n  \"data\": [\n    {\n      \"riverLabel\": \"杭州湾水系\",\n      \"broaderUri\": \"http://data.library.sh.cn/dmz/entity/placecategory/radmim1oxuvebfmu\",\n      \"typeUri\": \"http://data.library.sh.cn/dmz/entity/placecategory/mjr7vodeybyo5s6i\",\n      \"beginAt\": \"\",\n      \"locationDescription\": \"\",\n      \"name\": \"白龙港\",\n      \"placeUri\": \"\",\n      \"description\": \"在南汇县东部。以河道中有长条状白色贝壳碎屑堆积物而得名。北起北界河，往南流经大沙路港等，止于中港河。长11.2公里。枯水期水深1.9米，可通行20吨级船舶。\",\n      \"locationLabel\": \"\",\n      \"endAt\": \"\",\n      \"placeLabel\": \"\",\n      \"uri\": \"http://data.library.sh.cn/dmz/entity/place/37vqhqhbwdubwshn\"\n    },\n    {\n      \"riverLabel\": \"杭州湾水系\",\n      \"broaderUri\": \"\",\n      \"typeUri\": \"http://data.library.sh.cn/dmz/entity/placecategory/radmim1oxuvebfmu\",\n      \"beginAt\": \"大治河\",\n      \"locationDescription\": \"南汇县东南部\",\n      \"name\": \"南白龙港\",\n      \"placeUri\": \"\",\n      \"description\": \"\",\n      \"locationLabel\": \"\",\n      \"endAt\": \"五尺沟\",\n      \"placeLabel\": \"\",\n      \"uri\": \"http://data.library.sh.cn/dmz/entity/place/ucd13zwphx6dte2r\"\n    }\n  ],\n  \"pager\": {\n    \"iflimit\": \"\",\n    \"startIndex\": 0,\n    \"pageSize\": 10,\n    \"sort\": \"insertTime\",\n    \"dir\": \"desc\",\n    \"pageth\": 1,\n    \"pageths\": [\n      1\n    ],\n    \"pageCount\": 1,\n    \"rowCount\": 2\n  }\n}"
+    },
+    {
+      "name": " 上海地名志详情",
+      "originalName": "[地名志] 上海地名志详情.json",
+      "category": "地名志",
+      "size": "735.00 B",
+      "sizeBytes": 735,
+      "status": "success",
+      "url": "api_results\\[地名志] 上海地名志详情.json",
+      "extension": ".json",
+      "preview": "{\n  \"result\": \"0\",\n  \"data\": {\n    \"riverLabel\": \"杭州湾水系\",\n    \"broaderUri\": \"http://data.library.sh.cn/dmz/entity/placecategory/radmim1oxuvebfmu\",\n    \"typeUri\": \"http://data.library.sh.cn/dmz/entity/placecategory/mjr7vodeybyo5s6i\",\n    \"beginAt\": \"\",\n    \"locationDescription\": \"\",\n    \"name\": \"白龙港\",\n    \"placeUri\": \"\",\n    \"description\": \"在南汇县东部。以河道中有长条状白色贝壳碎屑堆积物而得名。北起北界河，往南流经大沙路港等，止于中港河。长11.2公里。枯水期水深1.9米，可通行20吨级船舶。\",\n    \"locationLabel\": \"\",\n    \"endAt\": \"\",\n    \"placeLabel\": \"\",\n    \"uri\": \"http://data.library.sh.cn/dmz/entity/place/37vqhqhbwdubwshn\"\n  }\n}"
+    },
+    {
+      "name": " 相关道路列表",
+      "originalName": "[地名志] 相关道路列表.json",
+      "category": "地名志",
+      "size": "834.00 B",
+      "sizeBytes": 834,
+      "status": "success",
+      "url": "api_results\\[地名志] 相关道路列表.json",
+      "extension": ".json",
+      "preview": "{\n  \"result\": \"0\",\n  \"data\": [\n    {\n      \"nameChs\": \"万安街\",\n      \"historyOf\": \"http://data.library.sh.cn/entity/road/hjbrk5bvjrcfb4bu\",\n      \"temporalValue\": \"~1954.12.22\",\n      \"historyOfName\": \"晏海路弄号\",\n      \"placeUri\": \"http://data.library.sh.cn/entity/place/yyxgq2pl3szeez23\",\n      \"nameEn\": \"\",\n      \"uri\": \"http://data.library.sh.cn/entity/road/0z04lw6m67wzjir0\",\n      \"nameAfter\": \"\",\n      \"placeList\": [\n        {\n          \"placeUri\": \"http://data.library.sh.cn/entity/place/yyxgq2pl3szeez23\",\n          \"placeName\": \"朱泾镇\"\n        }\n      ]\n    }\n  ],\n  \"pager\": {\n    \"iflimit\": \"\",\n    \"startIndex\": 0,\n    \"pageSize\": 10,\n    \"sort\": \"insertTime\",\n    \"dir\": \"desc\",\n    \"pageth\": 1,\n    \"pageths\": [\n      1\n    ],\n    \"pageCount\": 1,\n    \"rowCount\": 1\n  }\n}"
+    },
+    {
+      "name": " 人物列表-高级检索",
+      "originalName": "[基础] 人物列表-高级检索.json",
+      "category": "基础",
+      "size": "2.33 KB",
+      "sizeBytes": 2390,
+      "status": "success",
+      "url": "api_results\\[基础] 人物列表-高级检索.json",
+      "extension": ".json",
+      "preview": "{\n  \"result\": \"0\",\n  \"data\": [\n    {\n      \"fname\": \"巴金\",\n      \"speciality\": \"作家,文学翻译家\",\n      \"place_uri\": \"http://data.library.sh.cn/entity/place/hfpkaw7jcecxunhu\",\n      \"start\": \"1904.11\",\n      \"end\": \"2005.10.17\",\n      \"place\": \"四川\",\n      \"briefBiography\": \"著名作家,文学翻译家,曾任中国文联副主席,作协主席,作协上海分会主席.原名李尧棠,字芾甘,笔名王文慧,欧阳镜蓉,黄树辉,余一,余三,余五,余七,巴比,比金,佩竿等.四川成都人.1927年赴法留学,1927年底回国,编辑《文学丛刊》,从事文学创作.1934年冬游学日本,次年8月回国.之后,任上海文化生活出版社,平明出版社总编辑.1949年至今,历任中国作协副主席,上海分会主席,《文艺月报》,《收获》,《上海文学》主编,中国文联副主席,中国作协主席,全国政协副主席等职.著有长篇小说《灭亡》,《家》,《春》,《秋》等,译有《处女地》,《往事与随想》.\",\n      \"uri\": \"http://data.library.sh.cn/entity/person/6pnc6xdap3cfkcup\",\n      \"long\": \"104.07\",\n      \"lat\": \"30.67\"\n    },\n    {\n      \"fname\": \"章佳巴金保\",\n      \"uri\": \"http://data.library.sh.cn/entity/person/uipooh1ymke1h2p1\"\n    },\n    {\n      \"fname\": \"巴金泰\",\n      \"uri\": \"http://data.library.sh.cn/entity/person/3nsvy8sdz13d8w8s\"\n    },\n    {\n      \"fname\": \"巴金\",\n      \"uri\": \"http://data.library.sh.cn/entity/person/qvzb8rdncvqumcv7\"\n    },\n    {\n      \"fname\": \"卡巴金\",\n      \"uri\": \"http://data.library.sh.cn/entity/person/7njias03762usszf\"\n    },\n    {\n      \"fname\": \"巴金陵\",\n      \"start\": \"1942\",\n      \"briefBiography\": \"女。中共党员。1959年毕业于北京市戏曲学校。历任北京市戏曲学校演员、教师、党委委员、班主任、副科长。一级演员。中国戏剧家协会会员。饰有京剧《莫斯科》等主要角色和其他角色。《莫斯科》获第七届世界青年联欢节北京市文化局艺术园丁奖等。（来源：《中国戏剧家大辞典》）\",\n      \"uri\": \"http://data.library.sh.cn/entity/person/2a2rry4d8ri61emv\"\n    }\n  ],\n  \"pager\": {\n    \"iflimit\": \"\",\n    \"pageCount\": 1,\n    \"startIndex\": 0,\n    \"pageth\": 1,\n    \"pageSize\": 10,\n    \"pageths\": [\n      1\n    ],\n    \"rowCount\": 6,\n    \"sort\": \"insertTime\",\n    \"dir\": \"desc\"\n  }\n}"
+    },
+    {
+      "name": " 地名检索",
+      "originalName": "[基础] 地名检索.json",
+      "category": "基础",
+      "size": "1.09 KB",
+      "sizeBytes": 1115,
+      "status": "success",
+      "url": "api_results\\[基础] 地名检索.json",
+      "extension": ".json",
+      "preview": "{\n  \"@id\": \"http://data.library.sh.cn/entity/place/n5sfke9d88qj3iyp\",\n  \"@type\": \"http://www.library.sh.cn/ontology/Place\",\n  \"label\": [\n    {\n      \"@language\": \"cht\",\n      \"@value\": \"杞縣\"\n    },\n    {\n      \"@language\": \"chs\",\n      \"@value\": \"杞县\"\n    }\n  ],\n  \"city\": \"开封市\",\n  \"country\": [\n    {\n      \"@language\": \"chs\",\n      \"@value\": \"中国\"\n    },\n    {\n      \"@language\": \"cht\",\n      \"@value\": \"中國\"\n    }\n  ],\n  \"county\": \"杞县\",\n  \"location\": \"_:b0\",\n  \"province\": \"河南省\",\n  \"lat\": \"34.55\",\n  \"long\": \"114.78\",\n  \"@context\": {\n    \"label\": \"http://bibframe.org/vocab/label\",\n    \"lat\": \"http://www.w3.org/2003/01/geo/wgs84_pos#lat\",\n    \"long\": \"http://www.w3.org/2003/01/geo/wgs84_pos#long\",\n    \"country\": \"http://www.library.sh.cn/ontology/country\",\n    \"location\": {\n      \"@id\": \"http://www.library.sh.cn/ontology/location\",\n      \"@type\": \"@id\"\n    },\n    \"city\": \"http://www.library.sh.cn/ontology/city\",\n    \"county\": \"http://www.library.sh.cn/ontology/county\",\n    \"province\": \"http://www.library.sh.cn/ontology/province\"\n  }\n}"
+    },
+    {
+      "name": " 朝代列表",
+      "originalName": "[基础] 朝代列表.json",
+      "category": "基础",
+      "size": "4.48 KB",
+      "sizeBytes": 4587,
+      "status": "success",
+      "url": "api_results\\[基础] 朝代列表.json",
+      "extension": ".json",
+      "preview": "{\n  \"result\": [\n    {\n      \"end\": \"-1559\",\n      \"label\": \"夏\",\n      \"uri\": \"http://data.library.sh.cn/authority/temporal/4alljneqiivh5691\",\n      \"begin\": \"-1989\"\n    },\n    {\n      \"end\": \"-1123\",\n      \"label\": \"商\",\n      \"uri\": \"http://data.library.sh.cn/authority/temporal/5et552ry5g8t8t1m\",\n      \"begin\": \"-1559\"\n    },\n    {\n      \"end\": \"-256\",\n      \"label\": \"周\",\n      \"uri\": \"http://data.library.sh.cn/authority/temporal/h49zie56z4d1gtq2\",\n      \"begin\": \"-1123\"\n    },\n    {\n      \"end\": \"-771\",\n      \"label\": \"西周\",\n      \"uri\": \"http://data.library.sh.cn/authority/temporal/8qs9fkfuknhhewht\",\n      \"begin\": \"-1046\"\n    },\n    {\n      \"end\": \"-221\",\n      \"label\": \"东周\",\n      \"uri\": \"http://data.library.sh.cn/authority/temporal/cjnk46stusravcp5\",\n      \"begin\": \"-770\"\n    },\n    {\n      \"end\": \"-477\",\n      \"label\": \"春秋\",\n      \"uri\": \"http://data.library.sh.cn/authority/temporal/mpacvj7uvzbrfj6x\",\n      \"begin\": \"-770\"\n    },\n    {\n      \"end\": \"-221\",\n      \"label\": \"战国\",\n      \"uri\": \"http://data.library.sh.cn/authority/temporal/ksjisjzdlwskal1w\",\n      \"begin\": \"-476\"\n    },\n    {\n      \"end\": \"-206\",\n      \"label\": \"秦\",\n      \"uri\": \"http://data.library.sh.cn/authority/temporal/qs36fnjpp26jtw8s\",\n      \"begin\": \"-221\"\n    },\n    {\n      \"end\": \"8\",\n      \"label\": \"西汉\",\n      \"uri\": \"http://data.library.sh.cn/authority/temporal/sbirtc1g5d7oz64i\",\n      \"begin\": \"-206\"\n    },\n    {\n      \"end\": \"220\",\n      \"label\": \"汉\",\n      \"uri\": \"http://data.library.sh.cn/authority/temporal/95vht2jlgtwimv93\",\n      \"begin\": \"-206\"\n    },\n    {\n      \"end\": \"220\",\n      \"label\": \"东汉\",\n      \"uri\": \"http://data.library.sh.cn/authority/temporal/kefbb8iphd4t5e3c\",\n      \"begin\": \"25\"\n    },\n    {\n      \"end\": \"280\",\n      \"label\": \"三国\",\n      \"uri\": \"http://data.library.sh.cn/authority/temporal/itrusbdhm298q5ma\",\n      \"begin\": \"220\"\n    },\n    {\n      \"end\": \"420\",\n      \"label\": \"晋\",\n      \"uri\": \"http://data.library.sh.cn/authority/temporal/e4q96sxq5sqpcio3\",\n      \"b\n... (truncated)"
+    },
+    {
+      "name": " 馆藏机构列表",
+      "originalName": "[基础] 馆藏机构列表.json",
+      "category": "基础",
+      "size": "492.00 B",
+      "sizeBytes": 492,
+      "status": "success",
+      "url": "api_results\\[基础] 馆藏机构列表.json",
+      "extension": ".json",
+      "preview": "{\n  \"pager\": {\n    \"iflimit\": \"\",\n    \"startIndex\": 0,\n    \"pageSize\": 10,\n    \"sort\": \"insertTime\",\n    \"dir\": \"desc\",\n    \"pageth\": 1,\n    \"pageths\": [\n      1\n    ],\n    \"pageCount\": 1,\n    \"rowCount\": 1\n  },\n  \"detail\": [\n    {\n      \"shorts\": \"上图\",\n      \"full\": \"上海图书馆\",\n      \"addr\": \"上海市 徐汇区 淮海中路1555号\",\n      \"en\": \"Shanghai library\",\n      \"uri\": \"http://data.library.sh.cn/entity/organization/brvqlrg8y55v1b5q\"\n    }\n  ]\n}"
+    },
+    {
+      "name": " 文献搜索",
+      "originalName": "[宋庆龄] 文献搜索.json",
+      "category": "宋庆龄",
+      "size": "27.77 KB",
+      "sizeBytes": 28432,
+      "status": "success",
+      "url": "api_results\\[宋庆龄] 文献搜索.json",
+      "extension": ".json",
+      "preview": "{\n  \"message\": \"请求成功\",\n  \"entity\": [\n    {\n      \"summary\": \"\",\n      \"bc\": null,\n      \"note\": \"《为新中国奋斗》，人民出版社一九五二年出版<br/>\",\n      \"fileIndex\": null,\n      \"authorType1\": \"\",\n      \"releaseDate\": \"1966-11\",\n      \"title1\": \"孙中山与中国的民主\",\n      \"title2\": \"为在美国举行的孙中山纪念日所作的广播演说\",\n      \"source\": \"宋庆龄选集\",\n      \"pageName\": \"174-176\",\n      \"cycle\": null,\n      \"author1\": \"宋庆龄\",\n      \"persons\": [\n        \"孙中山\"\n      ],\n      \"writeDate1\": \"1944-03-12\",\n      \"addressee\": [\n        \"\"\n      ],\n      \"archivesName\": \"\",\n      \"series\": \"\",\n      \"writePlace\": \"\",\n      \"objectName\": null,\n      \"numberValue\": \"\",\n      \"keyword\": [\n        \"\"\n      ],\n      \"category\": \"article\",\n      \"events\": [],\n      \"fullNumber\": null\n    },\n    {\n      \"summary\": null,\n      \"bc\": null,\n      \"note\": \"《新华日报》一九四四年三月十三日\",\n      \"fileIndex\": null,\n      \"authorType1\": \"\",\n      \"releaseDate\": \"1992-10\",\n      \"title1\": \"孙中山与中国的民主\",\n      \"title2\": \"为在美国举行的孙中山纪念日所作的广播演说\",\n      \"source\": \"宋庆龄选集\",\n      \"pageName\": \"384-386\",\n      \"cycle\": null,\n      \"author1\": \"宋庆龄\",\n      \"persons\": null,\n      \"writeDate1\": \"1944-03-12\",\n      \"addressee\": null,\n      \"archivesName\": null,\n      \"series\": \"上卷\",\n      \"writePlace\": null,\n      \"objectName\": null,\n      \"numberValue\": null,\n      \"keyword\": null,\n      \"category\": \"article\",\n      \"events\": [],\n      \"fullNumber\": null\n    },\n    {\n      \"summary\": \"\",\n      \"bc\": null,\n      \"note\": \"《孙中山先生墨迹》一九二六年十一月\",\n      \"fileIndex\": null,\n      \"authorType1\": \"\",\n      \"releaseDate\": \"1992-10\",\n      \"title1\": \"孙中山《建国大纲》亲笔稿石印本跋\",\n      \"title2\": \"\",\n      \"source\": \"宋庆龄选集\",\n      \"pageName\": \"35\",\n      \"cycle\": null,\n      \"author1\": \"宋庆龄\",\n      \"persons\": [\n        \"宋庆龄\",\n        \"孙中山\"\n      ],\n      \"writeDate1\": \"1926-11\",\n      \"addressee\": [\n        \"\"\n      ],\n      \"archivesName\": \"\",\n      \"series\": \"上卷\",\n      \"writePlace\": \"\",\n      \"objectName\": null,\n      \"numberValue\": \"\",\n      \"keyword\": [\n        \"\"\n      ],\n      \"category\":\n... (truncated)"
+    },
+    {
+      "name": " 先祖名人查询",
+      "originalName": "[家谱] 先祖名人查询.json",
+      "category": "家谱",
+      "size": "12.93 KB",
+      "sizeBytes": 13237,
+      "status": "success",
+      "url": "api_results\\[家谱] 先祖名人查询.json",
+      "extension": ".json",
+      "preview": "{\n  \"@graph\": [\n    {\n      \"@id\": \"http://data.library.sh.cn/jp/entity/person/2mzgcpwh3n3i3woc\",\n      \"@type\": \"http://www.library.sh.cn/ontology/Person\",\n      \"label\": [\n        {\n          \"@language\": \"chs\",\n          \"@value\": \"胡昌翼\"\n        },\n        {\n          \"@language\": \"cht\",\n          \"@value\": \"胡昌翼\"\n        }\n      ],\n      \"relatedWork\": \"http://data.library.sh.cn/jp/resource/work/0y2t7betllxm4h6f\",\n      \"roleOfFamily\": \"http://data.library.sh.cn/jp/vocab/ancestor/shi-zu\",\n      \"familyName\": \"http://data.library.sh.cn/authority/familyname/rvmgzfsec8os93mv\"\n    },\n    {\n      \"@id\": \"http://data.library.sh.cn/jp/entity/person/3f689tbm8lluf19a\",\n      \"@type\": \"http://www.library.sh.cn/ontology/Person\",\n      \"label\": [\n        {\n          \"@language\": \"cht\",\n          \"@value\": \"胡昌翼\"\n        },\n        {\n          \"@language\": \"chs\",\n          \"@value\": \"胡昌翼\"\n        }\n      ],\n      \"relatedWork\": \"http://data.library.sh.cn/jp/resource/work/fvhqr5xsnbsdiglt\",\n      \"roleOfFamily\": \"http://data.library.sh.cn/jp/vocab/ancestor/xian-zu\",\n      \"temporal\": \"http://data.library.sh.cn/authority/temporal/icdquglj1cgbekqk\",\n      \"temporalValue\": \"唐\",\n      \"familyName\": \"http://data.library.sh.cn/authority/familyname/rvmgzfsec8os93mv\"\n    },\n    {\n      \"@id\": \"http://data.library.sh.cn/jp/entity/person/3my2hirfztbmasrb\",\n      \"@type\": \"http://www.library.sh.cn/ontology/Person\",\n      \"label\": [\n        {\n          \"@language\": \"cht\",\n          \"@value\": \"胡昌翼\"\n        },\n        {\n          \"@language\": \"chs\",\n          \"@value\": \"胡昌翼\"\n        }\n      ],\n      \"relatedWork\": \"http://data.library.sh.cn/jp/resource/work/d355ddk4lit4ngi4\",\n      \"roleOfFamily\": \"http://data.library.sh.cn/jp/vocab/ancestor/shi-zu\",\n      \"temporal\": \"http://data.library.sh.cn/authority/temporal/yex4deivsad41p9q\",\n      \"temporalValue\": \"明\",\n      \"familyName\": \"http://data.library.sh.cn/authority/familyname/rvmgzfsec8os93mv\"\n    },\n    {\n      \"@id\": \"http://data.library.sh\n... (truncated)"
+    },
+    {
+      "name": " 姓氏查询",
+      "originalName": "[家谱] 姓氏查询.json",
+      "category": "家谱",
+      "size": "1002.00 B",
+      "sizeBytes": 1002,
+      "status": "success",
+      "url": "api_results\\[家谱] 姓氏查询.json",
+      "extension": ".json",
+      "preview": "{\n  \"@id\": \"http://data.library.sh.cn/authority/familyname/9i5ukkrs9ebh6qmz\",\n  \"@type\": \"http://www.library.sh.cn/ontology/FamilyName\",\n  \"label\": [\n    {\n      \"@language\": \"en\",\n      \"@value\": \"chen\"\n    },\n    {\n      \"@language\": \"chs\",\n      \"@value\": \"陈\"\n    },\n    {\n      \"@language\": \"cht\",\n      \"@value\": \"陳\"\n    },\n    {\n      \"@language\": \"chwg\",\n      \"@value\": \"ch'en\"\n    }\n  ],\n  \"description\": \"见于《世本》。西汉《急就章》列为汉代常见姓氏之一。春秋时陈国有陈亢，为孔门弟子。春秋时齐国有陈乞，事景公为大夫。又战国时楚国有陈学良，学者。汉代有陈平，阳武人，开国元勋。陈氏为中国古今最常见的六大姓氏（王李张刘陈赵）之一。《中国人名大辞典》收有陈氏1012例。宋《百家姓》列为第010姓。\",\n  \"@context\": {\n    \"label\": \"http://bibframe.org/vocab/label\",\n    \"description\": \"http://www.library.sh.cn/ontology/description\"\n  }\n}"
+    },
+    {
+      "name": " 家谱谱目查询",
+      "originalName": "[家谱] 家谱谱目查询.json",
+      "category": "家谱",
+      "size": "17.72 KB",
+      "sizeBytes": 18147,
+      "status": "success",
+      "url": "api_results\\[家谱] 家谱谱目查询.json",
+      "extension": ".json",
+      "preview": "{\n  \"@graph\": [\n    {\n      \"@id\": \"http://data.library.sh.cn/entity/person/uyr3lm4jxlpnnx30\",\n      \"relatedWork\": \"http://data.library.sh.cn/jp/resource/work/74zhob3x2ph144es\"\n    },\n    {\n      \"@id\": \"http://data.library.sh.cn/jp/entity/person/3mwr37cne1evkl72\",\n      \"relatedWork\": \"http://data.library.sh.cn/jp/resource/work/kqlipgffst2kqjcb\"\n    },\n    {\n      \"@id\": \"http://data.library.sh.cn/jp/entity/person/azmmh61poqhefmgu\",\n      \"relatedWork\": \"http://data.library.sh.cn/jp/resource/work/74zhob3x2ph144es\"\n    },\n    {\n      \"@id\": \"http://data.library.sh.cn/jp/entity/person/bfzdd1woec6h5afw\",\n      \"relatedWork\": \"http://data.library.sh.cn/jp/resource/work/kqlipgffst2kqjcb\"\n    },\n    {\n      \"@id\": \"http://data.library.sh.cn/jp/entity/person/ey43sj9jb75edze1\",\n      \"relatedWork\": \"http://data.library.sh.cn/jp/resource/work/zklmd94df6n98io9\"\n    },\n    {\n      \"@id\": \"http://data.library.sh.cn/jp/entity/person/nhluxeh2migw23kf\",\n      \"relatedWork\": \"http://data.library.sh.cn/jp/resource/work/zklmd94df6n98io9\"\n    },\n    {\n      \"@id\": \"http://data.library.sh.cn/jp/entity/person/u61advsxnd7ap2pg\",\n      \"relatedWork\": \"http://data.library.sh.cn/jp/resource/work/bumo82o127zuwoj1\"\n    },\n    {\n      \"@id\": \"http://data.library.sh.cn/jp/resource/instance/dsur7nkm2kqlprsl\",\n      \"@type\": \"http://bibframe.org/vocab/Instance\",\n      \"category\": \"http://data.library.sh.cn/vocab/binding/xian-zhuang\",\n      \"edition\": \"http://data.library.sh.cn/vocab/edition/chao-ben\",\n      \"extent\": \"1冊\",\n      \"instanceOf\": \"http://data.library.sh.cn/jp/resource/work/kqlipgffst2kqjcb\",\n      \"note\": \"_:b2\",\n      \"temporal\": \"http://data.library.sh.cn/authority/temporal/7sl8ulx4ouipdbg2\",\n      \"temporal:Value\": \"民國\"\n    },\n    {\n      \"@id\": \"http://data.library.sh.cn/jp/resource/instance/jddzx3ggjyvcnw3f\",\n      \"@type\": \"http://bibframe.org/vocab/Instance\",\n      \"category\": \"http://data.library.sh.cn/vocab/binding/u-pan\",\n      \"edition\": \"http://data.library.sh.cn/vocab/\n... (truncated)"
+    },
+    {
+      "name": " 上海年华机构列表",
+      "originalName": "[年华机构] 上海年华机构列表.json",
+      "category": "年华机构",
+      "size": "639.00 B",
+      "sizeBytes": 639,
+      "status": "success",
+      "url": "api_results\\[年华机构] 上海年华机构列表.json",
+      "extension": ".json",
+      "preview": "{\n  \"result\": \"0\",\n  \"data\": [\n    {\n      \"noteOfSource\": \"上海年华电影知识库\",\n      \"name\": [\n        \"上海天馬電影製片廠@cht\",\n        \"上海天马电影制片厂@chs\",\n        \"shanghaitianmadianyingzhipianchang@en\"\n      ],\n      \"uri\": \"http://data.library.sh.cn/entity/organization/1tbd85amhshcovui\"\n    }\n  ],\n  \"pager\": {\n    \"iflimit\": \"\",\n    \"startIndex\": 0,\n    \"pageSize\": 1,\n    \"sort\": \"insertTime\",\n    \"dir\": \"desc\",\n    \"pageth\": 1,\n    \"pageths\": [\n      1,\n      2,\n      3,\n      4,\n      5,\n      6,\n      100\n    ],\n    \"pageCount\": 100,\n    \"rowCount\": 100\n  }\n}"
+    },
+    {
+      "name": " 上海年华机构详情",
+      "originalName": "[年华机构] 上海年华机构详情.json",
+      "category": "年华机构",
+      "size": "99.00 B",
+      "sizeBytes": 99,
+      "status": "success",
+      "url": "api_results\\[年华机构] 上海年华机构详情.json",
+      "extension": ".json",
+      "preview": "{\n  \"data\": {\n    \"uri\": \"http://data.library.sh.cn/entity/organization/0z7jo5b5rqrnn15t\"\n  }\n}"
+    },
+    {
+      "name": " 南湖革命纪念馆手迹列表",
+      "originalName": "[手迹] 南湖革命纪念馆手迹列表.json",
+      "category": "手迹",
+      "size": "844.00 B",
+      "sizeBytes": 844,
+      "status": "success",
+      "url": "api_results\\[手迹] 南湖革命纪念馆手迹列表.json",
+      "extension": ".json",
+      "preview": "{\n  \"result\": \"0\",\n  \"data\": [\n    {\n      \"date\": \"1963\",\n      \"image\": {\n        \"imgPath\": \"https://img.library.sh.cn/person/shouji/yx8g27qsdquuhih6.jpg\",\n        \"format\": \"jpg\",\n        \"label\": \"yx8g27qsdquuhih6.jpg\",\n        \"uri\": \"http://data.library.sh.cn/shouji/resource/image/yx8g27qsdquuhih6\"\n      },\n      \"creator\": \"郭沫若\",\n      \"person\": \"http://data.library.sh.cn/entity/person/rre963914j6whck4\",\n      \"description\": \"郭沫若 题诗(1963)\",\n      \"type\": \"题诗\",\n      \"uri\": \"http://data.library.sh.cn/shouji/resource/photo/28x1flx5xje1zdw4\"\n    }\n  ],\n  \"pager\": {\n    \"iflimit\": \"\",\n    \"startIndex\": 0,\n    \"pageSize\": 1,\n    \"sort\": \"insertTime\",\n    \"dir\": \"desc\",\n    \"pageth\": 1,\n    \"pageths\": [\n      1,\n      2,\n      3\n    ],\n    \"pageCount\": 3,\n    \"rowCount\": 3\n  }\n}"
+    },
+    {
+      "name": " 南湖革命纪念馆手迹详情",
+      "originalName": "[手迹] 南湖革命纪念馆手迹详情.json",
+      "category": "手迹",
+      "size": "602.00 B",
+      "sizeBytes": 602,
+      "status": "success",
+      "url": "api_results\\[手迹] 南湖革命纪念馆手迹详情.json",
+      "extension": ".json",
+      "preview": "{\n  \"result\": \"0\",\n  \"data\": [\n    {\n      \"date\": \"1991\",\n      \"image\": {\n        \"imgPath\": \"https://img.library.sh.cn/person/shouji/vuneyt5e3di2amaz.jpg\",\n        \"format\": \"jpg\",\n        \"label\": \"vuneyt5e3di2amaz.jpg\",\n        \"uri\": \"http://data.library.sh.cn/shouji/resource/image/vuneyt5e3di2amaz\"\n      },\n      \"creator\": \"薄一波\",\n      \"person\": \"http://data.library.sh.cn/entity/person/4rxd6it9oj8ogjye\",\n      \"description\": \"薄一波 题词(1991)\",\n      \"type\": \"题词\",\n      \"uri\": \"http://data.library.sh.cn/shouji/resource/photo/5q1co8xb5xjdwbro\"\n    }\n  ]\n}"
+    },
+    {
+      "name": " 人物详情",
+      "originalName": "[武康路] 人物详情.json",
+      "category": "武康路",
+      "size": "30.57 KB",
+      "sizeBytes": 31308,
+      "status": "success",
+      "url": "api_results\\[武康路] 人物详情.json",
+      "extension": ".json",
+      "preview": "{\n  \"result\": \"0\",\n  \"data\": {\n    \"birthday\": \"1904.11\",\n    \"img\": \"//img.library.sh.cn/person/6pnc6xdap3cfkcup.jpg\",\n    \"courtesyName\": \"芾甘\",\n    \"gender\": \"男\",\n    \"ethnicity\": \"汉族\",\n    \"deathday\": \"2005.10.17\",\n    \"relation\": \"http://data.library.sh.cn/entity/architecture/if3k5yb021u3c4vd\",\n    \"speciality\": \"作家,文学翻译家\",\n    \"createdWork\": [\n      \"开明\",\n      \"家\",\n      \"太白\",\n      \"春\",\n      \"时报\",\n      \"文学\",\n      \"文汇报\",\n      \"电\",\n      \"雨\",\n      \"东方杂志\",\n      \"水星\",\n      \"《第四病室》；《随想录》\",\n      \"秋\",\n      \"新生\",\n      \"激流\",\n      \"洪水\",\n      \"随想录\",\n      \"寒夜\",\n      \"处女地\",\n      \"往事与随想\",\n      \"收获\",\n      \"雾\",\n      \"人民日报\",\n      \"解放日报\",\n      \"上海文学\",\n      \"国闻周报\",\n      \"文艺月报\",\n      \"灭亡\",\n      \"小说月报\",\n      \"笔阵\",\n      \"中学生\",\n      \"平等\",\n      \"文学季刊\",\n      \"时代前\",\n      \"杂文\",\n      \"半月\",\n      \"戏剧岗位\",\n      \"文学丛刊\",\n      \"文化生活丛刊\",\n      \"上海黄庞四周年纪念大会特刊\",\n      \"断头台上\",\n      \"薇娜\",\n      \"时事新报·文学旬刊\",\n      \"俄罗斯十女杰\",\n      \"民众\",\n      \"骷髅的跳舞\",\n      \"自由月刊\",\n      \"到自由之路\",\n      \"国风日报·学汇\",\n      \"孤吟\",\n      \"自由丛刊\",\n      \"绿光\",\n      \"孤呤\",\n      \"巴金文集\",\n      \"伦理学的起源和发展\",\n      \"爱情的三部曲\"\n    ],\n    \"noteOfSource\": [\n      \"国图规范档\",\n      \"名人手稿\",\n      \"上海年华\",\n      \"中国近现代人物名号大辞典\"\n    ],\n    \"en_name\": \"bajin\",\n    \"officialEvent\": [\n      {\n        \"uri\": \"http://data.library.sh.cn/names/officialPosition/qz2sfa0sxnugfifr\",\n        \"officialPosition\": \"中国作协主席\"\n      },\n      {\n        \"uri\": \"http://data.library.sh.cn/names/officialPosition/otnroqrhove20qvm\",\n        \"officialPosition\": \"中国文联副主席\"\n      },\n      {\n        \"uri\": \"http://data.library.sh.cn/names/officialPosition/wg5a3cbayol114mk\",\n        \"officialPosition\": \"全国政协副主席\"\n      },\n      {\n        \"uri\": \"http://data.library.sh.cn/names/officialPosition/w61bkkdw1tlj8zcm\",\n        \"officialPosition\": \"《收获》主编\"\n      },\n      {\n        \"uri\": \"http://data.library.sh.cn/names/officialPosition/h83kxvyk4nhwlw3e\",\n        \"officialPosition\": \"《上海文学》主编\"\n      }\n    ],\n    \"event\": [\n      {\n        \"startedAtTi\n... (truncated)"
+    },
+    {
+      "name": " 建筑事件列表",
+      "originalName": "[武康路] 建筑事件列表.json",
+      "category": "武康路",
+      "size": "829.00 B",
+      "sizeBytes": 829,
+      "status": "success",
+      "url": "api_results\\[武康路] 建筑事件列表.json",
+      "extension": ".json",
+      "preview": "{\n  \"result\": \"0\",\n  \"data\": [\n    {\n      \"startedAtTime\": \"\",\n      \"endedAtTime\": \"\",\n      \"description\": \"建于二十世纪二十年代晚期。\",\n      \"event\": \"nodeID://b18509688\",\n      \"uri\": \"http://data.library.sh.cn/entity/architecture/yyknd1unz1xonxp7\"\n    },\n    {\n      \"startedAtTime\": \"\",\n      \"endedAtTime\": \"\",\n      \"description\": \"现为多户居民合用。\",\n      \"event\": \"nodeID://b18509690\",\n      \"uri\": \"http://data.library.sh.cn/entity/architecture/yyknd1unz1xonxp7\"\n    },\n    {\n      \"startedAtTime\": \"1950\",\n      \"endedAtTime\": \"1952\",\n      \"description\": \"1950至1952年，抗日名将、原全国政协常委郑洞国曾居住于此。\",\n      \"event\": \"nodeID://b18509689\",\n      \"uri\": \"http://data.library.sh.cn/entity/architecture/yyknd1unz1xonxp7\"\n    }\n  ]\n}"
+    },
+    {
+      "name": " 建筑列表",
+      "originalName": "[武康路] 建筑列表.json",
+      "category": "武康路",
+      "size": "109.19 KB",
+      "sizeBytes": 111814,
+      "status": "success",
+      "url": "api_results\\[武康路] 建筑列表.json",
+      "extension": ".json",
+      "preview": "{\n  \"result\": \"0\",\n  \"data\": [\n    {\n      \"address\": \"华山路849号\",\n      \"created\": \"1862\",\n      \"houseNumber\": \"849号\",\n      \"designer\": [\n        {\n          \"name\": \"艾赛西·罗杰斯\",\n          \"uri\": \"http://data.library.sh.cn/entity/person/u5ol5ez1wc6c23ou\"\n        }\n      ],\n      \"uri\": \"http://data.library.sh.cn/entity/architecture/sm4repfu8n3ga66j\",\n      \"architecturalStyle\": \"英国乡村建筑花园别墅，中国传统南方园林\",\n      \"relation\": [\n        {\n          \"name\": \"李鸿章\",\n          \"uri\": \"http://data.library.sh.cn/entity/person/7la7uay6h4ehfawq\"\n        },\n        {\n          \"name\": \"潘汉年\",\n          \"uri\": \"http://data.library.sh.cn/entity/person/b6hvpk0072rrtmau\"\n        },\n        {\n          \"uri\": \"http://data.library.sh.cn/entity/person/dxe755iab8l4iq5l\"\n        },\n        {\n          \"name\": \"丁香\",\n          \"uri\": \"http://data.library.sh.cn/entity/person/uhiqbl312ozagmtw\"\n        },\n        {\n          \"name\": \"李经迈\",\n          \"uri\": \"http://data.library.sh.cn/entity/person/5g6dh3d6haxduauo\"\n        },\n        {\n          \"name\": \"张善绅\",\n          \"uri\": \"http://data.library.sh.cn/entity/person/i66nffw0w7kzkj5l\"\n        },\n        {\n          \"name\": \"陈赓\",\n          \"uri\": \"http://data.library.sh.cn/entity/person/7pfavb6xb2jzasrn\"\n        },\n        {\n          \"name\": \"刘亚楼\",\n          \"uri\": \"http://data.library.sh.cn/entity/person/vc1dbxjwfdkcd3gv\"\n        }\n      ],\n      \"hasFile\": \"0\",\n      \"road\": [\n        {\n          \"name\": \"武康路\",\n          \"uri\": \"http://data.library.sh.cn/entity/road/24v4webnqbccmflv\"\n        },\n        {\n          \"name\": \"华山路\",\n          \"uri\": \"http://data.library.sh.cn/entity/road/fl84zhf34i0v6ln7\"\n        }\n      ],\n      \"name\": \"丁香花园\",\n      \"architectureStructure\": \"3幢西式花园别墅，占地面积2.67万平方米，总建筑面积2934平方米，砖木结构\",\n      \"location\": [\n        {\n          \"lat\": \"31.217898\",\n          \"long\": \"121.444543\"\n        }\n      ],\n      \"event\": [\n        {\n          \"startedAtTime\": \"1862\",\n          \"description\": \"1862年，建主楼1号楼\"\n        },\n        {\n     \n... (truncated)"
+    },
+    {
+      "name": " 建筑详情",
+      "originalName": "[武康路] 建筑详情.json",
+      "category": "武康路",
+      "size": "6.65 KB",
+      "sizeBytes": 6805,
+      "status": "success",
+      "url": "api_results\\[武康路] 建筑详情.json",
+      "extension": ".json",
+      "preview": "{\n  \"data\": {\n    \"address\": \"武康路99号\",\n    \"created\": \"1928\",\n    \"houseNumber\": \"99号\",\n    \"description\": \"武康路99号，始建于1928年，沪上英国乡村别墅设计风格的代表性住宅之一，山墙和外墙上有半露木构架，红砖勒脚，屋顶高大而且坡度比较陡，用红瓦铺屋顶，黄色或白色粉刷墙面，墙角有的用红砖镶嵌，庭院开阔，草木丰富。宅子最初是英商正广和契税公司大班麦格雷戈建造，后在抗战期间被原上海江海关监督唐海安占据。抗战胜利后，又迎来了著名的犹太富商哈同的儿子乔奇?哈同和他的妻子，“面粉大王”、“棉纱大王”荣宗敬的女儿荣桌如。1949年荣氏夫妇去香港之后，成为市委招待所。1951年，刘逸云在此修养，刘少奇曾来探望。潘汉年、魏文伯也在此居住过。1957年，拨给文化局，直到1965年，上海声乐研究所一直在这里办公。20世纪70年代，成为空军体检机构。“文革”后，刘靖基搬入此处。\",\n    \"designer\": [\n      {\n        \"label\": \"思久生洋行\",\n        \"uri\": \"http://data.library.sh.cn/entity/organization/1xus5gv346f86tqn\"\n      }\n    ],\n    \"uri\": \"http://data.library.sh.cn/entity/architecture/4i58zbd2c3ribkcd\",\n    \"architecturalStyle\": \"英国乡村别墅式\",\n    \"relation\": [\n      {\n        \"name\": \"荣卓如\",\n        \"uri\": \"http://data.library.sh.cn/entity/person/wnl65023grmfzr5f\"\n      },\n      {\n        \"name\": \"潘汉年\",\n        \"uri\": \"http://data.library.sh.cn/entity/person/b6hvpk0072rrtmau\"\n      },\n      {\n        \"name\": \"马玉涛\",\n        \"uri\": \"http://data.library.sh.cn/entity/person/k3xnvqsr7amuyxvf\"\n      },\n      {\n        \"name\": \"张依\",\n        \"uri\": \"http://data.library.sh.cn/entity/person/iu0plr2cnsvavpcc\"\n      },\n      {\n        \"name\": \"夏衍\",\n        \"uri\": \"http://data.library.sh.cn/entity/person/8zdvu83fe43b2ffv\"\n      },\n      {\n        \"name\": \"周而复\",\n        \"uri\": \"http://data.library.sh.cn/entity/person/17gd5s28u5vz5gac\"\n      },\n      {\n        \"name\": \"张云逸\",\n        \"uri\": \"http://data.library.sh.cn/entity/person/5wgaf1jmk42hftpr\"\n      },\n      {\n        \"name\": \"郭颂\",\n        \"uri\": \"http://data.library.sh.cn/entity/person/q10jtilxccrq7hv0\"\n      },\n      {\n        \"name\": \"王震\",\n        \"uri\": \"http://data.library.sh.cn/entity/person/4vkl0xwgoqdhosal\"\n      },\n      {\n        \"name\": \"于伶\",\n        \"uri\": \"http://data.library.sh.cn/entity/person/917ikus1h7zn16mv\"\n      },\n      {\n        \"name\": \"魏文伯\",\n        \"uri\": \"http://data.library.sh.cn/entity/person/v4dnga4gwgibrdzw\"\n      },\n      {\n        \"name\": \"罗荣钜\",\n\n... (truncated)"
+    },
+    {
+      "name": " 相关人物列表",
+      "originalName": "[武康路] 相关人物列表.json",
+      "category": "武康路",
+      "size": "2.51 KB",
+      "sizeBytes": 2574,
+      "status": "success",
+      "url": "api_results\\[武康路] 相关人物列表.json",
+      "extension": ".json",
+      "preview": "{\n  \"data\": [\n    {\n      \"img\": \"https://img.library.sh.cn/person/8a8p8s9l3flkw4wi.jpg\",\n      \"puri\": \"http://data.library.sh.cn/entity/person/8a8p8s9l3flkw4wi\",\n      \"name\": \"黄兴\",\n      \"description\": \"黄兴（1874年10月25日-1916年10月31日），原名轸，改名兴，字克强，一字廑午，号庆午、竞武，曾用名李有庆、张守正、冈本、今村长藏。湖南省长沙府善化县高塘乡（今长沙县黄兴镇凉塘）人。中国近代民主革命家，中华民国的创建者之一。黄兴是辛亥革命时期的先驱和领袖，以字克强闻名当时，与孙中山常被时人以“孙黄”并称。\\r\\n1874年10月25日，黄兴在长沙市郊的一个地主家庭诞生。1896年，考中秀才。1898年，黄兴由长沙湘水校经堂新生，被保送到武昌两湖书院深造。1902年春，赴日本东京宏文学院速成师范科留学，是这批留学生中唯一的湘籍学生。抵日后，他很快就被留学生界蓬勃兴起的资产阶级民主革命思潮所吸引。同年12月，他与杨笃生、樊锥、蔡锷等创办了《游学译编》杂志，以翻译为主，介绍西方资产阶级的社会、政治学说和革命历史，宣传民主革命和民族独立。1903年，黄兴回国，邀陈天华、张继、刘揆一、宋教仁、章士钊等人秘密集会，商定创立华兴会，被推举为会长。1905年，在日本结识孙中山，大力支持孙筹组革命组织同盟会，成为会中仅次于孙的领袖。\\r\\n1911年4月27日下午五时三十分，黄兴率领林觉民、方声洞等敢死队100余人攻打总督衙门，广州起义爆发。黄兴作为这次起义的总指挥，在国内和旅居国外的华侨中，赢得了崇高的声望。10月10日，武昌起义爆发，黄兴于28日作为革命军战时总司令赶到武汉，率民军与清军奋战。12月1日，黄兴在上海的各省代表举行会议被公举为大元帅，负责组织临时政府。因黎元洪反对，于是各省代表会改举黎元洪为大元帅，黄兴为副元帅并代大元帅职权。1913年7月，孙中山兴师讨袁，二次革命爆发。失败后，与孙中山和国民党许多骨干分子再次流亡日本。由于长期为革命事业而奔波，积劳成疾，1916年10月10日，黄兴因胃出血入院，10月31日，因病在上海去世，时年仅42岁。孙中山亲自主持治丧活动。次年4月15日国葬黄兴于长沙岳麓山云麓峰下小月亮坪。（来源：《上海年华》）\",\n      \"hasFile\": \"1\"\n    }\n  ]\n}"
+    },
+    {
+      "name": " 道路列表",
+      "originalName": "[武康路] 道路列表.json",
+      "category": "武康路",
+      "size": "246.00 B",
+      "sizeBytes": 246,
+      "status": "success",
+      "url": "api_results\\[武康路] 道路列表.json",
+      "extension": ".json",
+      "preview": "{\n  \"result\": \"1\",\n  \"data\": [],\n  \"pager\": {\n    \"iflimit\": \"\",\n    \"startIndex\": 0,\n    \"pageSize\": 10,\n    \"sort\": \"insertTime\",\n    \"dir\": \"desc\",\n    \"pageth\": 1,\n    \"pageths\": null,\n    \"pageCount\": 0,\n    \"rowCount\": 0\n  }\n}"
+    },
+    {
+      "name": " 道路详情",
+      "originalName": "[武康路] 道路详情.json",
+      "category": "武康路",
+      "size": "91.00 B",
+      "sizeBytes": 91,
+      "status": "success",
+      "url": "api_results\\[武康路] 道路详情.json",
+      "extension": ".json",
+      "preview": "{\n  \"data\": {\n    \"uri\": \"http://data.library.sh.cn/entity/road/h7h5umwxwozgates\"\n  }\n}"
+    },
+    {
+      "name": " 书影列表",
+      "originalName": "[电影] 书影列表.json",
+      "category": "电影",
+      "size": "2.41 KB",
+      "sizeBytes": 2472,
+      "status": "success",
+      "url": "api_results\\[电影] 书影列表.json",
+      "extension": ".json",
+      "preview": "{\n  \"result\": \"0\",\n  \"data\": [\n    {\n      \"date\": \"1925-05-01\",\n      \"image\": \"http://data.library.sh.cn/dy/resource/image/4xqmfu4gqr4dbp50\",\n      \"imageFormat\": \"jpg\",\n      \"creator\": \"\",\n      \"mag\": \"http://data.library.sh.cn/dy/resource/magazine/zwnicl6ivcytlv5r\",\n      \"magName\": \"明星特刊\",\n      \"description\": \"最后之良心号\",\n      \"source\": \"《明星特刊》（1）\",\n      \"type\": \"封面\",\n      \"uri\": \"http://data.library.sh.cn/dy/resource/picture/wz8ilpzmt7w8qvi8\",\n      \"imagePath\": \"https://img.library.sh.cn/dy/img/4xqmfu4gqr4dbp50.jpg\"\n    },\n    {\n      \"date\": \"1926-12-28\",\n      \"image\": \"http://data.library.sh.cn/dy/resource/image/jhueks4b2ro1lo80\",\n      \"imageFormat\": \"jpg\",\n      \"creator\": \"\",\n      \"mag\": \"http://data.library.sh.cn/dy/resource/magazine/zwnicl6ivcytlv5r\",\n      \"magName\": \"明星特刊\",\n      \"description\": \"爱情与黄金号\",\n      \"source\": \"《明星特刊》（19）\",\n      \"type\": \"封面\",\n      \"uri\": \"http://data.library.sh.cn/dy/resource/picture/cadr7re4do74hf4t\",\n      \"imagePath\": \"https://img.library.sh.cn/dy/img/jhueks4b2ro1lo80.jpg\"\n    },\n    {\n      \"date\": \"1926-12-28\",\n      \"image\": \"http://data.library.sh.cn/dy/resource/image/jlcxptg7wak5v6pd\",\n      \"imageFormat\": \"jpg\",\n      \"creator\": \"\",\n      \"mag\": \"http://data.library.sh.cn/dy/resource/magazine/zwnicl6ivcytlv5r\",\n      \"magName\": \"明星特刊\",\n      \"description\": \"\",\n      \"source\": \"《明星特刊》（19）\",\n      \"type\": \"内页\",\n      \"uri\": \"http://data.library.sh.cn/dy/resource/picture/w5ujn65p0gwfjfqp\",\n      \"imagePath\": \"https://img.library.sh.cn/dy/img/jlcxptg7wak5v6pd.jpg\"\n    },\n    {\n      \"date\": \"1925-05-01\",\n      \"image\": \"http://data.library.sh.cn/dy/resource/image/g0w38joaejhy5o3b\",\n      \"imageFormat\": \"jpg\",\n      \"creator\": \"\",\n      \"mag\": \"http://data.library.sh.cn/dy/resource/magazine/zwnicl6ivcytlv5r\",\n      \"magName\": \"明星特刊\",\n      \"description\": \"\",\n      \"source\": \"《明星特刊》（1）\",\n      \"type\": \"内页\",\n      \"uri\": \"http://data.library.sh.cn/dy/resource/picture/phqpbyjprab0ik0g\",\n      \"imagePath\": \"https://i\n... (truncated)"
+    },
+    {
+      "name": " 影人详情",
+      "originalName": "[电影] 影人详情.json",
+      "category": "电影",
+      "size": "103.04 KB",
+      "sizeBytes": 105518,
+      "status": "success",
+      "url": "api_results\\[电影] 影人详情.json",
+      "extension": ".json",
+      "preview": "{\n  \"result\": \"0\",\n  \"personDetail\": [\n    {\n      \"birthday\": \"1920.8.1\",\n      \"identifier\": \"B000099\",\n      \"img\": \"//img.library.sh.cn/person/emfzhg6fzke4tzs9.jpg\",\n      \"ethnicity\": \"汉族\",\n      \"cht_name\": \"周璇\",\n      \"deathday\": \"1957.9.22\",\n      \"uri\": \"http://data.library.sh.cn/entity/person/emfzhg6fzke4tzs9\",\n      \"relation\": [\n        \"http://data.library.sh.cn/entity/architecture/p8lpy1b17cgrkse4\",\n        \"http://data.library.sh.cn/dy/resource/movie/3b8jar3otulr2ouw\",\n        \"http://data.library.sh.cn/dy/resource/movie/3jk31hryo6ljbt5c\",\n        \"http://data.library.sh.cn/dy/resource/movie/3qcatqx2c13lpmjq\",\n        \"http://data.library.sh.cn/dy/resource/movie/6tumg8lcz0bsx8ze\",\n        \"http://data.library.sh.cn/dy/resource/movie/enptvxkfgygcmsrd\",\n        \"http://data.library.sh.cn/dy/resource/movie/hsv55c4crl1xij66\",\n        \"http://data.library.sh.cn/dy/resource/movie/mjke76sq7082e50s\",\n        \"http://data.library.sh.cn/dy/resource/movie/na1mby7ajjnrfdom\",\n        \"http://data.library.sh.cn/dy/resource/movie/nzlpq684abql4nc4\",\n        \"http://data.library.sh.cn/dy/resource/movie/onkffgetwj02aggs\",\n        \"http://data.library.sh.cn/dy/resource/movie/qxjjz0nrnlt8gngq\",\n        \"http://data.library.sh.cn/dy/resource/movie/rzid1giffiaxyknn\",\n        \"http://data.library.sh.cn/dy/resource/movie/vwzgw8sdds0j44hu\",\n        \"http://data.library.sh.cn/dy/resource/movie/x3vtqjm5pg6ufwp5\",\n        \"http://data.library.sh.cn/dy/resource/music/uqtiotc5pz2jwvd1\",\n        \"http://data.library.sh.cn/dy/resource/music/z6wg0lrvdgfmi2ho\"\n      ],\n      \"speciality\": \"电影演员,歌唱家\",\n      \"nationality\": \"中国\",\n      \"createdWork\": [\n        \"上海日报\",\n        \"夜上海\",\n        \"野玫瑰\",\n        \"保卫卢沟桥\",\n        \"忆江南\",\n        \"清宫秘史\",\n        \"风云儿女\",\n        \"马路天使\",\n        \"和平鸽\",\n        \"夜店\",\n        \"长相思\",\n        \"天涯歌女\",\n        \"民族之光\",\n        \"四季歌\"\n      ],\n      \"noteOfSource\": [\n        \"国图规范档\",\n        \"上海年华\",\n        \"电影知识库\",\n        \"中国近现代人物名号大辞典\",\n        \"中国近现代人名大辞\n... (truncated)"
+    },
+    {
+      "name": " 影剧院列表",
+      "originalName": "[电影] 影剧院列表.json",
+      "category": "电影",
+      "size": "3.52 KB",
+      "sizeBytes": 3609,
+      "status": "success",
+      "url": "api_results\\[电影] 影剧院列表.json",
+      "extension": ".json",
+      "preview": "{\n  \"result\": \"0\",\n  \"data\": [\n    {\n      \"nameE\": \"Shanghai Grand Theatre\",\n      \"nameT\": \"上海大戲院\",\n      \"nameS\": \"上海大戏院\",\n      \"orgName\": \"\",\n      \"des\": \"上海大戏院位于复兴中路1186号，始建于1942年，由外侨集资建成，初名银光大戏院，1943年正式营业，更名为上海大戏院，首演剧目为汪宗耀编剧、洪谟等联合导演、孙景路领衔主演的喜剧《女人》。大戏院初期专演艺华剧团的话剧。“艺华”的主要演员孙景路、上官云珠、蒋天流、吴洋等，都曾在此登台献艺，“艺华”的经典剧目有《女人》、《大鹏山》、《多天宝鉴》等。1943年10月9日，为庆祝“双十”佳节，大戏院隆重献演由戴旭导演的曹禺的话剧《原野》，轰动一时，好评如潮，主演孙景路的精湛演技令人折服。但大戏院后因经营不善，于1944年2月24日，演完话剧《陈白露》《正在想》后，停演话剧开始改映电影。1944年3月18日，上海大戏院经改装后重新营业，首映中华电影联合股份有限公司出品的由韩兰根、殷秀岑等主演的滑稽新片《步步高升》。1956年大戏院由市文化局代管，更名为上海电影院，1958年收归国有。1973年，影院改装了宽银幕，并新建了冷气机房。1990年改装了四声道音响系统，换装了756只航空式高靠背沙发软席座椅。2011年电影院终因年久失修，存在安全消防隐患而停止营业。2017年3月历时三年的装修改造，大戏院面貌一新，并重新更名为上海大戏院。改造后的大戏院犹如一块悬浮在地面上的巨石，除地上一层外，其余楼层皆用石材包裹，表面放弃开口，以凸显向内天光。改建后的上海大戏院建筑还入围了2017 WAF世界建筑节大奖。\",\n      \"person\": \"http://data.library.sh.cn/entity/person/1j7r8o0mietsxb4z;http://data.library.sh.cn/entity/person/d51yao0httyo1por;http://data.library.sh.cn/entity/person/izveq100vk3vizyu;http://data.library.sh.cn/entity/person/zh3bs7vobinr5h6r\",\n      \"bUri\": \"http://data.library.sh.cn/entity/architecture/axebch2ww8etit24\",\n      \"nameOtherUri\": \"http://data.library.sh.cn/authority/name/0hq41myisa6gkewb;http://data.library.sh.cn/authority/name/ciykwvlpooa0yn5s\",\n      \"dramaName\": \"http://data.library.sh.cn/dy/resource/drama/gtrtxwesc3u5dqyf~陈白露;http://data.library.sh.cn/dy/resource/drama/pxzaqypezn1jh7yr~女人;http://data.library.sh.cn/dy/resource/drama/r128m12qidj1nb24~原野\",\n      \"nameOther\": \"上海电影院（1956年-2017年）;银光大戏院（1942年）\",\n      \"uri\": \"http://data.library.sh.cn/entity/theater/qx1jqmome3n3jmx4\",\n      \"movieName\": \"http://data.library.sh.cn/dy/resource/movie/iunwwvcoez2rmj0a~女勇士\",\n      \"personList\": [\n        {\n          \"pname\": \"null\",\n          \"puri\": \"http://data.library.sh.cn/entity/person/1j7r8o0mietsxb4z\"\n        },\n        {\n          \"pname\": \"null\",\n          \"puri\": \"http://data.library.sh.cn/entity/person/d51yao0httyo1por\"\n        },\n        {\n          \"pname\": \"null\",\n          \"puri\": \"http:/\n... (truncated)"
+    },
+    {
+      "name": " 戏院详情",
+      "originalName": "[电影] 戏院详情.json",
+      "category": "电影",
+      "size": "27.92 KB",
+      "sizeBytes": 28589,
+      "status": "success",
+      "url": "api_results\\[电影] 戏院详情.json",
+      "extension": ".json",
+      "preview": "{\n  \"result\": \"0\",\n  \"data\": [\n    {\n      \"building\": {\n        \"nameE\": \"Lyceum Theatre\",\n        \"nameT\": \"蘭心大戲院\",\n        \"nameS\": \"兰心大戏院\",\n        \"des\": \"\",\n        \"address\": \"茂名南路57号\",\n        \"nameOtherUri\": \"http://data.library.sh.cn/authority/name/bfcayrldnvi85odo\",\n        \"lon\": \"121.467089\",\n        \"nameOther\": \"上海艺术剧场（1952年-1991年）\",\n        \"uri\": \"http://data.library.sh.cn/entity/architecture/gk8lpftys7olgfob\",\n        \"house\": \"57号\",\n        \"lat\": \"31.227263\"\n      },\n      \"architecture\": {\n        \"nameE\": \"Lyceum Theatre\",\n        \"nameT\": \"蘭心大戲院\",\n        \"nameS\": \"兰心大戏院\",\n        \"orgName\": \"\",\n        \"des\": \"清同治六年（1867年）3月，在沪英侨集资在诺门路圆明园路口创建兰心戏院，英文名Lyceum Theatre, 由英侨爱美剧社（简称A.D.C）演出话剧。同治十年（1871年）3月毁于火灾。同治十三年（1874年）重建于今虎丘路。光绪三十三年（1907年）10月7日-11月5日，“春阳社”作为第一个在“兰心”公演的中国剧团以一部《黑奴吁天录》引起轰动，此后，时有新剧剧团假座兰心演出。1929年1月，A.D.C.剧团董事会以17.5万两银子的代价，将“兰心”的土地权和房产权卖给一个中国人并于当年4月迁出，同时另在法租界蒲石路（今长乐路）迈尔西爱路口（今茂名南路57号）购得土地再建“兰心”，戏院由新瑞和洋行（Messrs. Davies & Thomas Civil Engineers and Architects）承建。1931年2月兰心戏院竣工开幕，观众厅二层，设宽敞皮椅749座。1942年7月被侵华日军封闭，后归伪中华电影公司管理，民国45年抗战胜利后，9月复归A.D.C.剧团。上海解放后，1949年10月英侨剧社将戏院转售上海市剧影工作者协会，首任经理吕复。1952年归上海市文化局，更名上海艺术剧场，1953年划归上海人民艺术剧院。1958年9月交卢湾区管理，1959年5月复归市文化局。1985年归市演出公司管理，1989年归兰馨艺术经营公司，于1991年恢复兰心大戏院原名。\",\n        \"person\": \"http://data.library.sh.cn/entity/person/4alvgp8s1poy41yc;http://data.library.sh.cn/entity/person/zyivkur9c19lxk4g\",\n        \"bUri\": \"http://data.library.sh.cn/entity/architecture/gk8lpftys7olgfob\",\n        \"nameOtherUri\": \"http://data.library.sh.cn/authority/name/bfcayrldnvi85odo\",\n        \"dramaName\": \"http://data.library.sh.cn/dy/resource/drama/0i6gzoheuunv0lb4~马克思“秘史”;http://data.library.sh.cn/dy/resource/drama/207ffgwt037wwltz~考验;http://data.library.sh.cn/dy/resource/drama/2pfcufynphtebyly~长生殿;http://data.library.sh.cn/dy/resource/drama/3neg3y4axz4w3qcp~Rookery Nook;http://data.library.sh.cn/dy/resource/drama/4ljzgw3g370pqgvo~Present Laughter;http://data.library.sh.cn/dy/resource/drama/54ap0sodqq84xkzg~Close Quaters;http://\n... (truncated)"
+    },
+    {
+      "name": " 期刊列表",
+      "originalName": "[电影] 期刊列表.json",
+      "category": "电影",
+      "size": "17.61 KB",
+      "sizeBytes": 18030,
+      "status": "success",
+      "url": "api_results\\[电影] 期刊列表.json",
+      "extension": ".json",
+      "preview": "{\n  \"result\": \"0\",\n  \"data\": [\n    {\n      \"beginDate\": \"1947-07-16\",\n      \"endDate\": \"1947-09-15\",\n      \"count\": \"0\",\n      \"description\": \"月刊。16开本。1947年7月16日创刊于上海。同年9月15日出至第二期后停刊，共出2期。林朴晔主编，国风出版社出版，金城发行，毛元白主干。撰稿人有吴祖光、田稼、田汉、潘孑农、茅盾、欧阳予倩、蔡楚生、叶思等。<br/>该刊为戏剧、电影综合画刊，影剧并重，主要刊登艺人特写、剧影评论、以及影剧工作者的杂谈随笔，同时介绍一些好莱坞的电影大家和影业情况。其中艺人特写和由影剧人执笔的稿件构成了该刊的两大文本基础。前者如《家猫——王人美》、《夏霞印象记》、《记影星秦怡》、《张瑞芳·吕恩》、《蓝马·上官云珠》、《关于沙莉》等；后者则有吴祖光的《贺孟斧两周年祭》、田稼的《致未死者——悼贺孟斧先生》、田汉的《英子悼词》和《忆杭州》、潘孑农的《银幕边缘杂感》、茅盾的《莫斯科的话剧院》、欧阳予倩的《一饭百感》、蔡楚生的《夏夜随笔》，陈白尘编写、丁聪作图的电影故事连载《幸福狂想曲》等。此外，该刊连载的郑君里《如何排演角色》一文，系其积十数年经验所撰《角色的诞生》之一章。其他文章如《我看〈假凤虚凰〉》、《苍颉造字闻鬼哭，编剧于今步履艰——因〈假凤虚凰〉事件说起》、《首轮电影院鸟瞰》、《一支在苦斗中成长的戏剧队伍——夏声戏剧学校》，以及该刊驻美特约记者发回的好莱坞通讯《参观一家最完备的电影制片厂》等也值得一读。\",\n      \"foafname\": \"艺声\",\n      \"uri\": \"http://data.library.sh.cn/dy/resource/magazine/06th2ofosrcq7mww\",\n      \"frequency\": \"月刊\"\n    },\n    {\n      \"beginDate\": \"1948-05-07\",\n      \"endDate\": \"\",\n      \"count\": \"7\",\n      \"description\": \"不定期刊。32开本。1948年5月7日创刊于上海。已知出至同年5月18日的第二辑。陈英明编辑。新潮出版社出版。撰稿人有王戎、刘沧浪、麦人、彭湃、凌风、虞宓、紫峰、永生、御公、北雁、庄严、永湘、居壘、陆霞等。<br/>该刊为专事介绍中国电影明星的杂志，所刊文章皆转载自当时出版的一些电影期刊，其选文大多比较客观真实地记述了当时的一些知名演员银幕生涯的开端、发展和近况。曾刊登《白杨是怎样走上银幕的？》、《一个老实人——秦怡》、《金嗓明星周璇印象记》、《上官云珠的半生》、《甜姐儿黄宗英》、《从松花江上来的张瑞芳》、《〈天字第一号〉的女英雄欧阳莎菲》、《重上银幕的陈燕燕》、《李丽华是怎样成名的？》、《十五岁就跳上舞台的孙景路》、《丹凤朝阳的王丹凤》、《小鸟王熙春的浮雕》、《蒋天流的成就》、《神秘的谈瑛改变了》、《〈天堂春梦〉女主角——路明》等文章。\",\n      \"foafname\": \"中国明星\",\n      \"uri\": \"http://data.library.sh.cn/dy/resource/magazine/0cwpa4h3zododz5p\",\n      \"frequency\": \"不定期刊\"\n    },\n    {\n      \"beginDate\": \"1948-11-07\",\n      \"endDate\": \"1949-06-01\",\n      \"count\": \"1\",\n      \"description\": \"月刊。16开本。1948年11月7日创刊于上海。1949年6月出至第七期后停刊，共出7期。盛琴仙、马博良主编。上海西影出版社出版。撰稿人有姚苏凤、麦黛玲、碧城、秦椿等。<br/>该刊以介绍外国影片和影星为主，大部分笔墨集中于对好莱坞的报道，也有少量文章如《英国影坛大事》、《杂谈苏联电影》等涉及欧洲影坛。常设栏目有“西影指南”，介绍新片并作简要评价；“剔银灯”漫说近期上映西片，闲谈杂感；“银都风景”荟萃影坛重要新闻摘要；“洛杉矶来鸿”将好莱坞各大明星动态一网打尽；“西影小说”以隽永笔调娓娓讲述电影故事。该刊所载文章多是有关好莱坞明星成长历程，生活经历的趣闻轶事，如《伊丽莎白·泰勒（elizabethtaylor）画传》、《分析裘蒂·迦纶（judygarland）的精神病》、《丽塔海华丝（ritahayworth）和记者斗法》、《葛里哥雷毕克（gregorypeck）——每个少男少女崇拜的明星》等。也有一些比较严肃的文章，对好莱坞浮华背后的真实生活作一些深度报道，如《好\n... (truncated)"
+    },
+    {
+      "name": " 期刊篇章列表",
+      "originalName": "[电影] 期刊篇章列表.json",
+      "category": "电影",
+      "size": "6.54 KB",
+      "sizeBytes": 6692,
+      "status": "success",
+      "url": "api_results\\[电影] 期刊篇章列表.json",
+      "extension": ".json",
+      "preview": "{\n  \"result\": \"0\",\n  \"data\": [\n    {\n      \"image\": \"http://data.library.sh.cn/dy/resource/image/003o7yci32ozceuv\",\n      \"creator\": \"筱銓\",\n      \"textUri\": \"\",\n      \"magName\": \"星光\",\n      \"callno\": \"17081/66334-46\",\n      \"format\": \"\",\n      \"source\": \"《星光》1946,(5):9\",\n      \"label\": \"1946\",\n      \"title\": \"無錫各報攻擊警局\",\n      \"donator\": \"\",\n      \"uri\": \"http://data.library.sh.cn/dy/resource/article/003o7yci32ozceuv\",\n      \"content\": \"\",\n      \"volume\": \"1946,(5)\",\n      \"mag\": \"http://data.library.sh.cn/dy/resource/magazine/51eyja5b7z568xw2\"\n    },\n    {\n      \"image\": \"http://data.library.sh.cn/dy/resource/image/3m8vja4wvbki4i8d\",\n      \"creator\": \"張覽遠攝\",\n      \"textUri\": \"\",\n      \"magName\": \"良友·电影专刊\",\n      \"callno\": \"14911/57458_89; 7003\",\n      \"format\": \"\",\n      \"source\": \"《良友》1936,(116):26\",\n      \"label\": \"1936\",\n      \"title\": \"我們的國花：江蘇無錫梅花之欣賞：偏是東風多狡獪，亂吹亂落亂沾泥：[照片]\",\n      \"donator\": \"\",\n      \"uri\": \"http://data.library.sh.cn/dy/resource/article/3m8vja4wvbki4i8d\",\n      \"content\": \"\",\n      \"volume\": \"1936,(116)\",\n      \"mag\": \"http://data.library.sh.cn/dy/resource/magazine/jraap63g5jomg53w\"\n    },\n    {\n      \"image\": \"http://data.library.sh.cn/dy/resource/image/0ff0uzo88onjtz27\",\n      \"creator\": \"華小可\",\n      \"textUri\": \"\",\n      \"magName\": \"影戏生活\",\n      \"callno\": \"12603/44561_70\",\n      \"format\": \"\",\n      \"source\": \"《影戏生活》1931,1(39):30-31\",\n      \"label\": \"1931\",\n      \"title\": \"“如此天堂”在無錫\",\n      \"donator\": \"\",\n      \"uri\": \"http://data.library.sh.cn/dy/resource/article/0ff0uzo88onjtz27\",\n      \"content\": \"\",\n      \"volume\": \"1931,1(39)\",\n      \"mag\": \"http://data.library.sh.cn/dy/resource/magazine/t3wnqk4yu2tleczl\"\n    },\n    {\n      \"image\": \"http://data.library.sh.cn/dy/resource/image/2xrg5h5txdgvfaal\",\n      \"creator\": \"\",\n      \"textUri\": \"\",\n      \"magName\": \"星光\",\n      \"callno\": \"17081/66334-46\",\n      \"format\": \"\",\n      \"source\": \"《星光》1946,(新21):6\",\n      \"label\": \"1946\",\n      \"title\": \"無錫景：目前司法行政部監獄司長朱維敏……\",\n      \"donator\": \"\",\n      \"uri\"\n... (truncated)"
+    },
+    {
+      "name": " 期刊详情",
+      "originalName": "[电影] 期刊详情.json",
+      "category": "电影",
+      "size": "2.89 KB",
+      "sizeBytes": 2963,
+      "status": "success",
+      "url": "api_results\\[电影] 期刊详情.json",
+      "extension": ".json",
+      "preview": "{\n  \"result\": \"0\",\n  \"data\": [\n    {\n      \"name\": \"银色列车\",\n      \"yname\": [\n        {\n          \"nameType\": \"副刊名\",\n          \"label\": \"群众小说画报\"\n        }\n      ],\n      \"description\": \"月刊。20开本。1935年1月创刊于上海。同年5月出至第四期后停刊。丁丁（丁嘉树）主编。上海华报社出版。撰稿人有凌鹤、梅熹、郭柏霖、秦人等。<br/>该刊寄生于《群众小说画报》内，封面署《群众小说画报》，封底则写《银色列车》，后者篇幅约占全刊三分之一左右。编者认为：“银色列车的文字也毫无主见，理论也好，批评也好，吹，捧，骂，……的文字一样都登，因为社会现象正是这么着。”（编者《告白》，第二期）杂志内容以电影时评为主，重要文章有鲁思的《怎样克服电影批评上底形式与内容的分离论》、柯萍《从谈瑛底青春说起》、曹聚仁《谈小品电影》。其他文章有《对于电影批评的希望》、《中国女明星批判集》、《邬丽珠在南国》、《影片时事杂感》、《推进电影教育》等。杂志少量刊登中外影坛新闻，翻译了一些国外的报道，如《丽琳哈惠别好莱坞自白》、《苏联电影史一瞥》；报道联美摄制《复活》一片的消息。第三期推出《悼阮专刊》以纪念自杀身亡的影星阮玲玉，刊登了她绝笔的影印件以及由她主演的影片的名称连缀而成的《哀阮玲玉》一文。此外，杂志第一期刊登曹雪松的电影小说《船娘》，自第二期起连载左明编剧的影片《难姊难妹》剧本。\",\n      \"title\": \"银色列车\",\n      \"uri\": \"http://data.library.sh.cn/dy/resource/magazine/37ajafgt453gvsx3\",\n      \"temporal\": [\n        {\n          \"end\": \"1935-05-01\",\n          \"begin\": \"1935-01-01\"\n        }\n      ],\n      \"frequency\": \"月刊\"\n    },\n    {\n      \"picture\": [\n        {\n          \"date\": \"1935-01-01\",\n          \"image\": \"http://data.library.sh.cn/dy/resource/image/uioflroixw5k4c3m\",\n          \"imgPath\": \"https://img.library.sh.cn/dy/img/uioflroixw5k4c3m.jpg\",\n          \"format\": \"jpg\",\n          \"source\": \"《银色列车》（1）\",\n          \"type\": \"内页\"\n        },\n        {\n          \"date\": \"1935-01-01\",\n          \"image\": \"http://data.library.sh.cn/dy/resource/image/hsdsolwywz85f7so\",\n          \"imgPath\": \"https://img.library.sh.cn/dy/img/hsdsolwywz85f7so.jpg\",\n          \"format\": \"jpg\",\n          \"source\": \"《银色列车》（1）\",\n          \"type\": \"封面\"\n        },\n        {\n          \"date\": \"1935-03-01\",\n          \"image\": \"http://data.library.sh.cn/dy/resource/image/tsutnd85zfoz6n6w\",\n          \"imgPath\": \"https://img.library.sh.cn/dy/img/tsutnd85zfoz6n6w.jpg\",\n          \"format\": \"jpg\",\n          \"source\": \"《银色列车》（2）\",\n          \"type\": \"封面\"\n        }\n      ]\n    }\n  ]\n}"
+    },
+    {
+      "name": " 根据期刊获取篇章列表",
+      "originalName": "[电影] 根据期刊获取篇章列表.json",
+      "category": "电影",
+      "size": "22.44 KB",
+      "sizeBytes": 22982,
+      "status": "success",
+      "url": "api_results\\[电影] 根据期刊获取篇章列表.json",
+      "extension": ".json",
+      "preview": "{\n  \"result\": \"0\",\n  \"data\": [\n    {\n      \"image\": \"http://data.library.sh.cn/dy/resource/image/0op7arn1dj4tkzag\",\n      \"creator\": \"賓漢\",\n      \"textUri\": \"\",\n      \"format\": \"\",\n      \"source\": \"《影戏生活》1931,1(25):15-16\",\n      \"title\": \"影壇珍屑：却爾斯法雷夫婦近狀：却爾斯法雷 Charles Farrell和他的新夫人佛琴妮亞范麗 Virginia Valli倆已經從他們的十星期蜜月旅行，重返好萊塢了……\",\n      \"uri\": \"http://data.library.sh.cn/dy/resource/article/0op7arn1dj4tkzag\",\n      \"content\": \"\"\n    },\n    {\n      \"image\": \"http://data.library.sh.cn/dy/resource/image/0ubr53hd0hijbquz\",\n      \"creator\": \"正\",\n      \"textUri\": \"\",\n      \"format\": \"\",\n      \"source\": \"《影戏生活》1931,1(25):12\",\n      \"title\": \"楊小仲已於廿七日返滬\",\n      \"uri\": \"http://data.library.sh.cn/dy/resource/article/0ubr53hd0hijbquz\",\n      \"content\": \"\"\n    },\n    {\n      \"image\": \"http://data.library.sh.cn/dy/resource/image/201seanzfj0ansvc\",\n      \"creator\": \"賓漢\",\n      \"textUri\": \"\",\n      \"format\": \"\",\n      \"source\": \"《影戏生活》1931,1(25):16\",\n      \"title\": \"影壇珍屑：辟克福新作被檢查\",\n      \"uri\": \"http://data.library.sh.cn/dy/resource/article/201seanzfj0ansvc\",\n      \"content\": \"\"\n    },\n    {\n      \"image\": \"http://data.library.sh.cn/dy/resource/image/240xdpakvjhoev6e\",\n      \"creator\": \"賓漢\",\n      \"textUri\": \"\",\n      \"format\": \"\",\n      \"source\": \"《影戏生活》1931,1(25):16\",\n      \"title\": \"影壇珍屑：一部不祥的劇本\",\n      \"uri\": \"http://data.library.sh.cn/dy/resource/article/240xdpakvjhoev6e\",\n      \"content\": \"\"\n    },\n    {\n      \"image\": \"http://data.library.sh.cn/dy/resource/image/2e3n7u2iwsjrjcqi\",\n      \"creator\": \"霖\",\n      \"textUri\": \"\",\n      \"format\": \"\",\n      \"source\": \"《影戏生活》1931,1(25):20-24\",\n      \"title\": \"首都影業之狀况\",\n      \"uri\": \"http://data.library.sh.cn/dy/resource/article/2e3n7u2iwsjrjcqi\",\n      \"content\": \"\"\n    },\n    {\n      \"image\": \"http://data.library.sh.cn/dy/resource/image/2ltzffjgnisbtwa1\",\n      \"creator\": \"萬程\",\n      \"textUri\": \"\",\n      \"format\": \"\",\n      \"source\": \"《影戏生活》1931,1(25):39-40\",\n      \"title\": \"談臨時演員\",\n      \"uri\": \"http://data.library.sh.cn/dy/resource/artic\n... (truncated)"
+    },
+    {
+      "name": " 照片列表",
+      "originalName": "[电影] 照片列表.json",
+      "category": "电影",
+      "size": "7.79 KB",
+      "sizeBytes": 7977,
+      "status": "success",
+      "url": "api_results\\[电影] 照片列表.json",
+      "extension": ".json",
+      "preview": "{\n  \"result\": \"0\",\n  \"data\": [\n    {\n      \"date\": \"1935-11-15\",\n      \"imgFormat\": \"jpg\",\n      \"img\": \"http://data.library.sh.cn/dy/resource/image/m21ib25vyta30lka\",\n      \"creator\": \"孙瑜（摄）\",\n      \"movie\": \"http://data.library.sh.cn/dy/resource/movie/uiklrmi42luvwxrd\",\n      \"type\": \"剧照\",\n      \"donator\": \"\",\n      \"uri\": \"http://data.library.sh.cn/dy/resource/photo/8csocpieb8bdv6ar\",\n      \"movieName\": \"到自然去\",\n      \"personUri\": \"http://data.library.sh.cn/entity/person/xdvl8ivz94jm2664\",\n      \"imgPath\": \"https://img.library.sh.cn/dy/img/m21ib25vyta30lka.jpg\",\n      \"personList\": [\n        {\n          \"pname\": \"黎莉莉\",\n          \"puri\": \"http://data.library.sh.cn/entity/person/xdvl8ivz94jm2664\"\n        }\n      ]\n    },\n    {\n      \"date\": \"1935-03-01\",\n      \"imgFormat\": \"jpg\",\n      \"img\": \"http://data.library.sh.cn/dy/resource/image/cg1yub03grbmcqpa\",\n      \"creator\": \"\",\n      \"movie\": \"http://data.library.sh.cn/dy/resource/movie/kveciinjmw6c365n\",\n      \"type\": \"剧照\",\n      \"donator\": \"\",\n      \"uri\": \"http://data.library.sh.cn/dy/resource/photo/7yjkkzyg1fvci2u5\",\n      \"movieName\": \"王先生的秘密\",\n      \"personUri\": \"http://data.library.sh.cn/entity/person/fwp0u6chay34oypw\",\n      \"imgPath\": \"https://img.library.sh.cn/dy/img/cg1yub03grbmcqpa.jpg\",\n      \"personList\": [\n        {\n          \"pname\": \"汤杰\",\n          \"puri\": \"http://data.library.sh.cn/entity/person/fwp0u6chay34oypw\"\n        }\n      ]\n    },\n    {\n      \"date\": \"1935-10-15\",\n      \"imgFormat\": \"jpg\",\n      \"img\": \"http://data.library.sh.cn/dy/resource/image/54cnyt4jmtmdqem2\",\n      \"creator\": \"\",\n      \"movie\": \"http://data.library.sh.cn/dy/resource/movie/r8xrolqtvzdqjtxz\",\n      \"type\": \"剧照\",\n      \"donator\": \"\",\n      \"uri\": \"http://data.library.sh.cn/dy/resource/photo/2ki6hgiv0k2xeyym\",\n      \"movieName\": \"天伦\",\n      \"personUri\": \"http://data.library.sh.cn/entity/person/3jetpjyerqqkj0qi;http://data.library.sh.cn/entity/person/odk4fibydv0n2kns\",\n      \"imgPath\": \"https://img.library.sh.cn/dy/img/54cnyt\n... (truncated)"
+    },
+    {
+      "name": " 照片详情",
+      "originalName": "[电影] 照片详情.json",
+      "category": "电影",
+      "size": "1.08 KB",
+      "sizeBytes": 1102,
+      "status": "success",
+      "url": "api_results\\[电影] 照片详情.json",
+      "extension": ".json",
+      "preview": "{\n  \"result\": \"0\",\n  \"data\": [\n    {\n      \"date\": \"1939-12-01\",\n      \"image\": [\n        {\n          \"imgPath\": \"https://img.library.sh.cn/dy/img/yngftl512l22g62x.jpg\",\n          \"format\": \"jpg\",\n          \"uri\": \"http://data.library.sh.cn/dy/resource/image/yngftl512l22g62x\"\n        }\n      ],\n      \"creator\": \"马永华（摄）\",\n      \"contributor\": \"顾也鲁\",\n      \"movie\": [\n        {\n          \"date\": \"1939\",\n          \"contributor\": [\n            \"周贻白（编剧）\",\n            \"梅熹（演员）\",\n            \"陈翼青（导演）\",\n            \"顾兰君（演员）\"\n          ],\n          \"name\": \"葛嫩娘\",\n          \"source\": \"上海年华\",\n          \"abbreviateName\": \"明末遗恨\",\n          \"title\": \"葛嫩娘\",\n          \"type\": \"有声；黑白\",\n          \"uri\": \"http://data.library.sh.cn/dy/resource/movie/xl6o8u7lf5xb76u7\"\n        }\n      ],\n      \"description\": \"顾也鲁在《葛嫩娘》中饰演郑成功\",\n      \"type\": \"剧照\",\n      \"uri\": \"http://data.library.sh.cn/dy/resource/photo/ydyxfnac33hvflz0\"\n    }\n  ]\n}"
+    },
+    {
+      "name": " 电影列表",
+      "originalName": "[电影] 电影列表.json",
+      "category": "电影",
+      "size": "1.53 KB",
+      "sizeBytes": 1571,
+      "status": "success",
+      "url": "api_results\\[电影] 电影列表.json",
+      "extension": ".json",
+      "preview": "{\n  \"result\": \"0\",\n  \"data\": [\n    {\n      \"date\": \"1947\",\n      \"actor\": \"http://data.library.sh.cn/entity/person/iweelhl2bzioydkk;http://data.library.sh.cn/entity/person/pqed1jbsitbvwg1c;http://data.library.sh.cn/entity/person/x2wh2li7gafu1pym\",\n      \"director\": \"http://data.library.sh.cn/entity/person/rc5xpb2k3ot4f6ep\",\n      \"name\": \"松花江上\",\n      \"abbreviateName\": \"\",\n      \"screenWriter\": \"http://data.library.sh.cn/entity/person/rc5xpb2k3ot4f6ep\",\n      \"type\": \"有声；黑白\",\n      \"uri\": \"http://data.library.sh.cn/dy/resource/movie/sf88cbbd6bvxxaoq\",\n      \"directorList\": [\n        {\n          \"pname\": \"null\",\n          \"puri\": \"http://data.library.sh.cn/entity/person/rc5xpb2k3ot4f6ep\"\n        }\n      ],\n      \"actorList\": [\n        {\n          \"pname\": \"null\",\n          \"puri\": \"http://data.library.sh.cn/entity/person/iweelhl2bzioydkk\"\n        },\n        {\n          \"pname\": \"null\",\n          \"puri\": \"http://data.library.sh.cn/entity/person/pqed1jbsitbvwg1c\"\n        },\n        {\n          \"pname\": \"null\",\n          \"puri\": \"http://data.library.sh.cn/entity/person/x2wh2li7gafu1pym\"\n        }\n      ],\n      \"screenWriterList\": [\n        {\n          \"pname\": \"null\",\n          \"puri\": \"http://data.library.sh.cn/entity/person/rc5xpb2k3ot4f6ep\"\n        }\n      ]\n    }\n  ],\n  \"pager\": {\n    \"iflimit\": \"\",\n    \"startIndex\": 0,\n    \"pageSize\": 10,\n    \"sort\": \"insertTime\",\n    \"dir\": \"desc\",\n    \"pageth\": 1,\n    \"pageths\": [\n      1\n    ],\n    \"pageCount\": 1,\n    \"rowCount\": 1\n  }\n}"
+    },
+    {
+      "name": " 电影详情",
+      "originalName": "[电影] 电影详情.json",
+      "category": "电影",
+      "size": "2.02 KB",
+      "sizeBytes": 2065,
+      "status": "success",
+      "url": "api_results\\[电影] 电影详情.json",
+      "extension": ".json",
+      "preview": "{\n  \"result\": \"0\",\n  \"data\": [\n    {\n      \"date\": \"1935\",\n      \"actor\": [\n        \"http://data.library.sh.cn/entity/person/1u3yvufnnggmhljm\",\n        \"http://data.library.sh.cn/entity/person/v0s3x8vhuh1lv22h\"\n      ],\n      \"contributor\": [\n        \"徐来（演员）\",\n        \"沈西苓（导演）\",\n        \"沈西苓（编剧）\",\n        \"高占非（演员）\"\n      ],\n      \"director\": [\n        \"http://data.library.sh.cn/entity/person/vnq8d7jemt4un26h\"\n      ],\n      \"name\": \"船家女\",\n      \"source\": \"上海年华\",\n      \"video\": [\n        {\n          \"videoPath\": \"https://img.library.sh.cn/dy/video/50iy34n8iqcuhu0v/movie.m3u8\",\n          \"contributor\": \"孙敏\",\n          \"person\": \"http://data.library.sh.cn/entity/person/1n1gmkaoq16evozh\",\n          \"format\": \"wmv\",\n          \"title\": \"孙敏在《船家女》中饰阔少（老孙）\",\n          \"type\": \"有声；黑白\"\n        },\n        {\n          \"videoPath\": \"https://img.library.sh.cn/dy/video/5xri1w1so8q0zjjd/movie.m3u8\",\n          \"contributor\": \"徐来\",\n          \"person\": \"http://data.library.sh.cn/entity/person/1u3yvufnnggmhljm\",\n          \"format\": \"wmv\",\n          \"title\": \"徐来在《船家女》中饰阿玲\",\n          \"type\": \"有声；黑白\"\n        },\n        {\n          \"videoPath\": \"https://img.library.sh.cn/dy/video/m70qcpjnlpzfp4yi/movie.m3u8\",\n          \"contributor\": \"高占非\",\n          \"person\": \"http://data.library.sh.cn/entity/person/v0s3x8vhuh1lv22h\",\n          \"format\": \"wmv\",\n          \"title\": \"高占非在《船家女》中饰铁儿\",\n          \"type\": \"有声；黑白\"\n        }\n      ],\n      \"screenWriter\": [\n        \"http://data.library.sh.cn/entity/person/vnq8d7jemt4un26h\"\n      ],\n      \"title\": \"船家女\",\n      \"type\": \"有声；黑白\",\n      \"uri\": \"http://data.library.sh.cn/dy/resource/movie/612x1xoyxtzxuvaf\",\n      \"distributor\": [\n        {\n          \"uri\": \"http://data.library.sh.cn/dy/resource/organization/vtgh0u0ifup76cvm\"\n        }\n      ]\n    }\n  ]\n}"
+    },
+    {
+      "name": " 电影首页海报",
+      "originalName": "[电影] 电影首页海报.json",
+      "category": "电影",
+      "size": "9.53 KB",
+      "sizeBytes": 9761,
+      "status": "success",
+      "url": "api_results\\[电影] 电影首页海报.json",
+      "extension": ".json",
+      "preview": "{\n  \"result\": \"0\",\n  \"data\": [\n    {\n      \"selfUri\": \"http://data.library.sh.cn/dy/resource/movie/gn1jrjkk8kuh3qbc\",\n      \"filmName\": \"孙悟空三打白骨精\",\n      \"filmDate\": \"1960\",\n      \"filmTime\": \"94分钟\",\n      \"filmDescription\": \"绍剧电影《孙悟空三打白骨精》，上海电影制片厂摄制于1960年，为著名绍剧表演艺术家六龄童（六小龄童之父）的代表作。\\r\\n故事取材于我国明代著名小说家吴承恩的《西游记》第二十七回“尸魔三戏唐三藏，圣僧恨逐美猴王”。讲述了唐僧师徒四人为取真经，行至白骨岭前。在白虎岭白骨洞内，住着一个凶残、狡猾，善于伪装的尸魔白骨精。为了吃唐僧肉，先后变幻为上山送斋的村姑、朝山进香的老妪和老翁，全被孙悟空识破，三次棒打妖魔。唐僧肉眼凡胎，误认悟空打死人命，怒将悟空逐回花果山，结果落入白骨精魔爪之中。孙悟空闻得八戒所报，不计前嫌，毅然重下花果山，智灭群妖，救出唐僧。师徒同心同德重登西行之路。\",\n      \"imgPath\": \"http://img.library.sh.cn/dy/video/filmbill/j5nem7aoohlv107x.jpg\"\n    },\n    {\n      \"selfUri\": \"http://data.library.sh.cn/dy/resource/movie/t8b7med0q27u1iqw\",\n      \"filmName\": \"五朵金花\",\n      \"filmDate\": \"1959\",\n      \"filmTime\": \"95分钟\",\n      \"filmDescription\": \"《五朵金花》是由王家乙导演和赵季康、王公浦联合编剧的一部彩色风光歌舞电影，由长春电影制片厂制作，1959年开始公映。首席编剧为其中根据白族民歌改编的电影插曲《蝴蝶泉边》是脍炙人口的中国民歌经典之一。整部片子以男主角阿鹏找女朋友金花为主线，侧面则描绘了当时中华人民共和国大炼钢铁的场景，是一部新中国爱情、少数民族题材故事片。影片放映后，在中国大陆以及第三世界国家都有较大影响，《五朵金花》先后在46个国家公映，创下当时中国电影在国外发行的纪录,获得过多个奖项。2000年中国电影百年十佳评选中获得冠军。\",\n      \"imgPath\": \"http://img.library.sh.cn/dy/video/filmbill/6d8sxxbcqo4ubfrn.jpg\"\n    },\n    {\n      \"selfUri\": \"http://data.library.sh.cn/dy/resource/movie/o4e3t2nwvss6fobk\",\n      \"filmName\": \"林则徐\",\n      \"filmDate\": \"1959\",\n      \"filmTime\": \"103分钟\",\n      \"filmDescription\": \"《林则徐》是上海电影制片厂摄制的古装剧情片，由郑君里、岑范执导，赵丹主演，于1959年上映。\",\n      \"imgPath\": \"http://img.library.sh.cn/dy/video/filmbill/chcg30w3bpzguqgu.jpg\"\n    },\n    {\n      \"selfUri\": \"http://data.library.sh.cn/dy/resource/movie/futcughzte0332ie\",\n      \"filmName\": \"风云儿女\",\n      \"filmDate\": \"1935\",\n      \"filmTime\": \"89分钟\",\n      \"filmDescription\": \"《风云儿女》是一部拍摄于1935年的电影，导演为许幸之。该片的主题曲《义勇军进行曲》后来成为中华人民共和国国歌。该片的剧本作者是田汉、夏衍。\",\n      \"imgPath\": \"http://img.library.sh.cn/dy/video/filmbill/bqt0dru10s533dbg.jpg\"\n    },\n    {\n      \"selfUri\": \"http://data.library.sh.cn/dy/resource/movie/gjn8uzzki6hyilyb\",\n      \"filmName\": \"满意不满意\",\n      \"filmDate\": \"1963\",\n      \"filmTime\": \"90分钟\",\n      \"fi\n... (truncated)"
+    },
+    {
+      "name": " 获取期刊篇章出版年",
+      "originalName": "[电影] 获取期刊篇章出版年.json",
+      "category": "电影",
+      "size": "233.00 B",
+      "sizeBytes": 233,
+      "status": "success",
+      "url": "api_results\\[电影] 获取期刊篇章出版年.json",
+      "extension": ".json",
+      "preview": "{\n  \"result\": \"0\",\n  \"data\": [\n    {\n      \"yearCount\": \"45\",\n      \"label\": \"1930\"\n    },\n    {\n      \"yearCount\": \"2082\",\n      \"label\": \"1931\"\n    },\n    {\n      \"yearCount\": \"44\",\n      \"label\": \"1932\"\n    }\n  ]\n}"
+    },
+    {
+      "name": " 获取期刊篇章卷期",
+      "originalName": "[电影] 获取期刊篇章卷期.json",
+      "category": "电影",
+      "size": "3.02 KB",
+      "sizeBytes": 3097,
+      "status": "success",
+      "url": "api_results\\[电影] 获取期刊篇章卷期.json",
+      "extension": ".json",
+      "preview": "{\n  \"result\": \"0\",\n  \"data\": [\n    {\n      \"volume\": \"1931,1(33)\",\n      \"volumeCount\": \"49\"\n    },\n    {\n      \"volume\": \"1931,1(14)\",\n      \"volumeCount\": \"46\"\n    },\n    {\n      \"volume\": \"1931,1(29)\",\n      \"volumeCount\": \"52\"\n    },\n    {\n      \"volume\": \"1931,1(11)\",\n      \"volumeCount\": \"51\"\n    },\n    {\n      \"volume\": \"1931,1(40)\",\n      \"volumeCount\": \"62\"\n    },\n    {\n      \"volume\": \"1931,1(4)\",\n      \"volumeCount\": \"46\"\n    },\n    {\n      \"volume\": \"1931,1(35)\",\n      \"volumeCount\": \"50\"\n    },\n    {\n      \"volume\": \"1931,1(15)\",\n      \"volumeCount\": \"48\"\n    },\n    {\n      \"volume\": \"1931,1(12)\",\n      \"volumeCount\": \"62\"\n    },\n    {\n      \"volume\": \"1931,1(3)\",\n      \"volumeCount\": \"43\"\n    },\n    {\n      \"volume\": \"1931,1(49)\",\n      \"volumeCount\": \"48\"\n    },\n    {\n      \"volume\": \"1931,1(44)\",\n      \"volumeCount\": \"43\"\n    },\n    {\n      \"volume\": \"1931,1(31)\",\n      \"volumeCount\": \"53\"\n    },\n    {\n      \"volume\": \"1931,1(42)\",\n      \"volumeCount\": \"42\"\n    },\n    {\n      \"volume\": \"1931,1(10)\",\n      \"volumeCount\": \"56\"\n    },\n    {\n      \"volume\": \"1931,1(36)\",\n      \"volumeCount\": \"54\"\n    },\n    {\n      \"volume\": \"1931,1(34)\",\n      \"volumeCount\": \"52\"\n    },\n    {\n      \"volume\": \"1931,1(30)\",\n      \"volumeCount\": \"49\"\n    },\n    {\n      \"volume\": \"1931,1(37)\",\n      \"volumeCount\": \"55\"\n    },\n    {\n      \"volume\": \"1931,1(38)\",\n      \"volumeCount\": \"52\"\n    },\n    {\n      \"volume\": \"1931,1(25)\",\n      \"volumeCount\": \"60\"\n    },\n    {\n      \"volume\": \"1931,1(22)\",\n      \"volumeCount\": \"49\"\n    },\n    {\n      \"volume\": \"1931,1(46)\",\n      \"volumeCount\": \"45\"\n    },\n    {\n      \"volume\": \"1931,1(23)\",\n      \"volumeCount\": \"43\"\n    },\n    {\n      \"volume\": \"1931,1(5)\",\n      \"volumeCount\": \"41\"\n    },\n    {\n      \"volume\": \"1931,1(9)\",\n      \"volumeCount\": \"63\"\n    },\n    {\n      \"volume\": \"1931,1(41)\",\n      \"volumeCount\": \"48\"\n    },\n    {\n      \"volume\": \"1931,1(24)\",\n      \"volumeCount\": \"45\"\n    },\n    {\n      \"volume\": \"1931,1(2)\",\n      \n... (truncated)"
+    },
+    {
+      "name": " 获取联想词列表",
+      "originalName": "[电影] 获取联想词列表.json",
+      "category": "电影",
+      "size": "22.00 B",
+      "sizeBytes": 22,
+      "status": "success",
+      "url": "api_results\\[电影] 获取联想词列表.json",
+      "extension": ".json",
+      "preview": "{\n  \"result\": \"-1\"\n}"
+    },
+    {
+      "name": " 视频列表",
+      "originalName": "[电影] 视频列表.json",
+      "category": "电影",
+      "size": "129.00 B",
+      "sizeBytes": 129,
+      "status": "success",
+      "url": "api_results\\[电影] 视频列表.json",
+      "extension": ".json",
+      "preview": "{\n  \"result\": \"error\",\n  \"msg\": \"Request method 'POST' not supported\",\n  \"detailMsg\": \"Request method 'POST' not supported\"\n}"
+    },
+    {
+      "name": " 视频详情",
+      "originalName": "[电影] 视频详情.json",
+      "category": "电影",
+      "size": "489.00 B",
+      "sizeBytes": 489,
+      "status": "success",
+      "url": "api_results\\[电影] 视频详情.json",
+      "extension": ".json",
+      "preview": "{\n  \"result\": \"0\",\n  \"data\": [\n    {\n      \"contributor\": \"周璇\",\n      \"person\": [\n        {\n          \"name\": [\n            \"周璇\",\n            \"周璇\"\n          ],\n          \"pUri\": \"http://data.library.sh.cn/entity/person/emfzhg6fzke4tzs9\"\n        }\n      ],\n      \"format\": \"wmv\",\n      \"title\": \"周璇在《红楼梦》中饰林黛玉\",\n      \"type\": \"有声；黑白\",\n      \"uri\": \"http://data.library.sh.cn/dy/resource/video/qzwpdwkeany4pp5r\"\n    }\n  ]\n}"
+    },
+    {
+      "name": " 音乐列表",
+      "originalName": "[电影] 音乐列表.json",
+      "category": "电影",
+      "size": "709.00 B",
+      "sizeBytes": 709,
+      "status": "success",
+      "url": "api_results\\[电影] 音乐列表.json",
+      "extension": ".json",
+      "preview": "{\n  \"result\": \"0\",\n  \"data\": [\n    {\n      \"autioFormat\": \"mp3\",\n      \"movie\": \"http://data.library.sh.cn/dy/resource/movie/wur4ctorootueu6y\",\n      \"audio\": \"http://data.library.sh.cn/dy/resource/audio/4puuub2o8hhy66a2\",\n      \"title\": \"《塞上风云》插曲\",\n      \"uri\": \"http://data.library.sh.cn/dy/resource/music/gdyr538dl6lfcck0\",\n      \"movieName\": \"塞上风云\",\n      \"audioPath\": \"https://img.library.sh.cn/dy/audio/4puuub2o8hhy66a2/audio.m3u8\"\n    }\n  ],\n  \"pager\": {\n    \"iflimit\": \"\",\n    \"startIndex\": 0,\n    \"pageSize\": 10,\n    \"sort\": \"insertTime\",\n    \"dir\": \"desc\",\n    \"pageth\": 1,\n    \"pageths\": [\n      1\n    ],\n    \"pageCount\": 1,\n    \"rowCount\": 1\n  }\n}"
+    },
+    {
+      "name": " 音乐详情",
+      "originalName": "[电影] 音乐详情.json",
+      "category": "电影",
+      "size": "921.00 B",
+      "sizeBytes": 921,
+      "status": "success",
+      "url": "api_results\\[电影] 音乐详情.json",
+      "extension": ".json",
+      "preview": "{\n  \"result\": \"0\",\n  \"data\": [\n    {\n      \"movie\": [\n        {\n          \"date\": \"1940\",\n          \"contributor\": [\n            \"应云卫（导演）\",\n            \"舒秀文（演员）\",\n            \"阳翰笙（编剧）\",\n            \"黎莉黎（演员）\"\n          ],\n          \"name\": \"塞上风云\",\n          \"source\": \"上海年华\",\n          \"title\": \"塞上风云\",\n          \"type\": \"有声；黑白\",\n          \"uri\": \"http://data.library.sh.cn/dy/resource/movie/wur4ctorootueu6y\"\n        }\n      ],\n      \"audio\": [\n        {\n          \"format\": \"mp3\",\n          \"uri\": \"http://data.library.sh.cn/dy/resource/audio/4puuub2o8hhy66a2\",\n          \"audioPath\": \"https://img.library.sh.cn/dy/audio/4puuub2o8hhy66a2/audio.m3u8\"\n        }\n      ],\n      \"title\": \"《塞上风云》插曲\",\n      \"uri\": \"http://data.library.sh.cn/dy/resource/music/gdyr538dl6lfcck0\"\n    }\n  ]\n}"
+    },
+    {
+      "name": " 单字检索",
+      "originalName": "[碑帖] 单字检索.json",
+      "category": "碑帖",
+      "size": "1.84 KB",
+      "sizeBytes": 1882,
+      "status": "success",
+      "url": "api_results\\[碑帖] 单字检索.json",
+      "extension": ".json",
+      "preview": "{\n  \"pager\": {\n    \"startIndex\": 0,\n    \"pageSize\": 1,\n    \"pageth\": 1,\n    \"pageCount\": 143,\n    \"rowCount\": 143,\n    \"took\": 0\n  },\n  \"datas\": [\n    {\n      \"@id\": \"http://data.library.sh.cn/bt/resource/item/1l6zxtkx0xtdz55m-17-2-3\",\n      \"shelfMark\": \"17A331\",\n      \"title\": \"道因法师碑\",\n      \"creator\": \"李俨撰文，欧阳通楷书\",\n      \"work\": \"http://data.library.sh.cn/bt/resource/work/v1e0qbx3r5wp1uw4\",\n      \"instance\": \"http://data.library.sh.cn/bt/resource/instance/54zocdoeewoev189\",\n      \"item\": \"http://data.library.sh.cn/bt/resource/item/1l6zxtkx0xtdz55m\",\n      \"scriptForm\": \"\",\n      \"seq\": \"17-2-3\",\n      \"sentence\": \"辩析文理\",\n      \"originImage\": \"0021.jpg\",\n      \"charactor\": \"文\",\n      \"coordinate\": {\n        \"X\": 933,\n        \"Y\": 873,\n        \"Width\": 144,\n        \"Height\": 169\n      },\n      \"contribution\": [\n        {\n          \"agentLabel\": \"欧阳通\",\n          \"agent\": \"http://data.library.sh.cn/entity/person/mkhneg76esfzdccc\",\n          \"role\": \"楷书\",\n          \"contriDesc\": \"\"\n        },\n        {\n          \"agentLabel\": \"李儇\",\n          \"agent\": \"http://data.library.sh.cn/entity/person/xwq367s3kvsts132\",\n          \"role\": \"撰文\",\n          \"contriDesc\": \"\"\n        }\n      ],\n      \"posInText\": 51,\n      \"text\": \"思益寻讲涅槃十地洞尽幽微宿齿名流咸所叹异及受具戒弥复精苦若浮囊之贞全譬圆珠之朗洁始听律义遍讫便讲辩析文理综核指归十诵之端五篇之赜写瓶均美传灯在照又于彭城嵩论师所听摄大乘嵩公懿德玄猷兰薰月映门徒学侣鱼贯凫\",\n      \"image\": \"http://iiif.library.sh.cn/api/char/1l6zxtkx0xtdz55m-17-2-3\",\n      \"iiifLink\": \"http://iiif.library.sh.cn/api/viewer/char/1l6zxtkx0xtdz55m-17-2-3\"\n    }\n  ],\n  \"errorMessage\": \"\",\n  \"errorCode\": \"0\",\n  \"result\": \"0\"\n}"
+    },
+    {
+      "name": " 名家主要作品列表",
+      "originalName": "[碑帖] 名家主要作品列表.json",
+      "category": "碑帖",
+      "size": "103.00 B",
+      "sizeBytes": 103,
+      "status": "success",
+      "url": "api_results\\[碑帖] 名家主要作品列表.json",
+      "extension": ".json",
+      "preview": "{\n  \"errorMessage\": \"Received fatal alert: protocol_version\",\n  \"errorCode\": \"1\",\n  \"result\": \"0\"\n}"
+    },
+    {
+      "name": " 名家列表",
+      "originalName": "[碑帖] 名家列表.json",
+      "category": "碑帖",
+      "size": "49.00 B",
+      "sizeBytes": 49,
+      "status": "success",
+      "url": "api_results\\[碑帖] 名家列表.json",
+      "extension": ".json",
+      "preview": "{\n  \"result\": \"-1\",\n  \"data\": \"接口异常\"\n}"
+    },
+    {
+      "name": " 名家详情",
+      "originalName": "[碑帖] 名家详情.json",
+      "category": "碑帖",
+      "size": "42.00 B",
+      "sizeBytes": 42,
+      "status": "success",
+      "url": "api_results\\[碑帖] 名家详情.json",
+      "extension": ".json",
+      "preview": "{\n  \"errorCode\": \"1\",\n  \"result\": \"0\"\n}"
+    },
+    {
+      "name": " 碑帖检索",
+      "originalName": "[碑帖] 碑帖检索.json",
+      "category": "碑帖",
+      "size": "19.22 KB",
+      "sizeBytes": 19686,
+      "status": "success",
+      "url": "api_results\\[碑帖] 碑帖检索.json",
+      "extension": ".json",
+      "preview": "{\n  \"pager\": {\n    \"startIndex\": 0,\n    \"pageSize\": 1,\n    \"pageth\": 1,\n    \"pageCount\": 3,\n    \"rowCount\": 3,\n    \"took\": 0\n  },\n  \"datas\": [\n    {\n      \"hasAnnotation\": {\n        \"@type\": \"Annotation\",\n        \"noteOfSource\": \"翰墨上海图书馆藏珍碑帖丛刊（特辑） 2012年12月\",\n        \"@id\": \"http://data.library.sh.cn/bt/resource/annotation/tms28p1o6i3gw297\",\n        \"hasBody\": \"（吴湖帆藏本）<br/>唐贞观五年（631）刻立，李百药撰文，欧阳询楷书。三十五行，行三十三字。宋庆历初（1041－）以前，原石已经断裂，时任河南制府的范雍（981—1046）见到的《化度寺》已是砌石，庆历间（1041－1048），《化度寺》断石又被寺僧求宝击碎，又三断，后残石移置范雍洛阳赐书阁，至北宋末年佚失。<br/>此碑在宋代有不少翻刻本流传，传至今日著名的翻刻本有六种：吴县陆恭松下清斋藏本、临川李宗瀚静娱室藏本、南海吴荣光筠清馆藏本、大兴翁方纲苏斋藏本、南海伍崇曜粤雅堂藏本、敦煌石室本。前五种为宋代翻刻，敦煌本乃唐代翻刻本，传世唯有吴湖帆四欧堂藏本是原石宋拓本。<br/>此册为吴湖帆藏“唐原石北宋拓本”，传世孤本，列“四欧宝笈”之首。上海图书馆馆藏国家一级文物，堪称“镇馆之宝”。凡九百三十字。明初为王偁（孟扬）所藏，清代经陈崇本（伯恭）、成亲王（皇十一子永瑆、诒晋斋）、荣郡王（皇三孙绵亿、南韵斋）、奕绘（荣郡王之子、观古斋）、沈树镛（郑斋）、潘祖荫（滂喜斋）等人递藏，民国间转归吴湖帆四欧堂。此册旧称“王孟阳本”，今称“四欧堂本”。<br/>（注：吴湖帆“四欧宝笈” 特指唐代书法家欧阳询所书四件著名碑帖，即：《化度寺塔铭》、《九成宫醴泉铭》、《皇甫诞碑》、《虞恭公碑》，皆为欧体楷书的代表作，在中国书法史上影响深远，又因以上四件拓本均系宋拓，实属珍稀，故称“宝笈”。其中宋拓《化度寺》、《虞恭公》、《皇甫诞》曾为清代潘祖荫收藏，民国间潘祖荫的侄女潘静淑嫁吴湖帆时，此三册曾是陪嫁物之一。1924年吴湖帆又觅得宋拓《九成宫》（原为乾隆皇帝懋勤殿藏本），1926年遂将四册合装同贮一匣，始名曰“四欧宝笈”，并颜斋号为 “四欧堂”。20世纪50年代后期，《四欧宝笈》以二万圆转售上海图书馆。）<br/><br/>此册在乾隆五十五年（1790）翁方纲曾误定为“宋翻刻本”。民国初罗振玉又将此册与敦煌藏经洞发现的《化度寺》（敦煌本极具权威性，北宋前拓本无疑，过去一直被视为唐刻原石）视为“同出一石”，歪打正着地认定“四欧堂本”为“原石宋拓”。当代王壮弘先生考订此册为“唐拓原石本”，而将敦煌本更定为“唐拓翻刻本”。由于目前四欧堂本属唐拓、北宋拓尚无定论，故暂且保守地定为“原石北宋拓本”。<br/><br/>古锦面板上有民国十五年（1926）五月吴湖帆题签。<br/>首叶有题签四条，自右而左依次是：成亲王、沈树镛（同治四年1865十二月题）、赵之谦（同治六年1867八月题）、王同愈（民国十四年1925九月题）。<br/><br/>二叶有王同愈（栩缘）篆书题端：“海内第一唐石真本宋拓化度寺碑。”<br/><br/>三叶有民国十五年（1926）吴湖帆绘《勘碑图》并题：“吾家《化度寺碑》王孟扬本，翁覃溪先生题为‘宋翻宋拓本’，余曾以敦煌唐拓残字复印件校之，剥蚀悉合，纤毫无失，可证翁氏之伪。丙寅上虞罗叔言丈南旋顾余四欧堂，勘赏竟日，叹为海内第一宋拓唐石真本，因作《勘碑图》于册端，志石墨盛事也。”<br/>（按：其实“四欧堂本”与“敦煌本”并非出自同一石，吴湖帆“纤毫无失”实为误判。两本第一行第一字“化”字即明显不同，“化”字“匕”部撇划，“四欧堂本”窜出钩笔，“敦煌本”不窜出，可参见民国早期四欧堂石印本。“四欧堂本”“化”字窜出之笔旋被妄人涂描，欲饰为“敦煌本”，伪造与敦煌本“纤毫无失”的假像。历代碑帖涂描均是伪品照真品样式涂改，此乃真品参照伪品样式涂改，可算孤例。）<br/><br/>四叶有民国十六年（1927）吴湖帆蝇头小楷所作《化度寺碑式图》。<br/>五叶有民国二十年（1931）九月叶恭绰题记：“光绪三十四年（1908）伯希和携唐拓残本过北京，余曾获观，今见此本，益足互相证明四欧堂中物信足俯视一切矣。”<br/>(注：伯希和Paul Pelliot法国汉学家，最早发现《化度寺》“敦煌本”起首二页凡三十九字。叶恭绰亦以“敦煌本”与“四欧堂\n... (truncated)"
+    },
+    {
+      "name": " 碑帖详情",
+      "originalName": "[碑帖] 碑帖详情.json",
+      "category": "碑帖",
+      "size": "18.88 KB",
+      "sizeBytes": 19332,
+      "status": "success",
+      "url": "api_results\\[碑帖] 碑帖详情.json",
+      "extension": ".json",
+      "preview": "{\n  \"datas\": {\n    \"hasAnnotation\": {\n      \"@type\": \"Annotation\",\n      \"noteOfSource\": \"翰墨上海图书馆藏珍碑帖丛刊（特辑） 2012年12月\",\n      \"@id\": \"http://data.library.sh.cn/bt/resource/annotation/tms28p1o6i3gw297\",\n      \"hasBody\": \"（吴湖帆藏本）<br/>唐贞观五年（631）刻立，李百药撰文，欧阳询楷书。三十五行，行三十三字。宋庆历初（1041－）以前，原石已经断裂，时任河南制府的范雍（981—1046）见到的《化度寺》已是砌石，庆历间（1041－1048），《化度寺》断石又被寺僧求宝击碎，又三断，后残石移置范雍洛阳赐书阁，至北宋末年佚失。<br/>此碑在宋代有不少翻刻本流传，传至今日著名的翻刻本有六种：吴县陆恭松下清斋藏本、临川李宗瀚静娱室藏本、南海吴荣光筠清馆藏本、大兴翁方纲苏斋藏本、南海伍崇曜粤雅堂藏本、敦煌石室本。前五种为宋代翻刻，敦煌本乃唐代翻刻本，传世唯有吴湖帆四欧堂藏本是原石宋拓本。<br/>此册为吴湖帆藏“唐原石北宋拓本”，传世孤本，列“四欧宝笈”之首。上海图书馆馆藏国家一级文物，堪称“镇馆之宝”。凡九百三十字。明初为王偁（孟扬）所藏，清代经陈崇本（伯恭）、成亲王（皇十一子永瑆、诒晋斋）、荣郡王（皇三孙绵亿、南韵斋）、奕绘（荣郡王之子、观古斋）、沈树镛（郑斋）、潘祖荫（滂喜斋）等人递藏，民国间转归吴湖帆四欧堂。此册旧称“王孟阳本”，今称“四欧堂本”。<br/>（注：吴湖帆“四欧宝笈” 特指唐代书法家欧阳询所书四件著名碑帖，即：《化度寺塔铭》、《九成宫醴泉铭》、《皇甫诞碑》、《虞恭公碑》，皆为欧体楷书的代表作，在中国书法史上影响深远，又因以上四件拓本均系宋拓，实属珍稀，故称“宝笈”。其中宋拓《化度寺》、《虞恭公》、《皇甫诞》曾为清代潘祖荫收藏，民国间潘祖荫的侄女潘静淑嫁吴湖帆时，此三册曾是陪嫁物之一。1924年吴湖帆又觅得宋拓《九成宫》（原为乾隆皇帝懋勤殿藏本），1926年遂将四册合装同贮一匣，始名曰“四欧宝笈”，并颜斋号为 “四欧堂”。20世纪50年代后期，《四欧宝笈》以二万圆转售上海图书馆。）<br/><br/>此册在乾隆五十五年（1790）翁方纲曾误定为“宋翻刻本”。民国初罗振玉又将此册与敦煌藏经洞发现的《化度寺》（敦煌本极具权威性，北宋前拓本无疑，过去一直被视为唐刻原石）视为“同出一石”，歪打正着地认定“四欧堂本”为“原石宋拓”。当代王壮弘先生考订此册为“唐拓原石本”，而将敦煌本更定为“唐拓翻刻本”。由于目前四欧堂本属唐拓、北宋拓尚无定论，故暂且保守地定为“原石北宋拓本”。<br/><br/>古锦面板上有民国十五年（1926）五月吴湖帆题签。<br/>首叶有题签四条，自右而左依次是：成亲王、沈树镛（同治四年1865十二月题）、赵之谦（同治六年1867八月题）、王同愈（民国十四年1925九月题）。<br/><br/>二叶有王同愈（栩缘）篆书题端：“海内第一唐石真本宋拓化度寺碑。”<br/><br/>三叶有民国十五年（1926）吴湖帆绘《勘碑图》并题：“吾家《化度寺碑》王孟扬本，翁覃溪先生题为‘宋翻宋拓本’，余曾以敦煌唐拓残字复印件校之，剥蚀悉合，纤毫无失，可证翁氏之伪。丙寅上虞罗叔言丈南旋顾余四欧堂，勘赏竟日，叹为海内第一宋拓唐石真本，因作《勘碑图》于册端，志石墨盛事也。”<br/>（按：其实“四欧堂本”与“敦煌本”并非出自同一石，吴湖帆“纤毫无失”实为误判。两本第一行第一字“化”字即明显不同，“化”字“匕”部撇划，“四欧堂本”窜出钩笔，“敦煌本”不窜出，可参见民国早期四欧堂石印本。“四欧堂本”“化”字窜出之笔旋被妄人涂描，欲饰为“敦煌本”，伪造与敦煌本“纤毫无失”的假像。历代碑帖涂描均是伪品照真品样式涂改，此乃真品参照伪品样式涂改，可算孤例。）<br/><br/>四叶有民国十六年（1927）吴湖帆蝇头小楷所作《化度寺碑式图》。<br/>五叶有民国二十年（1931）九月叶恭绰题记：“光绪三十四年（1908）伯希和携唐拓残本过北京，余曾获观，今见此本，益足互相证明四欧堂中物信足俯视一切矣。”<br/>(注：伯希和Paul Pelliot法国汉学家，最早发现《化度寺》“敦煌本”起首二页凡三十九字。叶恭绰亦以“敦煌本”与“四欧堂本”同出一石作为论据。又，叶氏题记未书年月，笔者另见四欧堂《皇甫诞碑》后有叶恭绰观款纪年——民国二十年九月二十二日，据此推定叶氏同日得见四欧秘籍四册）。<br/><br/>册尾有乾隆五十五年（1790）正月十二日翁方纲题跋：“范忠献家原石已是断而又断之本，曾未几时遂至坏不可拓，则宋时所拓\n... (truncated)"
+    },
+    {
+      "name": " 红色旅游建筑列表",
+      "originalName": "[红色旅游] 红色旅游建筑列表.json",
+      "category": "红色旅游",
+      "size": "18.14 KB",
+      "sizeBytes": 18580,
+      "status": "success",
+      "url": "api_results\\[红色旅游] 红色旅游建筑列表.json",
+      "extension": ".json",
+      "preview": "{\n  \"result\": \"0\",\n  \"data\": [\n    {\n      \"nameE\": \"zhonggongzhongyangshanghaijujiguanjiuzhi\",\n      \"address\": \"江苏路389弄21号(江苏路永乐村21号)\",\n      \"houseNumber\": \"21号\",\n      \"placeUri\": \"http://data.library.sh.cn/entity/place/n5v2qkorcvb4xfvn\",\n      \"firstImg\": \"http://data.library.sh.cn/shmemory/resource/img/7dmq5mjlk3kij7vb\",\n      \"type\": \"上海市不可移动文物名录; 上海市文物保护单位; 红色旅游景点\",\n      \"uri\": \"http://data.library.sh.cn/entity/physicalculturalheritage/8ichfdt2akay31yw\",\n      \"long\": \"121.438416\",\n      \"nameT\": \"中共中央上海局機關舊址\",\n      \"nameS\": \"中共中央上海局机关旧址\",\n      \"des\": \"中基中央上海局机关旧址位于江苏路389弄21号（原江苏路永乐村21号）。这是一幢建于20世纪30年代中期的假四层楼房，位于永乐村弄堂底，屋前有一个独立小院，后面有门通外面。江苏路389弄21号是使用时间最长的中共中央上海局机关和会议地点。中共中央上海局成立于1947年5月。当年9月，刘长胜指示王辛南以私人名义租下这幢洋房，用作中共地下党的上海秘密机关，并由张执一、方行两家迁入居住，作为掩护。永乐村21号便成为中共中央上海局的机关，直至上海解放。根据党中央指示，中共中央上海局管辖长江流域、西南各省及平津部分党的组织和工作，并在必要时指导香港分局工作，是党中央一处重要的秘密领导机关。上海局属中共中央直接领导，由刘晓、刘长胜、钱瑛、张明组成，刘晓为书记。上海局根据中央的指示，采取少开全体会议、多做政策指导、委员分工负责、平行组织、单线领导等组织原则和工作方法，严格执行了隐蔽精干的方针。在白色恐怖极为严重的上海，始终保持了领导机关的机密性和对于下属机构领导的持续性。从1947年5月到1949年5月的短短两年间，上海局在中央的直接领导下，组织部署了以上海、南京为中心的国统区人民“第二条战线”的斗争，组织香港学习班，开展反搬移、反破坏、反屠杀以及护厂、护校斗争，并为配合城市的解放做了大量工作。中共中央上海局机关旧址于1992年被上海市人民政府公布为上海市文物保护单位。（来源：《初心之地——上海红色革命纪念地全纪录》）;旧址建于1930年，占地面积70平方米，建筑面积约300平方米，坐北朝南，砖木结构假四层，联列式。南面有一个独立的小院，二层间\\n有凸格状装饰，三层顶为阳台，开方窗。两坡顶，阶梯形山墙，红瓦屋面。水泥粉饰外墙，南立面用浅兰色面砖装饰。1947年5月，中\\n共中央上海局机关设于此，领导成员有刘晓、刘长胜、钱瑛和刘少文。由中共上海两家地下共产党员张执一、方行夫妇出面，承租房子作机关办公地点。1992年6月1日，中共中央上海局机关旧址公布为上海上海市文物保护单位。\",\n      \"road\": \"江苏路\",\n      \"roadUri\": \"http://data.library.sh.cn/entity/road/b07oz87x8gfc65nz\",\n      \"lat\": \"31.225378\",\n      \"firstImgPath\": \"https://img.library.sh.cn/shmemory/hsly/architecture/img/7dmq5mjlk3kij7vb.jpg\",\n      \"placeValue\": \"长宁\"\n    },\n    {\n      \"nameE\": \"zhonggongshizhenggongzuoweiyuanhuilianluodianjiuzhi\",\n      \"address\": \"杨树浦路1825弄60号、64号\",\n      \"houseNumber\": \"60号\",\n      \"placeUri\": \"http://data.library.sh.cn/entity/place/u2mx82iyoplu5qtb\",\n      \"firstImg\": \"http://data.library.sh.cn/shmemory/resource/img/9ncc3jdco4oivwiy\",\n      \"type\": \"其他; 红色旅\n... (truncated)"
+    },
+    {
+      "name": " 红色旅游建筑详情",
+      "originalName": "[红色旅游] 红色旅游建筑详情.json",
+      "category": "红色旅游",
+      "size": "847.00 B",
+      "sizeBytes": 847,
+      "status": "success",
+      "url": "api_results\\[红色旅游] 红色旅游建筑详情.json",
+      "extension": ".json",
+      "preview": "{\n  \"result\": \"0\",\n  \"data\": [\n    {\n      \"nameE\": \"zhuzhai\",\n      \"address\": \"南昌路212、244弄\",\n      \"placeUri\": \"http://data.library.sh.cn/entity/place/r4tibjuyc0ta5p75\",\n      \"houseNumber\": \"\",\n      \"firstImg\": \"\",\n      \"source\": \"上海市第五批优秀历史建筑\",\n      \"type\": \"上海市优秀历史建筑\",\n      \"uri\": \"http://data.library.sh.cn/entity/architecture/06w7n6cjlkuypjsx\",\n      \"long\": \"121.46869\",\n      \"nameT\": \"住宅\",\n      \"nameS\": \"住宅\",\n      \"des\": \"\",\n      \"road\": \"南昌路\",\n      \"roadUri\": \"http://data.library.sh.cn/entity/road/6c14oyljkwgk73zq\",\n      \"lat\": \"31.229605\",\n      \"eventList\": [],\n      \"imageList\": [],\n      \"personList\": [],\n      \"workList\": [],\n      \"otherNameList\": [],\n      \"descriptionList\": [],\n      \"placeValue\": \"黄浦\"\n    }\n  ]\n}"
+    },
+    {
+      "name": " URI访问-JSON-LD",
+      "originalName": "[通用] URI访问-JSON-LD.json",
+      "category": "通用",
+      "size": "2.21 KB",
+      "sizeBytes": 2259,
+      "status": "success",
+      "url": "api_results\\[通用] URI访问-JSON-LD.json",
+      "extension": ".json",
+      "preview": "{\n  \"@id\": \"http://data.library.sh.cn/entity/architecture/yyknd1unz1xonxp7\",\n  \"@type\": \"http://www.library.sh.cn/ontology/Architecture\",\n  \"relation\": \"http://data.library.sh.cn/entity/person/hzbe6jakr7f8b4of\",\n  \"address\": \"武康路274号（原280弄4号）\",\n  \"architecturalStyle\": \"装饰艺术派与现代式\",\n  \"architectureStructure\": \"L型分布，立砖饰带压檐，砖混结构\",\n  \"description\": \"武康路274号据推测应该建于1930年代晚期或者20世纪40年代初期，这个门牌号原是武康路286弄4号，后来因为世界小学的校舍建设将进出通道堵住，才在1965年的时候添加了这个地址。现在，它是以“郑洞国旧居”的名义为世人所知晓。该建筑面积约1300平方米，主体建筑占地315平方面，呈L型分布，为二层砖混结构的现代风格建筑，局部有线脚装饰。建筑南立面二层中部有钢筋混凝土悬挑的大阳台，浅黄色水泥拉毛墙面以赤陶面砖饰带收口，加上红砖勒脚。目前结构稳定，十一户居民合用，露天阳台已封窗加顶为房。北侧内院中间设有花坛，四周环绕分布着原来的汽车间和辅助用房等。\",\n  \"event\": [\n    \"_:b1\",\n    \"_:b2\",\n    \"_:b3\"\n  ],\n  \"houseNumber\": \"274号\",\n  \"location\": \"_:b0\",\n  \"road\": \"http://data.library.sh.cn/entity/road/24v4webnqbccmflv\",\n  \"name\": \"郑洞国旧居\",\n  \"@context\": {\n    \"architectureStructure\": \"http://www.library.sh.cn/ontology/architectureStructure\",\n    \"address\": \"http://www.library.sh.cn/ontology/address\",\n    \"location\": {\n      \"@id\": \"http://www.library.sh.cn/ontology/location\",\n      \"@type\": \"@id\"\n    },\n    \"description\": \"http://www.library.sh.cn/ontology/description\",\n    \"houseNumber\": \"http://www.library.sh.cn/ontology/houseNumber\",\n    \"event\": {\n      \"@id\": \"http://www.library.sh.cn/ontology/event\",\n      \"@type\": \"@id\"\n    },\n    \"name\": \"http://xmlns.com/foaf/0.1/name\",\n    \"relation\": {\n      \"@id\": \"http://purl.org/dc/terms/relation\",\n      \"@type\": \"@id\"\n    },\n    \"road\": {\n      \"@id\": \"http://www.library.sh.cn/ontology/road\",\n      \"@type\": \"@id\"\n    },\n    \"architecturalStyle\": \"http://www.library.sh.cn/ontology/architecturalStyle\"\n  }\n}"
+    },
+    {
+      "name": " URI访问-内容协商",
+      "originalName": "[通用] URI访问-内容协商.json",
+      "category": "通用",
+      "size": "4.63 KB",
+      "sizeBytes": 4742,
+      "status": "success",
+      "url": "api_results\\[通用] URI访问-内容协商.json",
+      "extension": ".json",
+      "preview": "{\n  \"_:fb21d2638a50ed4596689c675bfc83fa\": {\n    \"http://www.w3.org/1999/02/22-rdf-syntax-ns#type\": [\n      {\n        \"type\": \"uri\",\n        \"value\": \"http://www.library.sh.cn/ontology/Event\"\n      }\n    ],\n    \"http://www.library.sh.cn/ontology/description\": [\n      {\n        \"type\": \"literal\",\n        \"value\": \"建于二十世纪二十年代晚期。\"\n      }\n    ]\n  },\n  \"_:c6195f09ec38d05067c0a8a4ad6d7828\": {\n    \"http://www.w3.org/1999/02/22-rdf-syntax-ns#type\": [\n      {\n        \"type\": \"uri\",\n        \"value\": \"http://www.library.sh.cn/ontology/Event\"\n      }\n    ],\n    \"http://www.library.sh.cn/ontology/description\": [\n      {\n        \"type\": \"literal\",\n        \"value\": \"现为多户居民合用。\"\n      }\n    ]\n  },\n  \"_:55b3887691e7695e59c636037d5506d9\": {\n    \"http://www.w3.org/ns/prov#endedAtTime\": [\n      {\n        \"type\": \"literal\",\n        \"value\": \"1952\"\n      }\n    ],\n    \"http://www.w3.org/ns/prov#startedAtTime\": [\n      {\n        \"type\": \"literal\",\n        \"value\": \"1950\"\n      }\n    ],\n    \"http://www.w3.org/1999/02/22-rdf-syntax-ns#type\": [\n      {\n        \"type\": \"uri\",\n        \"value\": \"http://www.library.sh.cn/ontology/Event\"\n      }\n    ],\n    \"http://www.library.sh.cn/ontology/description\": [\n      {\n        \"type\": \"literal\",\n        \"value\": \"1950至1952年，抗日名将、原全国政协常委郑洞国曾居住于此。\"\n      }\n    ]\n  },\n  \"_:7c1dbc5f022012007a9bbb9859bc7e18\": {\n    \"http://www.w3.org/1999/02/22-rdf-syntax-ns#type\": [\n      {\n        \"type\": \"uri\",\n        \"value\": \"http://www.library.sh.cn/ontology/Location\"\n      }\n    ],\n    \"http://www.w3.org/2003/01/geo/wgs84_pos#lat\": [\n      {\n        \"type\": \"literal\",\n        \"value\": \"31.214266\"\n      }\n    ],\n    \"http://www.w3.org/2003/01/geo/wgs84_pos#long\": [\n      {\n        \"type\": \"literal\",\n        \"value\": \"121.446494\"\n      }\n    ]\n  },\n  \"http://data.library.sh.cn/entity/architecture/yyknd1unz1xonxp7\": {\n    \"http://www.library.sh.cn/ontology/architectureStructure\": [\n      {\n        \"type\": \"literal\",\n        \"value\": \"L型分布，立砖饰带压檐，砖混结构\"\n      }\n    ],\n   \n... (truncated)"
+    },
+    {
+      "name": " 作品列表",
+      "originalName": "[革命文献] 作品列表.json",
+      "category": "革命文献",
+      "size": "2.54 KB",
+      "sizeBytes": 2603,
+      "status": "success",
+      "url": "api_results\\[革命文献] 作品列表.json",
+      "extension": ".json",
+      "preview": "{\n  \"result\": \"0\",\n  \"data\": [\n    {\n      \"note\": \"\",\n      \"creator\": \"\",\n      \"hor\": \"\",\n      \"label\": \"毛主席手书《满江红·和郭沫若》\",\n      \"uri\": \"http://data.library.sh.cn/gmwx/resource/work/0ij6m4t8mcf1julm\"\n    },\n    {\n      \"note\": \"\",\n      \"creator\": \"\",\n      \"hor\": \"\",\n      \"label\": \"郭沫若同志影集\",\n      \"uri\": \"http://data.library.sh.cn/gmwx/resource/work/xo4e0ogr3duyh5j5\"\n    },\n    {\n      \"note\": \"信末署日期：九，廿一。据郭若愚《殷契拾掇·后记》，当写于1955年\",\n      \"creator\": \"\",\n      \"hor\": \"\",\n      \"label\": \"[郭沫若同志手札\",\n      \"uri\": \"http://data.library.sh.cn/gmwx/resource/work/4g5t2jr4nku4j0tp\"\n    },\n    {\n      \"note\": \"\",\n      \"creator\": \"\",\n      \"hor\": \"\",\n      \"label\": \"[郭沫若同志手迹\",\n      \"uri\": \"http://data.library.sh.cn/gmwx/resource/work/f84dcdaprddegnlh\"\n    },\n    {\n      \"note\": \"背面有郭氏亲笔题词\",\n      \"creator\": \"\",\n      \"hor\": \"\",\n      \"label\": \"[郭沫若同志与日本雕刻家林谦三同志合影]\",\n      \"uri\": \"http://data.library.sh.cn/gmwx/resource/work/ipsnl63vld24zqsr\"\n    },\n    {\n      \"note\": \"\",\n      \"creator\": \"\",\n      \"hor\": \"\",\n      \"label\": \"郭沫若同志书法\",\n      \"uri\": \"http://data.library.sh.cn/gmwx/resource/work/jooh08g7487m6emr\"\n    },\n    {\n      \"note\": \"四海翻腾云水怒，五洲震荡风雷激。要扫除一切害人虫，全无敌。毛泽东 一九六四年十月十日\",\n      \"creator\": \"\",\n      \"hor\": \"\",\n      \"label\": \"[毛泽东书《满江红·和郭沫若同志》末几句]\",\n      \"uri\": \"http://data.library.sh.cn/gmwx/resource/work/k7hcqinpdk68vkka\"\n    },\n    {\n      \"note\": \"\",\n      \"creator\": \"\",\n      \"hor\": \"\",\n      \"label\": \"[郭沫若为邹韬奋图书馆成立题词]\",\n      \"uri\": \"http://data.library.sh.cn/gmwx/resource/work/x0hat7c3m54ia37f\"\n    },\n    {\n      \"note\": \"\",\n      \"creator\": \"郭沫若\",\n      \"hor\": \"\",\n      \"label\": \"羽书集\",\n      \"uri\": \"http://data.library.sh.cn/gmwx/resource/work/e4dpjc5zx2iy6xis\"\n    },\n    {\n      \"note\": \"\",\n      \"creator\": \"郭沫若\",\n      \"hor\": \"\",\n      \"label\": \"请看今日之蒋介石\",\n      \"uri\": \"http://data.library.sh.cn/gmwx/resource/work/glv5uornscmvb2pq\"\n    }\n  ],\n  \"pager\": {\n    \"iflimit\": \"\",\n    \"startIndex\": 0,\n    \"pageSize\": 10,\n    \"sort\": \"insertTime\",\n    \"dir\": \"d\n... (truncated)"
+    },
+    {
+      "name": " 作品详情",
+      "originalName": "[革命文献] 作品详情.json",
+      "category": "革命文献",
+      "size": "465.00 B",
+      "sizeBytes": 465,
+      "status": "success",
+      "url": "api_results\\[革命文献] 作品详情.json",
+      "extension": ".json",
+      "preview": "{\n  \"result\": \"0\",\n  \"data\": [\n    {\n      \"title\": \"各省市自治区新发现文物汇报展览\",\n      \"creator\": \"国家文物事业管理局编\",\n      \"note\": \"\",\n      \"subject\": \"文物--图录--中国--1975\",\n      \"transuri\": \"\",\n      \"translation\": \"\",\n      \"language\": \"\",\n      \"classification\": \"K87\",\n      \"contributions\": \"\"\n    }\n  ],\n  \"coverHor\": \"\",\n  \"uri\": \"http://data.library.sh.cn/gmwx/resource/work/0hq476jyfhdh5s8r\"\n}"
+    },
+    {
+      "name": " 地图检索",
+      "originalName": "[革命文献] 地图检索.json",
+      "category": "革命文献",
+      "size": "365.00 B",
+      "sizeBytes": 365,
+      "status": "success",
+      "url": "api_results\\[革命文献] 地图检索.json",
+      "extension": ".json",
+      "preview": "{\n  \"result\": \"0\",\n  \"data\": [\n    {\n      \"place\": \"http://data.library.sh.cn/entity/place/fdbrvzbeowbv1urw\",\n      \"label\": \"長沙\",\n      \"long\": \"112.93\",\n      \"lat\": \"28.23\"\n    },\n    {\n      \"place\": \"http://data.library.sh.cn/entity/place/v7flhdqk4egjt3hv\",\n      \"label\": \"重慶\",\n      \"long\": \"106.55\",\n      \"lat\": \"29.57\"\n    }\n  ]\n}"
+    },
+    {
+      "name": " 革命文献书目列表",
+      "originalName": "[革命文献] 革命文献书目列表.json",
+      "category": "革命文献",
+      "size": "22.90 KB",
+      "sizeBytes": 23447,
+      "status": "success",
+      "url": "api_results\\[革命文献] 革命文献书目列表.json",
+      "extension": ".json",
+      "preview": "{\n  \"result\": \"0\",\n  \"data\": [\n    {\n      \"notes\": \"\",\n      \"year\": \"1939\",\n      \"seresponse\": \"\",\n      \"ilabel\": \"yknfoebu0mz351hg.jpg\",\n      \"hor\": \"\",\n      \"title\": \"反正前后\",\n      \"uri\": \"http://data.library.sh.cn/gmwx/resource/instance/wld4frve01d4ub13\",\n      \"shelfs\": \"&MG377847\",\n      \"firstImgPath\": \"https://img.library.sh.cn/gmwx/firstimg/yknfoebu0mz351hg.jpg!500x500\",\n      \"terms\": \"\",\n      \"response\": \"郭沫若\",\n      \"provision\": \"上海 : 立社出版部, 民国廿八年三月[1939.3] : 中国图书什志公司经售 : 余一君发行\",\n      \"series\": \"当代作家创作文库\",\n      \"personInfos\": \"http://data.library.sh.cn/entity/person/rre963914j6whck4~著\",\n      \"ids\": \"\",\n      \"page\": \"167页\",\n      \"workUri\": \"http://data.library.sh.cn/gmwx/resource/work/8l4breok4fk6cvmu\",\n      \"seuri\": \"http://data.library.sh.cn/resource/work/aq8f1jrtjashvpyu\",\n      \"dimensions\": \"19×13cm\",\n      \"personInfoList\": [\n        {\n          \"personName\": \"郭沫若\",\n          \"personRole\": \"著\",\n          \"personUri\": \"http://data.library.sh.cn/entity/person/rre963914j6whck4\"\n        }\n      ]\n    },\n    {\n      \"notes\": \"\",\n      \"year\": \"1937\",\n      \"seresponse\": \"\",\n      \"ilabel\": \"xyma7qmv2dnthtce.jpg\",\n      \"hor\": \"\",\n      \"title\": \"闸北孤军记\",\n      \"uri\": \"http://data.library.sh.cn/gmwx/resource/instance/crvqf0qpbtmvqylu\",\n      \"shelfs\": \"GMWX1022854\",\n      \"firstImgPath\": \"https://img.library.sh.cn/gmwx/firstimg/xyma7qmv2dnthtce.jpg!500x500\",\n      \"terms\": \"八分\",\n      \"response\": \"郭沫若,徐迟等著;叶兆洲\",\n      \"provision\": \"[出版地不详] : 战时读物编译社, 民国二十六年十一月六日[1937.11.6] : 五洲书报社代售 : 孙敏刚发行\",\n      \"series\": \"\",\n      \"personInfos\": \"http://data.library.sh.cn/entity/person/5o2bkrxa8sg7ppyp~编;http://data.library.sh.cn/entity/person/czfyxlgappgy85gs~著;http://data.library.sh.cn/entity/person/rre963914j6whck4~著\",\n      \"ids\": \"\",\n      \"page\": \"59页\",\n      \"workUri\": \"http://data.library.sh.cn/gmwx/resource/work/le5xbp0x5i8n4spf\",\n      \"seuri\": \"\",\n      \"dimensions\": \"18×13cm\",\n      \"personInfoList\": [\n        {\n          \"personName\": \"叶兆洲\",\n   \n... (truncated)"
+    },
+    {
+      "name": " 革命文献书目详情",
+      "originalName": "[革命文献] 革命文献书目详情.json",
+      "category": "革命文献",
+      "size": "1.61 KB",
+      "sizeBytes": 1652,
+      "status": "success",
+      "url": "api_results\\[革命文献] 革命文献书目详情.json",
+      "extension": ".json",
+      "preview": "{\n  \"result\": \"0\",\n  \"contributions\": [\n    {\n      \"role\": \"译\",\n      \"name\": \"莫师古\",\n      \"uri\": \"http://data.library.sh.cn/entity/person/dycsneaan8z5bgw6\"\n    },\n    {\n      \"role\": \"著\",\n      \"name\": \"列宁\",\n      \"uri\": \"http://data.library.sh.cn/entity/person/xvus6rr743c1fqmu\"\n    }\n  ],\n  \"works\": [\n    {\n      \"creator\": \"(苏)列宁著\",\n      \"title\": \"二月革命至十月革命\",\n      \"uri\": \"http://data.library.sh.cn/gmwx/resource/work/dnt4wc0susvfn0ua\"\n    }\n  ],\n  \"uri\": \"http://data.library.sh.cn/gmwx/resource/instance/00y5u3c6f033nwlm\",\n  \"items\": [\n    {\n      \"uri\": \"http://data.library.sh.cn/gmwx/resource/item/e4403wcuq8teenzo\",\n      \"shelf\": \"GMWX1020401\",\n      \"org\": \"http://data.library.sh.cn/entity/organization/brvqlrg8y55v1b5q\",\n      \"identifier\": \"GMWX1020401\"\n    },\n    {\n      \"uri\": \"http://data.library.sh.cn/gmwx/resource/item/u1367tt1cg7rt1my\",\n      \"shelf\": \"GMWX1028120\",\n      \"org\": \"http://data.library.sh.cn/entity/organization/brvqlrg8y55v1b5q\",\n      \"identifier\": \"\"\n    }\n  ],\n  \"infos\": {\n    \"uri\": \"http://data.library.sh.cn/gmwx/resource/instance/00y5u3c6f033nwlm\",\n    \"title\": \"二月革命至十月革命\",\n    \"dimension\": \"19×13cm\",\n    \"extent\": \"390页\",\n    \"year\": \"1939\",\n    \"edition\": \"再版\",\n    \"terms\": \"柒角伍分\",\n    \"hor\": \"\",\n    \"agent\": \"\",\n    \"publisher\": \"\",\n    \"placeUri\": \"nodeID://b100227\",\n    \"series\": \"\",\n    \"ilabel\": \"mlugxjox2spjw3kn.jpg\",\n    \"place\": \"\",\n    \"ids\": \"\",\n    \"shelfs\": \"GMWX1020401\",\n    \"notes\": \"民国二十七年一月初版[版本与书目沿革附注]\"\n  }\n}"
+    },
+    {
+      "name": " 人物年表",
+      "originalName": "[韬奋] 人物年表.json",
+      "category": "韬奋",
+      "size": "175.92 KB",
+      "sizeBytes": 180139,
+      "status": "success",
+      "url": "api_results\\[韬奋] 人物年表.json",
+      "extension": ".json",
+      "preview": "{\n  \"records\": 25,\n  \"extend\": {\n    \"sub\": \"本名恩润，乳名荫书，曾用名李晋卿。祖籍江西省鹰潭市余江区潢溪镇渡口村委会沙塘村，1895年出生于福建永安。近代中国记者和出版家。 \\n1922年在黄炎培等创办的中华职业教育社任编辑部主任，开始从事教育和编辑工作。1926年接任《生活周刊》主编，以犀利之笔，力主正义舆论，抨击黑暗势力。 \\n1931年“九·一八”事变后，邹韬奋在上海全身心投入抗日救亡运动。1935年12月，他与沈钧儒、厉麟似等人组织成立了上海文化界救国会。1936年11月，国民党为了扑灭国内的抗日烈火，逮捕了正在领导抗日救亡运动的救国会领导人沈钧儒、邹韬奋等七人，酿成七君子事件，遭到全国人民，包括宋庆龄、何香凝等社会名流的强烈反对。邹韬奋出狱后辗转重庆、汉口、香港继续开展爱国救亡工作。\\n1943年因患耳癌秘密返沪就医。1944年7月24日不幸逝世于上海医院（今上海市第二人民医院），终年49岁。\\n1956年上海市政府出资修复邹韬奋的故居，并在隔壁建立了韬奋纪念馆。2009年邹韬奋被评为100位为新中国成立作出突出贡献的英雄模范之一。.\",\n    \"stimer\": \"1895-11-5\",\n    \"sex\": \"男\",\n    \"wordname\": \"邹韬奋\",\n    \"yearno\": \"\",\n    \"stime\": \"1895-11-05 00:00:00\",\n    \"pic\": \"/Upload/image/20230628124722_4u.jpg\",\n    \"type\": 1,\n    \"etimer\": \"1944-7-24\",\n    \"userid\": \"superadmin\",\n    \"retime\": \"2023-06-28 12:47:24\",\n    \"penname\": \"韬奋\",\n    \"familyID\": \"\",\n    \"books\": \"\",\n    \"feature\": \"\",\n    \"appraise\": \"伟大的爱国者、卓越的文化战士、杰出的出版家和新闻记者、创始人之一\",\n    \"enable\": 1,\n    \"etime\": \"1944-07-24 00:00:00\",\n    \"name\": \"邹韬奋\",\n    \"ID\": 12,\n    \"orgs\": \"生活书店\",\n    \"namer\": \"邹恩润,李晋卿\",\n    \"bornaddress\": \"福建\",\n    \"events\": \"\"\n  },\n  \"page\": 1,\n  \"data\": [\n    {\n      \"items\": [\n        {\n          \"redater\": \"1908年\",\n          \"redate\": \"1908-01-01 00:00:00\",\n          \"type\": 0,\n          \"data\": \"item\",\n          \"child\": [],\n          \"text\": \"\",\n          \"pic\": \"\",\n          \"sub\": \"<p>邹韬奋随父亲同去余江奔丧，并扶母亲灵柩同往，并在老家居住四个月。</p>\",\n          \"id\": 4\n        }\n      ],\n      \"year\": 1908\n    },\n    {\n      \"items\": [\n        {\n          \"redater\": \"1923-7-10\",\n          \"redate\": \"1923-07-10 00:00:00\",\n          \"type\": 0,\n          \"data\": \"item\",\n          \"child\": [],\n          \"text\": \"\",\n          \"pic\": \"\",\n          \"sub\": \"<p>中华职业学校与东献学合作，在暑期学校课程中加入职业教育一组内容，由黄炎培讲职业教育概论，朱经农、杨鄂联讲职业教育课程，廖世承、邹韬奋年谱长编邹恩润讲职业知能测试报告。</p><p>办事部门也暂移南京，上午照常办公，下午列席讲堂，傍晚游览名胜。 午后，邹恩润讲职业知能测验之性质范围及历史，此课程测验二门，于讲演毕后再行讨论。</p>\",\n          \"id\": 58\n        }\n      ],\n      \"year\": 1923\n    },\n    {\n      \"items\": [\n        {\n          \"redater\": \"1926-12\",\n   \n... (truncated)"
+    },
+    {
+      "name": " 图书列表",
+      "originalName": "[韬奋] 图书列表.json",
+      "category": "韬奋",
+      "size": "6.89 KB",
+      "sizeBytes": 7059,
+      "status": "success",
+      "url": "api_results\\[韬奋] 图书列表.json",
+      "extension": ".json",
+      "preview": "{\n  \"records\": 8,\n  \"extend\": \"\",\n  \"page\": 1,\n  \"data\": [\n    {\n      \"linkfile\": \"\",\n      \"sub\": \"\",\n      \"booknamer\": \"\",\n      \"kaiben\": \"32开\",\n      \"linkcollect\": \"\",\n      \"yearno\": \"\",\n      \"language\": \"\",\n      \"pic\": \"/BookCoverPic/upload/reviary/01010101/1235714434758.jpg\",\n      \"type\": 0,\n      \"writetool\": \"\",\n      \"userid\": \"superadmin\",\n      \"retime\": \"2022-04-06 20:09:14\",\n      \"iscollect\": 1,\n      \"orgname\": \"商务印书馆\",\n      \"bookorder\": \"1950年12月初版\",\n      \"enable\": 1,\n      \"ID\": 23716,\n      \"keyword\": \"\",\n      \"bookno\": \"\",\n      \"editor\": \"\",\n      \"resource\": \"\",\n      \"redate\": \"1950-01-01 00:00:00\",\n      \"collectno\": \"\",\n      \"booktype\": \"\",\n      \"transer\": \"      \",\n      \"totalpage\": \"61\",\n      \"writer\": \"黄逸之\",\n      \"bookname\": \"邹韬奋\",\n      \"redater\": \"1950年\"\n    },\n    {\n      \"linkfile\": \"\",\n      \"sub\": \"\",\n      \"booknamer\": \"\",\n      \"kaiben\": \"大32开\",\n      \"linkcollect\": \"\",\n      \"yearno\": \"\",\n      \"language\": \"\",\n      \"pic\": \"/BookCoverPic/upload/reviary/01010101/1235715870649.jpg\",\n      \"type\": 0,\n      \"writetool\": \"\",\n      \"userid\": \"superadmin\",\n      \"retime\": \"2022-04-06 20:09:53\",\n      \"iscollect\": 1,\n      \"orgname\": \"中国青年出版社\",\n      \"bookorder\": \"1958年10月北京第1版第1次\",\n      \"enable\": 1,\n      \"ID\": 25274,\n      \"keyword\": \"\",\n      \"bookno\": \"\",\n      \"editor\": \"\",\n      \"resource\": \"\",\n      \"redate\": \"1958-01-01 00:00:00\",\n      \"collectno\": \"\",\n      \"booktype\": \"\",\n      \"transer\": \"      \",\n      \"totalpage\": \"355\",\n      \"writer\": \"穆欣\",\n      \"bookname\": \"邹韬奋\",\n      \"redater\": \"1958年\"\n    },\n    {\n      \"linkfile\": \"\",\n      \"sub\": \"\",\n      \"booknamer\": \"\",\n      \"kaiben\": \"大32开\",\n      \"linkcollect\": \"\",\n      \"yearno\": \"\",\n      \"language\": \"\",\n      \"pic\": \"/BookCoverPic/upload/reviary/01010101/1238482162373.jpg\",\n      \"type\": 0,\n      \"writetool\": \"\",\n      \"userid\": \"superadmin\",\n      \"retime\": \"2022-04-06 20:09:53\",\n      \"iscollect\": 1,\n      \"orgname\": \"中国青年出版社\",\n      \"bookorder\": \"一九五八年北京\"\n... (truncated)"
+    },
+    {
+      "name": " 机构年表",
+      "originalName": "[韬奋] 机构年表.json",
+      "category": "韬奋",
+      "size": "90.98 KB",
+      "sizeBytes": 93168,
+      "status": "success",
+      "url": "api_results\\[韬奋] 机构年表.json",
+      "extension": ".json",
+      "preview": "{\n  \"records\": 18,\n  \"extend\": {\n    \"sub\": \"生活书店　1932年7月1日成立，创办人邹韬奋。其前身是《生活》周刊社。《生活》周刊创刊于1925年10月，是中华职业教育社的一个机关刊物。1929年聘任邹韬奋为《生活》周刊社社长(原为杨卫玉兼任)兼主编。以后独立经营，设址在环龙路(今南昌路)环龙别业(今南昌别业)2号。周刊社设有书报代办部，不仅发行本版书刊，还为读者代办外版书刊，并以此为基础成立生活书店，店址在陶尔斐斯路(今兴业路)42号，后迁至霞飞路(今淮海中路)桃源坊，业务上分设编辑部、经理部、出版部、营业部、财务部等。1934年再迁到福州路384弄复兴里4号。生活书店成立时邹韬奋为经理，徐伯昕为副经理，胡愈之实际上也是创始人之一。抗日战争爆发后，生活书店总店迁往武汉。在全国出版业不景气的情况下，生活书店在竭诚为读者服务的口号下取得很大的发展。总店离沪后，上海分店由王泰雷任经理。在福州路378号开设“远东图书杂志公司”(后改名为兄弟图书公司)，进行门市供应。书店的编辑、校对、出版、财务等内部工作则秘密设在爱多亚路(今延安东路)河南路口中汇大楼和萨坡赛路(今淡水路)18号。同时，上海分店的重要任务是利用上海的纸张、印刷条件大量印造书籍供应内地。沦陷后，兄弟图书公司被日军查封。启封后，缩小业务范围，与一文具商合作开设新光教育用品社，经营文具仪器。以后招股成立新光百货公司，经营百货的批发、零售。新光公司后出盘给一个商人作西药房。抗日战争胜利后，生活书店在上海吕班路(今重庆南路)6号复业，另在迈尔西爱路(今茂名南路)余庆里1号设立编辑部。生活书店总店在武汉时，将总店改为总管理处，后迁至重庆冉家巷16号。1941年后又迁往香港。1948年10月26日，生活、读书、新知三店在香港完成全面合并工作，正式组成生活·读书·新知三联书店。生活书店先后出版的杂志共有29种，早期有《生活》周刊，《新生》周刊，以后又出版了《大众生活》周刊、《永生》周刊、《生活星期刊》、《国民》周刊等。还有：《文学》月刊、《世界知识》半月刊、《太白》半月刊、《译文》月刊、《妇女生活》半月刊、《生活教育》半月刊、《光明》半月刊、《中华公论》月刊、《生活知识》半月刊、《新知识》半月刊、《新学识》半月刊、《读书与出版》月刊等。出版图书约有1000多种，成为国民党统治区内坚强的进步文化阵地。其出书内容有：马列主义经典著作、哲学、社会科学、政治法律、经济、文化教育、语言文字、文学艺术、历史地理、自然科学等。图书的类型有丛书、丛刊和单行本。丛书丛刊主要有：《世界学术名著译丛》、《青年自学丛书》、《百科小译丛》、《世界知识丛书》、《时事问题丛刊》、《黑白丛书》、《妇女生活丛书》、《创作文库》、《世界文库》、《文学丛书》、《小型文库》、《新世纪丛刊》、《少年文库》等20余种。生活书店在经营管理上有一套完整的科学的民主管理制度，对内为合作社组织，是集体所有制性质。合作社章程中原则规定：经营集体化，管理民主化，盈利归全体。领导机构为：理事会、人事委员会和监察委员会，成员由社员大会民主选举产生。1933年生活书店注册时，额定资金为5万元，1937年增加至10万元。职工人数由二十几人发展到500人。书店拥有6万户邮购读者，存款15万元，成为资金来源之一。至1939年，先后在武汉、广州、西安、重庆、长沙、成都、桂林、兰州、贵阳、南昌、昆明、福州等处开设分支店55个，发行据点遍及全国14个省份(除新疆、西藏、青海、宁夏外)，还在香港、新加坡建立分支店。以后，各地分店纷纷被查封，1941年后，只剩下重庆分店。生活书店建立了不少外围出版机构。在投资合营与化名自营的出版机构中，分一、二、三线出版机构。第一线出版旗帜鲜明的政治读物，第二线偏重于理论性著作和中外文艺作品，第三线主要出版实用书籍和学习参考书。生活书店在上海化名的出版机构有：远东图书公司、新生图书服务社、兄弟图书公司、骆驼书店、民主周刊社、燕赵社、致用书店、实用书店、士林书店。在上海投资合营的出版机构有：华夏书店、知识出版社、拂晓社、丘引社、峨嵋出版社、自由出版社、通惠印书馆、南国出版社。\",\n    \"stimer\": \"1932年7月\",\n    \"address\": \"上海市，陶尔斐斯路（今兴业路）42号，后迁霞飞路（今淮海中路）桃源坊、福州路384弄复兴里4号\",\n    \"eyear\": \"民国三十八年\",\n    \"about\": \"\",\n    \"stime\": \"\",\n    \"pic\": \"/Upload/image/20230625040538_xn.jpg\",\n    \"type\": 1,\n    \"etimer\": \"1949年8月\",\n    \"userid\": \"supe\n... (truncated)"
+    },
+    {
+      "name": " 韬奋关系",
+      "originalName": "[韬奋] 韬奋关系.json",
+      "category": "韬奋",
+      "size": "358.21 KB",
+      "sizeBytes": 366803,
+      "status": "success",
+      "url": "api_results\\[韬奋] 韬奋关系.json",
+      "extension": ".json",
+      "preview": "{\n  \"records\": 1,\n  \"extend\": \"\",\n  \"page\": 1,\n  \"data\": [\n    {\n      \"data\": [\n        {\n          \"draggable\": true,\n          \"zlevel\": 0,\n          \"symbolSize\": 60,\n          \"h\": 0,\n          \"tid\": 12,\n          \"symbol\": \"circle\",\n          \"child\": [],\n          \"pic\": \"/Upload/image/20230628124722_4u.jpg\",\n          \"sub\": \"\",\n          \"category\": \"邹韬奋\",\n          \"subdata\": \"\",\n          \"w\": 0,\n          \"x\": 0,\n          \"y\": 0,\n          \"z\": 0,\n          \"label\": {\n            \"show\": true,\n            \"position\": \"inside\",\n            \"color\": \"#fff\"\n          },\n          \"name\": \"邹韬奋\",\n          \"id\": 499,\n          \"root\": false\n        },\n        {\n          \"draggable\": true,\n          \"zlevel\": 0,\n          \"symbolSize\": 50,\n          \"h\": 0,\n          \"tid\": 758,\n          \"symbol\": \"circle\",\n          \"child\": [],\n          \"pic\": \"/Upload/image/20210924110353.jpg\",\n          \"sub\": \"\",\n          \"category\": \"新闻出版\",\n          \"subdata\": \"\",\n          \"w\": 0,\n          \"x\": 0,\n          \"y\": 0,\n          \"z\": 0,\n          \"label\": {\n            \"show\": true,\n            \"position\": \"inside\",\n            \"color\": \"#fff\"\n          },\n          \"name\": \"梁启超\",\n          \"id\": 1,\n          \"root\": false\n        },\n        {\n          \"draggable\": true,\n          \"zlevel\": 0,\n          \"symbolSize\": 50,\n          \"h\": 0,\n          \"tid\": 1092,\n          \"symbol\": \"circle\",\n          \"child\": [],\n          \"pic\": \"/Upload/image/20221107035633_TJ.jpeg\",\n          \"sub\": \"\",\n          \"category\": \"新闻出版\",\n          \"subdata\": \"\",\n          \"w\": 0,\n          \"x\": 0,\n          \"y\": 0,\n          \"z\": 0,\n          \"label\": {\n            \"show\": true,\n            \"position\": \"inside\",\n            \"color\": \"#fff\"\n          },\n          \"name\": \"戈公振\",\n          \"id\": 2,\n          \"root\": false\n        },\n        {\n          \"draggable\": true,\n          \"zlevel\": 0,\n          \"symbolSize\": 40,\n          \"h\": 0,\n          \"tid\": 767,\n          \"symbol\": \"circl\n... (truncated)"
+    },
+    {
+      "name": "[碑帖] 碑帖检索",
+      "originalName": "[碑帖] 碑帖检索",
+      "category": "碑帖",
+      "size": "N/A",
+      "sizeBytes": 0,
+      "status": "error",
+      "url": null,
+      "preview": "错误: Unknown error"
+    },
+    {
+      "name": "[碑帖] 碑帖详情",
+      "originalName": "[碑帖] 碑帖详情",
+      "category": "碑帖",
+      "size": "N/A",
+      "sizeBytes": 0,
+      "status": "error",
+      "url": null,
+      "preview": "错误: Unknown error"
+    },
+    {
+      "name": "[碑帖] 单字检索",
+      "originalName": "[碑帖] 单字检索",
+      "category": "碑帖",
+      "size": "N/A",
+      "sizeBytes": 0,
+      "status": "error",
+      "url": null,
+      "preview": "错误: Unknown error"
+    },
+    {
+      "name": "[碑帖] 背景知识列表",
+      "originalName": "[碑帖] 背景知识列表",
+      "category": "碑帖",
+      "size": "N/A",
+      "sizeBytes": 0,
+      "status": "error",
+      "url": null,
+      "preview": "错误: Unknown error"
+    },
+    {
+      "name": "[碑帖] 名家列表",
+      "originalName": "[碑帖] 名家列表",
+      "category": "碑帖",
+      "size": "N/A",
+      "sizeBytes": 0,
+      "status": "error",
+      "url": null,
+      "preview": "错误: Unknown error"
+    },
+    {
+      "name": "[碑帖] 名家详情",
+      "originalName": "[碑帖] 名家详情",
+      "category": "碑帖",
+      "size": "N/A",
+      "sizeBytes": 0,
+      "status": "error",
+      "url": null,
+      "preview": "错误: Unknown error"
+    },
+    {
+      "name": "[碑帖] 名家主要作品列表",
+      "originalName": "[碑帖] 名家主要作品列表",
+      "category": "碑帖",
+      "size": "N/A",
+      "sizeBytes": 0,
+      "status": "error",
+      "url": null,
+      "preview": "错误: Unknown error"
+    },
+    {
+      "name": "[舆图] 舆图目录列表",
+      "originalName": "[舆图] 舆图目录列表",
+      "category": "舆图",
+      "size": "N/A",
+      "sizeBytes": 0,
+      "status": "error",
+      "url": null,
+      "preview": "错误: Unknown error"
+    },
+    {
+      "name": "[舆图] 舆图目录详情",
+      "originalName": "[舆图] 舆图目录详情",
+      "category": "舆图",
+      "size": "N/A",
+      "sizeBytes": 0,
+      "status": "error",
+      "url": null,
+      "preview": "错误: Unknown error"
+    },
+    {
+      "name": "[电影] 影人详情",
+      "originalName": "[电影] 影人详情",
+      "category": "电影",
+      "size": "N/A",
+      "sizeBytes": 0,
+      "status": "error",
+      "url": null,
+      "preview": "错误: Unknown error"
+    },
+    {
+      "name": "[碑帖] 背景知识列表",
+      "originalName": "[碑帖] 背景知识列表",
+      "category": "碑帖",
+      "size": "N/A",
+      "sizeBytes": 0,
+      "status": "error",
+      "url": null,
+      "preview": "错误: Unknown error"
+    },
+    {
+      "name": "[舆图] 舆图目录列表",
+      "originalName": "[舆图] 舆图目录列表",
+      "category": "舆图",
+      "size": "N/A",
+      "sizeBytes": 0,
+      "status": "error",
+      "url": null,
+      "preview": "错误: Unknown error"
+    },
+    {
+      "name": "[舆图] 舆图目录详情",
+      "originalName": "[舆图] 舆图目录详情",
+      "category": "舆图",
+      "size": "N/A",
+      "sizeBytes": 0,
+      "status": "error",
+      "url": null,
+      "preview": "错误: Unknown error"
+    }
+  ],
+  "errors": [
+    {
+      "timestamp": "2025-07-16T09:48:37.475371",
+      "api_name": "[碑帖] 碑帖检索",
+      "url": "https://data1.library.sh.cn/webapi/beitie/search?key=eca15f528602adb9480d04f286183d133f03f860",
+      "status_code": null,
+      "error_message": "HTTPSConnectionPool(host='data1.library.sh.cn', port=443): Read timed out. (read timeout=30)",
+      "response_body": "N/A"
+    },
+    {
+      "timestamp": "2025-07-16T09:49:08.694137",
+      "api_name": "[碑帖] 碑帖详情",
+      "url": "https://data1.library.sh.cn/webapi/beitie/info",
+      "status_code": null,
+      "error_message": "HTTPSConnectionPool(host='data1.library.sh.cn', port=443): Read timed out. (read timeout=30)",
+      "response_body": "N/A"
+    },
+    {
+      "timestamp": "2025-07-16T09:49:39.866243",
+      "api_name": "[碑帖] 单字检索",
+      "url": "https://data1.library.sh.cn/webapi/beitie/danzi/search?key=eca15f528602adb9480d04f286183d133f03f860",
+      "status_code": null,
+      "error_message": "HTTPSConnectionPool(host='data1.library.sh.cn', port=443): Read timed out. (read timeout=30)",
+      "response_body": "N/A"
+    },
+    {
+      "timestamp": "2025-07-16T09:49:41.154192",
+      "api_name": "[碑帖] 背景知识列表",
+      "url": "https://data1.library.sh.cn/webapi/beitie/beitie/background",
+      "status_code": 404,
+      "error_message": "响应不是有效的JSON",
+      "response_body": ""
+    },
+    {
+      "timestamp": "2025-07-16T09:50:12.342331",
+      "api_name": "[碑帖] 名家列表",
+      "url": "https://data1.library.sh.cn/webapi/beitie/person/search",
+      "status_code": null,
+      "error_message": "HTTPSConnectionPool(host='data1.library.sh.cn', port=443): Read timed out. (read timeout=30)",
+      "response_body": "N/A"
+    },
+    {
+      "timestamp": "2025-07-16T09:50:43.536171",
+      "api_name": "[碑帖] 名家详情",
+      "url": "https://data1.library.sh.cn/webapi/beitie/person/info",
+      "status_code": null,
+      "error_message": "HTTPSConnectionPool(host='data1.library.sh.cn', port=443): Read timed out. (read timeout=30)",
+      "response_body": "N/A"
+    },
+    {
+      "timestamp": "2025-07-16T09:51:14.714891",
+      "api_name": "[碑帖] 名家主要作品列表",
+      "url": "https://data1.library.sh.cn/webapi/beitie/person/work",
+      "status_code": null,
+      "error_message": "HTTPSConnectionPool(host='data1.library.sh.cn', port=443): Read timed out. (read timeout=30)",
+      "response_body": "N/A"
+    },
+    {
+      "timestamp": "2025-07-16T09:51:21.501349",
+      "api_name": "[舆图] 舆图目录列表",
+      "url": "https://data1.library.sh.cn/webapi/yutu/list",
+      "status_code": 404,
+      "error_message": "响应不是有效的JSON",
+      "response_body": ""
+    },
+    {
+      "timestamp": "2025-07-16T09:51:22.726689",
+      "api_name": "[舆图] 舆图目录详情",
+      "url": "https://data1.library.sh.cn/webapi/yutu/detail",
+      "status_code": 404,
+      "error_message": "响应不是有效的JSON",
+      "response_body": ""
+    },
+    {
+      "timestamp": "2025-07-16T09:53:03.001052",
+      "api_name": "[电影] 影人详情",
+      "url": "https://data1.library.sh.cn/shnh/dydata/webapi/person/personDetailAll",
+      "status_code": null,
+      "error_message": "HTTPSConnectionPool(host='data1.library.sh.cn', port=443): Read timed out. (read timeout=30)",
+      "response_body": "N/A"
+    },
+    {
+      "timestamp": "2025-07-16T11:31:12.129473",
+      "api_name": "[碑帖] 背景知识列表",
+      "url": "https://data1.library.sh.cn/webapi/beitie/beitie/background",
+      "status_code": 404,
+      "error_message": "响应不是有效的JSON",
+      "response_body": ""
+    },
+    {
+      "timestamp": "2025-07-16T11:31:31.339117",
+      "api_name": "[舆图] 舆图目录列表",
+      "url": "https://data1.library.sh.cn/webapi/yutu/list",
+      "status_code": 404,
+      "error_message": "响应不是有效的JSON",
+      "response_body": ""
+    },
+    {
+      "timestamp": "2025-07-16T11:31:33.564010",
+      "api_name": "[舆图] 舆图目录详情",
+      "url": "https://data1.library.sh.cn/webapi/yutu/detail",
+      "status_code": 404,
+      "error_message": "响应不是有效的JSON",
+      "response_body": ""
+    }
+  ]
+}

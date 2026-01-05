@@ -1,0 +1,5 @@
+{
+  "result": "error",
+  "msg": "Request method 'POST' not supported",
+  "detailMsg": "Request method 'POST' not supported"
+}

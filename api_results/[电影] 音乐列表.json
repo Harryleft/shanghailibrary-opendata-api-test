@@ -1,0 +1,27 @@
+{
+  "result": "0",
+  "data": [
+    {
+      "autioFormat": "mp3",
+      "movie": "http://data.library.sh.cn/dy/resource/movie/wur4ctorootueu6y",
+      "audio": "http://data.library.sh.cn/dy/resource/audio/4puuub2o8hhy66a2",
+      "title": "《塞上风云》插曲",
+      "uri": "http://data.library.sh.cn/dy/resource/music/gdyr538dl6lfcck0",
+      "movieName": "塞上风云",
+      "audioPath": "https://img.library.sh.cn/dy/audio/4puuub2o8hhy66a2/audio.m3u8"
+    }
+  ],
+  "pager": {
+    "iflimit": "",
+    "startIndex": 0,
+    "pageSize": 10,
+    "sort": "insertTime",
+    "dir": "desc",
+    "pageth": 1,
+    "pageths": [
+      1
+    ],
+    "pageCount": 1,
+    "rowCount": 1
+  }
+}

@@ -1,0 +1,27 @@
+{
+  "@id": "http://data.library.sh.cn/authority/familyname/9i5ukkrs9ebh6qmz",
+  "@type": "http://www.library.sh.cn/ontology/FamilyName",
+  "label": [
+    {
+      "@language": "en",
+      "@value": "chen"
+    },
+    {
+      "@language": "chs",
+      "@value": "陈"
+    },
+    {
+      "@language": "cht",
+      "@value": "陳"
+    },
+    {
+      "@language": "chwg",
+      "@value": "ch'en"
+    }
+  ],
+  "description": "见于《世本》。西汉《急就章》列为汉代常见姓氏之一。春秋时陈国有陈亢，为孔门弟子。春秋时齐国有陈乞，事景公为大夫。又战国时楚国有陈学良，学者。汉代有陈平，阳武人，开国元勋。陈氏为中国古今最常见的六大姓氏（王李张刘陈赵）之一。《中国人名大辞典》收有陈氏1012例。宋《百家姓》列为第010姓。",
+  "@context": {
+    "label": "http://bibframe.org/vocab/label",
+    "description": "http://www.library.sh.cn/ontology/description"
+  }
+}

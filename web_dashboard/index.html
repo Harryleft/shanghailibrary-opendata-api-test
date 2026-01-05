@@ -1,0 +1,617 @@
+<!DOCTYPE html>
+<html lang="zh-CN">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>上海图书馆开放数据API监控仪表板</title>
+    <style>
+        * {
+            margin: 0;
+            padding: 0;
+            box-sizing: border-box;
+        }
+
+        body {
+            font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+            background: linear-gradient(135deg, #667eea 0%, #764ba2 100%);
+            min-height: 100vh;
+            padding: 20px;
+        }
+
+        .container {
+            max-width: 1400px;
+            margin: 0 auto;
+        }
+
+        .header {
+            background: white;
+            border-radius: 12px;
+            padding: 30px;
+            margin-bottom: 20px;
+            box-shadow: 0 10px 40px rgba(0, 0, 0, 0.2);
+        }
+
+        .header h1 {
+            color: #333;
+            font-size: 28px;
+            margin-bottom: 10px;
+            display: flex;
+            align-items: center;
+            gap: 12px;
+        }
+
+        .header h1::before {
+            content: "📊";
+        }
+
+        .header p {
+            color: #666;
+            font-size: 14px;
+        }
+
+        .stats-grid {
+            display: grid;
+            grid-template-columns: repeat(auto-fit, minmax(250px, 1fr));
+            gap: 20px;
+            margin-bottom: 20px;
+        }
+
+        .stat-card {
+            background: white;
+            border-radius: 12px;
+            padding: 25px;
+            box-shadow: 0 4px 20px rgba(0, 0, 0, 0.1);
+            transition: transform 0.3s, box-shadow 0.3s;
+        }
+
+        .stat-card:hover {
+            transform: translateY(-5px);
+            box-shadow: 0 8px 30px rgba(0, 0, 0, 0.15);
+        }
+
+        .stat-label {
+            color: #888;
+            font-size: 13px;
+            text-transform: uppercase;
+            letter-spacing: 1px;
+            margin-bottom: 8px;
+        }
+
+        .stat-value {
+            color: #333;
+            font-size: 36px;
+            font-weight: bold;
+            margin-bottom: 5px;
+        }
+
+        .stat-subtitle {
+            color: #666;
+            font-size: 13px;
+        }
+
+        .success { color: #10b981; }
+        .warning { color: #f59e0b; }
+        .error { color: #ef4444; }
+        .info { color: #3b82f6; }
+
+        .controls {
+            background: white;
+            border-radius: 12px;
+            padding: 20px;
+            margin-bottom: 20px;
+            box-shadow: 0 4px 20px rgba(0, 0, 0, 0.1);
+            display: flex;
+            gap: 15px;
+            flex-wrap: wrap;
+            align-items: center;
+        }
+
+        .search-box {
+            flex: 1;
+            min-width: 250px;
+        }
+
+        .search-box input {
+            width: 100%;
+            padding: 12px 20px;
+            border: 2px solid #e5e7eb;
+            border-radius: 8px;
+            font-size: 14px;
+            transition: border-color 0.3s;
+        }
+
+        .search-box input:focus {
+            outline: none;
+            border-color: #667eea;
+        }
+
+        .filter-select {
+            padding: 12px 20px;
+            border: 2px solid #e5e7eb;
+            border-radius: 8px;
+            font-size: 14px;
+            background: white;
+            cursor: pointer;
+            min-width: 150px;
+        }
+
+        .filter-select:focus {
+            outline: none;
+            border-color: #667eea;
+        }
+
+        .main-content {
+            display: grid;
+            grid-template-columns: 300px 1fr;
+            gap: 20px;
+        }
+
+        .sidebar {
+            background: white;
+            border-radius: 12px;
+            padding: 20px;
+            box-shadow: 0 4px 20px rgba(0, 0, 0, 0.1);
+            max-height: calc(100vh - 300px);
+            overflow-y: auto;
+        }
+
+        .sidebar h3 {
+            color: #333;
+            font-size: 16px;
+            margin-bottom: 15px;
+            padding-bottom: 10px;
+            border-bottom: 2px solid #f3f4f6;
+        }
+
+        .category-list {
+            list-style: none;
+        }
+
+        .category-item {
+            padding: 12px 15px;
+            margin-bottom: 5px;
+            border-radius: 8px;
+            cursor: pointer;
+            transition: background 0.3s;
+            display: flex;
+            justify-content: space-between;
+            align-items: center;
+        }
+
+        .category-item:hover {
+            background: #f9fafb;
+        }
+
+        .category-item.active {
+            background: #eef2ff;
+            color: #667eea;
+            font-weight: 600;
+        }
+
+        .category-count {
+            background: #667eea;
+            color: white;
+            padding: 2px 10px;
+            border-radius: 12px;
+            font-size: 12px;
+        }
+
+        .api-list {
+            background: white;
+            border-radius: 12px;
+            padding: 20px;
+            box-shadow: 0 4px 20px rgba(0, 0, 0, 0.1);
+        }
+
+        .api-item {
+            padding: 15px;
+            margin-bottom: 10px;
+            border: 1px solid #e5e7eb;
+            border-radius: 8px;
+            transition: all 0.3s;
+            cursor: pointer;
+        }
+
+        .api-item:hover {
+            border-color: #667eea;
+            background: #f9fafb;
+        }
+
+        .api-header {
+            display: flex;
+            justify-content: space-between;
+            align-items: center;
+            margin-bottom: 8px;
+        }
+
+        .api-name {
+            font-weight: 600;
+            color: #333;
+            font-size: 15px;
+        }
+
+        .api-status {
+            padding: 4px 12px;
+            border-radius: 12px;
+            font-size: 12px;
+            font-weight: 600;
+        }
+
+        .status-success {
+            background: #d1fae5;
+            color: #059669;
+        }
+
+        .status-error {
+            background: #fee2e2;
+            color: #dc2626;
+        }
+
+        .api-meta {
+            display: flex;
+            gap: 20px;
+            color: #666;
+            font-size: 13px;
+        }
+
+        .api-category {
+            color: #667eea;
+            font-weight: 500;
+        }
+
+        .empty-state {
+            text-align: center;
+            padding: 60px 20px;
+            color: #999;
+        }
+
+        .empty-state::before {
+            content: "🔍";
+            display: block;
+            font-size: 48px;
+            margin-bottom: 15px;
+        }
+
+        .detail-modal {
+            display: none;
+            position: fixed;
+            top: 0;
+            left: 0;
+            right: 0;
+            bottom: 0;
+            background: rgba(0, 0, 0, 0.5);
+            z-index: 1000;
+            align-items: center;
+            justify-content: center;
+        }
+
+        .detail-modal.active {
+            display: flex;
+        }
+
+        .modal-content {
+            background: white;
+            border-radius: 12px;
+            max-width: 800px;
+            max-height: 80vh;
+            overflow-y: auto;
+            padding: 30px;
+            position: relative;
+        }
+
+        .modal-close {
+            position: absolute;
+            top: 15px;
+            right: 15px;
+            background: none;
+            border: none;
+            font-size: 24px;
+            cursor: pointer;
+            color: #999;
+            width: 40px;
+            height: 40px;
+            border-radius: 50%;
+            transition: background 0.3s;
+        }
+
+        .modal-close:hover {
+            background: #f3f4f6;
+        }
+
+        .modal-title {
+            font-size: 22px;
+            color: #333;
+            margin-bottom: 20px;
+            padding-right: 40px;
+        }
+
+        .modal-section {
+            margin-bottom: 20px;
+        }
+
+        .modal-section h4 {
+            color: #666;
+            font-size: 14px;
+            margin-bottom: 10px;
+            text-transform: uppercase;
+            letter-spacing: 1px;
+        }
+
+        .json-preview {
+            background: #1e293b;
+            color: #e2e8f0;
+            padding: 20px;
+            border-radius: 8px;
+            font-family: 'Courier New', monospace;
+            font-size: 13px;
+            max-height: 400px;
+            overflow-y: auto;
+            white-space: pre-wrap;
+            word-break: break-all;
+        }
+
+        .refresh-btn {
+            background: #667eea;
+            color: white;
+            border: none;
+            padding: 12px 24px;
+            border-radius: 8px;
+            font-size: 14px;
+            font-weight: 600;
+            cursor: pointer;
+            transition: background 0.3s;
+        }
+
+        .refresh-btn:hover {
+            background: #5568d3;
+        }
+
+        @media (max-width: 900px) {
+            .main-content {
+                grid-template-columns: 1fr;
+            }
+
+            .sidebar {
+                max-height: 300px;
+            }
+        }
+
+        ::-webkit-scrollbar {
+            width: 8px;
+        }
+
+        ::-webkit-scrollbar-track {
+            background: #f1f1f1;
+            border-radius: 4px;
+        }
+
+        ::-webkit-scrollbar-thumb {
+            background: #c1c1c1;
+            border-radius: 4px;
+        }
+
+        ::-webkit-scrollbar-thumb:hover {
+            background: #a1a1a1;
+        }
+    </style>
+</head>
+<body>
+    <div class="container">
+        <div class="header">
+            <h1>上海图书馆开放数据API监控仪表板</h1>
+            <p>实时监控API状态、响应数据和使用统计</p>
+        </div>
+
+        <div class="stats-grid">
+            <div class="stat-card">
+                <div class="stat-label">总API数量</div>
+                <div class="stat-value" id="totalApis">0</div>
+                <div class="stat-subtitle">已定义接口</div>
+            </div>
+            <div class="stat-card">
+                <div class="stat-label">成功响应</div>
+                <div class="stat-value success" id="successCount">0</div>
+                <div class="stat-subtitle" id="successRate">0% 成功率</div>
+            </div>
+            <div class="stat-card">
+                <div class="stat-label">API分类</div>
+                <div class="stat-value info" id="categoryCount">0</div>
+                <div class="stat-subtitle">数据类别</div>
+            </div>
+            <div class="stat-card">
+                <div class="stat-label">数据总量</div>
+                <div class="stat-value warning" id="totalSize">0 MB</div>
+                <div class="stat-subtitle" id="fileCount">0 个文件</div>
+            </div>
+        </div>
+
+        <div class="controls">
+            <div class="search-box">
+                <input type="text" id="searchInput" placeholder="搜索API名称...">
+            </div>
+            <select class="filter-select" id="statusFilter">
+                <option value="all">全部状态</option>
+                <option value="success">仅成功</option>
+                <option value="error">仅失败</option>
+            </select>
+            <select class="filter-select" id="categoryFilter">
+                <option value="all">全部分类</option>
+            </select>
+            <button class="refresh-btn" onclick="loadData()">刷新数据</button>
+        </div>
+
+        <div class="main-content">
+            <div class="sidebar">
+                <h3>分类目录</h3>
+                <ul class="category-list" id="categoryList"></ul>
+            </div>
+            <div class="api-list">
+                <div id="apiList"></div>
+            </div>
+        </div>
+    </div>
+
+    <div class="detail-modal" id="detailModal">
+        <div class="modal-content">
+            <button class="modal-close" onclick="closeModal()">&times;</button>
+            <h2 class="modal-title" id="modalTitle">API详情</h2>
+            <div class="modal-section">
+                <h4>基本信息</h4>
+                <div id="modalInfo"></div>
+            </div>
+            <div class="modal-section">
+                <h4>响应数据预览</h4>
+                <div class="json-preview" id="modalJson"></div>
+            </div>
+        </div>
+    </div>
+
+    <script>
+        let apiData = { stats: null, apis: [], categories: {} };
+        let currentFilter = { search: '', status: 'all', category: 'all' };
+
+        async function loadData() {
+            try {
+                const response = await fetch('./data/stats.json');
+                apiData = await response.json();
+                renderDashboard();
+            } catch (error) {
+                console.error('加载数据失败:', error);
+                document.getElementById('apiList').innerHTML =
+                    '<div class="empty-state">数据加载失败，请确保已运行API测试并生成统计数据</div>';
+            }
+        }
+
+        function renderDashboard() {
+            renderStats();
+            renderCategories();
+            renderApis();
+        }
+
+        function renderStats() {
+            const stats = apiData.stats;
+            document.getElementById('totalApis').textContent = stats.totalApis || 0;
+            document.getElementById('successCount').textContent = stats.successCount || 0;
+            document.getElementById('successRate').textContent = `${stats.successRate || 0}% 成功率`;
+            document.getElementById('categoryCount').textContent = stats.categoryCount || 0;
+            document.getElementById('totalSize').textContent = stats.totalSize || '0 MB';
+            document.getElementById('fileCount').textContent = `${stats.fileCount || 0} 个文件`;
+        }
+
+        function renderCategories() {
+            const categoryList = document.getElementById('categoryList');
+            const categoryFilter = document.getElementById('categoryFilter');
+
+            categoryList.innerHTML = '';
+            categoryFilter.innerHTML = '<option value="all">全部分类</option>';
+
+            Object.entries(apiData.categories).forEach(([name, data]) => {
+                const li = document.createElement('li');
+                li.className = 'category-item';
+                li.innerHTML = `
+                    <span>${name}</span>
+                    <span class="category-count">${data.count}</span>
+                `;
+                li.onclick = () => filterByCategory(name);
+                categoryList.appendChild(li);
+
+                const option = document.createElement('option');
+                option.value = name;
+                option.textContent = `${name} (${data.count})`;
+                categoryFilter.appendChild(option);
+            });
+        }
+
+        function renderApis() {
+            const apiList = document.getElementById('apiList');
+            let filteredApis = [...apiData.apis];
+
+            if (currentFilter.search) {
+                filteredApis = filteredApis.filter(api =>
+                    api.name.toLowerCase().includes(currentFilter.search.toLowerCase())
+                );
+            }
+
+            if (currentFilter.status !== 'all') {
+                filteredApis = filteredApis.filter(api =>
+                    currentFilter.status === 'success' ? api.status === 'success' : api.status === 'error'
+                );
+            }
+
+            if (currentFilter.category !== 'all') {
+                filteredApis = filteredApis.filter(api => api.category === currentFilter.category);
+            }
+
+            if (filteredApis.length === 0) {
+                apiList.innerHTML = '<div class="empty-state">未找到匹配的API</div>';
+                return;
+            }
+
+            apiList.innerHTML = filteredApis.map(api => `
+                <div class="api-item" onclick='showDetail(${JSON.stringify(api).replace(/'/g, "\\'")})'>
+                    <div class="api-header">
+                        <span class="api-name">${api.name}</span>
+                        <span class="api-status status-${api.status}">
+                            ${api.status === 'success' ? '✓ 成功' : '✗ 失败'}
+                        </span>
+                    </div>
+                    <div class="api-meta">
+                        <span class="api-category">[${api.category}]</span>
+                        <span>大小: ${api.size || 'N/A'}</span>
+                        ${api.url ? `<span>文件: ${api.url.split('/').pop()}</span>` : ''}
+                    </div>
+                </div>
+            `).join('');
+        }
+
+        function filterByCategory(category) {
+            currentFilter.category = currentFilter.category === category ? 'all' : category;
+            document.getElementById('categoryFilter').value = currentFilter.category;
+
+            document.querySelectorAll('.category-item').forEach(item => {
+                item.classList.remove('active');
+            });
+            event.currentTarget.classList.toggle('active');
+
+            renderApis();
+        }
+
+        function showDetail(api) {
+            document.getElementById('modalTitle').textContent = api.name;
+            document.getElementById('modalInfo').innerHTML = `
+                <p><strong>状态:</strong> ${api.status === 'success' ? '✓ 成功' : '✗ 失败'}</p>
+                <p><strong>分类:</strong> ${api.category}</p>
+                <p><strong>大小:</strong> ${api.size || 'N/A'}</p>
+                <p><strong>文件路径:</strong> ${api.url || 'N/A'}</p>
+            `;
+            document.getElementById('modalJson').textContent = api.preview || '无数据预览';
+            document.getElementById('detailModal').classList.add('active');
+        }
+
+        function closeModal() {
+            document.getElementById('detailModal').classList.remove('active');
+        }
+
+        document.getElementById('searchInput').addEventListener('input', (e) => {
+            currentFilter.search = e.target.value;
+            renderApis();
+        });
+
+        document.getElementById('statusFilter').addEventListener('change', (e) => {
+            currentFilter.status = e.target.value;
+            renderApis();
+        });
+
+        document.getElementById('categoryFilter').addEventListener('change', (e) => {
+            currentFilter.category = e.target.value;
+            renderApis();
+        });
+
+        document.getElementById('detailModal').addEventListener('click', (e) => {
+            if (e.target.id === 'detailModal') closeModal();
+        });
+
+        loadData();
+    </script>
+</body>
+</html>

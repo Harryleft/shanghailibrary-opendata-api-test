@@ -1,0 +1,25 @@
+{
+  "result": "0",
+  "data": [
+    {
+      "label": "經",
+      "uri": "http://data.library.sh.cn/gj/classification/7h1xmsw66x73y3e7"
+    },
+    {
+      "label": "史",
+      "uri": "http://data.library.sh.cn/gj/classification/mo2ofdjmiqx0c4ki"
+    },
+    {
+      "label": "子",
+      "uri": "http://data.library.sh.cn/gj/classification/kkmxnxdzjzp3a4br"
+    },
+    {
+      "label": "集",
+      "uri": "http://data.library.sh.cn/gj/classification/5qb6iqhiqpo33w80"
+    },
+    {
+      "label": "叢",
+      "uri": "http://data.library.sh.cn/gj/classification/jjn6m5g8e2jixmyf"
+    }
+  ]
+}

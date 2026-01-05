@@ -1,0 +1,56 @@
+{
+  "result": "0",
+  "contributions": [
+    {
+      "role": "译",
+      "name": "莫师古",
+      "uri": "http://data.library.sh.cn/entity/person/dycsneaan8z5bgw6"
+    },
+    {
+      "role": "著",
+      "name": "列宁",
+      "uri": "http://data.library.sh.cn/entity/person/xvus6rr743c1fqmu"
+    }
+  ],
+  "works": [
+    {
+      "creator": "(苏)列宁著",
+      "title": "二月革命至十月革命",
+      "uri": "http://data.library.sh.cn/gmwx/resource/work/dnt4wc0susvfn0ua"
+    }
+  ],
+  "uri": "http://data.library.sh.cn/gmwx/resource/instance/00y5u3c6f033nwlm",
+  "items": [
+    {
+      "uri": "http://data.library.sh.cn/gmwx/resource/item/e4403wcuq8teenzo",
+      "shelf": "GMWX1020401",
+      "org": "http://data.library.sh.cn/entity/organization/brvqlrg8y55v1b5q",
+      "identifier": "GMWX1020401"
+    },
+    {
+      "uri": "http://data.library.sh.cn/gmwx/resource/item/u1367tt1cg7rt1my",
+      "shelf": "GMWX1028120",
+      "org": "http://data.library.sh.cn/entity/organization/brvqlrg8y55v1b5q",
+      "identifier": ""
+    }
+  ],
+  "infos": {
+    "uri": "http://data.library.sh.cn/gmwx/resource/instance/00y5u3c6f033nwlm",
+    "title": "二月革命至十月革命",
+    "dimension": "19×13cm",
+    "extent": "390页",
+    "year": "1939",
+    "edition": "再版",
+    "terms": "柒角伍分",
+    "hor": "",
+    "agent": "",
+    "publisher": "",
+    "placeUri": "nodeID://b100227",
+    "series": "",
+    "ilabel": "mlugxjox2spjw3kn.jpg",
+    "place": "",
+    "ids": "",
+    "shelfs": "GMWX1020401",
+    "notes": "民国二十七年一月初版[版本与书目沿革附注]"
+  }
+}

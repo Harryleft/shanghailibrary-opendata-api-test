@@ -1,0 +1,17 @@
+{
+  "result": "0",
+  "data": [
+    {
+      "place": "http://data.library.sh.cn/entity/place/fdbrvzbeowbv1urw",
+      "label": "長沙",
+      "long": "112.93",
+      "lat": "28.23"
+    },
+    {
+      "place": "http://data.library.sh.cn/entity/place/v7flhdqk4egjt3hv",
+      "label": "重慶",
+      "long": "106.55",
+      "lat": "29.57"
+    }
+  ]
+}

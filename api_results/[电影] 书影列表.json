@@ -1,0 +1,70 @@
+{
+  "result": "0",
+  "data": [
+    {
+      "date": "1925-05-01",
+      "image": "http://data.library.sh.cn/dy/resource/image/4xqmfu4gqr4dbp50",
+      "imageFormat": "jpg",
+      "creator": "",
+      "mag": "http://data.library.sh.cn/dy/resource/magazine/zwnicl6ivcytlv5r",
+      "magName": "明星特刊",
+      "description": "最后之良心号",
+      "source": "《明星特刊》（1）",
+      "type": "封面",
+      "uri": "http://data.library.sh.cn/dy/resource/picture/wz8ilpzmt7w8qvi8",
+      "imagePath": "https://img.library.sh.cn/dy/img/4xqmfu4gqr4dbp50.jpg"
+    },
+    {
+      "date": "1926-12-28",
+      "image": "http://data.library.sh.cn/dy/resource/image/jhueks4b2ro1lo80",
+      "imageFormat": "jpg",
+      "creator": "",
+      "mag": "http://data.library.sh.cn/dy/resource/magazine/zwnicl6ivcytlv5r",
+      "magName": "明星特刊",
+      "description": "爱情与黄金号",
+      "source": "《明星特刊》（19）",
+      "type": "封面",
+      "uri": "http://data.library.sh.cn/dy/resource/picture/cadr7re4do74hf4t",
+      "imagePath": "https://img.library.sh.cn/dy/img/jhueks4b2ro1lo80.jpg"
+    },
+    {
+      "date": "1926-12-28",
+      "image": "http://data.library.sh.cn/dy/resource/image/jlcxptg7wak5v6pd",
+      "imageFormat": "jpg",
+      "creator": "",
+      "mag": "http://data.library.sh.cn/dy/resource/magazine/zwnicl6ivcytlv5r",
+      "magName": "明星特刊",
+      "description": "",
+      "source": "《明星特刊》（19）",
+      "type": "内页",
+      "uri": "http://data.library.sh.cn/dy/resource/picture/w5ujn65p0gwfjfqp",
+      "imagePath": "https://img.library.sh.cn/dy/img/jlcxptg7wak5v6pd.jpg"
+    },
+    {
+      "date": "1925-05-01",
+      "image": "http://data.library.sh.cn/dy/resource/image/g0w38joaejhy5o3b",
+      "imageFormat": "jpg",
+      "creator": "",
+      "mag": "http://data.library.sh.cn/dy/resource/magazine/zwnicl6ivcytlv5r",
+      "magName": "明星特刊",
+      "description": "",
+      "source": "《明星特刊》（1）",
+      "type": "内页",
+      "uri": "http://data.library.sh.cn/dy/resource/picture/phqpbyjprab0ik0g",
+      "imagePath": "https://img.library.sh.cn/dy/img/g0w38joaejhy5o3b.jpg"
+    }
+  ],
+  "pager": {
+    "iflimit": "",
+    "startIndex": 0,
+    "pageSize": 10,
+    "sort": "insertTime",
+    "dir": "desc",
+    "pageth": 1,
+    "pageths": [
+      1
+    ],
+    "pageCount": 1,
+    "rowCount": 4
+  }
+}

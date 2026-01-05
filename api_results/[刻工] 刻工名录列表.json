@@ -1,0 +1,251 @@
+{
+  "success": true,
+  "data": {
+    "result": [
+      {
+        "chsAgent": "陈立",
+        "uri": "http://data.library.sh.cn/entity/person/g4xa61t2lo06f7jo",
+        "roles": [
+          "刻工"
+        ],
+        "annoList": [
+          {
+            "chsTitle": "陈书三十六卷",
+            "identifier": "147",
+            "role": "刻工",
+            "contributor": "姚思廉(撰)",
+            "huagong": "",
+            "classification": "唐五代及宋元刻本",
+            "kegong": "王玩,朱言,王廷,陈立,张禹",
+            "xiegong": "",
+            "uri": "http://data.library.sh.cn/gj/resource/annotation/fswrenk8l582clfq",
+            "hasBody": "陈书三十六卷，唐姚思廉撰，宋刊宋元递修本。刻工：王廷、王玩、朱言、张禹、陈立。"
+          }
+        ]
+      },
+      {
+        "chsAgent": "北陈",
+        "uri": "http://data.library.sh.cn/entity/person/5vgyw76ib4z43izo",
+        "roles": [
+          "刻工"
+        ],
+        "annoList": [
+          {
+            "chsTitle": "陈书三十六卷",
+            "identifier": "149",
+            "role": "刻工",
+            "contributor": "姚思廉(撰)",
+            "huagong": "",
+            "classification": "唐五代及宋元刻本",
+            "kegong": "关宗,沈茂,王全,何庆,滕庆,郑春,陈文玉,项仁,叶禾,王圭,陶春,孙赋,葛幸,童遇,徐浚,胡昶,杨十三,周鼎,芦升三,詹德润,丁松年,北陈,胡庆,陈仁举,杨采,毛文,单侣,金祖,王化龙,熊道琼,楚庆一,何建,毛端",
+            "xiegong": "",
+            "uri": "http://data.library.sh.cn/gj/resource/annotation/kmpwn7avv7krv1wt",
+            "hasBody": "陈书三十六卷，唐姚思廉撰，宋刊本，南宋补刻部分。补刻刻工：丁松年、毛文（或为元人）、王全（或为元人同姓名）、毛端、王圭、何建、何庆、沈茂、胡昶、王化龙，以上或为元人。北陈、关宗、周明、周鼎、金祖、胡庆、孙赋、徐浚、陈仁举、陈文玉、陶春、单侣、童遇、项仁、杨十三、杨采、楚庆一、叶禾、葛幸、詹德润、熊道琼、滕庆、郑春、芦升三。浙中名刻工。"
+          }
+        ]
+      },
+      {
+        "chsAgent": "陈文玉",
+        "uri": "http://data.library.sh.cn/entity/person/5x65mh48fhap6mqd",
+        "roles": [
+          "刻工"
+        ],
+        "annoList": [
+          {
+            "chsTitle": "陈书三十六卷",
+            "identifier": "149",
+            "role": "刻工",
+            "contributor": "姚思廉(撰)",
+            "huagong": "",
+            "classification": "唐五代及宋元刻本",
+            "kegong": "关宗,沈茂,王全,何庆,滕庆,郑春,陈文玉,项仁,叶禾,王圭,陶春,孙赋,葛幸,童遇,徐浚,胡昶,杨十三,周鼎,芦升三,詹德润,丁松年,北陈,胡庆,陈仁举,杨采,毛文,单侣,金祖,王化龙,熊道琼,楚庆一,何建,毛端",
+            "xiegong": "",
+            "uri": "http://data.library.sh.cn/gj/resource/annotation/kmpwn7avv7krv1wt",
+            "hasBody": "陈书三十六卷，唐姚思廉撰，宋刊本，南宋补刻部分。补刻刻工：丁松年、毛文（或为元人）、王全（或为元人同姓名）、毛端、王圭、何建、何庆、沈茂、胡昶、王化龙，以上或为元人。北陈、关宗、周明、周鼎、金祖、胡庆、孙赋、徐浚、陈仁举、陈文玉、陶春、单侣、童遇、项仁、杨十三、杨采、楚庆一、叶禾、葛幸、詹德润、熊道琼、滕庆、郑春、芦升三。浙中名刻工。"
+          }
+        ]
+      },
+      {
+        "chsAgent": "陈仁举",
+        "uri": "http://data.library.sh.cn/entity/person/iqnutim0xp6pm2d1",
+        "roles": [
+          "刻工"
+        ],
+        "annoList": [
+          {
+            "chsTitle": "陈书三十六卷",
+            "identifier": "149",
+            "role": "刻工",
+            "contributor": "姚思廉(撰)",
+            "huagong": "",
+            "classification": "唐五代及宋元刻本",
+            "kegong": "关宗,沈茂,王全,何庆,滕庆,郑春,陈文玉,项仁,叶禾,王圭,陶春,孙赋,葛幸,童遇,徐浚,胡昶,杨十三,周鼎,芦升三,詹德润,丁松年,北陈,胡庆,陈仁举,杨采,毛文,单侣,金祖,王化龙,熊道琼,楚庆一,何建,毛端",
+            "xiegong": "",
+            "uri": "http://data.library.sh.cn/gj/resource/annotation/kmpwn7avv7krv1wt",
+            "hasBody": "陈书三十六卷，唐姚思廉撰，宋刊本，南宋补刻部分。补刻刻工：丁松年、毛文（或为元人）、王全（或为元人同姓名）、毛端、王圭、何建、何庆、沈茂、胡昶、王化龙，以上或为元人。北陈、关宗、周明、周鼎、金祖、胡庆、孙赋、徐浚、陈仁举、陈文玉、陶春、单侣、童遇、项仁、杨十三、杨采、楚庆一、叶禾、葛幸、詹德润、熊道琼、滕庆、郑春、芦升三。浙中名刻工。"
+          }
+        ]
+      },
+      {
+        "chsAgent": "陈仁",
+        "uri": "http://data.library.sh.cn/entity/person/tkhgqokb72uq5uo6",
+        "roles": [
+          "刻工"
+        ],
+        "annoList": [
+          {
+            "chsTitle": "陈书三十六卷",
+            "identifier": "150",
+            "role": "刻工",
+            "contributor": "姚思廉(撰)",
+            "huagong": "",
+            "classification": "唐五代及宋元刻本",
+            "kegong": "贾祚,徐高,王敷,杨昌,王桂,宋琚,沈祖,徐杞,刘文,王玩,王玫,金滋,刘昭,王政,施珍,刘志,张荣,方至,陈仁,陆春,李宪,沈仁本,王才,李思宗,李询,张亨,陆永,王恭,宋琳,宋芾,王椿,李正",
+            "xiegong": "",
+            "uri": "http://data.library.sh.cn/gj/resource/annotation/xwkpaw2mn3uk3ye5",
+            "hasBody": "陈书三十六卷，唐姚思廉撰，南宋刊补刊本。刻工：方至、王才、王玩、王玫、王政、王恭、王桂、王椿、王敷、何、升、宋芾、宋琚、宋琳、李正、李思宗、李宪、李询、沈仁本、沈祖、金滋、施珍、徐杞、徐高、张亨、张荣、陈仁、陶、陆永、陆春、杨昌、贾祚、刘文、刘志、刘昭。浙中名刻工。"
+          },
+          {
+            "chsTitle": "汉书一百卷",
+            "identifier": "175",
+            "role": "刻工",
+            "contributor": "班固(撰)",
+            "huagong": "",
+            "classification": "唐五代及宋元刻本",
+            "kegong": "王全,滕庆,李璹,陈允升,张三,张阿狗,俞荣,士中,陈仁,朱曾九,章文,胡庆,王荣,寿之,章文郁,蒋七,许文,陆永,蒋侍志,陈明,张珍,茅文龙,李庚,茅化龙,任韦,蒋蚕",
+            "xiegong": "",
+            "uri": "http://data.library.sh.cn/gj/resource/annotation/yykybc7hixacef6g",
+            "hasBody": "汉书一百卷，汉班固撰，宋蜀刊大字本，补刻部分。刻工：士中、寸、王全、王荣、占、本、任韦、尗、朱曾九、羊、李庚、李璹、俞荣、胡庆（一作元人）、茅化龙（一作元人）、茅文龙（一作元人）、许文、张三、张阿狗、张珍、章文、章文郁、陈仁、陈允升、陈明、陆永、彭、寿之、滕庆（一作元人）、蒋七、蒋侍志、蒋蚕，浙中地区刻工。"
+          }
+        ]
+      },
+      {
+        "chsAgent": "芦升三",
+        "uri": "http://data.library.sh.cn/entity/person/bs3htg5kispm4ys2",
+        "roles": [
+          "刻工"
+        ],
+        "annoList": [
+          {
+            "chsTitle": "陈书三十六卷",
+            "identifier": "149",
+            "role": "刻工",
+            "contributor": "姚思廉(撰)",
+            "huagong": "",
+            "classification": "唐五代及宋元刻本",
+            "kegong": "关宗,沈茂,王全,何庆,滕庆,郑春,陈文玉,项仁,叶禾,王圭,陶春,孙赋,葛幸,童遇,徐浚,胡昶,杨十三,周鼎,芦升三,詹德润,丁松年,北陈,胡庆,陈仁举,杨采,毛文,单侣,金祖,王化龙,熊道琼,楚庆一,何建,毛端",
+            "xiegong": "",
+            "uri": "http://data.library.sh.cn/gj/resource/annotation/kmpwn7avv7krv1wt",
+            "hasBody": "陈书三十六卷，唐姚思廉撰，宋刊本，南宋补刻部分。补刻刻工：丁松年、毛文（或为元人）、王全（或为元人同姓名）、毛端、王圭、何建、何庆、沈茂、胡昶、王化龙，以上或为元人。北陈、关宗、周明、周鼎、金祖、胡庆、孙赋、徐浚、陈仁举、陈文玉、陶春、单侣、童遇、项仁、杨十三、杨采、楚庆一、叶禾、葛幸、詹德润、熊道琼、滕庆、郑春、芦升三。浙中名刻工。"
+          }
+        ]
+      },
+      {
+        "chsAgent": "沈仁本",
+        "uri": "http://data.library.sh.cn/entity/person/wv44rw6g0ep0rnkq",
+        "roles": [
+          "刻工"
+        ],
+        "annoList": [
+          {
+            "chsTitle": "陈书三十六卷",
+            "identifier": "150",
+            "role": "刻工",
+            "contributor": "姚思廉(撰)",
+            "huagong": "",
+            "classification": "唐五代及宋元刻本",
+            "kegong": "贾祚,徐高,王敷,杨昌,王桂,宋琚,沈祖,徐杞,刘文,王玩,王玫,金滋,刘昭,王政,施珍,刘志,张荣,方至,陈仁,陆春,李宪,沈仁本,王才,李思宗,李询,张亨,陆永,王恭,宋琳,宋芾,王椿,李正",
+            "xiegong": "",
+            "uri": "http://data.library.sh.cn/gj/resource/annotation/xwkpaw2mn3uk3ye5",
+            "hasBody": "陈书三十六卷，唐姚思廉撰，南宋刊补刊本。刻工：方至、王才、王玩、王玫、王政、王恭、王桂、王椿、王敷、何、升、宋芾、宋琚、宋琳、李正、李思宗、李宪、李询、沈仁本、沈祖、金滋、施珍、徐杞、徐高、张亨、张荣、陈仁、陶、陆永、陆春、杨昌、贾祚、刘文、刘志、刘昭。浙中名刻工。"
+          }
+        ]
+      },
+      {
+        "chsAgent": "关宗",
+        "uri": "http://data.library.sh.cn/entity/person/zzeqgt62sdq64mgl",
+        "roles": [
+          "刻工"
+        ],
+        "annoList": [
+          {
+            "chsTitle": "陈书三十六卷",
+            "identifier": "149",
+            "role": "刻工",
+            "contributor": "姚思廉(撰)",
+            "huagong": "",
+            "classification": "唐五代及宋元刻本",
+            "kegong": "关宗,沈茂,王全,何庆,滕庆,郑春,陈文玉,项仁,叶禾,王圭,陶春,孙赋,葛幸,童遇,徐浚,胡昶,杨十三,周鼎,芦升三,詹德润,丁松年,北陈,胡庆,陈仁举,杨采,毛文,单侣,金祖,王化龙,熊道琼,楚庆一,何建,毛端",
+            "xiegong": "",
+            "uri": "http://data.library.sh.cn/gj/resource/annotation/kmpwn7avv7krv1wt",
+            "hasBody": "陈书三十六卷，唐姚思廉撰，宋刊本，南宋补刻部分。补刻刻工：丁松年、毛文（或为元人）、王全（或为元人同姓名）、毛端、王圭、何建、何庆、沈茂、胡昶、王化龙，以上或为元人。北陈、关宗、周明、周鼎、金祖、胡庆、孙赋、徐浚、陈仁举、陈文玉、陶春、单侣、童遇、项仁、杨十三、杨采、楚庆一、叶禾、葛幸、詹德润、熊道琼、滕庆、郑春、芦升三。浙中名刻工。"
+          }
+        ]
+      },
+      {
+        "chsAgent": "单侣",
+        "uri": "http://data.library.sh.cn/entity/person/t4nstffcydmau1bu",
+        "roles": [
+          "刻工"
+        ],
+        "annoList": [
+          {
+            "chsTitle": "陈书三十六卷",
+            "identifier": "149",
+            "role": "刻工",
+            "contributor": "姚思廉(撰)",
+            "huagong": "",
+            "classification": "唐五代及宋元刻本",
+            "kegong": "关宗,沈茂,王全,何庆,滕庆,郑春,陈文玉,项仁,叶禾,王圭,陶春,孙赋,葛幸,童遇,徐浚,胡昶,杨十三,周鼎,芦升三,詹德润,丁松年,北陈,胡庆,陈仁举,杨采,毛文,单侣,金祖,王化龙,熊道琼,楚庆一,何建,毛端",
+            "xiegong": "",
+            "uri": "http://data.library.sh.cn/gj/resource/annotation/kmpwn7avv7krv1wt",
+            "hasBody": "陈书三十六卷，唐姚思廉撰，宋刊本，南宋补刻部分。补刻刻工：丁松年、毛文（或为元人）、王全（或为元人同姓名）、毛端、王圭、何建、何庆、沈茂、胡昶、王化龙，以上或为元人。北陈、关宗、周明、周鼎、金祖、胡庆、孙赋、徐浚、陈仁举、陈文玉、陶春、单侣、童遇、项仁、杨十三、杨采、楚庆一、叶禾、葛幸、詹德润、熊道琼、滕庆、郑春、芦升三。浙中名刻工。"
+          }
+        ]
+      },
+      {
+        "chsAgent": "陆春",
+        "uri": "http://data.library.sh.cn/entity/person/ou0q3rpyp0hkzyxo",
+        "roles": [
+          "刻工"
+        ],
+        "annoList": [
+          {
+            "chsTitle": "陈书三十六卷",
+            "identifier": "150",
+            "role": "刻工",
+            "contributor": "姚思廉(撰)",
+            "huagong": "",
+            "classification": "唐五代及宋元刻本",
+            "kegong": "贾祚,徐高,王敷,杨昌,王桂,宋琚,沈祖,徐杞,刘文,王玩,王玫,金滋,刘昭,王政,施珍,刘志,张荣,方至,陈仁,陆春,李宪,沈仁本,王才,李思宗,李询,张亨,陆永,王恭,宋琳,宋芾,王椿,李正",
+            "xiegong": "",
+            "uri": "http://data.library.sh.cn/gj/resource/annotation/xwkpaw2mn3uk3ye5",
+            "hasBody": "陈书三十六卷，唐姚思廉撰，南宋刊补刊本。刻工：方至、王才、王玩、王玫、王政、王恭、王桂、王椿、王敷、何、升、宋芾、宋琚、宋琳、李正、李思宗、李宪、李询、沈仁本、沈祖、金滋、施珍、徐杞、徐高、张亨、张荣、陈仁、陶、陆永、陆春、杨昌、贾祚、刘文、刘志、刘昭。浙中名刻工。"
+          }
+        ]
+      }
+    ],
+    "pager": {
+      "startIndex": 0,
+      "pageSize": 10,
+      "sort": "",
+      "dir": "1",
+      "pageth": 1,
+      "pageths": [
+        1,
+        2,
+        3,
+        4,
+        5,
+        6,
+        32
+      ],
+      "pageCount": 32,
+      "rowCount": 316,
+      "took": 0
+    }
+  },
+  "errCode": null,
+  "errMsg": null,
+  "result": "0"
+}

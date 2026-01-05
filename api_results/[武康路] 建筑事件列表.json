@@ -1,0 +1,26 @@
+{
+  "result": "0",
+  "data": [
+    {
+      "startedAtTime": "",
+      "endedAtTime": "",
+      "description": "建于二十世纪二十年代晚期。",
+      "event": "nodeID://b18509688",
+      "uri": "http://data.library.sh.cn/entity/architecture/yyknd1unz1xonxp7"
+    },
+    {
+      "startedAtTime": "",
+      "endedAtTime": "",
+      "description": "现为多户居民合用。",
+      "event": "nodeID://b18509690",
+      "uri": "http://data.library.sh.cn/entity/architecture/yyknd1unz1xonxp7"
+    },
+    {
+      "startedAtTime": "1950",
+      "endedAtTime": "1952",
+      "description": "1950至1952年，抗日名将、原全国政协常委郑洞国曾居住于此。",
+      "event": "nodeID://b18509689",
+      "uri": "http://data.library.sh.cn/entity/architecture/yyknd1unz1xonxp7"
+    }
+  ]
+}

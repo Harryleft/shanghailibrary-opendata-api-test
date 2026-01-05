@@ -1,0 +1,60 @@
+{
+  "result": "0",
+  "data": [
+    {
+      "date": "1935",
+      "actor": [
+        "http://data.library.sh.cn/entity/person/1u3yvufnnggmhljm",
+        "http://data.library.sh.cn/entity/person/v0s3x8vhuh1lv22h"
+      ],
+      "contributor": [
+        "徐来（演员）",
+        "沈西苓（导演）",
+        "沈西苓（编剧）",
+        "高占非（演员）"
+      ],
+      "director": [
+        "http://data.library.sh.cn/entity/person/vnq8d7jemt4un26h"
+      ],
+      "name": "船家女",
+      "source": "上海年华",
+      "video": [
+        {
+          "videoPath": "https://img.library.sh.cn/dy/video/50iy34n8iqcuhu0v/movie.m3u8",
+          "contributor": "孙敏",
+          "person": "http://data.library.sh.cn/entity/person/1n1gmkaoq16evozh",
+          "format": "wmv",
+          "title": "孙敏在《船家女》中饰阔少（老孙）",
+          "type": "有声；黑白"
+        },
+        {
+          "videoPath": "https://img.library.sh.cn/dy/video/5xri1w1so8q0zjjd/movie.m3u8",
+          "contributor": "徐来",
+          "person": "http://data.library.sh.cn/entity/person/1u3yvufnnggmhljm",
+          "format": "wmv",
+          "title": "徐来在《船家女》中饰阿玲",
+          "type": "有声；黑白"
+        },
+        {
+          "videoPath": "https://img.library.sh.cn/dy/video/m70qcpjnlpzfp4yi/movie.m3u8",
+          "contributor": "高占非",
+          "person": "http://data.library.sh.cn/entity/person/v0s3x8vhuh1lv22h",
+          "format": "wmv",
+          "title": "高占非在《船家女》中饰铁儿",
+          "type": "有声；黑白"
+        }
+      ],
+      "screenWriter": [
+        "http://data.library.sh.cn/entity/person/vnq8d7jemt4un26h"
+      ],
+      "title": "船家女",
+      "type": "有声；黑白",
+      "uri": "http://data.library.sh.cn/dy/resource/movie/612x1xoyxtzxuvaf",
+      "distributor": [
+        {
+          "uri": "http://data.library.sh.cn/dy/resource/organization/vtgh0u0ifup76cvm"
+        }
+      ]
+    }
+  ]
+}

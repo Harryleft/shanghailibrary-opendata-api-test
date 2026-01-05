@@ -1,0 +1,184 @@
+{
+  "result": "0",
+  "data": [
+    {
+      "classUri": "http://data.library.sh.cn/gj/classification/xwoqbki1nqgydwmv",
+      "creator": [
+        {
+          "temporalValue": "晉",
+          "uri": "http://data.library.sh.cn/entity/person/1x7xg5qx64m4baqp",
+          "label": "陳壽"
+        }
+      ],
+      "fullClassName": "史部--紀傳類--類",
+      "temporalValue": "明萬曆",
+      "seals": "",
+      "edition": "刻本",
+      "dtitle": "San Guo Zhi Liu Shi Wu Juan",
+      "uri": "http://data.library.sh.cn/gj/resource/instance/0fwt5hcuoqudl7t3"
+    },
+    {
+      "classUri": "http://data.library.sh.cn/gj/classification/xwoqbki1nqgydwmv",
+      "creator": [
+        {
+          "temporalValue": "晉",
+          "uri": "http://data.library.sh.cn/entity/person/1x7xg5qx64m4baqp",
+          "label": "陳壽"
+        }
+      ],
+      "fullClassName": "史部--紀傳類--類",
+      "temporalValue": "宋",
+      "seals": "",
+      "edition": "刻本",
+      "dtitle": "三国志六十五卷",
+      "uri": "http://data.library.sh.cn/gj/resource/instance/3nurgvorwgzeo1qy"
+    },
+    {
+      "classUri": "http://data.library.sh.cn/gj/classification/xwoqbki1nqgydwmv",
+      "creator": [
+        {
+          "temporalValue": "晉",
+          "uri": "http://data.library.sh.cn/entity/person/1x7xg5qx64m4baqp",
+          "label": "陳壽"
+        }
+      ],
+      "fullClassName": "史部--紀傳類--類",
+      "temporalValue": "明崇禎17年",
+      "seals": "",
+      "edition": "刻本",
+      "dtitle": "三國志六十五卷",
+      "uri": "http://data.library.sh.cn/gj/resource/instance/3pbb0sq0uanrnuwc"
+    },
+    {
+      "classUri": "http://data.library.sh.cn/gj/classification/xwoqbki1nqgydwmv",
+      "creator": [
+        {
+          "temporalValue": "晉",
+          "uri": "http://data.library.sh.cn/entity/person/1x7xg5qx64m4baqp",
+          "label": "陳壽"
+        }
+      ],
+      "fullClassName": "史部--紀傳類--類",
+      "temporalValue": "明萬曆24年",
+      "seals": "",
+      "edition": "刻本",
+      "dtitle": "三國志六十五卷",
+      "uri": "http://data.library.sh.cn/gj/resource/instance/3z6r0th4hyjh680z"
+    },
+    {
+      "classUri": "http://data.library.sh.cn/gj/classification/xwoqbki1nqgydwmv",
+      "creator": [
+        {
+          "temporalValue": "晉",
+          "uri": "http://data.library.sh.cn/entity/person/1x7xg5qx64m4baqp",
+          "label": "陳壽"
+        }
+      ],
+      "fullClassName": "史部--紀傳類--類",
+      "temporalValue": "明萬曆24年",
+      "seals": "",
+      "edition": "刻本",
+      "dtitle": "三國志六十五卷",
+      "uri": "http://data.library.sh.cn/gj/resource/instance/4hh4gsdwfbhdwjxt"
+    },
+    {
+      "classUri": "http://data.library.sh.cn/gj/classification/xwoqbki1nqgydwmv",
+      "creator": [
+        {
+          "temporalValue": "晉",
+          "uri": "http://data.library.sh.cn/entity/person/1x7xg5qx64m4baqp",
+          "label": "陳壽"
+        }
+      ],
+      "fullClassName": "史部--紀傳類--類",
+      "temporalValue": "明末",
+      "seals": "",
+      "edition": "刻本",
+      "dtitle": "San Guo Zhi Liu Shi Wu Juan",
+      "uri": "http://data.library.sh.cn/gj/resource/instance/57zb8d78q7lsude3"
+    },
+    {
+      "classUri": "http://data.library.sh.cn/gj/classification/xwoqbki1nqgydwmv",
+      "creator": [
+        {
+          "temporalValue": "晉",
+          "uri": "http://data.library.sh.cn/entity/person/1x7xg5qx64m4baqp",
+          "label": "陳壽"
+        }
+      ],
+      "fullClassName": "史部--紀傳類--類",
+      "temporalValue": "元大德10年",
+      "seals": "",
+      "edition": "刻本",
+      "dtitle": "San Guo Zhi Liu Shi Wu Juan",
+      "uri": "http://data.library.sh.cn/gj/resource/instance/5nd2zthkobc77le1"
+    },
+    {
+      "classUri": "http://data.library.sh.cn/gj/classification/xwoqbki1nqgydwmv",
+      "creator": [
+        {
+          "temporalValue": "晉",
+          "uri": "http://data.library.sh.cn/entity/person/1x7xg5qx64m4baqp",
+          "label": "陳壽"
+        }
+      ],
+      "fullClassName": "史部--紀傳類--類",
+      "temporalValue": "清光緒28年",
+      "seals": "",
+      "edition": "石印本",
+      "dtitle": "三國志六十五卷",
+      "uri": "http://data.library.sh.cn/gj/resource/instance/5qcix2myh5xebezk"
+    },
+    {
+      "classUri": "http://data.library.sh.cn/gj/classification/xwoqbki1nqgydwmv",
+      "creator": [
+        {
+          "temporalValue": "晉",
+          "uri": "http://data.library.sh.cn/entity/person/1x7xg5qx64m4baqp",
+          "label": "陳壽"
+        }
+      ],
+      "fullClassName": "史部--紀傳類--類",
+      "temporalValue": "民國5年",
+      "seals": "",
+      "edition": "影印本",
+      "dtitle": "三國志六十五卷",
+      "uri": "http://data.library.sh.cn/gj/resource/instance/62r5dynuvr7vshmm"
+    },
+    {
+      "classUri": "http://data.library.sh.cn/gj/classification/xwoqbki1nqgydwmv",
+      "creator": [
+        {
+          "temporalValue": "晉",
+          "uri": "http://data.library.sh.cn/entity/person/1x7xg5qx64m4baqp",
+          "label": "陳壽"
+        }
+      ],
+      "fullClassName": "史部--紀傳類--類",
+      "temporalValue": "明崇禎17年",
+      "seals": "",
+      "edition": "刻本",
+      "dtitle": "三國志六十五卷",
+      "uri": "http://data.library.sh.cn/gj/resource/instance/67j5r3w6ad4jau6s"
+    }
+  ],
+  "pager": {
+    "iflimit": "",
+    "pageCount": 10,
+    "startIndex": 0,
+    "pageth": 1,
+    "pageSize": 10,
+    "pageths": [
+      1,
+      2,
+      3,
+      4,
+      5,
+      6,
+      10
+    ],
+    "rowCount": 100,
+    "sort": "insertTime",
+    "dir": "desc"
+  }
+}

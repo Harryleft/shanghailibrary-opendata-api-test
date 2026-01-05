@@ -1,0 +1,19 @@
+{
+  "result": "0",
+  "data": [
+    {
+      "original": "http://data.library.sh.cn/gj/resource/item/rwjbvqg466bvs8pl",
+      "accessLevel": "1",
+      "uri": "http://data.library.sh.cn/gj/resource/item/wv5tlv4zj0erf4jz",
+      "itemOf": "http://data.library.sh.cn/gj/resource/instance/cs5colfieikc3kqe",
+      "heldBy": [
+        {
+          "address": "寧夏回族自治區 銀川市 金鳳區 人民廣場東街6號",
+          "abbreviateName": "寧夏回族自治區博物館",
+          "label": "寧夏回族自治區博物館",
+          "uri": "http://data.library.sh.cn/entity/organization/j7xq7hsmizkiraq6"
+        }
+      ]
+    }
+  ]
+}

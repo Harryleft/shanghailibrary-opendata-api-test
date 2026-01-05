@@ -1,0 +1,34 @@
+{
+  "result": "0",
+  "data": [
+    {
+      "date": "1963",
+      "image": {
+        "imgPath": "https://img.library.sh.cn/person/shouji/yx8g27qsdquuhih6.jpg",
+        "format": "jpg",
+        "label": "yx8g27qsdquuhih6.jpg",
+        "uri": "http://data.library.sh.cn/shouji/resource/image/yx8g27qsdquuhih6"
+      },
+      "creator": "郭沫若",
+      "person": "http://data.library.sh.cn/entity/person/rre963914j6whck4",
+      "description": "郭沫若 题诗(1963)",
+      "type": "题诗",
+      "uri": "http://data.library.sh.cn/shouji/resource/photo/28x1flx5xje1zdw4"
+    }
+  ],
+  "pager": {
+    "iflimit": "",
+    "startIndex": 0,
+    "pageSize": 1,
+    "sort": "insertTime",
+    "dir": "desc",
+    "pageth": 1,
+    "pageths": [
+      1,
+      2,
+      3
+    ],
+    "pageCount": 3,
+    "rowCount": 3
+  }
+}

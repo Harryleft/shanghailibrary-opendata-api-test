@@ -1,0 +1,72 @@
+{
+  "result": "0",
+  "data": [
+    {
+      "dateLabel": "1934年6月14日",
+      "description": "联华影业公司摄制的《渔光曲》在金城大戏院上映，该片为蔡楚生导演的代表作，亦是30年代左翼影片代表作品之一。上映时，虽正值上海60年末有之盛暑，观众却依然端坐在没有空调设备的金城大戏院中静静观看，影片连映84天之久，破《姊妹花》连映60天的纪录。据说有位家境富裕的青年观众，看过此片后说服父亲自费在《新闻报》上刊登了一幅特大广告，“渔光曲”三个字占据了两个版面，每个字尺寸足有一部电话机那般大，就是为了要让《渔光曲》家喻户晓。影片讲述王人美、韩兰根饰演的渔民小猫、小猴家庭破产，流浪街头，儿时玩伴、渔业公司少爷何子英试图帮助他们，却面临家庭变故，改良梦想破灭的故事，通过贫苦渔民的悲惨遭遇，以凄婉的笔调描写了当时人民的苦难生活，显示了导演艺术技巧的成熟。同时，由安娥作词、任光作曲的主题歌《渔光曲》，贯穿全剧，凄婉动人，一时间风靡全国，而小猫的扮演者王人美也凭借此剧达到了自己的表演高峰。《渔光曲》显示了蔡楚生导演艺术技巧的成熟和他艺术风格的进一步形成。在故事性和抒情性的结合上，画面造型的美感追求上以及对待意境界的营造上，都有成功的探索和创新。影片表现手法质朴，却又有很大的艺术感染力；开头和结尾尤为动人，前后对应地配以清新真挚的主题歌，达到声情并茂的艺术效果。《渔光曲》向人们展示了一种真实的人生，而这种真实的人生，得益于编导对生活的真切感受。蔡楚生从小生长的海边，对渔民的生活比较熟悉，从小就对渔民的悲惨遭遇寄于同情。拍摄期间，为了表现出影片的真实人生，蔡楚生亲率摄制组去浙东象山县一个渔村石浦体验生活、拍摄外景。当时的石浦，环境十分恶劣，海盗时常出没，生活条件极差，天热、水土不服，许多演职员病倒了。但蔡楚生知难而进，带病坚持拍摄，为了影片的真实，一直拍完全部拍摄计划。这种精益求精的精神，正是蔡楚生艺术创作取得成功的保证。1935年3月，《渔光曲》在100余部各国影片参加的莫斯科国际电影展览会上被授予“荣誉奖”（在获奖名单中位列第九），成为中国第一部获国际奖的故事片。",
+      "end": "1934-06-14",
+      "title": "联华影业公司摄制的《渔光曲》在金城大戏院上映",
+      "uri": "http://data.library.sh.cn/authority/event/0ukxgwxbuasfnf6p",
+      "begin": "1934-06-14",
+      "nodeId": "67748",
+      "imageList": [
+        {
+          "eventImage": "http://data.library.sh.cn/shmemory/resource/img/6ihqs3q64uo7jqpc",
+          "des": "《渔光曲》剧照",
+          "format": "jpg",
+          "eventImagePath": "https://img.library.sh.cn/whzk/img/6ihqs3q64uo7jqpc.jpg"
+        },
+        {
+          "eventImage": "http://data.library.sh.cn/shmemory/resource/img/k0xb1pfc581fg2im",
+          "des": "《渔光曲》剧组在外景地合影",
+          "format": "jpg",
+          "eventImagePath": "https://img.library.sh.cn/whzk/img/k0xb1pfc581fg2im.jpg"
+        }
+      ],
+      "personList": [
+        {
+          "label": "韩兰根",
+          "uri": "http://data.library.sh.cn/entity/person/e6hjst7ys2gztl51"
+        },
+        {
+          "label": "蔡楚生",
+          "uri": "http://data.library.sh.cn/entity/person/njcgij46znvhcduf"
+        },
+        {
+          "label": "王人美",
+          "uri": "http://data.library.sh.cn/entity/person/ifco1rew50xd4fxd"
+        },
+        {
+          "label": "任光",
+          "uri": "http://data.library.sh.cn/entity/person/jd4zvyuvwosohrdi"
+        },
+        {
+          "label": "安娥",
+          "uri": "http://data.library.sh.cn/entity/person/3hqp9b1biv2wq5iw"
+        }
+      ],
+      "organizationList": [
+        {
+          "label": "联华影业公司",
+          "uri": ""
+        }
+      ],
+      "operaList": [],
+      "magazineList": [],
+      "placeList": [],
+      "movieList": [
+        {
+          "label": "渔光曲",
+          "uri": "http://data.library.sh.cn/dy/resource/movie/iogeyi42triaj7vo"
+        }
+      ],
+      "dramaList": [],
+      "musicList": [
+        {
+          "label": "渔光曲",
+          "uri": "http://data.library.sh.cn/dy/resource/music/t7afzeobrwk1oi4p"
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,18 @@
+{
+  "state": 0,
+  "msg": null,
+  "data": {
+    "isDownload": 0,
+    "dbname": "mgts",
+    "innerflag": null,
+    "items": [
+      {
+        "value": "24950",
+        "name": "复本1",
+        "pageCount": 184,
+        "catalogue": []
+      }
+    ]
+  },
+  "total": null
+}

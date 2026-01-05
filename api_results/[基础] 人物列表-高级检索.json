@@ -1,0 +1,52 @@
+{
+  "result": "0",
+  "data": [
+    {
+      "fname": "巴金",
+      "speciality": "作家,文学翻译家",
+      "place_uri": "http://data.library.sh.cn/entity/place/hfpkaw7jcecxunhu",
+      "start": "1904.11",
+      "end": "2005.10.17",
+      "place": "四川",
+      "briefBiography": "著名作家,文学翻译家,曾任中国文联副主席,作协主席,作协上海分会主席.原名李尧棠,字芾甘,笔名王文慧,欧阳镜蓉,黄树辉,余一,余三,余五,余七,巴比,比金,佩竿等.四川成都人.1927年赴法留学,1927年底回国,编辑《文学丛刊》,从事文学创作.1934年冬游学日本,次年8月回国.之后,任上海文化生活出版社,平明出版社总编辑.1949年至今,历任中国作协副主席,上海分会主席,《文艺月报》,《收获》,《上海文学》主编,中国文联副主席,中国作协主席,全国政协副主席等职.著有长篇小说《灭亡》,《家》,《春》,《秋》等,译有《处女地》,《往事与随想》.",
+      "uri": "http://data.library.sh.cn/entity/person/6pnc6xdap3cfkcup",
+      "long": "104.07",
+      "lat": "30.67"
+    },
+    {
+      "fname": "章佳巴金保",
+      "uri": "http://data.library.sh.cn/entity/person/uipooh1ymke1h2p1"
+    },
+    {
+      "fname": "巴金泰",
+      "uri": "http://data.library.sh.cn/entity/person/3nsvy8sdz13d8w8s"
+    },
+    {
+      "fname": "巴金",
+      "uri": "http://data.library.sh.cn/entity/person/qvzb8rdncvqumcv7"
+    },
+    {
+      "fname": "卡巴金",
+      "uri": "http://data.library.sh.cn/entity/person/7njias03762usszf"
+    },
+    {
+      "fname": "巴金陵",
+      "start": "1942",
+      "briefBiography": "女。中共党员。1959年毕业于北京市戏曲学校。历任北京市戏曲学校演员、教师、党委委员、班主任、副科长。一级演员。中国戏剧家协会会员。饰有京剧《莫斯科》等主要角色和其他角色。《莫斯科》获第七届世界青年联欢节北京市文化局艺术园丁奖等。（来源：《中国戏剧家大辞典》）",
+      "uri": "http://data.library.sh.cn/entity/person/2a2rry4d8ri61emv"
+    }
+  ],
+  "pager": {
+    "iflimit": "",
+    "pageCount": 1,
+    "startIndex": 0,
+    "pageth": 1,
+    "pageSize": 10,
+    "pageths": [
+      1
+    ],
+    "rowCount": 6,
+    "sort": "insertTime",
+    "dir": "desc"
+  }
+}

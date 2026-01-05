@@ -1,0 +1,19 @@
+{
+  "result": "0",
+  "data": [
+    {
+      "date": "1991",
+      "image": {
+        "imgPath": "https://img.library.sh.cn/person/shouji/vuneyt5e3di2amaz.jpg",
+        "format": "jpg",
+        "label": "vuneyt5e3di2amaz.jpg",
+        "uri": "http://data.library.sh.cn/shouji/resource/image/vuneyt5e3di2amaz"
+      },
+      "creator": "薄一波",
+      "person": "http://data.library.sh.cn/entity/person/4rxd6it9oj8ogjye",
+      "description": "薄一波 题词(1991)",
+      "type": "题词",
+      "uri": "http://data.library.sh.cn/shouji/resource/photo/5q1co8xb5xjdwbro"
+    }
+  ]
+}

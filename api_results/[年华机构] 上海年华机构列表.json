@@ -1,0 +1,33 @@
+{
+  "result": "0",
+  "data": [
+    {
+      "noteOfSource": "上海年华电影知识库",
+      "name": [
+        "上海天馬電影製片廠@cht",
+        "上海天马电影制片厂@chs",
+        "shanghaitianmadianyingzhipianchang@en"
+      ],
+      "uri": "http://data.library.sh.cn/entity/organization/1tbd85amhshcovui"
+    }
+  ],
+  "pager": {
+    "iflimit": "",
+    "startIndex": 0,
+    "pageSize": 1,
+    "sort": "insertTime",
+    "dir": "desc",
+    "pageth": 1,
+    "pageths": [
+      1,
+      2,
+      3,
+      4,
+      5,
+      6,
+      100
+    ],
+    "pageCount": 100,
+    "rowCount": 100
+  }
+}

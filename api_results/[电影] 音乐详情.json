@@ -1,0 +1,32 @@
+{
+  "result": "0",
+  "data": [
+    {
+      "movie": [
+        {
+          "date": "1940",
+          "contributor": [
+            "应云卫（导演）",
+            "舒秀文（演员）",
+            "阳翰笙（编剧）",
+            "黎莉黎（演员）"
+          ],
+          "name": "塞上风云",
+          "source": "上海年华",
+          "title": "塞上风云",
+          "type": "有声；黑白",
+          "uri": "http://data.library.sh.cn/dy/resource/movie/wur4ctorootueu6y"
+        }
+      ],
+      "audio": [
+        {
+          "format": "mp3",
+          "uri": "http://data.library.sh.cn/dy/resource/audio/4puuub2o8hhy66a2",
+          "audioPath": "https://img.library.sh.cn/dy/audio/4puuub2o8hhy66a2/audio.m3u8"
+        }
+      ],
+      "title": "《塞上风云》插曲",
+      "uri": "http://data.library.sh.cn/dy/resource/music/gdyr538dl6lfcck0"
+    }
+  ]
+}

@@ -1,0 +1,432 @@
+{
+  "result": "0",
+  "data": [
+    {
+      "building": {
+        "nameE": "Lyceum Theatre",
+        "nameT": "蘭心大戲院",
+        "nameS": "兰心大戏院",
+        "des": "",
+        "address": "茂名南路57号",
+        "nameOtherUri": "http://data.library.sh.cn/authority/name/bfcayrldnvi85odo",
+        "lon": "121.467089",
+        "nameOther": "上海艺术剧场（1952年-1991年）",
+        "uri": "http://data.library.sh.cn/entity/architecture/gk8lpftys7olgfob",
+        "house": "57号",
+        "lat": "31.227263"
+      },
+      "architecture": {
+        "nameE": "Lyceum Theatre",
+        "nameT": "蘭心大戲院",
+        "nameS": "兰心大戏院",
+        "orgName": "",
+        "des": "清同治六年（1867年）3月，在沪英侨集资在诺门路圆明园路口创建兰心戏院，英文名Lyceum Theatre, 由英侨爱美剧社（简称A.D.C）演出话剧。同治十年（1871年）3月毁于火灾。同治十三年（1874年）重建于今虎丘路。光绪三十三年（1907年）10月7日-11月5日，“春阳社”作为第一个在“兰心”公演的中国剧团以一部《黑奴吁天录》引起轰动，此后，时有新剧剧团假座兰心演出。1929年1月，A.D.C.剧团董事会以17.5万两银子的代价，将“兰心”的土地权和房产权卖给一个中国人并于当年4月迁出，同时另在法租界蒲石路（今长乐路）迈尔西爱路口（今茂名南路57号）购得土地再建“兰心”，戏院由新瑞和洋行（Messrs. Davies & Thomas Civil Engineers and Architects）承建。1931年2月兰心戏院竣工开幕，观众厅二层，设宽敞皮椅749座。1942年7月被侵华日军封闭，后归伪中华电影公司管理，民国45年抗战胜利后，9月复归A.D.C.剧团。上海解放后，1949年10月英侨剧社将戏院转售上海市剧影工作者协会，首任经理吕复。1952年归上海市文化局，更名上海艺术剧场，1953年划归上海人民艺术剧院。1958年9月交卢湾区管理，1959年5月复归市文化局。1985年归市演出公司管理，1989年归兰馨艺术经营公司，于1991年恢复兰心大戏院原名。",
+        "person": "http://data.library.sh.cn/entity/person/4alvgp8s1poy41yc;http://data.library.sh.cn/entity/person/zyivkur9c19lxk4g",
+        "bUri": "http://data.library.sh.cn/entity/architecture/gk8lpftys7olgfob",
+        "nameOtherUri": "http://data.library.sh.cn/authority/name/bfcayrldnvi85odo",
+        "dramaName": "http://data.library.sh.cn/dy/resource/drama/0i6gzoheuunv0lb4~马克思“秘史”;http://data.library.sh.cn/dy/resource/drama/207ffgwt037wwltz~考验;http://data.library.sh.cn/dy/resource/drama/2pfcufynphtebyly~长生殿;http://data.library.sh.cn/dy/resource/drama/3neg3y4axz4w3qcp~Rookery Nook;http://data.library.sh.cn/dy/resource/drama/4ljzgw3g370pqgvo~Present Laughter;http://data.library.sh.cn/dy/resource/drama/54ap0sodqq84xkzg~Close Quaters;http://data.library.sh.cn/dy/resource/drama/67ei0slobpbyn1zh~Charley's Aunt;http://data.library.sh.cn/dy/resource/drama/7cc44lzwmhptjlky~笑侃三十年;http://data.library.sh.cn/dy/resource/drama/7fq5jm1j3fpv6rgg~梁祝;http://data.library.sh.cn/dy/resource/drama/7guwxdw5dixprh5p~Maid And The Magpie;http://data.library.sh.cn/dy/resource/drama/7pvjb0cedhjqmz87~寻找男子汉;http://data.library.sh.cn/dy/resource/drama/aki5bd35f1vv0tq4~One Summer's day;http://data.library.sh.cn/dy/resource/drama/e25wkjegikigsm0m~恶家庭;http://data.library.sh.cn/dy/resource/drama/i1zg0hp4gktodd5h~中国梦;http://data.library.sh.cn/dy/resource/drama/ilfnaw0vjks38ais~魔鬼门徒;http://data.library.sh.cn/dy/resource/drama/j6h6newnmoerfdn7~黑奴吁天录;http://data.library.sh.cn/dy/resource/drama/jhqopk117uu2p7gc~孟姜女;http://data.library.sh.cn/dy/resource/drama/kdh7lj2gqr7e3fm2~上海滩的春天;http://data.library.sh.cn/dy/resource/drama/mwrqdwnppnegh4fo~孟姜女;http://data.library.sh.cn/dy/resource/drama/pnvqqxl8lojn62x6~海港的早晨;http://data.library.sh.cn/dy/resource/drama/pq4mv6p0rfqf7zt5~江南春早;http://data.library.sh.cn/dy/resource/drama/qoh5a1eud102rcst~牡丹亭;http://data.library.sh.cn/dy/resource/drama/qucpribb8a3jgbc4~While The Sun Shines;http://data.library.sh.cn/dy/resource/drama/un3ch7kc402iyfop~A Cup of Tea;http://data.library.sh.cn/dy/resource/drama/xovj3f3sfoscizr5~婚姻自主",
+        "nameOther": "上海艺术剧场（1952年-1991年）",
+        "uri": "http://data.library.sh.cn/entity/theater/g2n5f6cpkqkaxygj",
+        "movieName": "",
+        "eventList": [
+          {
+            "imageUri": "",
+            "startedAtTime": "1867",
+            "imageDescription": "",
+            "description": "1867年3月1日英国侨民集资在诺门路圆明园路口创建的兰心戏院落成",
+            "source": "",
+            "imageP": ""
+          },
+          {
+            "imageUri": "",
+            "startedAtTime": "1871",
+            "imageDescription": "",
+            "description": "1871年3月2日兰溪戏院毁于火灾",
+            "source": "",
+            "imageP": ""
+          },
+          {
+            "imageUri": "",
+            "startedAtTime": "1872",
+            "imageDescription": "",
+            "description": "1872年5月，A.D.C剧团募集到资金，在博物院路（今虎丘路142-146号）、香港路和圆明园路交界处买地重建“兰心”",
+            "source": "",
+            "imageP": ""
+          },
+          {
+            "imageUri": "",
+            "startedAtTime": "1874",
+            "imageDescription": "",
+            "description": "1874年1月27日，兰心戏院开幕，A.D.C剧团第37期公演",
+            "source": "",
+            "imageP": ""
+          },
+          {
+            "imageUri": "http://data.library.sh.cn/shmemory/resource/img/fjvpqmj7hch7kspu",
+            "startedAtTime": "1907",
+            "imageDescription": "图为1907年11月3日至5日（农历九月二十九日至十月一日）王钟声创建的中国境内首家新剧团春阳社在兰心上演《黑奴吁天录》剧照演出后合影，该剧采用西洋布景、灯光和服装，并有分幕形式，轰动一时",
+            "description": "1907年10月7日-11月5日，“春阳社”作为第一个在“兰心”公演的中国剧团以一部《黑奴吁天录》引起轰动。",
+            "source": "",
+            "imageP": "https://img.library.sh.cn/whzk/img/fjvpqmj7hch7kspu.jpg"
+          },
+          {
+            "imageUri": "http://data.library.sh.cn/shmemory/resource/img/rw81ypxzuspbe86o",
+            "startedAtTime": "1913",
+            "imageDescription": "图为1913年新民社演出《恶家庭》剧照。",
+            "description": "1913年8月，新民社首演《恶家庭》于兰心大戏院，该剧由知名剧人郑正秋合其《苦丫头》、《奶娘怨》两戏而成，因剧情贴近现实生活而受到市民欢迎。",
+            "source": "",
+            "imageP": "https://img.library.sh.cn/whzk/img/rw81ypxzuspbe86o.jpg"
+          },
+          {
+            "imageUri": "",
+            "startedAtTime": "1925",
+            "imageDescription": "",
+            "description": "1925年4月9日，英国伦敦剧团来沪演出于博物院路兰心大戏院，共演6天。",
+            "source": "",
+            "imageP": ""
+          },
+          {
+            "imageUri": "",
+            "startedAtTime": "1929",
+            "imageDescription": "",
+            "description": "1929年1月，A.D.C.剧团董事会以17.5万两银子的代价，将“兰心”的土地权和房产权卖给一个中国人并于当年4月迁出。",
+            "source": "",
+            "imageP": ""
+          },
+          {
+            "imageUri": "",
+            "startedAtTime": "1931",
+            "imageDescription": "",
+            "description": "1931年2月，A.D.C.剧团在法租界蒲石路（今长乐路）迈尔西爱路口（今茂名南路57号）购得土地再建“兰心”，戏院由新瑞和洋行（Messrs. Davies & Thomas Civil Engineers and Architects）承建。",
+            "source": "",
+            "imageP": ""
+          },
+          {
+            "imageUri": "",
+            "startedAtTime": "1931",
+            "imageDescription": "",
+            "description": "1931年2月5日，下午5时半，上海兰心大戏院举行新院建成开幕典礼。英国戏剧爱好者俱乐部（A.D.C.）首次在该院演出了轻音乐喜剧《上海之光》，茵·斯通主演。",
+            "source": "",
+            "imageP": ""
+          },
+          {
+            "imageUri": "",
+            "startedAtTime": "1931",
+            "imageDescription": "",
+            "description": "1931年起，工部局乐队定期举行音乐会",
+            "source": "",
+            "imageP": ""
+          },
+          {
+            "imageUri": "",
+            "startedAtTime": "1931",
+            "imageDescription": "",
+            "description": "1931年12月8日起，兰心戏院兼放映电影。",
+            "source": "",
+            "imageP": ""
+          },
+          {
+            "imageUri": "",
+            "startedAtTime": "1934",
+            "imageDescription": "",
+            "description": "1934年11月，中国歌舞剧社在兰心首演中国第一部“音乐剧”《孟姜女》（The Great Wall）。",
+            "source": "",
+            "imageP": ""
+          },
+          {
+            "imageUri": "",
+            "startedAtTime": "1935",
+            "imageDescription": "",
+            "description": "1935年3月14日，德语华剧《琵琶记》、《牡丹亭》在兰心大戏院开演。",
+            "source": "",
+            "imageP": ""
+          },
+          {
+            "imageUri": "",
+            "startedAtTime": "1935",
+            "imageDescription": "",
+            "description": "1935年5月19日，工部局管弦乐队在兰心大戏院举行第30次星期交响音乐会，美国歌唱家R.E.赛尔弗莱奇演唱彼得·考尼留斯《新嫁娘之歌》，波兰青年钢琴家维萨·吐马才斯基演奏圣桑的《G大调钢琴协奏曲》等节目",
+            "source": "",
+            "imageP": ""
+          },
+          {
+            "imageUri": "http://data.library.sh.cn/shmemory/resource/img/aianymz818sg7viu",
+            "startedAtTime": "1936",
+            "imageDescription": "图为1936上海市银钱业声乐团在兰心戏院举行慈善音乐会。",
+            "description": "1936上海市银钱业声乐团在兰心戏院举行慈善音乐会",
+            "source": "",
+            "imageP": "https://img.library.sh.cn/whzk/img/aianymz818sg7viu.jpg"
+          },
+          {
+            "imageUri": "http://data.library.sh.cn/shmemory/resource/img/odw4tl1hbxgeb1od",
+            "startedAtTime": "1941",
+            "imageDescription": "图为1941年4月14日中国旅行剧院演出《洪宣娇》剧照",
+            "description": "1941年4月，中国旅行剧院在兰心大戏院首演《洪宣娇》。该剧由阿英编剧，费穆导演，唐槐秋、唐若青父女分饰洪秀全、洪宣娇，邵华饰杨秀清，连演61场，场场客满，同年11月更被拍成同名电影",
+            "source": "",
+            "imageP": "https://img.library.sh.cn/whzk/img/odw4tl1hbxgeb1od.jpg"
+          },
+          {
+            "imageUri": "http://data.library.sh.cn/shmemory/resource/img/mwrgfhxnckdlllt7",
+            "startedAtTime": "1942",
+            "imageDescription": "图为1942年11月8日，国乐研究会在兰心大戏院举行第三次国乐演奏大会。",
+            "description": "1942年11月8日，国乐研究会在兰心大戏院举行第三次国乐演奏大会",
+            "source": "",
+            "imageP": "https://img.library.sh.cn/whzk/img/mwrgfhxnckdlllt7.jpg"
+          },
+          {
+            "imageUri": "",
+            "startedAtTime": "1942",
+            "imageDescription": "",
+            "description": "1942年7月被侵华日军封闭，后归伪中华电影公司管理",
+            "source": "",
+            "imageP": ""
+          },
+          {
+            "imageUri": "http://data.library.sh.cn/shmemory/resource/img/5y5bnqmeslaxq7hb",
+            "startedAtTime": "1945",
+            "imageDescription": "图为《万世师表》剧照。",
+            "description": "1945年3月，中电剧团在兰心演出张俊祥编剧的《万世师表》，著名女演员白杨担纲主演",
+            "source": "",
+            "imageP": "https://img.library.sh.cn/whzk/img/5y5bnqmeslaxq7hb.jpg"
+          },
+          {
+            "imageUri": "",
+            "startedAtTime": "1945",
+            "imageDescription": "",
+            "description": "1945年抗战胜利后，9月复归A.D.C.剧团",
+            "source": "",
+            "imageP": ""
+          },
+          {
+            "imageUri": "",
+            "startedAtTime": "1945",
+            "imageDescription": "",
+            "description": "1945年6月3日，上海音乐协会主办，上海交响乐团第10次交响音乐会，在兰心大戏院演出。节目有苏联及旧俄名曲、肖斯塔科维奇的舞蹈组曲《黄金时代》、格里埃尔德《俄国水手舞》（选自《红罂粟》）（均系东亚首演），斯特拉文斯基的《舞蹈组曲》、《傀儡戏》及卡利尼可夫的第一交响曲。指挥司娄茨基。",
+            "source": "",
+            "imageP": ""
+          },
+          {
+            "imageUri": "",
+            "startedAtTime": "1945",
+            "imageDescription": "",
+            "description": "1945年10月，梅兰芳抗战辍演8年，首次复出，在兰心大戏院演出《刺虎》等剧目。",
+            "source": "",
+            "imageP": ""
+          },
+          {
+            "imageUri": "http://data.library.sh.cn/shmemory/resource/img/um83tlqp4zdhj3kr",
+            "startedAtTime": "1946",
+            "imageDescription": "图为1946年中国旅行剧团在上海兰心大戏院演出《雷雨》，唐若青饰鲁妈、陶金饰鲁大海、章曼苹饰四凤、石挥饰鲁贵，可谓阵容强大。",
+            "description": "1946年中国旅行剧团在上海兰心大戏院演出《雷雨》，唐若青饰鲁妈、陶金饰鲁大海、章曼苹饰四凤、石挥饰鲁贵，可谓阵容强大。由曹禺编剧的《雷雨》是中国话剧演出史上上演时间最长的一个剧目，至今盛演不衰，并被多次改编为电影、电视剧等",
+            "source": "",
+            "imageP": "https://img.library.sh.cn/whzk/img/um83tlqp4zdhj3kr.jpg"
+          },
+          {
+            "imageUri": "http://data.library.sh.cn/shmemory/resource/img/tqi2hf42egdlzl1c",
+            "startedAtTime": "1948",
+            "imageDescription": "图为1948年苏珂尔斯基（Sokolsky）芭蕾舞校在兰心大戏院演出场面，当中被托起者为胡蓉蓉。",
+            "description": "1948年苏珂尔斯基（Sokolsky）芭蕾舞校在兰心大戏院演出场面，当中被托起者为胡蓉蓉。苏珂尔斯基毕业于圣彼得堡的俄罗斯帝国芭蕾舞校，曾于世界第一芭蕾舞星安娜·巴甫洛娃（Anna Pavlova）旅欧表演，他与他的夫人意芙几妮亚·巴拉诺娃（Ivgenia Balanova）在上海创办芭蕾舞校，培养了众多优秀学员",
+            "source": "",
+            "imageP": "https://img.library.sh.cn/whzk/img/tqi2hf42egdlzl1c.jpg"
+          },
+          {
+            "imageUri": "",
+            "startedAtTime": "1949",
+            "imageDescription": "",
+            "description": "1949年10月英侨剧社将戏院转售上海市剧影工作者协会，首任经理吕复",
+            "source": "",
+            "imageP": ""
+          },
+          {
+            "imageUri": "",
+            "startedAtTime": "1952",
+            "imageDescription": "",
+            "description": "1952年，“兰心戏院”更名为“上海艺术剧场”",
+            "source": "",
+            "imageP": ""
+          },
+          {
+            "imageUri": "",
+            "startedAtTime": "1953",
+            "imageDescription": "",
+            "description": "1953年，上海艺术剧场划归上海人民艺术剧院",
+            "source": "",
+            "imageP": ""
+          },
+          {
+            "imageUri": "http://data.library.sh.cn/shmemory/resource/img/qx2uoilhgv3ihsxx",
+            "startedAtTime": "1954",
+            "imageDescription": "图为《考验》剧照。",
+            "description": "1954年9月13日，《考验》，夏衍编剧，由上海人民艺术剧院在上海艺术剧场公演，黄佐临导演，高重实、何适、项堃、胡思庆、章曼苹等主演",
+            "source": "《中国话剧百年图文志》，武汉出版社，2007",
+            "imageP": "https://img.library.sh.cn/whzk/img/qx2uoilhgv3ihsxx.jpg"
+          },
+          {
+            "imageUri": "http://data.library.sh.cn/shmemory/resource/img/k0yhllm37hrw8kyt",
+            "startedAtTime": "1957",
+            "imageDescription": "图为《上海滩的春天》剧照。",
+            "description": "1957年1月19日，上海人民艺术剧院在上海艺术剧院公演《上海滩的春天》，熊佛西编剧、虞留德导演，乔奇、丹尼、高重实、袁之远、张立德、王善树、陶稼祥等主演",
+            "source": "《中国话剧百年图文志》，武汉出版社，2007",
+            "imageP": "https://img.library.sh.cn/whzk/img/k0yhllm37hrw8kyt.jpg"
+          },
+          {
+            "imageUri": "http://data.library.sh.cn/shmemory/resource/img/xzbatwzrkd7gs48b",
+            "startedAtTime": "1959",
+            "imageDescription": "图为《枯木逢春》剧照。",
+            "description": "1959年8月，该剧由上海人民艺术剧院用《江南春早》的剧名在上海艺术剧场首演，9月20日起更名为《枯木逢春》演出。演职员阵容强大，导演张骏祥、陈鲤庭、杨村彬、凌琯如、黄佐临。主要演员有张伐、严丽秋、嵇启明、陈奇、岳勋烈、景衡、吴锡纯、胡庆思、乔奇、徐明、刘桐标、高重实等，1961年被改编成电影。",
+            "source": "《中国话剧百年图文志》，武汉出版社，2007",
+            "imageP": "https://img.library.sh.cn/whzk/img/xzbatwzrkd7gs48b.jpg"
+          },
+          {
+            "imageUri": "http://data.library.sh.cn/shmemory/resource/img/8fo54d2x5i7emhno",
+            "startedAtTime": "1959",
+            "imageDescription": "图为1959年5月27日，由陈钢、何占豪作曲小提琴协奏曲《梁祝》在上海兰心大剧院首次公演场面，俞丽拿担任小提琴独奏。",
+            "description": "1959年5月27日，由陈钢、何占豪作曲小提琴协奏曲《梁祝》在上海兰心大剧院首次公演场面，俞丽拿担任小提琴独奏，演出轰动一时，《梁祝》由此开始广为流传，更成为中国历史上最成功、最富盛名的交响乐曲",
+            "source": "文新图库：wenxin10649_07",
+            "imageP": "https://img.library.sh.cn/whzk/img/8fo54d2x5i7emhno.jpg"
+          },
+          {
+            "imageUri": "",
+            "startedAtTime": "1960",
+            "imageDescription": "",
+            "description": "1960年1月11日毛泽东、刘少奇、周恩来等在此观看上海实验歌剧院民族舞剧《小刀会》",
+            "source": "",
+            "imageP": ""
+          },
+          {
+            "imageUri": "",
+            "startedAtTime": "1964",
+            "imageDescription": "",
+            "description": "1964年7月22日刘少奇、陈毅等观看上海人民淮剧团现代戏《海港的早晨》（即八个样板戏京剧《海港》即由淮剧《海港的早晨》改编）",
+            "source": "",
+            "imageP": ""
+          },
+          {
+            "imageUri": "http://data.library.sh.cn/shmemory/resource/img/h1ve0crio6ry4ppx",
+            "startedAtTime": "1983",
+            "imageDescription": "图为《马克思“秘史”》剧照。",
+            "description": "1983年4月，《马克思“秘史”》由上海人民艺术剧院一团公演于上海艺术剧场。沙叶新编剧，罗毅之、嵇启明导演，乔奇饰马克思，章非饰恩格斯，罗燕饰燕妮",
+            "source": "《中国话剧百年图文志》，武汉出版社，2007",
+            "imageP": "https://img.library.sh.cn/whzk/img/h1ve0crio6ry4ppx.jpg"
+          },
+          {
+            "imageUri": "",
+            "startedAtTime": "1983",
+            "imageDescription": "",
+            "description": "1983年在中共上海市委宣传部和市文化局、旅游局的支持下开辟外事专场业务，接待外宾和港、澳、台同胞，演出具有中国民族特色的音乐舞蹈、戏曲杂技节目。各国中、小艺术团体亦常来此演出。",
+            "source": "",
+            "imageP": ""
+          },
+          {
+            "imageUri": "http://data.library.sh.cn/shmemory/resource/img/0xricfg1xj1qoina",
+            "startedAtTime": "1986",
+            "imageDescription": "图为《寻找男子汉》剧照。",
+            "description": "《寻找男子汉》剧照，该剧为沙叶新编剧，1986年2月9日，上海人民艺术剧院首演于上海艺术剧场，雷国华导演，奚美娟、张引棣、王京蒂、朱慧玲、李宗强等主演。该剧演出后引起了很大反响，曾到大学和合肥等地巡回演出，两年间共演出180场。",
+            "source": "《中国话剧百年图文志》，武汉出版社，2007",
+            "imageP": "https://img.library.sh.cn/whzk/img/0xricfg1xj1qoina.jpg"
+          },
+          {
+            "imageUri": "http://data.library.sh.cn/shmemory/resource/img/dswlwozxo5wvus1y",
+            "startedAtTime": "1987",
+            "imageDescription": "图为《中国梦》剧照。",
+            "description": "《中国梦》，孙惠柱、费春放编剧，1987年7月1日，由上海人民艺术剧院于上海艺术剧场首演，黄佐临、陈体江、胡雪桦导演，舞美设计莫少江，奚美娟、野芒主演，该剧综合运用了西方现代戏剧和中国传统戏剧的表现手法，试图将斯坦尼斯拉夫斯基的内心感应、布莱希特的姿势论和梅兰芳的程式规范这三大表演体系融为一体，颇具创新性和实验性",
+            "source": "《中国话剧百年图文志》，武汉出版社，2007",
+            "imageP": "https://img.library.sh.cn/whzk/img/dswlwozxo5wvus1y.jpg"
+          },
+          {
+            "imageUri": "",
+            "startedAtTime": "1991",
+            "imageDescription": "",
+            "description": "1991年，“上海艺术剧场”复名为“兰心大戏院”，并根据“整旧如旧”的原则进行全面修缮，恢复了七十年前的旧貌",
+            "source": "",
+            "imageP": ""
+          },
+          {
+            "imageUri": "http://data.library.sh.cn/shmemory/resource/img/jf3f3nr5dcww1vb3",
+            "startedAtTime": "2007",
+            "imageDescription": "图为6月13日第二本演出时剧照。",
+            "description": "2007年5月29日，全本昆剧《长生殿》在兰心大戏院隆重上演，这是《长生殿》问世300年第一次在现代舞台上的全貌呈现，该剧历时三年完成排演，演员阵容强大，全剧分为《钗盒情定》、《霓裳羽衣》、《马嵬惊变》、《月宫重圆》四本。",
+            "source": "文新图库：web20070614_0197",
+            "imageP": "https://img.library.sh.cn/whzk/img/jf3f3nr5dcww1vb3.jpg"
+          },
+          {
+            "imageUri": "http://data.library.sh.cn/shmemory/resource/img/yhdok5dqmmyfnroq",
+            "startedAtTime": "2008",
+            "imageDescription": "图为演出海报。",
+            "description": "2008年12月5日，上海笑星周立波以其所创“海派清口”的形式在兰心大戏院首演《笑侃三十年》，轰动上海滩，到2009年3月8日，一口气演出20场，后又转战美琪演出11场，场场爆满，一票难求。周立波一个人、一张嘴、一台戏、一瓶水、一条毛巾、两个小时，一半上海方言一半普通话，单口说全场，调侃民生话题、时事热点、名人明星。",
+            "source": "网络",
+            "imageP": "https://img.library.sh.cn/whzk/img/yhdok5dqmmyfnroq.jpg"
+          },
+          {
+            "imageUri": "http://data.library.sh.cn/shmemory/resource/img/o43csp6rhkaw5xlq",
+            "startedAtTime": "2009",
+            "imageDescription": "图为《牡丹亭》剧照。",
+            "description": "由日本歌舞伎名角坂东玉三郎和苏州昆剧院合作演出的昆剧《牡丹亭》于2009年11月17日至22日在兰心大剧院公演，该剧曾在日本京都南座剧场连演20场，场场爆满，还曾在北京和苏州上演，颇受好评。",
+            "source": "文新图片库：wenxin14598_03",
+            "imageP": "https://img.library.sh.cn/whzk/img/o43csp6rhkaw5xlq.jpg"
+          }
+        ],
+        "imagesList": [
+          {
+            "imageUri": "http://data.library.sh.cn/shmemory/resource/img/16idf3dwkzjqhgvf",
+            "description": "图为复名后的兰心大戏院",
+            "source": "《回眸——上海优秀近代保护建筑》上海人民出版社，2001",
+            "imgP": "https://img.library.sh.cn/shmemory/architecture/img/16idf3dwkzjqhgvf.jpg"
+          },
+          {
+            "imageUri": "http://data.library.sh.cn/shmemory/resource/img/pbw333p2lifehmge",
+            "description": "图为更名为“上海艺术剧场”的兰心大戏院，时为1990年，次年剧场即恢复原名",
+            "source": "《上海建筑风貌》上海人民出版社，1992",
+            "imgP": "https://img.library.sh.cn/shmemory/architecture/img/pbw333p2lifehmge.jpg"
+          },
+          {
+            "imageUri": "http://data.library.sh.cn/shmemory/resource/img/6u72gbn7vsdvo3vw",
+            "description": "图为20世纪30年代兴建的第三代兰心戏院外景",
+            "source": "",
+            "imgP": "https://img.library.sh.cn/shmemory/architecture/img/6u72gbn7vsdvo3vw.jpg"
+          },
+          {
+            "imageUri": "http://data.library.sh.cn/shmemory/resource/img/8pjqru5f2xw2dhr0",
+            "description": "图为第二代兰心戏院内景，当时为纪念第150场演出，剧院专门进行了新装修",
+            "source": "",
+            "imgP": "https://img.library.sh.cn/shmemory/architecture/img/8pjqru5f2xw2dhr0.jpg"
+          },
+          {
+            "imageUri": "http://data.library.sh.cn/shmemory/resource/img/r78s0wiwcpx5puge",
+            "description": "图为今日兰心大戏院之内部",
+            "source": "",
+            "imgP": "https://img.library.sh.cn/shmemory/architecture/img/r78s0wiwcpx5puge.jpg"
+          },
+          {
+            "imageUri": "http://data.library.sh.cn/shmemory/resource/img/vpmnsy2ngc27x5te",
+            "description": "图为兰心大戏院上下两层的观众席",
+            "source": "",
+            "imgP": "https://img.library.sh.cn/shmemory/architecture/img/vpmnsy2ngc27x5te.jpg"
+          },
+          {
+            "imageUri": "http://data.library.sh.cn/shmemory/resource/img/ybxfjec5h6rdvxhl",
+            "description": "图片1929年被拆之前的第二代兰心戏院",
+            "source": "",
+            "imgP": "https://img.library.sh.cn/shmemory/architecture/img/ybxfjec5h6rdvxhl.jpg"
+          },
+          {
+            "imageUri": "http://data.library.sh.cn/shmemory/resource/img/z4embcy3sji7m7yn",
+            "description": "图为兰心大戏院的扇形舞台",
+            "source": "",
+            "imgP": "https://img.library.sh.cn/shmemory/architecture/img/z4embcy3sji7m7yn.jpg"
+          }
+        ],
+        "personList": [
+          {
+            "pname": "null",
+            "puri": "http://data.library.sh.cn/entity/person/4alvgp8s1poy41yc"
+          },
+          {
+            "pname": "null",
+            "puri": "http://data.library.sh.cn/entity/person/zyivkur9c19lxk4g"
+          }
+        ]
+      }
+    }
+  ]
+}

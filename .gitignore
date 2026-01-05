@@ -1,40 +1,90 @@
-# Python缓存文件
+# Python相关文件
 __pycache__/
 *.py[cod]
 *$py.class
 *.so
+.Python
+build/
+develop-eggs/
+dist/
+downloads/
+eggs/
+.eggs/
+lib/
+lib64/
+parts/
+sdist/
+var/
+wheels/
+share/python-wheels/
+*.egg-info/
+.installed.cfg
+*.egg
+MANIFEST
 
 # 虚拟环境
-.venv/
-venv/
+.env
+.venv
 env/
+venv/
 ENV/
+env.bak/
+venv.bak/
 
-# IDE和编辑器文件
+# IDE相关文件
 .vscode/
 .idea/
 *.swp
 *.swo
 *~
 
-# 操作系统文件
+# 操作系统相关文件
 .DS_Store
+.DS_Store?
+._*
+.Spotlight-V100
+.Trashes
+ehthumbs.db
 Thumbs.db
-desktop.ini
+
+# API结果文件 - 根据项目需要调整
+api_results/*.pdf
+api_results/*.zip
+api_results/*.tar.gz
 
 # 日志文件
-*.log
 log/
+*.log
 
 # 临时文件
+tmp/
+temp/
 *.tmp
-*.temp
+*.bak
 
-# API结果文件（可能包含敏感数据）
-api_results/
+# 配置文件（包含敏感信息）
+config_local.py
+.env.local
+secrets.json
 
-# 配置文件（如果包含敏感信息）
-config.py
+# 测试覆盖率报告
+htmlcov/
+.tox/
+.nox/
+.coverage
+.coverage.*
+.cache
+nosetests.xml
+coverage.xml
+*.cover
+*.py,cover
+.hypothesis/
+.pytest_cache/
+cover/
 
-# 依赖文件
-.env
+# 数据库文件
+*.db
+*.sqlite3
+
+# 大文件标记
+*.large

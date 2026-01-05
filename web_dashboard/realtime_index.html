@@ -1,0 +1,1009 @@
+<!DOCTYPE html>
+<html lang="zh-CN">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>上海图书馆开放数据API - 实时监控仪表板</title>
+    <style>
+        * {
+            margin: 0;
+            padding: 0;
+            box-sizing: border-box;
+        }
+
+        body {
+            font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+            background: linear-gradient(135deg, #667eea 0%, #764ba2 100%);
+            min-height: 100vh;
+            padding: 20px;
+        }
+
+        .container {
+            max-width: 1400px;
+            margin: 0 auto;
+        }
+
+        .header {
+            background: white;
+            border-radius: 12px;
+            padding: 30px;
+            margin-bottom: 20px;
+            box-shadow: 0 10px 40px rgba(0, 0, 0, 0.2);
+            position: relative;
+        }
+
+        .header h1 {
+            color: #333;
+            font-size: 28px;
+            margin-bottom: 10px;
+            display: flex;
+            align-items: center;
+            gap: 12px;
+        }
+
+        .header h1::before {
+            content: "📊";
+        }
+
+        .header p {
+            color: #666;
+            font-size: 14px;
+        }
+
+        .live-indicator {
+            position: absolute;
+            top: 30px;
+            right: 30px;
+            display: flex;
+            align-items: center;
+            gap: 8px;
+            padding: 8px 16px;
+            background: #f0fdf4;
+            border: 1px solid #22c55e;
+            border-radius: 20px;
+            font-size: 14px;
+            color: #16a34a;
+            font-weight: 600;
+        }
+
+        .live-dot {
+            width: 10px;
+            height: 10px;
+            background: #22c55e;
+            border-radius: 50%;
+            animation: pulse 2s infinite;
+        }
+
+        @keyframes pulse {
+            0%, 100% { opacity: 1; transform: scale(1); }
+            50% { opacity: 0.5; transform: scale(1.2); }
+        }
+
+        .live-indicator.disconnected {
+            background: #fef2f2;
+            border-color: #ef4444;
+            color: #dc2626;
+        }
+
+        .live-indicator.disconnected .live-dot {
+            background: #ef4444;
+            animation: none;
+        }
+
+        .last-update {
+            position: absolute;
+            top: 70px;
+            right: 30px;
+            font-size: 12px;
+            color: #888;
+        }
+
+        .stats-grid {
+            display: grid;
+            grid-template-columns: repeat(auto-fit, minmax(250px, 1fr));
+            gap: 20px;
+            margin-bottom: 20px;
+        }
+
+        .stat-card {
+            background: white;
+            border-radius: 12px;
+            padding: 25px;
+            box-shadow: 0 4px 20px rgba(0, 0, 0, 0.1);
+            transition: transform 0.3s, box-shadow 0.3s;
+            position: relative;
+            overflow: hidden;
+        }
+
+        .stat-card::before {
+            content: '';
+            position: absolute;
+            top: 0;
+            left: 0;
+            width: 4px;
+            height: 100%;
+            background: linear-gradient(135deg, #667eea 0%, #764ba2 100%);
+        }
+
+        .stat-card:hover {
+            transform: translateY(-5px);
+            box-shadow: 0 8px 30px rgba(0, 0, 0, 0.15);
+        }
+
+        .stat-card.success::before { background: #22c55e; }
+        .stat-card.error::before { background: #ef4444; }
+        .stat-card.info::before { background: #3b82f6; }
+        .stat-card.warning::before { background: #f59e0b; }
+
+        .stat-label {
+            color: #888;
+            font-size: 13px;
+            text-transform: uppercase;
+            letter-spacing: 1px;
+            margin-bottom: 8px;
+        }
+
+        .stat-value {
+            color: #333;
+            font-size: 36px;
+            font-weight: bold;
+            margin-bottom: 5px;
+        }
+
+        .stat-subtitle {
+            color: #666;
+            font-size: 13px;
+        }
+
+        .success { color: #10b981; }
+        .warning { color: #f59e0b; }
+        .error { color: #ef4444; }
+        .info { color: #3b82f6; }
+
+        .stat-change {
+            position: absolute;
+            top: 25px;
+            right: 25px;
+            font-size: 12px;
+            padding: 4px 10px;
+            border-radius: 12px;
+            font-weight: 600;
+        }
+
+        .stat-change.positive {
+            background: #d1fae5;
+            color: #059669;
+        }
+
+        .stat-change.negative {
+            background: #fee2e2;
+            color: #dc2626;
+        }
+
+        .controls {
+            background: white;
+            border-radius: 12px;
+            padding: 20px;
+            margin-bottom: 20px;
+            box-shadow: 0 4px 20px rgba(0, 0, 0, 0.1);
+            display: flex;
+            gap: 15px;
+            flex-wrap: wrap;
+            align-items: center;
+        }
+
+        .search-box {
+            flex: 1;
+            min-width: 250px;
+        }
+
+        .search-box input {
+            width: 100%;
+            padding: 12px 20px;
+            border: 2px solid #e5e7eb;
+            border-radius: 8px;
+            font-size: 14px;
+            transition: border-color 0.3s;
+        }
+
+        .search-box input:focus {
+            outline: none;
+            border-color: #667eea;
+        }
+
+        .filter-select {
+            padding: 12px 20px;
+            border: 2px solid #e5e7eb;
+            border-radius: 8px;
+            font-size: 14px;
+            background: white;
+            cursor: pointer;
+            min-width: 150px;
+        }
+
+        .filter-select:focus {
+            outline: none;
+            border-color: #667eea;
+        }
+
+        .refresh-btn {
+            background: #667eea;
+            color: white;
+            border: none;
+            padding: 12px 24px;
+            border-radius: 8px;
+            font-size: 14px;
+            font-weight: 600;
+            cursor: pointer;
+            transition: background 0.3s;
+        }
+
+        .refresh-btn:hover {
+            background: #5568d3;
+        }
+
+        .refresh-btn:disabled {
+            background: #ccc;
+            cursor: not-allowed;
+        }
+
+        .auto-refresh-toggle {
+            display: flex;
+            align-items: center;
+            gap: 10px;
+            padding: 12px 20px;
+            background: #f9fafb;
+            border-radius: 8px;
+        }
+
+        .toggle-switch {
+            position: relative;
+            width: 50px;
+            height: 26px;
+            background: #ccc;
+            border-radius: 13px;
+            cursor: pointer;
+            transition: background 0.3s;
+        }
+
+        .toggle-switch.active {
+            background: #22c55e;
+        }
+
+        .toggle-switch::after {
+            content: '';
+            position: absolute;
+            top: 3px;
+            left: 3px;
+            width: 20px;
+            height: 20px;
+            background: white;
+            border-radius: 50%;
+            transition: transform 0.3s;
+        }
+
+        .toggle-switch.active::after {
+            transform: translateX(24px);
+        }
+
+        .main-content {
+            display: grid;
+            grid-template-columns: 300px 1fr;
+            gap: 20px;
+        }
+
+        .sidebar {
+            background: white;
+            border-radius: 12px;
+            padding: 20px;
+            box-shadow: 0 4px 20px rgba(0, 0, 0, 0.1);
+            max-height: calc(100vh - 300px);
+            overflow-y: auto;
+        }
+
+        .sidebar h3 {
+            color: #333;
+            font-size: 16px;
+            margin-bottom: 15px;
+            padding-bottom: 10px;
+            border-bottom: 2px solid #f3f4f6;
+        }
+
+        .category-list {
+            list-style: none;
+        }
+
+        .category-item {
+            padding: 12px 15px;
+            margin-bottom: 5px;
+            border-radius: 8px;
+            cursor: pointer;
+            transition: background 0.3s;
+            display: flex;
+            justify-content: space-between;
+            align-items: center;
+        }
+
+        .category-item:hover {
+            background: #f9fafb;
+        }
+
+        .category-item.active {
+            background: #eef2ff;
+            color: #667eea;
+            font-weight: 600;
+        }
+
+        .category-info {
+            display: flex;
+            align-items: center;
+            gap: 8px;
+        }
+
+        .category-status {
+            width: 8px;
+            height: 8px;
+            border-radius: 50%;
+        }
+
+        .category-status.all-success { background: #22c55e; }
+        .category-status.some-error { background: #f59e0b; }
+        .category-status.all-error { background: #ef4444; }
+
+        .category-count {
+            background: #667eea;
+            color: white;
+            padding: 2px 10px;
+            border-radius: 12px;
+            font-size: 12px;
+        }
+
+        .api-list {
+            background: white;
+            border-radius: 12px;
+            padding: 20px;
+            box-shadow: 0 4px 20px rgba(0, 0, 0, 0.1);
+        }
+
+        .api-item {
+            padding: 15px;
+            margin-bottom: 10px;
+            border: 1px solid #e5e7eb;
+            border-radius: 8px;
+            transition: all 0.3s;
+            cursor: pointer;
+            position: relative;
+        }
+
+        .api-item::before {
+            content: '';
+            position: absolute;
+            left: 0;
+            top: 0;
+            bottom: 0;
+            width: 4px;
+            border-radius: 8px 0 0 8px;
+        }
+
+        .api-item.status-success::before { background: #22c55e; }
+        .api-item.status-error::before { background: #ef4444; }
+        .api-item.status-timeout::before { background: #f59e0b; }
+
+        .api-item:hover {
+            border-color: #667eea;
+            background: #f9fafb;
+        }
+
+        .api-header {
+            display: flex;
+            justify-content: space-between;
+            align-items: center;
+            margin-bottom: 8px;
+        }
+
+        .api-name {
+            font-weight: 600;
+            color: #333;
+            font-size: 15px;
+        }
+
+        .api-status {
+            padding: 4px 12px;
+            border-radius: 12px;
+            font-size: 12px;
+            font-weight: 600;
+        }
+
+        .status-success {
+            background: #d1fae5;
+            color: #059669;
+        }
+
+        .status-error {
+            background: #fee2e2;
+            color: #dc2626;
+        }
+
+        .status-timeout {
+            background: #fef3c7;
+            color: #d97706;
+        }
+
+        .api-meta {
+            display: flex;
+            gap: 20px;
+            color: #666;
+            font-size: 13px;
+            flex-wrap: wrap;
+        }
+
+        .api-category {
+            color: #667eea;
+            font-weight: 500;
+        }
+
+        .api-response-time {
+            color: #888;
+        }
+
+        .api-response-time.fast { color: #22c55e; }
+        .api-response-time.medium { color: #f59e0b; }
+        .api-response-time.slow { color: #ef4444; }
+
+        .empty-state {
+            text-align: center;
+            padding: 60px 20px;
+            color: #999;
+        }
+
+        .empty-state::before {
+            content: "🔍";
+            display: block;
+            font-size: 48px;
+            margin-bottom: 15px;
+        }
+
+        .loading-state {
+            text-align: center;
+            padding: 60px 20px;
+            color: #999;
+        }
+
+        .loading-spinner {
+            width: 50px;
+            height: 50px;
+            border: 4px solid #f3f4f6;
+            border-top-color: #667eea;
+            border-radius: 50%;
+            animation: spin 1s linear infinite;
+            margin: 0 auto 20px;
+        }
+
+        .loading-text {
+            margin-top: 15px;
+            font-size: 14px;
+        }
+
+        .loading-progress {
+            margin-top: 10px;
+            font-size: 12px;
+            color: #667eea;
+        }
+
+        @keyframes spin {
+            to { transform: rotate(360deg); }
+        }
+
+        .data-ready {
+            animation: fadeIn 0.5s ease-in;
+        }
+
+        @keyframes fadeIn {
+            from { opacity: 0; }
+            to { opacity: 1; }
+        }
+
+        .detail-modal {
+            display: none;
+            position: fixed;
+            top: 0;
+            left: 0;
+            right: 0;
+            bottom: 0;
+            background: rgba(0, 0, 0, 0.5);
+            z-index: 1000;
+            align-items: center;
+            justify-content: center;
+        }
+
+        .detail-modal.active {
+            display: flex;
+        }
+
+        .modal-content {
+            background: white;
+            border-radius: 12px;
+            max-width: 800px;
+            max-height: 80vh;
+            overflow-y: auto;
+            padding: 30px;
+            position: relative;
+        }
+
+        .modal-close {
+            position: absolute;
+            top: 15px;
+            right: 15px;
+            background: none;
+            border: none;
+            font-size: 24px;
+            cursor: pointer;
+            color: #999;
+            width: 40px;
+            height: 40px;
+            border-radius: 50%;
+            transition: background 0.3s;
+        }
+
+        .modal-close:hover {
+            background: #f3f4f6;
+        }
+
+        .modal-title {
+            font-size: 22px;
+            color: #333;
+            margin-bottom: 20px;
+            padding-right: 40px;
+        }
+
+        .modal-section {
+            margin-bottom: 20px;
+        }
+
+        .modal-section h4 {
+            color: #666;
+            font-size: 14px;
+            margin-bottom: 10px;
+            text-transform: uppercase;
+            letter-spacing: 1px;
+        }
+
+        .json-preview {
+            background: #1e293b;
+            color: #e2e8f0;
+            padding: 20px;
+            border-radius: 8px;
+            font-family: 'Courier New', monospace;
+            font-size: 13px;
+            max-height: 400px;
+            overflow-y: auto;
+            white-space: pre-wrap;
+            word-break: break-all;
+        }
+
+        @media (max-width: 900px) {
+            .main-content {
+                grid-template-columns: 1fr;
+            }
+
+            .sidebar {
+                max-height: 300px;
+            }
+
+            .header h1 {
+                font-size: 22px;
+            }
+
+            .live-indicator {
+                position: static;
+                margin-top: 15px;
+            }
+
+            .last-update {
+                position: static;
+                margin-top: 10px;
+            }
+        }
+
+        ::-webkit-scrollbar {
+            width: 8px;
+        }
+
+        ::-webkit-scrollbar-track {
+            background: #f1f1f1;
+            border-radius: 4px;
+        }
+
+        ::-webkit-scrollbar-thumb {
+            background: #c1c1c1;
+            border-radius: 4px;
+        }
+
+        ::-webkit-scrollbar-thumb:hover {
+            background: #a1a1a1;
+        }
+    </style>
+</head>
+<body>
+    <div class="container">
+        <div class="header">
+            <h1>上海图书馆开放数据API - 实时监控仪表板</h1>
+            <p>实时监控API状态、响应时间和使用统计</p>
+            <div class="live-indicator" id="liveIndicator">
+                <span class="live-dot"></span>
+                <span id="liveStatus">实时监控中</span>
+            </div>
+            <div class="last-update" id="lastUpdate">等待数据...</div>
+        </div>
+
+        <div class="stats-grid">
+            <div class="stat-card info">
+                <div class="stat-label">总API数量</div>
+                <div class="stat-value" id="totalApis">-</div>
+                <div class="stat-subtitle">正在监控</div>
+            </div>
+            <div class="stat-card success">
+                <div class="stat-label">在线API</div>
+                <div class="stat-value success" id="successCount">-</div>
+                <div class="stat-subtitle" id="successRate">-</div>
+            </div>
+            <div class="stat-card error">
+                <div class="stat-label">离线API</div>
+                <div class="stat-value error" id="errorCount">-</div>
+                <div class="stat-subtitle">需要检查</div>
+            </div>
+            <div class="stat-card warning">
+                <div class="stat-label">平均响应时间</div>
+                <div class="stat-value warning" id="avgResponseTime">-</div>
+                <div class="stat-subtitle">所有API</div>
+            </div>
+        </div>
+
+        <div class="controls">
+            <div class="search-box">
+                <input type="text" id="searchInput" placeholder="搜索API名称...">
+            </div>
+            <select class="filter-select" id="statusFilter">
+                <option value="all">全部状态</option>
+                <option value="success">仅在线</option>
+                <option value="error">仅离线</option>
+                <option value="timeout">仅超时</option>
+            </select>
+            <select class="filter-select" id="categoryFilter">
+                <option value="all">全部分类</option>
+            </select>
+            <button class="refresh-btn" onclick="manualRefresh()">立即刷新</button>
+            <div class="auto-refresh-toggle">
+                <div class="toggle-switch active" id="autoRefreshToggle" onclick="toggleAutoRefresh()"></div>
+                <span>自动刷新 (30秒)</span>
+            </div>
+        </div>
+
+        <div class="main-content">
+            <div class="sidebar">
+                <h3>分类目录</h3>
+                <ul class="category-list" id="categoryList"></ul>
+            </div>
+            <div class="api-list">
+                <div id="apiList">
+                    <div class="loading-state">
+                        <div class="loading-spinner"></div>
+                        <div class="loading-text">正在连接实时监控服务...</div>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+
+    <div class="detail-modal" id="detailModal">
+        <div class="modal-content">
+            <button class="modal-close" onclick="closeModal()">&times;</button>
+            <h2 class="modal-title" id="modalTitle">API详情</h2>
+            <div class="modal-section">
+                <h4>基本信息</h4>
+                <div id="modalInfo"></div>
+            </div>
+            <div class="modal-section">
+                <h4>详细信息</h4>
+                <div class="json-preview" id="modalJson"></div>
+            </div>
+        </div>
+    </div>
+
+    <script>
+        let ws = null;
+        let apiData = { apis: [], categories: {} };
+        let currentFilter = { search: '', status: 'all', category: 'all' };
+        let autoRefresh = true;
+        let reconnectInterval = null;
+        let isLoading = true;
+        let hasReceivedData = false;
+
+        function connectWebSocket() {
+            const wsProtocol = window.location.protocol === 'https:' ? 'wss:' : 'ws:';
+            const wsUrl = `${wsProtocol}//${window.location.host}/ws`;
+
+            ws = new WebSocket(wsUrl);
+
+            ws.onopen = () => {
+                console.log('WebSocket连接已建立');
+                document.getElementById('liveIndicator').classList.remove('disconnected');
+                document.getElementById('liveStatus').textContent = isLoading ? '正在检查API...' : '实时监控中';
+                if (reconnectInterval) {
+                    clearInterval(reconnectInterval);
+                    reconnectInterval = null;
+                }
+            };
+
+            ws.onmessage = (event) => {
+                const data = JSON.parse(event.data);
+                console.log('收到消息:', data.type, 'loading:', data.loading);
+
+                if (data.type === 'initial' || data.type === 'status_update') {
+                    isLoading = data.loading || false;
+                    updateDashboard(data);
+
+                    if (!isLoading && !hasReceivedData) {
+                        hasReceivedData = true;
+                        document.getElementById('liveStatus').textContent = '实时监控中';
+                        // Add fade-in animation to main content
+                        document.querySelector('.main-content').classList.add('data-ready');
+                    }
+                } else if (data.type === 'pong') {
+                    // Heartbeat response
+                }
+            };
+
+            ws.onclose = () => {
+                console.log('WebSocket连接已断开');
+                document.getElementById('liveIndicator').classList.add('disconnected');
+                document.getElementById('liveStatus').textContent = '连接断开';
+                attemptReconnect();
+            };
+
+            ws.onerror = (error) => {
+                console.error('WebSocket错误:', error);
+            };
+        }
+
+        function attemptReconnect() {
+            if (!reconnectInterval) {
+                console.log('5秒后尝试重新连接...');
+                reconnectInterval = setInterval(() => {
+                    console.log('尝试重新连接...');
+                    connectWebSocket();
+                }, 5000);
+            }
+        }
+
+        function updateDashboard(data) {
+            // Update global state
+            if (data.apis) {
+                apiData.apis = data.apis;
+                apiData.categories = {};
+
+                data.apis.forEach(api => {
+                    const cat = api.category || '其他';
+                    if (!apiData.categories[cat]) {
+                        apiData.categories[cat] = { apis: [], success: 0, error: 0, total: 0 };
+                    }
+                    apiData.categories[cat].apis.push(api);
+                    apiData.categories[cat].total++;
+                    if (api.status === 'success') {
+                        apiData.categories[cat].success++;
+                    } else {
+                        apiData.categories[cat].error++;
+                    }
+                });
+            }
+
+            // Update stats
+            const totalApis = data.total_apis || apiData.apis.length;
+            const successCount = data.success_count || apiData.apis.filter(a => a.status === 'success').length;
+            const errorCount = data.error_count || apiData.apis.filter(a => a.status === 'error').length;
+
+            document.getElementById('totalApis').textContent = totalApis || '-';
+            document.getElementById('successCount').textContent = successCount || '-';
+            document.getElementById('errorCount').textContent = errorCount || '-';
+            document.getElementById('successRate').textContent =
+                totalApis > 0 ? `${(successCount / totalApis * 100).toFixed(1)}% 成功率` : '-';
+
+            // Calculate average response time (only from successful requests)
+            const responseTimes = apiData.apis
+                .filter(a => a.status === 'success' && a.response_time > 0)
+                .map(a => a.response_time);
+            const avgTime = responseTimes.length > 0
+                ? (responseTimes.reduce((a, b) => a + b, 0) / responseTimes.length).toFixed(0)
+                : '-';
+            document.getElementById('avgResponseTime').textContent = avgTime !== '-' ? `${avgTime} ms` : '-';
+
+            // Update last update time
+            const now = new Date();
+            document.getElementById('lastUpdate').textContent = isLoading
+                ? `正在检查... (${successCount + errorCount}/${totalApis} 已完成)`
+                : `最后更新: ${now.toLocaleTimeString()}`;
+
+            // Update loading state
+            updateLoadingState();
+
+            // Render categories and APIs
+            renderCategories();
+            renderApis();
+        }
+
+        function updateLoadingState() {
+            const apiList = document.getElementById('apiList');
+
+            if (isLoading && apiData.apis.length === 0) {
+                // Show loading state
+                apiList.innerHTML = `
+                    <div class="loading-state">
+                        <div class="loading-spinner"></div>
+                        <div class="loading-text">正在检查API状态...</div>
+                        <div class="loading-progress">首次检查可能需要1-2分钟</div>
+                    </div>
+                `;
+            } else if (isLoading && apiData.apis.length > 0) {
+                // Show partial data with loading indicator
+                const existingText = apiList.querySelector('.loading-indicator');
+                if (!existingText && apiList.innerHTML.includes('loading-state')) {
+                    // Replace loading state with actual data
+                    renderApis();
+                }
+            }
+        }
+
+        function renderCategories() {
+            const categoryList = document.getElementById('categoryList');
+            const categoryFilter = document.getElementById('categoryFilter');
+
+            categoryList.innerHTML = '';
+            categoryFilter.innerHTML = '<option value="all">全部分类</option>';
+
+            Object.entries(apiData.categories).forEach(([name, data]) => {
+                const statusClass = data.error === 0 ? 'all-success' :
+                                   data.success === 0 ? 'all-error' : 'some-error';
+
+                const li = document.createElement('li');
+                li.className = 'category-item';
+                if (currentFilter.category === name) {
+                    li.classList.add('active');
+                }
+                li.innerHTML = `
+                    <div class="category-info">
+                        <span class="category-status ${statusClass}"></span>
+                        <span>${name}</span>
+                    </div>
+                    <span class="category-count">${data.total}</span>
+                `;
+                li.onclick = () => filterByCategory(name);
+                categoryList.appendChild(li);
+
+                const option = document.createElement('option');
+                option.value = name;
+                option.textContent = `${name} (${data.total})`;
+                categoryFilter.appendChild(option);
+            });
+        }
+
+        function renderApis() {
+            const apiList = document.getElementById('apiList');
+            let filteredApis = [...apiData.apis];
+
+            if (currentFilter.search) {
+                filteredApis = filteredApis.filter(api =>
+                    api.name.toLowerCase().includes(currentFilter.search.toLowerCase())
+                );
+            }
+
+            if (currentFilter.status !== 'all') {
+                filteredApis = filteredApis.filter(api => api.status === currentFilter.status);
+            }
+
+            if (currentFilter.category !== 'all') {
+                filteredApis = filteredApis.filter(api => api.category === currentFilter.category);
+            }
+
+            if (filteredApis.length === 0) {
+                apiList.innerHTML = '<div class="empty-state">未找到匹配的API</div>';
+                return;
+            }
+
+            apiList.innerHTML = filteredApis.map(api => {
+                const responseTimeClass = !api.response_time ? '' :
+                                         api.response_time < 500 ? 'fast' :
+                                         api.response_time < 2000 ? 'medium' : 'slow';
+
+                return `
+                    <div class="api-item status-${api.status}" onclick='showDetail(${JSON.stringify(api).replace(/'/g, "\\'")})'>
+                        <div class="api-header">
+                            <span class="api-name">${api.name}</span>
+                            <span class="api-status status-${api.status}">
+                                ${api.status === 'success' ? '✓ 在线' :
+                                  api.status === 'timeout' ? '⏱ 超时' : '✗ 离线'}
+                            </span>
+                        </div>
+                        <div class="api-meta">
+                            <span class="api-category">[${api.category}]</span>
+                            <span class="api-response-time ${responseTimeClass}">
+                                响应时间: ${api.response_time ? api.response_time + ' ms' : 'N/A'}
+                            </span>
+                            ${api.size_formatted ? `<span>大小: ${api.size_formatted}</span>` : ''}
+                        </div>
+                    </div>
+                `;
+            }).join('');
+        }
+
+        function filterByCategory(category) {
+            currentFilter.category = currentFilter.category === category ? 'all' : category;
+            document.getElementById('categoryFilter').value = currentFilter.category;
+            renderCategories();
+            renderApis();
+        }
+
+        function showDetail(api) {
+            document.getElementById('modalTitle').textContent = api.name;
+            document.getElementById('modalInfo').innerHTML = `
+                <p><strong>状态:</strong> ${api.status === 'success' ? '✓ 在线' :
+                  api.status === 'timeout' ? '⏱ 超时' : '✗ 离线'}</p>
+                <p><strong>分类:</strong> ${api.category}</p>
+                <p><strong>方法:</strong> ${api.method || 'GET'}</p>
+                <p><strong>URL:</strong> ${api.url || 'N/A'}</p>
+                <p><strong>响应时间:</strong> ${api.response_time ? api.response_time + ' ms' : 'N/A'}</p>
+                <p><strong>数据大小:</strong> ${api.size_formatted || 'N/A'}</p>
+                <p><strong>检查时间:</strong> ${api.timestamp ? new Date(api.timestamp).toLocaleString() : 'N/A'}</p>
+                ${api.error ? `<p><strong>错误信息:</strong> <span style="color: #ef4444;">${api.error}</span></p>` : ''}
+            `;
+            document.getElementById('modalJson').textContent = JSON.stringify(api, null, 2);
+            document.getElementById('detailModal').classList.add('active');
+        }
+
+        function closeModal() {
+            document.getElementById('detailModal').classList.remove('active');
+        }
+
+        function toggleAutoRefresh() {
+            autoRefresh = !autoRefresh;
+            document.getElementById('autoRefreshToggle').classList.toggle('active', autoRefresh);
+        }
+
+        function manualRefresh() {
+            if (ws && ws.readyState === WebSocket.OPEN) {
+                ws.send(JSON.stringify({ type: 'refresh' }));
+            }
+        }
+
+        // Event listeners
+        document.getElementById('searchInput').addEventListener('input', (e) => {
+            currentFilter.search = e.target.value;
+            renderApis();
+        });
+
+        document.getElementById('statusFilter').addEventListener('change', (e) => {
+            currentFilter.status = e.target.value;
+            renderApis();
+        });
+
+        document.getElementById('categoryFilter').addEventListener('change', (e) => {
+            currentFilter.category = e.target.value;
+            renderCategories();
+            renderApis();
+        });
+
+        document.getElementById('detailModal').addEventListener('click', (e) => {
+            if (e.target.id === 'detailModal') closeModal();
+        });
+
+        // Initialize
+        connectWebSocket();
+
+        // Heartbeat
+        setInterval(() => {
+            if (ws && ws.readyState === WebSocket.OPEN) {
+                ws.send(JSON.stringify({ type: 'ping' }));
+            }
+        }, 30000);
+    </script>
+</body>
+</html>

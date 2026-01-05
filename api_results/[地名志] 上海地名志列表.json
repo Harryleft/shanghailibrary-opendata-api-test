@@ -1,0 +1,46 @@
+{
+  "result": "0",
+  "data": [
+    {
+      "riverLabel": "杭州湾水系",
+      "broaderUri": "http://data.library.sh.cn/dmz/entity/placecategory/radmim1oxuvebfmu",
+      "typeUri": "http://data.library.sh.cn/dmz/entity/placecategory/mjr7vodeybyo5s6i",
+      "beginAt": "",
+      "locationDescription": "",
+      "name": "白龙港",
+      "placeUri": "",
+      "description": "在南汇县东部。以河道中有长条状白色贝壳碎屑堆积物而得名。北起北界河，往南流经大沙路港等，止于中港河。长11.2公里。枯水期水深1.9米，可通行20吨级船舶。",
+      "locationLabel": "",
+      "endAt": "",
+      "placeLabel": "",
+      "uri": "http://data.library.sh.cn/dmz/entity/place/37vqhqhbwdubwshn"
+    },
+    {
+      "riverLabel": "杭州湾水系",
+      "broaderUri": "",
+      "typeUri": "http://data.library.sh.cn/dmz/entity/placecategory/radmim1oxuvebfmu",
+      "beginAt": "大治河",
+      "locationDescription": "南汇县东南部",
+      "name": "南白龙港",
+      "placeUri": "",
+      "description": "",
+      "locationLabel": "",
+      "endAt": "五尺沟",
+      "placeLabel": "",
+      "uri": "http://data.library.sh.cn/dmz/entity/place/ucd13zwphx6dte2r"
+    }
+  ],
+  "pager": {
+    "iflimit": "",
+    "startIndex": 0,
+    "pageSize": 10,
+    "sort": "insertTime",
+    "dir": "desc",
+    "pageth": 1,
+    "pageths": [
+      1
+    ],
+    "pageCount": 1,
+    "rowCount": 2
+  }
+}

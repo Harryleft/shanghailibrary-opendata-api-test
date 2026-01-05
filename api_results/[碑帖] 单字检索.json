@@ -1,0 +1,53 @@
+{
+  "pager": {
+    "startIndex": 0,
+    "pageSize": 1,
+    "pageth": 1,
+    "pageCount": 143,
+    "rowCount": 143,
+    "took": 0
+  },
+  "datas": [
+    {
+      "@id": "http://data.library.sh.cn/bt/resource/item/1l6zxtkx0xtdz55m-17-2-3",
+      "shelfMark": "17A331",
+      "title": "道因法师碑",
+      "creator": "李俨撰文，欧阳通楷书",
+      "work": "http://data.library.sh.cn/bt/resource/work/v1e0qbx3r5wp1uw4",
+      "instance": "http://data.library.sh.cn/bt/resource/instance/54zocdoeewoev189",
+      "item": "http://data.library.sh.cn/bt/resource/item/1l6zxtkx0xtdz55m",
+      "scriptForm": "",
+      "seq": "17-2-3",
+      "sentence": "辩析文理",
+      "originImage": "0021.jpg",
+      "charactor": "文",
+      "coordinate": {
+        "X": 933,
+        "Y": 873,
+        "Width": 144,
+        "Height": 169
+      },
+      "contribution": [
+        {
+          "agentLabel": "欧阳通",
+          "agent": "http://data.library.sh.cn/entity/person/mkhneg76esfzdccc",
+          "role": "楷书",
+          "contriDesc": ""
+        },
+        {
+          "agentLabel": "李儇",
+          "agent": "http://data.library.sh.cn/entity/person/xwq367s3kvsts132",
+          "role": "撰文",
+          "contriDesc": ""
+        }
+      ],
+      "posInText": 51,
+      "text": "思益寻讲涅槃十地洞尽幽微宿齿名流咸所叹异及受具戒弥复精苦若浮囊之贞全譬圆珠之朗洁始听律义遍讫便讲辩析文理综核指归十诵之端五篇之赜写瓶均美传灯在照又于彭城嵩论师所听摄大乘嵩公懿德玄猷兰薰月映门徒学侣鱼贯凫",
+      "image": "http://iiif.library.sh.cn/api/char/1l6zxtkx0xtdz55m-17-2-3",
+      "iiifLink": "http://iiif.library.sh.cn/api/viewer/char/1l6zxtkx0xtdz55m-17-2-3"
+    }
+  ],
+  "errorMessage": "",
+  "errorCode": "0",
+  "result": "0"
+}

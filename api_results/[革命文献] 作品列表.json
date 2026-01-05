@@ -1,0 +1,92 @@
+{
+  "result": "0",
+  "data": [
+    {
+      "note": "",
+      "creator": "",
+      "hor": "",
+      "label": "毛主席手书《满江红·和郭沫若》",
+      "uri": "http://data.library.sh.cn/gmwx/resource/work/0ij6m4t8mcf1julm"
+    },
+    {
+      "note": "",
+      "creator": "",
+      "hor": "",
+      "label": "郭沫若同志影集",
+      "uri": "http://data.library.sh.cn/gmwx/resource/work/xo4e0ogr3duyh5j5"
+    },
+    {
+      "note": "信末署日期：九，廿一。据郭若愚《殷契拾掇·后记》，当写于1955年",
+      "creator": "",
+      "hor": "",
+      "label": "[郭沫若同志手札",
+      "uri": "http://data.library.sh.cn/gmwx/resource/work/4g5t2jr4nku4j0tp"
+    },
+    {
+      "note": "",
+      "creator": "",
+      "hor": "",
+      "label": "[郭沫若同志手迹",
+      "uri": "http://data.library.sh.cn/gmwx/resource/work/f84dcdaprddegnlh"
+    },
+    {
+      "note": "背面有郭氏亲笔题词",
+      "creator": "",
+      "hor": "",
+      "label": "[郭沫若同志与日本雕刻家林谦三同志合影]",
+      "uri": "http://data.library.sh.cn/gmwx/resource/work/ipsnl63vld24zqsr"
+    },
+    {
+      "note": "",
+      "creator": "",
+      "hor": "",
+      "label": "郭沫若同志书法",
+      "uri": "http://data.library.sh.cn/gmwx/resource/work/jooh08g7487m6emr"
+    },
+    {
+      "note": "四海翻腾云水怒，五洲震荡风雷激。要扫除一切害人虫，全无敌。毛泽东 一九六四年十月十日",
+      "creator": "",
+      "hor": "",
+      "label": "[毛泽东书《满江红·和郭沫若同志》末几句]",
+      "uri": "http://data.library.sh.cn/gmwx/resource/work/k7hcqinpdk68vkka"
+    },
+    {
+      "note": "",
+      "creator": "",
+      "hor": "",
+      "label": "[郭沫若为邹韬奋图书馆成立题词]",
+      "uri": "http://data.library.sh.cn/gmwx/resource/work/x0hat7c3m54ia37f"
+    },
+    {
+      "note": "",
+      "creator": "郭沫若",
+      "hor": "",
+      "label": "羽书集",
+      "uri": "http://data.library.sh.cn/gmwx/resource/work/e4dpjc5zx2iy6xis"
+    },
+    {
+      "note": "",
+      "creator": "郭沫若",
+      "hor": "",
+      "label": "请看今日之蒋介石",
+      "uri": "http://data.library.sh.cn/gmwx/resource/work/glv5uornscmvb2pq"
+    }
+  ],
+  "pager": {
+    "iflimit": "",
+    "startIndex": 0,
+    "pageSize": 10,
+    "sort": "insertTime",
+    "dir": "desc",
+    "pageth": 1,
+    "pageths": [
+      1,
+      2,
+      3,
+      4,
+      5
+    ],
+    "pageCount": 5,
+    "rowCount": 41
+  }
+}

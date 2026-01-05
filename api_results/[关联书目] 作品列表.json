@@ -1,0 +1,93 @@
+{
+  "result": "0",
+  "pager": {
+    "startIndex": 0,
+    "pageSize": 10,
+    "sort": "insertTime",
+    "dir": "desc",
+    "pageth": 1,
+    "pageths": [
+      1,
+      2,
+      3,
+      4,
+      5,
+      6,
+      10
+    ],
+    "pageCount": 10,
+    "rowCount": 100
+  },
+  "resultList": [
+    {
+      "note": "",
+      "creator": "",
+      "hor": "2208018",
+      "label": "建筑生命的课堂",
+      "uri": "http://bib.library.sh.cn/resource/work/71bxlzocw1q563ov"
+    },
+    {
+      "note": "本书内容包括：常用装修材料与工具设备、装修施工技艺、裱糊常用的材料与工具、裱糊施工操作技艺等。",
+      "creator": "",
+      "hor": "2143147",
+      "label": "建筑物装修裱糊技艺",
+      "uri": "http://bib.library.sh.cn/resource/work/76bezi3c2ga6hpop"
+    },
+    {
+      "note": "本书详细讲解了使用Photoshop CS2软件进行建筑表现的操作方法。书中不但介绍了各种工具的应用技巧，还对园林规划图、户型图、立面图的绘制方法作了详细介绍。",
+      "creator": "",
+      "hor": "2369250",
+      "label": "Photoshop CS2建筑表现技法",
+      "uri": "http://bib.library.sh.cn/resource/work/83t52twhvk37t83k"
+    },
+    {
+      "note": "",
+      "creator": "",
+      "hor": "2333444",
+      "label": "di·2004-2005年度中国民用建筑设计市场年鉴",
+      "uri": "http://bib.library.sh.cn/resource/work/83xa4qwnh36kmxlk"
+    },
+    {
+      "note": "本书介绍了3ds max建模、材质编辑、添加灯光和摄影机、渲染和使用Photoshop进行后期处理的操作知识和应用技巧。",
+      "creator": "",
+      "hor": "2313545",
+      "label": "中文版3ds max 7建筑设计完全征服教程",
+      "uri": "http://bib.library.sh.cn/resource/work/845hzvgc38kx7r3a"
+    },
+    {
+      "note": "本书其内容为建筑智能化系统设备安装工程与长距离输送管道工程。对清单中项目的名称、项目特征、工程量计算规则、工程内容均做了全方位解释，有利于清单的应用。",
+      "creator": "",
+      "hor": "",
+      "label": "建筑智能化系统设备安装工程与长距离输送管道工程工程量清单计价应用手册",
+      "uri": "http://bib.library.sh.cn/resource/work/85ja1ubg173kafqe"
+    },
+    {
+      "note": "本书将精心选择的100个实例划分为八大部分，分别是建筑符号及大样、住宅建筑平面图、商业建筑平面图、建筑立面图和剖面图、建筑构造详图、建筑总体规划图等。",
+      "creator": "",
+      "hor": "2182225",
+      "label": "AutoCAD 2005中文版建筑制图新概念百例",
+      "uri": "http://bib.library.sh.cn/resource/work/86tv8lyus5xz5fhy"
+    },
+    {
+      "note": "本书共9章，主要内容包括建筑电工职业道德及安全生产、电工基础知识、常用电工工具和常用电器、电动机与变压器、电子识图等。",
+      "creator": "",
+      "hor": "2314919",
+      "label": "建筑电工初级技能",
+      "uri": "http://bib.library.sh.cn/resource/work/bkhigz17ike4ckjk"
+    },
+    {
+      "note": "本书内容包括：卷材层材料与施工、建筑防水涂料与施工、新型防水材料与施工、防水工程补漏施工等。",
+      "creator": "",
+      "hor": "2143153",
+      "label": "建筑物防水补漏技艺",
+      "uri": "http://bib.library.sh.cn/resource/work/c3dn8so12qbqftay"
+    },
+    {
+      "note": "本书上篇主要介绍了乡土建筑木结构装饰、乡土建筑门窗装饰、乡土建筑屋顶装饰等；下篇主要讲述的是乡土建筑原创型装饰形态、乡土建筑装饰形态的多样性、乡土建筑装饰形态的地域性与民族性等内容。",
+      "creator": "",
+      "hor": "2368843",
+      "label": "乡土建筑装饰艺术",
+      "uri": "http://bib.library.sh.cn/resource/work/c7kstn8gybedbsbq"
+    }
+  ]
+}

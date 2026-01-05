@@ -1,0 +1,50 @@
+{
+  "result": "0",
+  "data": {
+    "extent": "四冊",
+    "identifier": "179",
+    "creator": [
+      {
+        "temporalValue": "淸",
+        "uri": "http://data.library.sh.cn/entity/person/ftpjnxnbkilex71a",
+        "label": "齊翀"
+      }
+    ],
+    "fullClassName": "史部",
+    "description": "清齊翀修纂，清乾隆四十八年（1783）刻本，四冊。匡高19.5厘米，廣13.7厘米。半葉九行，行二十三字，左右雙邊，白口，單魚尾。卷端題“婺源齊翀編”。首乾隆四十八年招成萬、齊翀序。***齊翀，婺源人，進士，乾隆四十七年任粤閩南澳海防同知。***南澳爲漳潮之門户，粤閩之屏藩，自開闢以來，世爲荒服，明萬曆間始入版圖，然屢遭寇熖，或墟其地，或徙其民，廢興因革之故紛如。清順治元年，南澳副總兵鄭芝龍從唐王於福州，封侯加太師，既而密謀歸款，芝龍降，其子成功遁入南澳，收芝龍散卒，附者日衆。康熙三年冬十一月，徙澳民於内地。康熙二十四年，詔設南澳總兵。雍正十年，詔設粤閩南澳海防同知。南澳舊志十卷，明萬曆間副總兵黃岡所脩，書目見於《漳州府志》，其書已無傳。此志乾隆四十八年刊刻，爲見存第一志，分星野、疆域、山川、關阨、建置、城池、公署、職官、宦績、田賦、戶口、積貯、學校、廟祀、海防、風信、潮汐、盜賊、人物、列女、物産、氣候、風俗、歲時、藝文、雜記二十六門，而於建置、海防特加詳覈。***此本卷十至十二係抄配。鈐有“淮安藏書樓舊存通俗教育館接管之書”朱文方印。",
+    "edition": "刻本",
+    "taboos": [],
+    "elephantNose": "白口",
+    "dclabel": "清齊翀修纂",
+    "label": "清乾隆四十八年（1783）刻本",
+    "source": "柏克萊加州大學東亞圖書館漢文古籍目錄",
+    "classification": "http://data.library.sh.cn/gj/classification/7orftzdsy28r33pq",
+    "fishTail": "單魚尾",
+    "title": "[乾隆]南澳志十二卷",
+    "instanceOf": "http://data.library.sh.cn/gj/resource/work/pff6683750lva4kp",
+    "contribution": [
+      {
+        "role": "序",
+        "label": "齊翀",
+        "temporalValue": "淸",
+        "uri": "http://data.library.sh.cn/entity/person/ftpjnxnbkilex71a"
+      },
+      {
+        "uri": "http://data.library.sh.cn/entity/person/7riuzotq4boumuax",
+        "role": "序"
+      },
+      {
+        "role": "修纂",
+        "label": "齊翀",
+        "temporalValue": "淸",
+        "uri": "http://data.library.sh.cn/entity/person/ftpjnxnbkilex71a"
+      }
+    ],
+    "charsNumberPerLine": "半葉九行，行二十三字",
+    "temporalValue": "清乾隆48年",
+    "plateFrame": "左右雙邊",
+    "prefaceAndPostscript": "首乾隆四十八年招成萬、齊翀序",
+    "temporal": "http://data.library.sh.cn/authority/temporal/7ase6ple2nud826q",
+    "dimensions": "匡高19.5厘米，廣13.7厘米"
+  }
+}

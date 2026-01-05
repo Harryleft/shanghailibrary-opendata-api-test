@@ -1,0 +1,64 @@
+{
+  "result": "0",
+  "data": [
+    {
+      "dtitle": "三國",
+      "uri": "http://data.library.sh.cn/gj/resource/work/depu8p6nwfzazd02"
+    },
+    {
+      "dtitle": "三國事迹",
+      "uri": "http://data.library.sh.cn/gj/resource/work/oqrzzbb3f2oeeiwb"
+    },
+    {
+      "dtitle": "三國五更",
+      "uri": "http://data.library.sh.cn/gj/resource/work/00n4ohci7xi24bol"
+    },
+    {
+      "dtitle": "三國五更一套",
+      "uri": "http://data.library.sh.cn/gj/resource/work/km3rscsk0oufql75"
+    },
+    {
+      "dtitle": "三國人物論",
+      "uri": "http://data.library.sh.cn/gj/resource/work/au7npbufsqychqel"
+    },
+    {
+      "dtitle": "三國佛敎畧史",
+      "uri": "http://data.library.sh.cn/gj/resource/work/l4dq10ungvmpbugj"
+    },
+    {
+      "dtitle": "三國佛法傳緣起",
+      "uri": "http://data.library.sh.cn/gj/resource/work/yq8rkp82gji3sf7k"
+    },
+    {
+      "dtitle": "三國全戲三折",
+      "uri": "http://data.library.sh.cn/gj/resource/work/wtosha5szh4u02gb"
+    },
+    {
+      "dtitle": "三國兩晉南北朝文選",
+      "uri": "http://data.library.sh.cn/gj/resource/work/7hucgq2acd025s5p"
+    },
+    {
+      "dtitle": "三國六朝五代紀年總辨",
+      "uri": "http://data.library.sh.cn/gj/resource/work/cr42ns5z6sioqbor"
+    }
+  ],
+  "pager": {
+    "iflimit": "",
+    "pageCount": 10,
+    "startIndex": 0,
+    "pageth": 1,
+    "pageSize": 10,
+    "pageths": [
+      1,
+      2,
+      3,
+      4,
+      5,
+      6,
+      10
+    ],
+    "rowCount": 100,
+    "sort": "insertTime",
+    "dir": "desc"
+  }
+}

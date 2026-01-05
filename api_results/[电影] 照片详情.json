@@ -1,0 +1,37 @@
+{
+  "result": "0",
+  "data": [
+    {
+      "date": "1939-12-01",
+      "image": [
+        {
+          "imgPath": "https://img.library.sh.cn/dy/img/yngftl512l22g62x.jpg",
+          "format": "jpg",
+          "uri": "http://data.library.sh.cn/dy/resource/image/yngftl512l22g62x"
+        }
+      ],
+      "creator": "马永华（摄）",
+      "contributor": "顾也鲁",
+      "movie": [
+        {
+          "date": "1939",
+          "contributor": [
+            "周贻白（编剧）",
+            "梅熹（演员）",
+            "陈翼青（导演）",
+            "顾兰君（演员）"
+          ],
+          "name": "葛嫩娘",
+          "source": "上海年华",
+          "abbreviateName": "明末遗恨",
+          "title": "葛嫩娘",
+          "type": "有声；黑白",
+          "uri": "http://data.library.sh.cn/dy/resource/movie/xl6o8u7lf5xb76u7"
+        }
+      ],
+      "description": "顾也鲁在《葛嫩娘》中饰演郑成功",
+      "type": "剧照",
+      "uri": "http://data.library.sh.cn/dy/resource/photo/ydyxfnac33hvflz0"
+    }
+  ]
+}

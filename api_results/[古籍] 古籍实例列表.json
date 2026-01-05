@@ -1,0 +1,232 @@
+{
+  "result": "0",
+  "data": [
+    {
+      "creator": [
+        {
+          "temporalValue": "晉",
+          "uri": "http://data.library.sh.cn/entity/person/1x7xg5qx64m4baqp",
+          "label": "陳壽"
+        },
+        {
+          "temporalValue": "南北朝宋",
+          "uri": "http://data.library.sh.cn/entity/person/8twhzro5ecysaqrc",
+          "label": "裴松之"
+        }
+      ],
+      "contributor": [],
+      "temporalValue": "清同治九年(1870)",
+      "seals": "",
+      "edition": "刻本",
+      "label": "清同治九年（1870）金陵書局刻本",
+      "dtitle": "三国志六十五卷",
+      "uri": "http://data.library.sh.cn/gj/resource/instance/02sy2py0g8k25bh2"
+    },
+    {
+      "creator": [
+        {
+          "temporalValue": "晉",
+          "uri": "http://data.library.sh.cn/entity/person/1x7xg5qx64m4baqp",
+          "label": "陳壽"
+        },
+        {
+          "temporalValue": "南北朝宋",
+          "uri": "http://data.library.sh.cn/entity/person/8twhzro5ecysaqrc",
+          "label": "裴松之"
+        }
+      ],
+      "contributor": [
+        {
+          "role": "題跋",
+          "uri": "http://data.library.sh.cn/entity/person/1hwjjz8ky2grvsch"
+        }
+      ],
+      "temporalValue": "淸同治9年[1870]",
+      "seals": "",
+      "edition": "刻本",
+      "label": "刻本",
+      "dtitle": "三國志六十五卷",
+      "uri": "http://data.library.sh.cn/gj/resource/instance/06p8f520sh7jchz7"
+    },
+    {
+      "creator": [
+        {
+          "temporalValue": "晉",
+          "uri": "http://data.library.sh.cn/entity/person/1x7xg5qx64m4baqp",
+          "label": "陳壽"
+        },
+        {
+          "temporalValue": "南北朝宋",
+          "uri": "http://data.library.sh.cn/entity/person/8twhzro5ecysaqrc",
+          "label": "裴松之"
+        }
+      ],
+      "contributor": [],
+      "temporalValue": "清末",
+      "seals": "",
+      "edition": "刻本",
+      "label": "清末刻本",
+      "dtitle": "三国志六十五卷",
+      "uri": "http://data.library.sh.cn/gj/resource/instance/0s0y8xfvsjzibl2s"
+    },
+    {
+      "creator": [
+        {
+          "temporalValue": "晉",
+          "uri": "http://data.library.sh.cn/entity/person/1x7xg5qx64m4baqp",
+          "label": "陳壽"
+        },
+        {
+          "temporalValue": "南北朝宋",
+          "uri": "http://data.library.sh.cn/entity/person/8twhzro5ecysaqrc",
+          "label": "裴松之"
+        }
+      ],
+      "contributor": [],
+      "temporalValue": "清同治十年(1871)",
+      "seals": "",
+      "edition": "刻本",
+      "label": "清同治十年（1871）成都書局刻本",
+      "dtitle": "三国志六十五卷",
+      "uri": "http://data.library.sh.cn/gj/resource/instance/1z5oqnu5idqvzg8e"
+    },
+    {
+      "creator": [
+        {
+          "temporalValue": "晉",
+          "uri": "http://data.library.sh.cn/entity/person/1x7xg5qx64m4baqp",
+          "label": "陳壽"
+        },
+        {
+          "temporalValue": "南北朝宋",
+          "uri": "http://data.library.sh.cn/entity/person/8twhzro5ecysaqrc",
+          "label": "裴松之"
+        }
+      ],
+      "contributor": [],
+      "temporalValue": "清光緒十三年(1887)",
+      "seals": "",
+      "edition": "刻本",
+      "label": "清光緒十三年（1887）江南書局刻本",
+      "dtitle": "San Guo Zhi Liu Shi Wu Juan",
+      "uri": "http://data.library.sh.cn/gj/resource/instance/2gkru55dbbzyvktk"
+    },
+    {
+      "creator": [
+        {
+          "temporalValue": "晉",
+          "uri": "http://data.library.sh.cn/entity/person/1x7xg5qx64m4baqp",
+          "label": "陳壽"
+        },
+        {
+          "temporalValue": "南北朝宋",
+          "uri": "http://data.library.sh.cn/entity/person/8twhzro5ecysaqrc",
+          "label": "裴松之"
+        }
+      ],
+      "contributor": [],
+      "temporalValue": "清同治九年(1870)",
+      "seals": "",
+      "edition": "刻本",
+      "label": "清同治九年（1870）金陵書局刻本",
+      "dtitle": "三国志六十五卷",
+      "uri": "http://data.library.sh.cn/gj/resource/instance/2qdr1n6i71lukhrp"
+    },
+    {
+      "creator": [
+        {
+          "temporalValue": "晉",
+          "uri": "http://data.library.sh.cn/entity/person/1x7xg5qx64m4baqp",
+          "label": "陳壽"
+        },
+        {
+          "temporalValue": "南北朝宋",
+          "uri": "http://data.library.sh.cn/entity/person/8twhzro5ecysaqrc",
+          "label": "裴松之"
+        }
+      ],
+      "contributor": [],
+      "temporalValue": "1977",
+      "seals": "",
+      "dtitle": "三國志六十五卷",
+      "uri": "http://data.library.sh.cn/gj/resource/instance/4zk4lv1aebicg3xs"
+    },
+    {
+      "creator": [
+        {
+          "temporalValue": "晉",
+          "uri": "http://data.library.sh.cn/entity/person/1x7xg5qx64m4baqp",
+          "label": "陳壽"
+        },
+        {
+          "temporalValue": "南北朝宋",
+          "uri": "http://data.library.sh.cn/entity/person/8twhzro5ecysaqrc",
+          "label": "裴松之"
+        }
+      ],
+      "contributor": [],
+      "temporalValue": "清光緒十三年(1887)",
+      "seals": "",
+      "edition": "刻本",
+      "label": "清光緒十三年（1887）江南書局刻本",
+      "dtitle": "San Guo Zhi Liu Shi Wu Juan",
+      "uri": "http://data.library.sh.cn/gj/resource/instance/56s2ajttbyt4ner7"
+    },
+    {
+      "creator": [
+        {
+          "temporalValue": "晉",
+          "uri": "http://data.library.sh.cn/entity/person/1x7xg5qx64m4baqp",
+          "label": "陳壽"
+        },
+        {
+          "temporalValue": "南北朝宋",
+          "uri": "http://data.library.sh.cn/entity/person/8twhzro5ecysaqrc",
+          "label": "裴松之"
+        }
+      ],
+      "contributor": [],
+      "temporalValue": "明末清初",
+      "seals": "",
+      "edition": "刻本",
+      "label": "明末清初毛氏汲古閣刻本",
+      "dtitle": "San Guo Zhi Liu Shi Wu Juan",
+      "uri": "http://data.library.sh.cn/gj/resource/instance/5h0hz8gjc64gpzn6"
+    },
+    {
+      "creator": [
+        {
+          "temporalValue": "淸",
+          "uri": "http://data.library.sh.cn/entity/person/jda74q1yooo6j35x",
+          "label": "蔣壑"
+        }
+      ],
+      "contributor": [],
+      "temporalValue": "清光緒五年(1879)",
+      "seals": "",
+      "edition": "刻本",
+      "label": "清光緒五年（1879）烏程蔣錫礽刻本",
+      "dtitle": "全上古三代秦汉三国晋南北朝文编目一百三卷",
+      "uri": "http://data.library.sh.cn/gj/resource/instance/5nyvebn20h5wj0si"
+    }
+  ],
+  "pager": {
+    "iflimit": "",
+    "pageCount": 10,
+    "startIndex": 0,
+    "pageth": 1,
+    "pageSize": 10,
+    "pageths": [
+      1,
+      2,
+      3,
+      4,
+      5,
+      6,
+      10
+    ],
+    "rowCount": 100,
+    "sort": "insertTime",
+    "dir": "desc"
+  }
+}

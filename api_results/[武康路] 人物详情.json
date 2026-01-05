@@ -1,0 +1,720 @@
+{
+  "result": "0",
+  "data": {
+    "birthday": "1904.11",
+    "img": "//img.library.sh.cn/person/6pnc6xdap3cfkcup.jpg",
+    "courtesyName": "芾甘",
+    "gender": "男",
+    "ethnicity": "汉族",
+    "deathday": "2005.10.17",
+    "relation": "http://data.library.sh.cn/entity/architecture/if3k5yb021u3c4vd",
+    "speciality": "作家,文学翻译家",
+    "createdWork": [
+      "开明",
+      "家",
+      "太白",
+      "春",
+      "时报",
+      "文学",
+      "文汇报",
+      "电",
+      "雨",
+      "东方杂志",
+      "水星",
+      "《第四病室》；《随想录》",
+      "秋",
+      "新生",
+      "激流",
+      "洪水",
+      "随想录",
+      "寒夜",
+      "处女地",
+      "往事与随想",
+      "收获",
+      "雾",
+      "人民日报",
+      "解放日报",
+      "上海文学",
+      "国闻周报",
+      "文艺月报",
+      "灭亡",
+      "小说月报",
+      "笔阵",
+      "中学生",
+      "平等",
+      "文学季刊",
+      "时代前",
+      "杂文",
+      "半月",
+      "戏剧岗位",
+      "文学丛刊",
+      "文化生活丛刊",
+      "上海黄庞四周年纪念大会特刊",
+      "断头台上",
+      "薇娜",
+      "时事新报·文学旬刊",
+      "俄罗斯十女杰",
+      "民众",
+      "骷髅的跳舞",
+      "自由月刊",
+      "到自由之路",
+      "国风日报·学汇",
+      "孤吟",
+      "自由丛刊",
+      "绿光",
+      "孤呤",
+      "巴金文集",
+      "伦理学的起源和发展",
+      "爱情的三部曲"
+    ],
+    "noteOfSource": [
+      "国图规范档",
+      "名人手稿",
+      "上海年华",
+      "中国近现代人物名号大辞典"
+    ],
+    "en_name": "bajin",
+    "officialEvent": [
+      {
+        "uri": "http://data.library.sh.cn/names/officialPosition/qz2sfa0sxnugfifr",
+        "officialPosition": "中国作协主席"
+      },
+      {
+        "uri": "http://data.library.sh.cn/names/officialPosition/otnroqrhove20qvm",
+        "officialPosition": "中国文联副主席"
+      },
+      {
+        "uri": "http://data.library.sh.cn/names/officialPosition/wg5a3cbayol114mk",
+        "officialPosition": "全国政协副主席"
+      },
+      {
+        "uri": "http://data.library.sh.cn/names/officialPosition/w61bkkdw1tlj8zcm",
+        "officialPosition": "《收获》主编"
+      },
+      {
+        "uri": "http://data.library.sh.cn/names/officialPosition/h83kxvyk4nhwlw3e",
+        "officialPosition": "《上海文学》主编"
+      }
+    ],
+    "event": [
+      {
+        "startedAtTime": "1904-11-25",
+        "description": "1904年11月25日，生于四川成都。本名李尧棠，字芾甘。",
+        "place": {
+          "label": "成都",
+          "uri": "http://data.library.sh.cn/entity/place/n9gd2vjf73f59ve6"
+        }
+      },
+      {
+        "startedAtTime": "1909",
+        "description": "1909年，父亲出任广元县知县，随父母前往广元。",
+        "place": {
+          "label": "广元",
+          "uri": "http://data.library.sh.cn/entity/place/bd1gmr7ci2lidlrd"
+        }
+      },
+      {
+        "startedAtTime": "1911",
+        "description": "1911年秋，父亲辞官，全家迁回成都。",
+        "place": {
+          "label": "成都",
+          "uri": "http://data.library.sh.cn/entity/place/n9gd2vjf73f59ve6"
+        }
+      },
+      {
+        "startedAtTime": "1920-08",
+        "description": "1920年8月，与三哥尧林一起考入成都外国语专门学校。自补习班至预科、本科，在该校就读共两年半。",
+        "place": {
+          "label": "成都",
+          "uri": "http://data.library.sh.cn/entity/place/n9gd2vjf73f59ve6"
+        }
+      },
+      {
+        "startedAtTime": "1921-04",
+        "description": "1921年4月，在《半月》刊第17号上发表政治文章《怎样建设真正自由平等的社会》，署名“芾甘”，这是目前所见公开发表的首篇文章。"
+      },
+      {
+        "startedAtTime": "1923-04",
+        "description": "1923年4月，与三哥尧林一起离开成都老家到上海求学，同年秋，入上海南洋中学就读。于该年12月18日去南京，进东南大学附属高级中学补习班学习。",
+        "place": {
+          "label": "上海",
+          "uri": "http://data.library.sh.cn/entity/place/hda1dkcayas4fs98"
+        }
+      },
+      {
+        "startedAtTime": "1925",
+        "description": "1925年，北上投考北京大学，体检时发现肺病，未参加考试回上海养病。",
+        "place": {
+          "label": "上海",
+          "uri": "http://data.library.sh.cn/entity/place/hda1dkcayas4fs98"
+        }
+      },
+      {
+        "startedAtTime": "1927",
+        "description": "1927年，乘船赴法留学，于2月19日抵达巴黎。途中写作《海行》。次年12月初回到上海。",
+        "place": {
+          "label": "巴黎",
+          "uri": "http://data.library.sh.cn/entity/place/hzsspuw2w7h6u2oc"
+        }
+      },
+      {
+        "startedAtTime": "1929",
+        "description": "1929年，1月起在《小说月报》连载《灭亡》，4月刊毕，署名“巴金”，同年10月由上海开明书店出版单行本。这是以“巴金”为名的文学创作第一次与读者见面。",
+        "place": {
+          "label": "上海",
+          "uri": "http://data.library.sh.cn/entity/place/hda1dkcayas4fs98"
+        }
+      },
+      {
+        "startedAtTime": "1931-04",
+        "description": "1931年4月，长篇小说《激流》开始在上海《时报》连载，次年5月22日刊毕。1933年5月由上海开明书店出版，改题为《家》（《激流》之一）。",
+        "place": {
+          "label": "上海",
+          "uri": "http://data.library.sh.cn/entity/place/hda1dkcayas4fs98"
+        }
+      },
+      {
+        "startedAtTime": "1933",
+        "description": "1933年，在北平与郑振铎、靳以等创办大型文学刊物《文学季刊》。经靳以介绍，与曹禺相识，12月，力荐其作品《雷雨》，后发表在1934年7月1日出版的《文学季刊》第1卷第3期。"
+      },
+      {
+        "startedAtTime": "1935-05",
+        "description": "1935年5月，吴朗西、伍禅、丽尼等在上海创办文化生活出版社，应邀任总编辑，所编“文化生活丛刊”开始出版。",
+        "place": {
+          "label": "上海",
+          "uri": "http://data.library.sh.cn/entity/place/hda1dkcayas4fs98"
+        }
+      },
+      {
+        "startedAtTime": "1936-04",
+        "description": "1936年4月，《爱情的三部曲》（《雾》、《雨》、《电》）合订本由上海良友图书印刷公司出版。5月，开始创作长篇小说《春》（《激流》之二），1938年2月完稿，次月由上海开明书店出版。6月，与靳以共同创办《文季月刊》。同月，与黎烈文分头起草《中国文艺工作者宣言》，经黎合并后，由鲁迅、茅盾等七十七人联名发表。10月19日鲁迅逝世，参加治丧事务并守灵，22日与其他青年作家一起为鲁迅葬仪抬棺。"
+      },
+      {
+        "startedAtTime": "1937-03",
+        "description": "1937年3月，与靳以合编的《文丛》月刊创刊。"
+      },
+      {
+        "startedAtTime": "1938-05",
+        "description": "1938年5月，开始作长篇小说《火》第一部，1940年12月由重庆开明书店出版。"
+      },
+      {
+        "startedAtTime": "1939-10",
+        "description": "1939年10月，开始创作长篇小说《秋》（《激流》之三），1940年5月结稿，7月由上海开明书店出版。"
+      },
+      {
+        "startedAtTime": "1941-03",
+        "description": "1941年3月，开始创作长篇小说《火》第二部，5月结稿，1942年1月由上海开明书店出版。"
+      },
+      {
+        "startedAtTime": "1942-01",
+        "description": "1942年1月，散文集《龙·虎·狗》由文化生活出版社出版。同月，编就短篇小说集《还魂草》并作《序》，4月由文化生活出版社出版"
+      },
+      {
+        "startedAtTime": "1942-06",
+        "description": "6月，散文集《废园外》由文化生活出版社出版。"
+      },
+      {
+        "startedAtTime": "1943-04",
+        "description": "1943年4月，开始创作长篇小说《火》第三部，9月结稿，1945年7月由上海开明书店出版。 "
+      },
+      {
+        "startedAtTime": "1944-05-08",
+        "description": "1944年5月8日，与陈蕴珍（萧珊）在贵阳市郊“花溪小憩” 旅馆结婚。开始创作中篇小说《憩园》，7月结稿，同年10月由文化生活出版社出版。作长篇小说《寒夜》，不久辍止，次年初冬继续作一部分，1946年12月完成，1947年3月由上海晨光出版公司出版。",
+        "place": {
+          "label": "贵阳",
+          "uri": "http://data.library.sh.cn/entity/place/cui77hfpgjsm342s"
+        }
+      },
+      {
+        "startedAtTime": "1945-05",
+        "description": "1945年5月，开始创作作中篇小说《第四病室》，7月结稿，1946年1月由上海良友复兴图书公司出版。12月16日，女儿李小林生于重庆。"
+      },
+      {
+        "startedAtTime": "1949-07",
+        "description": "1949年7月，赴北平参加全国第一次文学艺术工作者代表大会。当选为中华全国文学艺术界联合会常务委员、中华全国文学工作者协会委员。9月，被选为中国人民政治协商会议代表，中旬赴北平出席第一届全体会议。10月1日，参加中华人民共和国开国大典。11月，3日出席上海市文学工作者协会常务委员会。任该会副主席、创作部长、文学顾问委员会委员会及会刊编委。"
+      },
+      {
+        "startedAtTime": "1950-07",
+        "description": "1950年7月，24日至29日出席上海市首届文学艺术工作者代表大会。被选为上海市文学艺术界联合会副主席。28日，儿子李小棠生于上海。",
+        "place": {
+          "label": "上海",
+          "uri": "http://data.library.sh.cn/entity/place/hda1dkcayas4fs98"
+        }
+      },
+      {
+        "startedAtTime": "1952-03",
+        "description": "1952年3月—10月，赴朝鲜战场实地访问7个月，期间创作的散文、通讯、报道作品结集为《生活在英雄们的中间》。1953年2月由人民文学出版社出版",
+        "place": {
+          "label": "朝鲜",
+          "uri": "http://data.library.sh.cn/entity/place/3hzxvvo1m5b7iiie"
+        }
+      },
+      {
+        "startedAtTime": "1953-09",
+        "description": "短篇小说集《英雄的故事》1953年9月由平明出版社出版。"
+      },
+      {
+        "startedAtTime": "1953-08",
+        "description": "1953年8月—1954年1月，第二次入朝访问，所作散文、特写集《保卫和平的人们》1954年11月由中国青年出版社出版。11月6日，华东作家协会在上海成立，当选为理事。"
+      },
+      {
+        "startedAtTime": "1957-05",
+        "description": "1957年5月，开始编辑汇集其建国前文学创作的十四卷本《巴金文集》，交由人民文学出版社出版。1958年3月出版第一卷，至1962年8月第十四卷（末卷）出版。7月，与靳以共同主编的大型文学期刊《收获》（双月刊）在上海创刊。",
+        "place": {
+          "label": "上海",
+          "uri": "http://data.library.sh.cn/entity/place/hda1dkcayas4fs98"
+        }
+      },
+      {
+        "startedAtTime": "1962-05",
+        "description": "1962年5月，出席上海市第二次文学艺术界代表大会，被选为作协上海分会主席、上海市文学艺术联合会第二届委员会主席。",
+        "place": {
+          "label": "上海",
+          "uri": "http://data.library.sh.cn/entity/place/hda1dkcayas4fs98"
+        }
+      },
+      {
+        "startedAtTime": "1963-06",
+        "description": "1963年6月， 10日至7月16日率中国作家代表团访问越南。除河内外，还到海防、义安、贤良江、永灵等地访问。"
+      },
+      {
+        "startedAtTime": "1966-08",
+        "description": "1966年8月，受到上海市文联“造反派”批判，开始了靠边、检查、被批斗和强迫劳动的生活。下旬被迫迁入作协上海分会资料室二楼，从此开始频繁的作检查和遭批斗。",
+        "place": {
+          "label": "上海",
+          "uri": "http://data.library.sh.cn/entity/place/hda1dkcayas4fs98"
+        }
+      },
+      {
+        "startedAtTime": "1971",
+        "description": "1971年，在奉贤县“五七干校”劳动、学习，1972年6月始归。",
+        "place": {
+          "label": "奉贤",
+          "uri": "http://data.library.sh.cn/entity/place/cpq7jkevh6dp275t"
+        }
+      },
+      {
+        "startedAtTime": "1972-08-13",
+        "description": "1972年8月13日，夫人萧珊病故。此后被允许留沪，在作协上海分会参加学习和劳动。",
+        "place": {
+          "label": "上海",
+          "uri": "http://data.library.sh.cn/entity/place/hda1dkcayas4fs98"
+        }
+      },
+      {
+        "startedAtTime": "1974-09",
+        "description": "1974年9月，开始译赫尔岑的回忆录《往事与深思》（后改题为《往事与随想》），1979年4月，该书的第一卷和第二卷由上海译文出版社出版。",
+        "place": {
+          "label": "上海",
+          "uri": "http://data.library.sh.cn/entity/place/hda1dkcayas4fs98"
+        }
+      },
+      {
+        "startedAtTime": "1975-08",
+        "description": "1975年8月，被分配至上海人民出版社编译室工作。  ",
+        "place": {
+          "label": "上海",
+          "uri": "http://data.library.sh.cn/entity/place/hda1dkcayas4fs98"
+        }
+      },
+      {
+        "startedAtTime": "1977-05-25",
+        "description": "1977年5月25日，在《文汇报》上发表《一封信》，结束长达十年的沉默，重新执笔创作。"
+      },
+      {
+        "startedAtTime": "1978-12",
+        "description": "1978年12月，开始创作《随想录》，至1986年8月，完成全书，共五卷。"
+      },
+      {
+        "startedAtTime": "1979-04-26",
+        "description": "1979年4月26日—5月13日，率领中国作家代表团抵赴巴黎访问，这是自1928年离开法国后的第一次重访。10月30日—11月16日，先后出席全国第四次文代会和中国作协第三次会员代表大会，16日被选为中国文联副主席、中国作协第一副主席。12月，《随想录》（第一集）由三联书店香港分店出版（1980年6月由人民文学出版社出版）。",
+        "place": {
+          "label": "巴黎",
+          "uri": "http://data.library.sh.cn/entity/place/hzsspuw2w7h6u2oc"
+        }
+      },
+      {
+        "startedAtTime": "1980-04",
+        "description": "1980年4月，率中国作家代表团访日。在东京朝日讲堂讲演会上作《文学生活五十年》的讲话。",
+        "place": {
+          "label": "东京",
+          "uri": "http://data.library.sh.cn/entity/place/96x4mn7okotdrqnx"
+        }
+      },
+      {
+        "startedAtTime": "1981-04",
+        "description": "1981年4月，《探索集》（《随想录》第二集）由香港三联书店出版，7月由人民文学出版社出版。12月，在中国作家协会第三届理事会第二次会议上，当选为中国作家协会主席。"
+      },
+      {
+        "startedAtTime": "1982-04",
+        "description": "1982年4月，获意大利但丁学会授予的“但丁国际奖”。10月，《真话集》（《随想录》第三集）由香港三联书店出版，1983年2月由人民文学出版社出版。"
+      },
+      {
+        "startedAtTime": "1983-05",
+        "description": "1983年5月，获“法国荣誉军团指挥官勋章”。6月，在政协第六届全国委员会第一次会议举行第二次全体会议，当选为政协第六届全国委员会副主席。后于第七届、第八届、第九届、第十届一直连任此职，直至去世。"
+      },
+      {
+        "startedAtTime": "1984-10",
+        "description": "1984年10月，《病中集》（《随想录》第四集）由香港三联书店出版，12月由人民文学出版社出版。"
+      },
+      {
+        "startedAtTime": "1985-03",
+        "description": "1985年3月，出席中国现代文学馆开馆典礼，并作讲话。5月，美国文学艺术研究院授予名誉外国院士称号。"
+      },
+      {
+        "startedAtTime": "1986-12",
+        "description": "1986年12月，《无题集》（《随想录》底五集）由香港三联书店和人民文学出版社分别出版。《巴金全集》开始由人民文学出版社出版，至1994年出齐，共二十六卷。"
+      },
+      {
+        "startedAtTime": "1990-02",
+        "description": "1990年2月，获苏联最高苏维埃主席团授予苏联最高荣誉勋章——“人民友谊勋章”。7月，获首届日本“福冈亚洲文化奖”特别奖。"
+      },
+      {
+        "startedAtTime": "1995-07",
+        "description": "1995年7月，汇集《随想录》之后所写文章的《再思录》由上海远东出版社出版。"
+      },
+      {
+        "startedAtTime": "1997-06",
+        "description": "1997年6月，十卷本《巴金译文全集》由人民文学出版社一次出版。"
+      },
+      {
+        "startedAtTime": "1999-02-08",
+        "description": "1999年2月8日，春节期间因呼吸道感染突发高热，并出现急性呼吸衰竭，送华东医院抢救成功，但因年高体弱病情反复，从此未能出院。7月，中国科学院北京天文台发现的一颗小行星被命名为“巴金星”。"
+      },
+      {
+        "startedAtTime": "2003-11-25",
+        "description": "2003年11月25日，国务院授予“人民作家”荣誉称号。"
+      },
+      {
+        "startedAtTime": "2005-10-17",
+        "description": "2005年10月17日19时零6分，在上海华东医院逝世。",
+        "place": {
+          "label": "上海",
+          "uri": "http://data.library.sh.cn/entity/place/hda1dkcayas4fs98"
+        }
+      }
+    ],
+    "temporal": "清",
+    "identifier": "A000001",
+    "cht_name": "巴金",
+    "uri": "http://data.library.sh.cn/entity/person/6pnc6xdap3cfkcup",
+    "nationality": "中国",
+    "friendOf": [
+      {
+        "relationType": "友",
+        "name": "萧乾",
+        "uri": "http://data.library.sh.cn/entity/person/51am9xoty4ctsi4h"
+      },
+      {
+        "relationType": "友",
+        "name": "赵清阁",
+        "uri": "http://data.library.sh.cn/entity/person/gescxsfo23uvvruh"
+      },
+      {
+        "relationType": "友",
+        "name": "茅盾",
+        "uri": "http://data.library.sh.cn/entity/person/t3qypozz7y13mfdt"
+      },
+      {
+        "relationType": "友",
+        "name": "刘白羽",
+        "uri": "http://data.library.sh.cn/entity/person/ytw43r1gvsewdux5"
+      },
+      {
+        "relationType": "友",
+        "name": "王辛笛",
+        "uri": "http://data.library.sh.cn/entity/person/ej89g3k7m1eyvfot"
+      },
+      {
+        "relationType": "友",
+        "name": "唐弢",
+        "uri": "http://data.library.sh.cn/entity/person/lo815fyjprnyqy3k"
+      },
+      {
+        "relationType": "友",
+        "name": "沙汀",
+        "uri": "http://data.library.sh.cn/entity/person/89vpn35zty5vy2rj"
+      },
+      {
+        "relationType": "友",
+        "name": "朱雯",
+        "uri": "http://data.library.sh.cn/entity/person/khmt77c5kjeuutwa"
+      },
+      {
+        "relationType": "友",
+        "name": "罗洪",
+        "uri": "http://data.library.sh.cn/entity/person/cjfuhnh4eaeioumw"
+      }
+    ],
+    "name": [
+      {
+        "nameType": "笔名",
+        "uri": "http://data.library.sh.cn/authority/name/jo6hhz7t1e1hmm1e",
+        "label": "王文慧"
+      },
+      {
+        "nameType": "小名",
+        "label": "升麐",
+        "uri": "http://data.library.sh.cn/authority/name/enolhk16oxrpfilf",
+        "noteOfSource": "中国近现代人物名号大辞典"
+      },
+      {
+        "nameType": "笔名",
+        "label": "巴金",
+        "uri": "http://data.library.sh.cn/authority/name/hfj21ga8nfeteqv6",
+        "noteOfSource": "中国近现代人物名号大辞典"
+      },
+      {
+        "nameType": "笔名",
+        "label": "甘宁",
+        "uri": "http://data.library.sh.cn/authority/name/2sso7r0avqq6m73p",
+        "noteOfSource": "中国近现代人物名号大辞典"
+      },
+      {
+        "nameType": "笔名",
+        "label": "赤波",
+        "uri": "http://data.library.sh.cn/authority/name/yojx8lybsomz4iio",
+        "noteOfSource": "中国近现代人物名号大辞典"
+      },
+      {
+        "nameType": "笔名",
+        "label": "余三",
+        "uri": "http://data.library.sh.cn/authority/name/acz06csoqsrissfq",
+        "noteOfSource": "名人手稿"
+      },
+      {
+        "nameType": "笔名",
+        "label": "P.K",
+        "uri": "http://data.library.sh.cn/authority/name/b2m57ydprmf7p35p",
+        "noteOfSource": "名人手稿"
+      },
+      {
+        "nameType": "笔名",
+        "label": "Li Fei-Kan",
+        "uri": "http://data.library.sh.cn/authority/name/iiy7ixat4f4oc440",
+        "noteOfSource": "名人手稿"
+      },
+      {
+        "nameType": "原名",
+        "uri": "http://data.library.sh.cn/authority/name/s5bw6qnfvk36g0of",
+        "label": "李尧棠"
+      },
+      {
+        "description": "异名芾甘兄添加到本记录",
+        "uri": "http://data.library.sh.cn/authority/name/0bz4zhl13kxmsczq",
+        "label": "芾甘兄"
+      },
+      {
+        "nameType": "笔名",
+        "label": "王文慧",
+        "uri": "http://data.library.sh.cn/authority/name/tooplvusoi2j7be4",
+        "noteOfSource": ";《文学》;1934"
+      },
+      {
+        "nameType": "笔名",
+        "label": "欧阳镜蓉",
+        "uri": "http://data.library.sh.cn/authority/name/e1jf8bjhxc0zlgj7",
+        "noteOfSource": ";《文学季刊》;"
+      },
+      {
+        "nameType": "笔名",
+        "label": "黄树辉",
+        "uri": "http://data.library.sh.cn/authority/name/mx1pg8n0t5d6idus",
+        "noteOfSource": ";《文学》;1934"
+      },
+      {
+        "nameType": "字",
+        "label": "李芾甘",
+        "uri": "http://data.library.sh.cn/authority/name/id3lhgsoxeqyek17",
+        "noteOfSource": ";《时事新报·文学旬刊》;1922.9"
+      },
+      {
+        "nameType": "字",
+        "label": "芾甘",
+        "uri": "http://data.library.sh.cn/authority/name/256o1sqaarhs3qpd",
+        "noteOfSource": ";成都《半月》;1921"
+      },
+      {
+        "nameType": "化名",
+        "uri": "http://data.library.sh.cn/authority/name/qkb00w5v4gbb5d1i",
+        "label": "黎德瑞"
+      },
+      {
+        "nameType": "笔名",
+        "label": "芾",
+        "uri": "http://data.library.sh.cn/authority/name/ogx0k534h5ynqs3f",
+        "noteOfSource": ";《民众》;1926.10"
+      },
+      {
+        "nameType": "笔名",
+        "label": "甘",
+        "uri": "http://data.library.sh.cn/authority/name/ic6eoe0zntl88oa0",
+        "noteOfSource": ";《民众》;"
+      },
+      {
+        "nameType": "笔名",
+        "label": "余一",
+        "uri": "http://data.library.sh.cn/authority/name/ly1dldd1iqlbutyv",
+        "noteOfSource": ";《文学季刊》;193?"
+      },
+      {
+        "nameType": "笔名",
+        "label": "余三",
+        "uri": "http://data.library.sh.cn/authority/name/ydwwhc8ck65xfhxi",
+        "noteOfSource": ";《文学季刊》;"
+      },
+      {
+        "nameType": "笔名",
+        "label": "余五",
+        "uri": "http://data.library.sh.cn/authority/name/v4y7gp6n6yl22ny7",
+        "noteOfSource": ";《杂文》;"
+      },
+      {
+        "nameType": "笔名",
+        "label": "余七",
+        "uri": "http://data.library.sh.cn/authority/name/ovij8dmrms1agrcl",
+        "noteOfSource": ";《杂文》;"
+      },
+      {
+        "nameType": "笔名",
+        "label": "巴比",
+        "uri": "http://data.library.sh.cn/authority/name/hogrbte1r8k058c3",
+        "noteOfSource": ";《笔阵》;1939"
+      },
+      {
+        "nameType": "笔名",
+        "label": "比金",
+        "uri": "http://data.library.sh.cn/authority/name/tptli5utsr883gu1",
+        "noteOfSource": ";《文学》;1934"
+      },
+      {
+        "nameType": "笔名",
+        "label": "佩竿",
+        "uri": "http://data.library.sh.cn/authority/name/st1gmlfhdiwqsowa",
+        "noteOfSource": ";《孤吟》诗刊;1923"
+      },
+      {
+        "nameType": "笔名",
+        "label": "春风",
+        "uri": "http://data.library.sh.cn/authority/name/nmlqrpqu50lrlcn3",
+        "noteOfSource": ";美国《平等》月刊;1929"
+      },
+      {
+        "nameType": "笔名",
+        "label": "一切",
+        "uri": "http://data.library.sh.cn/authority/name/a7x26onus1fgyoc5",
+        "noteOfSource": ";《开明》;1929.2"
+      },
+      {
+        "nameType": "笔名",
+        "label": "马拉",
+        "uri": "http://data.library.sh.cn/authority/name/2uhc48rw6jpnank4",
+        "noteOfSource": ";《自由月刊》;1929"
+      },
+      {
+        "nameType": "笔名",
+        "label": "马琴",
+        "uri": "http://data.library.sh.cn/authority/name/chdwloiohbnnz6oj",
+        "noteOfSource": ";《中学生》;1934"
+      },
+      {
+        "nameType": "笔名",
+        "label": "王平",
+        "uri": "http://data.library.sh.cn/authority/name/q2blibvm7d1eekon",
+        "noteOfSource": ";美国《到自由之路》杂志;1928.1"
+      },
+      {
+        "nameType": "笔名",
+        "label": "李一切",
+        "uri": "http://data.library.sh.cn/authority/name/avuzy2ard1ekyd3s",
+        "noteOfSource": ";《时代前》;1931"
+      },
+      {
+        "nameType": "笔名",
+        "label": "李冷",
+        "uri": "http://data.library.sh.cn/authority/name/gscy0hu06icmy6y7",
+        "noteOfSource": ";美国《平等》月刊;1928.3"
+      },
+      {
+        "nameType": "笔名",
+        "label": "极乐",
+        "uri": "http://data.library.sh.cn/authority/name/ti10xcepk14vsoks",
+        "noteOfSource": ";《国风日报学汇》;1925.2"
+      },
+      {
+        "nameType": "笔名",
+        "label": "金",
+        "uri": "http://data.library.sh.cn/authority/name/rr7rvb15cj4dute8",
+        "noteOfSource": ";《戏剧岗位》;1939"
+      },
+      {
+        "nameType": "笔名",
+        "label": "黑浪",
+        "uri": "http://data.library.sh.cn/authority/name/442de7v00aqyrvmi",
+        "noteOfSource": "美国《平等》月刊;1927.8"
+      },
+      {
+        "nameType": "笔名",
+        "label": "竟容",
+        "uri": "http://data.library.sh.cn/authority/name/2ob6dt4nrc4f7jop",
+        "noteOfSource": ";《文学季刊》;1934"
+      },
+      {
+        "nameType": "笔名",
+        "label": "鸣希",
+        "uri": "http://data.library.sh.cn/authority/name/8tus2b6nqv53itv4",
+        "noteOfSource": ";美国三藩《平等》;1928"
+      },
+      {
+        "nameType": "笔名",
+        "label": "Ba Kin",
+        "uri": "http://data.library.sh.cn/authority/name/bl1afxj04b5lld3a",
+        "noteOfSource": ";《绿光》;1928"
+      },
+      {
+        "nameType": "笔名",
+        "label": "B.B",
+        "uri": "http://data.library.sh.cn/authority/name/fd3skfeilxepcvd2",
+        "noteOfSource": "《开明》;1929.9"
+      },
+      {
+        "nameType": "笔名",
+        "label": "P.K",
+        "uri": "http://data.library.sh.cn/authority/name/wt0gdbqajwqp6hoc",
+        "noteOfSource": "《自由月刊》;1929.2"
+      },
+      {
+        "nameType": "笔名",
+        "label": "Li Fei-Kan",
+        "uri": "http://data.library.sh.cn/authority/name/vc5r1zygzd7fukbt",
+        "noteOfSource": ";英文《到自由之路》;1928.1"
+      },
+      {
+        "nameType": "规范名",
+        "label": "巴金",
+        "uri": "http://data.library.sh.cn/authority/name/vbscv2jwtoza3bmg",
+        "noteOfSource": "《小说月报》1928,1929"
+      }
+    ],
+    "relatedOrganization": [
+      "上海作协",
+      "中国国务院",
+      "上海市文学艺术界联合会",
+      "中国政协",
+      "中华全国文学艺术界联合会"
+    ],
+    "nativePlace": "四川",
+    "chs_name": "巴金",
+    "briefBiography": [
+      "巴金（1904年11月25日—2005年10月17日），四川成都人，祖籍浙江嘉兴。原名李尧棠，另有笔名佩竿、极乐、黑浪、春风等，字芾甘，中国作家、翻译家、社会活动家、无党派爱国民主人士。巴金1904年11月生在四川成都一个封建官僚家庭里，五四运动后，巴金深受新潮思想的影响，并在这种思想的影响下开始了他个人的反封建斗争。1923年巴金离家赴上海、南京等地求学。1927年1月，赴法国巴黎求学。在法期间，一方面大量阅读西方哲学和文学作品；另一方面，时时关心着中国，开始写作《灭亡》。1928年12月，回到上海从此开始了他长达半个世纪的文学创作生涯。巴金创作热情高涨，1931年4月，长篇小说《激流》开始在上海《时报》连载，随后他又创作并发表了“激流三部曲”《家》《春》《秋》、《爱情的三部曲》（《雾》、《雨》、《电》）等一系列脍炙人口的作品。1944年，已经40岁的巴金才在桂林花溪与读者萧珊在恋爱七年后结婚，两人的婚礼极其简朴，没有任何仪式只有一桌宴席。1944年，巴金以在重庆的经历为背景开始创作长篇小说《寒夜》。参与主编《文化生活丛刊》、《文学季刊》、《文艺月报》等。1957年，创刊《收获》。1982年，被授予意大利“但丁国际奖”；1983年，荣获法国“荣誉军团勋章”；1990年，前苏联授予他“人民友谊勋章”。新中国成立后，曾先后担任中华全国文学艺术界联合会常务委员、上海市文学艺术界联合会副主席、上海作协主席、中国作家主席、中国政协副主席等职务。巴金在文革后撰写的《随想录》，内容朴实、感情真挚，充满着作者的忏悔和自省，巴金因此被誉为“二十世纪中国文学的良心”。2003年11月，中国国务院授予巴金“人民作家”称号。2005年10月17日在上海逝世，享年101岁。"
+    ],
+    "spouseOf": [
+      {
+        "relationType": "妻",
+        "name": "萧珊",
+        "uri": "http://data.library.sh.cn/entity/person/rlw3ouaz2r6juixn"
+      }
+    ],
+    "hasFile": "1"
+  }
+}

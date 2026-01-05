@@ -1,0 +1,18 @@
+{
+  "state": 0,
+  "msg": null,
+  "data": [
+    {
+      "id": 303,
+      "title": "爱的教育",
+      "dbname": "mgts",
+      "items": [
+        {
+          "id": 96,
+          "value": "00240247"
+        }
+      ]
+    }
+  ],
+  "total": 25
+}

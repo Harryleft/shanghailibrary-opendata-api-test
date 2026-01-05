@@ -1,0 +1,52 @@
+{
+  "result": "0",
+  "data": [
+    {
+      "name": "银色列车",
+      "yname": [
+        {
+          "nameType": "副刊名",
+          "label": "群众小说画报"
+        }
+      ],
+      "description": "月刊。20开本。1935年1月创刊于上海。同年5月出至第四期后停刊。丁丁（丁嘉树）主编。上海华报社出版。撰稿人有凌鹤、梅熹、郭柏霖、秦人等。<br/>该刊寄生于《群众小说画报》内，封面署《群众小说画报》，封底则写《银色列车》，后者篇幅约占全刊三分之一左右。编者认为：“银色列车的文字也毫无主见，理论也好，批评也好，吹，捧，骂，……的文字一样都登，因为社会现象正是这么着。”（编者《告白》，第二期）杂志内容以电影时评为主，重要文章有鲁思的《怎样克服电影批评上底形式与内容的分离论》、柯萍《从谈瑛底青春说起》、曹聚仁《谈小品电影》。其他文章有《对于电影批评的希望》、《中国女明星批判集》、《邬丽珠在南国》、《影片时事杂感》、《推进电影教育》等。杂志少量刊登中外影坛新闻，翻译了一些国外的报道，如《丽琳哈惠别好莱坞自白》、《苏联电影史一瞥》；报道联美摄制《复活》一片的消息。第三期推出《悼阮专刊》以纪念自杀身亡的影星阮玲玉，刊登了她绝笔的影印件以及由她主演的影片的名称连缀而成的《哀阮玲玉》一文。此外，杂志第一期刊登曹雪松的电影小说《船娘》，自第二期起连载左明编剧的影片《难姊难妹》剧本。",
+      "title": "银色列车",
+      "uri": "http://data.library.sh.cn/dy/resource/magazine/37ajafgt453gvsx3",
+      "temporal": [
+        {
+          "end": "1935-05-01",
+          "begin": "1935-01-01"
+        }
+      ],
+      "frequency": "月刊"
+    },
+    {
+      "picture": [
+        {
+          "date": "1935-01-01",
+          "image": "http://data.library.sh.cn/dy/resource/image/uioflroixw5k4c3m",
+          "imgPath": "https://img.library.sh.cn/dy/img/uioflroixw5k4c3m.jpg",
+          "format": "jpg",
+          "source": "《银色列车》（1）",
+          "type": "内页"
+        },
+        {
+          "date": "1935-01-01",
+          "image": "http://data.library.sh.cn/dy/resource/image/hsdsolwywz85f7so",
+          "imgPath": "https://img.library.sh.cn/dy/img/hsdsolwywz85f7so.jpg",
+          "format": "jpg",
+          "source": "《银色列车》（1）",
+          "type": "封面"
+        },
+        {
+          "date": "1935-03-01",
+          "image": "http://data.library.sh.cn/dy/resource/image/tsutnd85zfoz6n6w",
+          "imgPath": "https://img.library.sh.cn/dy/img/tsutnd85zfoz6n6w.jpg",
+          "format": "jpg",
+          "source": "《银色列车》（2）",
+          "type": "封面"
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,37 @@
+{
+  "result": "0",
+  "data": [
+    {
+      "hasWork": {
+        "creator": [
+          {
+            "uri": "http://data.library.sh.cn/entity/person/hybyl6u2mq8qy3lr",
+            "label": "徐眾"
+          }
+        ],
+        "title": "三國評",
+        "uri": "http://data.library.sh.cn/gj/resource/work/gtuh0p6e313xqz4s"
+      },
+      "identifier": "776",
+      "source": {
+        "title": "舊唐書經籍志",
+        "uri": "http://data.library.sh.cn/gj/resource/work/cy8pv1o4jyrdsrbp"
+      },
+      "uri": "http://data.library.sh.cn/gj/resource/annotation/iwc62q1sb6ch3q8w",
+      "hasBody": "《三国评》三卷 徐众撰。"
+    }
+  ],
+  "pager": {
+    "iflimit": "",
+    "pageCount": 1,
+    "startIndex": 0,
+    "pageth": 1,
+    "pageSize": 10,
+    "pageths": [
+      1
+    ],
+    "rowCount": 1,
+    "sort": "insertTime",
+    "dir": "desc"
+  }
+}

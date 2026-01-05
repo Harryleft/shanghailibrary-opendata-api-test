@@ -1,0 +1,50 @@
+{
+  "result": "0",
+  "data": [
+    {
+      "nameE": "Shanghai Grand Theatre",
+      "nameT": "上海大戲院",
+      "nameS": "上海大戏院",
+      "orgName": "",
+      "des": "上海大戏院位于复兴中路1186号，始建于1942年，由外侨集资建成，初名银光大戏院，1943年正式营业，更名为上海大戏院，首演剧目为汪宗耀编剧、洪谟等联合导演、孙景路领衔主演的喜剧《女人》。大戏院初期专演艺华剧团的话剧。“艺华”的主要演员孙景路、上官云珠、蒋天流、吴洋等，都曾在此登台献艺，“艺华”的经典剧目有《女人》、《大鹏山》、《多天宝鉴》等。1943年10月9日，为庆祝“双十”佳节，大戏院隆重献演由戴旭导演的曹禺的话剧《原野》，轰动一时，好评如潮，主演孙景路的精湛演技令人折服。但大戏院后因经营不善，于1944年2月24日，演完话剧《陈白露》《正在想》后，停演话剧开始改映电影。1944年3月18日，上海大戏院经改装后重新营业，首映中华电影联合股份有限公司出品的由韩兰根、殷秀岑等主演的滑稽新片《步步高升》。1956年大戏院由市文化局代管，更名为上海电影院，1958年收归国有。1973年，影院改装了宽银幕，并新建了冷气机房。1990年改装了四声道音响系统，换装了756只航空式高靠背沙发软席座椅。2011年电影院终因年久失修，存在安全消防隐患而停止营业。2017年3月历时三年的装修改造，大戏院面貌一新，并重新更名为上海大戏院。改造后的大戏院犹如一块悬浮在地面上的巨石，除地上一层外，其余楼层皆用石材包裹，表面放弃开口，以凸显向内天光。改建后的上海大戏院建筑还入围了2017 WAF世界建筑节大奖。",
+      "person": "http://data.library.sh.cn/entity/person/1j7r8o0mietsxb4z;http://data.library.sh.cn/entity/person/d51yao0httyo1por;http://data.library.sh.cn/entity/person/izveq100vk3vizyu;http://data.library.sh.cn/entity/person/zh3bs7vobinr5h6r",
+      "bUri": "http://data.library.sh.cn/entity/architecture/axebch2ww8etit24",
+      "nameOtherUri": "http://data.library.sh.cn/authority/name/0hq41myisa6gkewb;http://data.library.sh.cn/authority/name/ciykwvlpooa0yn5s",
+      "dramaName": "http://data.library.sh.cn/dy/resource/drama/gtrtxwesc3u5dqyf~陈白露;http://data.library.sh.cn/dy/resource/drama/pxzaqypezn1jh7yr~女人;http://data.library.sh.cn/dy/resource/drama/r128m12qidj1nb24~原野",
+      "nameOther": "上海电影院（1956年-2017年）;银光大戏院（1942年）",
+      "uri": "http://data.library.sh.cn/entity/theater/qx1jqmome3n3jmx4",
+      "movieName": "http://data.library.sh.cn/dy/resource/movie/iunwwvcoez2rmj0a~女勇士",
+      "personList": [
+        {
+          "pname": "null",
+          "puri": "http://data.library.sh.cn/entity/person/1j7r8o0mietsxb4z"
+        },
+        {
+          "pname": "null",
+          "puri": "http://data.library.sh.cn/entity/person/d51yao0httyo1por"
+        },
+        {
+          "pname": "null",
+          "puri": "http://data.library.sh.cn/entity/person/izveq100vk3vizyu"
+        },
+        {
+          "pname": "null",
+          "puri": "http://data.library.sh.cn/entity/person/zh3bs7vobinr5h6r"
+        }
+      ]
+    }
+  ],
+  "pager": {
+    "iflimit": "",
+    "startIndex": 0,
+    "pageSize": 10,
+    "sort": "insertTime",
+    "dir": "desc",
+    "pageth": 1,
+    "pageths": [
+      1
+    ],
+    "pageCount": 1,
+    "rowCount": 1
+  }
+}
